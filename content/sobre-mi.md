@@ -9,7 +9,7 @@ title: Sobre mí
 wordpress_id: 1210
 ---
 
-Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y actualmente resido en esta ciudad.
+Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y actualmente resido en Madrid.
 
 Puedes ver en "qué ando metido" actualmente [en este enlace.](http://asiermarques.com/en-que-ando-metido/)
 
