@@ -172,7 +172,7 @@ $sender = $senderFactory->createFromProtocol( 'sms' );
 
 $sender->send( $message );
 
-[/php]
+```
 
 
 
