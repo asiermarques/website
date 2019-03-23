@@ -1,0 +1,88 @@
+---
+author: asier
+comments: true
+date: 2017-01-06 12:21:07+00:00
+layout: post
+link: http://asiermarques.com/2017/respeto/
+slug: respeto
+title: La importancia de respetar a quien comparte
+wordpress_id: 4311
+categories:
+- Eventos
+- Personal
+- '[Pe]n[sa]n[do]'
+---
+
+En las comunidades relacionadas con el mundo del desarrollo de software tenemos una cosa muy buena y es la gente que se anima a compartir su experiencia, lo que ha aprendido e incluso código para que otros desarrolladores puedan aportar valor en su día a día, sin privarse de invertir tiempo con los suyos.
+
+Cuando tratamos con seres humanos siempre hay conflictos, cada comunidad tiene sus puntos de vista, prioridades y temáticas que se consideran más o menos prioritarias e importantes. También hay egos, malentendidos y estos se incrementan gracias a Twitter, que puede llegar a actuar como un auténtico detonador y dispatcher de basura.
+
+Esta semana [Josue Yeray](https://medium.com/@JosueYeray/de-mvps-comunidades-circulos-y-otras-bestias-96258240a4f7#.5noaer295) ha compartido las causas de su burnout como ponente y aunque habla de las comunidades .net, he visto cosas parecidas en otras de otras tecnologías e incluso fuera del sector, en sectores que no tienen nada que ver, como el de la traducción.
+
+Yo mismo he sufrido este burnout. Creo que lo más lamentable que he sufrido fue cuando el años pasado otro ponente apoyó su charla en criticar a la mía en el mismo evento. No me importan los chascarrillos o incluso los hachazos, pero no los tolero cuando van con el objetivo de pisar al otro. No necesito esto. No estoy en un evento ni quiero crear comunidad para esto.
+
+Esta experiencia y otras me hicieron reflexionar y pensar si tenía sentido el participar en este tipo de eventos en los que parece que estamos perdiendo la perspectiva de compartir para en su lugar, tratar de competir por lo que sea.
+
+
+### Lo importante es compartir
+
+
+¿Por qué compartimos? No creo que haya una única razón. En ocasiones he escuchado que es porque tenemos ego y en algunos casos, es un motivante real que hay que gestionar en la comunidad. Pero creo que aunque en esos casos ese sea el motivante inicial, poco a poco te das cuenta que tienes más que callar que hablar. Y te das cuenta porque conoces a gente, gente que nunca ha dado una charla que te enseña más con una cerveza en la mano que en toda una conferencia.
+
+En serio, he compartido cervezas* post-evento que me han llevado después a búsquedas de Google que me han tenido leyendo durante horas, invirtiendo unos euros en la Kindle Store, LeanPub o en [Safari Books Online](https://www.safaribooksonline.com/), para crecer un poco más como desarrollador de software. Y lo más importante, he conocido a personas geniales.
+
+Por lo que los ponentes, hablo por mí al menos, creo que con el tiempo tendemos cada vez más a dejar la idea clave que genere debate en las preguntas o cañas de después. Más que nada porque todo el mundo tiene algo que aportar y el ponente también puede recibir valor en el evento.
+
+En los eventos no se comparte solo en las charlas. Las charlas siempre son la excusa para ir y conocer a un montón de gente interesante.
+
+
+### Valorar lo que se expone y a quien expone
+
+
+Cuando organizas eventos de comunidad, sobre todo si son constantes, te das cuenta de la importancia de contar con gente que se anime a dar charlas.
+
+Muchas veces son los organizadores los que repetidamente dan charlas porque en su comunidad no surgen voluntarios.
+
+Por eso para mí, independientemente del nivel de la charla, alguien que se sube al escenario para hablar a 10, 300, 1000 personas, tiene mi respeto.
+
+A menos que te dediques a dar charlas, impartir una ponencia supone encontrar espacio de tiempo para preparar el tema: recopilar mentalmente tus conocimientos y experiencia sobre el tema, estructurarlo para exponerlo sin aburrir en el tiempo que tienes, buscar información y recursos que complementen a aporten valor en los slides y por supuesto, ensayarla una y otra vez para asegurarte de que transmites bien la idea sin pasarte de tiempo.
+
+Todo esto se complica porque tienes trabajo y una vida a la que atender. Al margen de tus deadlines, entregas, marrones de tu día a día, tienes en mente la charla que debes dar y hasta que no la das, estás con ella en la cabeza, por muchas tablas que tengas.
+
+Por todo esto, creo que alguien que tome la iniciativa y se anime a compartir, debe ser respetado y valorado. Sobre todo si es constante, la constancia es oro.
+
+
+### Tú también puedes exponer
+
+
+Como he comentado antes, suele pasar que a veces el motivante de querer dar una charla sea el ego. Esto genera conflictos o frustración entre miembros de la comunidad que quieren visibilidad en eventos grandes.
+
+A veces esto va relacionado con la expectativa de hacer marca personal o currículum a base de dar charlas. Esto pasa mucho sobre todo en temáticas de moda o que tienen más tracción.
+
+Podemos entrar a debatir si esto es bueno o malo. Sin embargo, aunque el objetivo de un profesional sea <del>faisanear</del> hacer marca personal, si el resultado implica que la comunidad se alimente de su experiencia y conocimiento, para mí no me parece algo malo.
+
+Sí que veo problema cuando esto lleva a criticar o crear mal rollo en la comunidad ante la frustración de no disponer de una oportunidad para hablar.
+
+Pero lo cierto es que hay oportunidad para hacerlo. Como dice Yeray, puedes participar en comunidades que estén deseando que alguien se anime a dar charlas (hay muchas más de las que se cree) e ir cogiendo tracción y soltura.
+
+Si no te identificas con una comunidad en concreto o no conoces ninguna, puedes montar una tú con la gente que conoces. Al final, se trata de [crear un movimiento](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=es).
+
+También dispones de un canal brutal para empezar: YouTube. En serio, se pueden hacer infinidad de cosas e ir cogiendo tracción.
+
+Pero sobre todo creo que lo importante es conocer a gente de fuera de tu círculo y descubrir que lo importante, al margen de marcas, es compartir y crecer en conjunto.
+
+*Nota: con respecto a las cervezas en los eventos, no me refiero a tener que beber únicamente alcohol. A mí me encanta la cerveza y creo que es algo común a muchos desarrolladores, pero no es exclusivamente a lo que me refiero. Es interesante leer el [artículo de Pablo Godel sobre el alcohol en conferencias](https://www.pablogodel.com/2014/11/11/lets-stop-creating-alcoholics-in-php/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+

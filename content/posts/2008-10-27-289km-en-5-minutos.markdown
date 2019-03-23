@@ -1,0 +1,18 @@
+---
+author: asier
+comments: true
+date: 2008-10-27 12:02:55+00:00
+layout: post
+link: http://asiermarques.com/2008/289km-en-5-minutos/
+slug: 289km-en-5-minutos
+title: 289km en 5 minutos
+wordpress_id: 844
+categories:
+- Off Topic
+- Personal
+---
+
+Agunos ya sabréis, por [un antecedente que tengo en este sitio](http://asiermarques.com/2008/08/26/desde-los-angeles-a-new-york-pasando-por-new-mexico-en-4-minutos/), que me encantan los vídeos de viajes en carretera rodados a cámara rápida.
+
+Por eso ha sido una sorpresa encontrarme el siguiente de vídeo de [Rubén](http://www.rubenx.net/), creador de [Lost In Bilbao](http://lostinbilbao.tv) (entre [otras cosas](http://www.factorianorte.com/)), en el que hace un recorrido de 289km [desde León a Bilbao ](http://maps.google.es/maps?f=d&saddr=prioro,leon&daddr=bilbao&hl=es&geocode=&mra=ls&sll=40.470382,-3.668756&sspn=0.01208,0.027895&g=Calle+de+Baus%C3%A1,+28033+Madrid&ie=UTF8&ll=45.274886,3.867188&spn=22.883479,57.128906&z=5)y nos lo muestra en 5 minutos.
+
