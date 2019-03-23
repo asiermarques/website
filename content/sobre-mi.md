@@ -23,7 +23,9 @@ En Octubre de 2011 fundo **[Simettric](http://simettric.com)**, una agencia de 
 
 En Febrero de 2012 me uno al equipo de dirección de 4Visions Gestió de Projectes, SL, empresa en la que desarrollamos soluciones de software online para freelances y agencias del sector de la traducción, [4visionshq.com](http://4visionshq.com).
 
-Actualmente trabajo como responsable en el área de arquitectura de software en el [Grupo Versia](https://www.versia.com/). Principalmente me ocupo de diseñar junto a mi equipo la base de arquitectura de software, los procesos y formas de trabajar de la empresa junto a los mecanismos para entregar los productos de forma eficiente asegurando la calidad.
+En 2018 trabajé como responsable en el área de arquitectura de software en el [Grupo Versia](https://www.versia.com/). 
+
+Actualmente trabajo en [Packlink Shipping](https://www.packlink.com/) con los roles de Engineering Manager y Software developer (Backend).
 
 Diseñar y ejecutar productos más que una pasión es lo que me hace feliz. Estoy siempre dispuesto a quedar para tomar un café y estudiar cómo rentabilizar o enfocar un proyecto. Esta es una de las razones por las que formo parte de la organización[ ElComité](http://elcomite.bio), una iniciativa para personas que tienen esa misma inquietud en Bilbao y alrededores.
 
@@ -38,7 +40,7 @@ Si quieres, puedes contactar conmigo por:
 
 
  	
-  1. Email, GTalk: asiermarques [at] gmail.com
+  1. Email: asiermarques [at] gmail.com
 
  	
   2. Twitter: [twitter.com/asiermarques](http://twitter.com/asiermarques)
