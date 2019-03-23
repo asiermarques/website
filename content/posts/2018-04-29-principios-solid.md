@@ -238,7 +238,7 @@ class SenderFactory implements SenderFactoryInterface {
 
 }
 
-[/php]
+```
 
 En este ejemplo vemos que hay una condición interna en el método createFromProtocol que decide si funcionar o no con un tipo de protocolo. Esto viola el principio de sustitución de Liscov ya que otra clase que implemente SenderFactoryInterface no tiene por qué contemplar esa condición y esto puede derivar en inestabilidad del sistema al cambiar de SenderFactory.
 
