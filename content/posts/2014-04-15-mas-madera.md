@@ -11,7 +11,7 @@ tags:
 description: "Desde que tengo memoria no me han faltado ocasiones de conocer a un montón de personas que no han dudado en expresar lo equivocado que estaba al elegir un camino en lugar de otro."
 ---
 
-![](https://farm8.staticflickr.com/7318/9050197634_24e01900e0_z.jpg)
+![](httpss://farm8.staticflickr.com/7318/9050197634_24e01900e0_z.jpg)
 
 Últimamente estoy reflexionando mucho sobre el tipo de proyectos y productos que ideo y desarrollo junto a mis colaboradores en [Simettric](http://simettric.com).
 

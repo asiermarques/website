@@ -11,7 +11,7 @@ description: "Últimamente he reflexionado mucho sobre el uso que se le daba hac
 ---
 
 
-[![](http://farm1.staticflickr.com/44/182613360_6d76db726a.jpg)](http://www.flickr.com/photos/jackdorsey/182613360) Boceto inicial de Twitter, por JackDorsey (@jack)
+[![](https://farm1.staticflickr.com/44/182613360_6d76db726a.jpg)](http://www.flickr.com/photos/jackdorsey/182613360) Boceto inicial de Twitter, por JackDorsey (@jack)
 
 **Soy usuario de [Twitter](http://twitter.com) desde el 2007.** Últimamente he reflexionado mucho sobre el uso que se le daba hace seis años a esa herramienta y el que se le da ahora.
 

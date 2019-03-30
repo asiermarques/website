@@ -20,7 +20,7 @@ Por suerte, [existe un invento](http://fsam7440.sourceforge.net/es/index2.html) 
 
 El archivo que hay que modificar es el fsam7440.c, lo cambios son los siguientes:
 
-[c]
+```
 
 //línea 40: cambiar  #include <linux/autoconf.h> por
 
@@ -34,14 +34,14 @@ remove_proc_entry(DRV_NAME, NULL);
 
 dir_base = create_proc_entry(DRV_NAME, S_IFDIR, NULL);
 
-[/c]
+```
 
 Una vez hemos estos cambios, se compila con un make y make install.
 
 Para encender el "botón" del wifi basta ahora con llamar a este comando
 
-[bash]
+```
 
 sudo modprobe fsam7440
 
-[/bash]
+```

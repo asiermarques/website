@@ -17,7 +17,7 @@ Para los que no lo sepáis, [el comité](http://elcomite.net) (antes llamado web
 
 Fue en el 2011 cuando empezamos a organizar un evento periódico llamado webdevbilbao el último jueves de cada mes que tras un año de actividad decidimos cambiar el nombre a El Comité, con el objetivo de que sonase menos a programación y más a hablar de tecnología en general y crear cosas en torno a Internet.
 
-![](http://farm8.staticflickr.com/7182/6941823356_efc1906418_z.jpg)
+![](https://farm8.staticflickr.com/7182/6941823356_efc1906418_z.jpg)
 
 Hemos probado muchas fórmulas para ofrecer un punto de reunión profesional para profesionales del sector. A diferencia de otros eventos, no incluíamos marcas de empresas y el objetivo principal era crear mercado real, de empresas, autónomos y profesionales que se dedicasen a desarrollar proyectos para Internet, que los hay y de gran nivel en Bilbao.
 

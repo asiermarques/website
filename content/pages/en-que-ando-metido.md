@@ -11,7 +11,7 @@ El objetivo de esta lista es mostrar un resumen de cosas en las que actualmente 
  	
   1. Trabajando en [Packlink Shipping](http://packlink.com) y disfrutando del genial equipo que tenemos y su cultura.
 
-  2. Organizando talleres, eventos y otras iniciativas de forma constante junto a [Fran](https://twitter.com/fran_mosteiro/) y [Diego](https://twitter.com/arketipo) en la asociación [elComité](http://elcomite.bio) para generar una cultura de creación de proyectos tecnológicos y de otras artes en Bilbao.
+  2. Organizando talleres, eventos y otras iniciativas de forma constante junto a [Fran](https://twitter.com/fran_mosteiro/) y [Diego](https://twitter.com/arketipo) en la asociación [elComité](http://elcomite.net) para generar una cultura de creación de proyectos tecnológicos y de otras artes en Bilbao.
 
   3. Aprendiendo diseño de interfaz en ratos libres.
 

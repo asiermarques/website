@@ -35,7 +35,7 @@ Esto fuerza a que las empresas españolas deban espabilar para conseguir y reten
 
 Sin embargo también veo más postureo de buenrollismo y charlas orientadas a currículum. Me faltan charlas fuera de palabras clave actuales, más relacionadas con producto desde la experiencia real, refactoring de proyectos legacy críticos... y también me falta escuchar a más personas que normalmente no suelen estar tanto en el radar.
 
-Y en este sentido, esperamos también aportar desde [elComité](http://elcomite.bio) nuestro granito de arena. Desde hace un año estamos trabajando en este sentido y nos gusta también hacerlo en compañía de otras comunidades, fuera incluso de Euskadi.
+Y en este sentido, esperamos también aportar desde [elComité](http://elcomite.net) nuestro granito de arena. Desde hace un año estamos trabajando en este sentido y nos gusta también hacerlo en compañía de otras comunidades, fuera incluso de Euskadi.
 
 De momento, esto es todo. Llevaba tiempo sin escribir en el blog, en parte por la duda de si este tipo de entradas aportan valor. 
 

@@ -15,7 +15,7 @@ description: "La comunidad de The Mêlée suele estar presente en algunas inicia
 
 La comunidad de [The Mêlée ](http://themelee.org/)suele estar presente en algunas iniciativas que hacemos desde [El Comité](http://elcomite.org) por eso me hizo mucha ilusión que me invitasen a dar una charla cuando comenté en Twitter que me apetecía visitar su hermosa ciudad, [San Sebastián](http://es.wikipedia.org/wiki/San_Sebasti%C3%A1n).
 
-![](https://farm3.staticflickr.com/2581/4113722494_2862c58373_z.jpg)
+![](httpss://farm3.staticflickr.com/2581/4113722494_2862c58373_z.jpg)
 
 Mi charla no va a ser sobre programación, al menos no directamente, sino sobre lo que he aprendido y creo que es relevante para crear un negocio o trabajar de forma libre desarrollando software para servicios de Internet con el objetivo de conseguir independencia económica/calidad de vida.
 

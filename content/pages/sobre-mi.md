@@ -22,7 +22,7 @@ En 2018 trabajé como responsable en el área de arquitectura de software en el 
 
 Actualmente trabajo en [Packlink Shipping](https://www.packlink.com/) con los roles de Engineering Manager y Software developer (Backend).
 
-Diseñar y ejecutar productos más que una pasión es lo que me hace feliz. Estoy siempre dispuesto a quedar para tomar un café y estudiar cómo rentabilizar o enfocar un proyecto. Esta es una de las razones por las que formo parte de la organización[ ElComité](http://elcomite.bio), una iniciativa para personas que tienen esa misma inquietud en Bilbao y alrededores.
+Diseñar y ejecutar productos más que una pasión es lo que me hace feliz. Estoy siempre dispuesto a quedar para tomar un café y estudiar cómo rentabilizar o enfocar un proyecto. Esta es una de las razones por las que formo parte de la organización[ ElComité](http://elcomite.net), una iniciativa para personas que tienen esa misma inquietud en Bilbao y alrededores.
 
 Soy formador y [ponente](http://es.slideshare.net/asiermarques), impartiendo charlas y cursos sobre tecnología, Internet y negocios.
 
