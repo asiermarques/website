@@ -1,14 +1,13 @@
 ---
-author: asier
-comments: true
 date: 2012-06-20 23:48:32+00:00
 layout: post
-link: http://asiermarques.com/2012/historia-de-dos-charlas/
-slug: historia-de-dos-charlas
+slug: /2012/historia-de-dos-charlas/
 title: Historia de dos charlas
-wordpress_id: 2547
-categories:
-- Personal
+template: post
+tags:
+  - Personal
+category: Personal
+draft: false
 ---
 
 Quería compartir con vosotros una experiencia que he tenido recientemente, algo que he aprendido a fuego, a pesar de que conocía la teoría al dedillo.

@@ -16,7 +16,7 @@ Hace cuatro meses me establecí en [Cihuri](https://es.wikipedia.org/wiki/Cihuri
 
 Haciendo retrospectiva, básicamente esto cuatro meses han sido de acondicionar mi zona de trabajo, conseguir una buena instalación de fibra en un pueblo de unos 200 habitantes, diseñar los servicios a desarrollar y coordinarme con las personas con las que los estoy llevando a cabo.
 
-En mi mente esperaba tener ya al menos un par de MVPs en el mercado pero la realidad siempre nos termina dando un guantazo que nos estampa contra el suelo. El mayor guantazo ha sido un pequeño susto en uno de mis ojos --por [una cicatriz en la córnea que me acompaña](http://asiermarques.com/2011/cierra-los-ojos/) desde hace algunos años, pero ya estoy totalmente recuperado.
+En mi mente esperaba tener ya al menos un par de MVPs en el mercado pero la realidad siempre nos termina dando un guantazo que nos estampa contra el suelo. El mayor guantazo ha sido un pequeño susto en uno de mis ojos --por [una cicatriz en la córnea que me acompaña](/2011/cierra-los-ojos/) desde hace algunos años, pero ya estoy totalmente recuperado.
 
 En estos momentos no me motiva la idea de hacer crecer una agencia que ofrezca únicamente servicios de desarrollo de software a clientes, como otra más. Esto me ha llevado a parar la entrada de proyectos de clientes durante este periodo.
 

@@ -1,18 +1,17 @@
 ---
-author: asier
-comments: true
 date: 2009-12-18 02:40:37+00:00
 layout: post
-link: http://asiermarques.com/2009/repaso-de-objetivos-para-este-2009/
-slug: repaso-de-objetivos-para-este-2009
+slug: /2009/repaso-de-objetivos-para-este-2009/
 title: Repaso de objetivos para este 2009
-wordpress_id: 1249
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Personal
+draft: false
 ---
 
-El 26 de Diciembre del año pasado [me plantee una serie de objetivos](http://asiermarques.com/2008/12/26/mis-objetivos-para-el-proximo-2009/), que voy a repasar en las siguientes líneas.
+El 26 de Diciembre del año pasado [me plantee una serie de objetivos](/2008/12/26/mis-objetivos-para-el-proximo-2009/), que voy a repasar en las siguientes líneas.
 
 **Crear una empresa, mi segundo intento [CONSEGUIDO]
 **

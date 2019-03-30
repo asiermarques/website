@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-03-14 17:26:30+00:00
 layout: post
-link: http://asiermarques.com/2008/hacer-un-buen-brainstorming/
-slug: hacer-un-buen-brainstorming
+slug: /2008/hacer-un-buen-brainstorming/
 title: Hacer un buen brainstorming
-wordpress_id: 474
-categories:
-- Innovación
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Innovación
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Innovación
+draft: false
 ---
 
 Actualmente para poder diferenciarte a la hora de ofrecer un servicio **debes innovar**. Ésto en algunos campos como en el desarrollo web es una obligación, especialmente si quieres desarrollar un proyecto personal que resulte interesante.
@@ -25,7 +24,7 @@ A menudo **la dificultad radica** en que siempre **buscamos información en las 
 
 También **un error muy grave es obligar** a nuestro equipo a hacer brainstorming. Ésto es especialmente importante ya que **alguien no puede ser nunca igual de creativo si se siente obligado a ello, en lugar de si se siente motivado**. En algunas empresas se confunde el término obligar con motivar.
 
-Hay algunas técnicas que pueden dar un excelente resultado, cómo la propuesta por [Edward de Bono](http://www.edwarddebono.com/es/) y sus [6 sombreros para pensar](http://www.asiermarques.com/2007/08/27/los-6-sombreros-para-pensar-de-edward-de-bono/).
+Hay algunas técnicas que pueden dar un excelente resultado, cómo la propuesta por [Edward de Bono](http://www.edwarddebono.com/es/) y sus [6 sombreros para pensar](/2007/08/27/los-6-sombreros-para-pensar-de-edward-de-bono/).
 
 Por otro lado, en algunas empresas [como Dell](http://ideastorm.com/), se considera el **[crowdsourcing](http://es.wikipedia.org/wiki/Crowdsourcing)** como estrategia **clave para obtener una fuente de ideas**, que posteriormente pueden transformarse en características muy interesantes en sus productos, que el usuario valora y **que dichas empresas nunca podrían haber detectado** con tanta precisión por ellas mismas.
 

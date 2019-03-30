@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2009-12-24 16:03:05+00:00
 layout: post
-link: http://asiermarques.com/2009/mis-objetivos-para-este-2010/
-slug: mis-objetivos-para-este-2010
+slug: /2009/mis-objetivos-para-este-2010/
 title: Mis objetivos para este 2010
-wordpress_id: 1274
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
 Soy un persona a la que le gusta definirse metas, por imposibles o absurdas que parezcan. Soy de la opinión de que una meta sólo puede ser considerada absurda por una persona que no quiere ser feliz. Para mí la ilusión de intentarlo es más valiosa y didáctica que el hecho final de alcanzar tus objetivos.

@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2007-08-26 22:33:13+00:00
 layout: post
-link: http://asiermarques.com/2007/los-6-sombreros-para-pensar-de-edward-de-bono/
-slug: los-6-sombreros-para-pensar-de-edward-de-bono
+slug: /2007/los-6-sombreros-para-pensar-de-edward-de-bono/
 title: Los 6 sombreros para pensar de Edward de Bono
-wordpress_id: 290
-categories:
-- Diario
-- Libros
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Diario
+  - Libros
+  - '[Pe]n[sa]n[do]'
+category: Diario
+draft: false
 ---
 
 Acabo de llegar de un fin de semana muy completo en Zamora (con una agradable tarde de sábado en Salamanca :)) y he visto el [post sobre Brainstorming](http://www.carlosmantero.com/la-importancia-del-brainstorming/) que ha publicado en su blog [Carlos Mantero](http://www.carlosmantero.com/acerca-de/). Al leerlo me ha venido a la memoria una técnica de pensamiento en grupo para tomar decisiones, crear estrategias y evaluar ideas junto a su futura implementación, que viene recogida en el libro ["6 sombreros para pensar"](http://casadellibro.com/fichas/fichabiblio/0,,2900000482900,00.html?codigo=2900000482900&nombre=SEIS%20SOMBREROS%20PARA%20PENSAR%3A%20UNA%20GUIA%20DE%20PENSAMIENTO%20PARA%20GENTE%20DE%20ACCION) de [Edward de Bono](http://es.wikipedia.org/wiki/Edward_De_Bono), el cual me recomendó hace algún tiempo [Alberto Cuadrado](http://www.blog.albertocuadrado.com/).

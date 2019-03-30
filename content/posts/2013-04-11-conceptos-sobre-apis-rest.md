@@ -61,7 +61,7 @@ Una URL se estructura de la siguiente forma:
     {protocolo}://{dominio o hostname}[:puerto (opcional)]/{ruta del recurso}?{consulta de filtrado}
 
 
-Por ejemplo, [http://asiermarques.com/2013/conceptos-sobre-apis-rest/](http://asiermarques.com/2013/conceptos-sobre-apis-rest/), sería la URL para visualizar este artículo.
+Por ejemplo, [/2013/conceptos-sobre-apis-rest/](/2013/conceptos-sobre-apis-rest/), sería la URL para visualizar este artículo.
 
 Existen varias reglas básicas para ponerle nombre a la URI de un recurso:
 

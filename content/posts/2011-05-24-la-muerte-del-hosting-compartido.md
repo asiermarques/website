@@ -1,18 +1,17 @@
 ---
-author: asier
-comments: true
 date: 2011-05-24 21:03:10+00:00
 layout: post
-link: http://asiermarques.com/2011/la-muerte-del-hosting-compartido/
-slug: la-muerte-del-hosting-compartido
+slug: /2011/la-muerte-del-hosting-compartido/
 title: La muerte del hosting compartido
-wordpress_id: 1745
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
-Hace unos tres años [comentaba que los servicios de hosting necesitaban un cambio](http://asiermarques.com/2008/12/11/hosting-10-para-la-web-20/), adaptarse a las necesidades que en ese momento empezaban a tener los profesionales de la web.
+Hace unos tres años [comentaba que los servicios de hosting necesitaban un cambio](/2008/12/11/hosting-10-para-la-web-20/), adaptarse a las necesidades que en ese momento empezaban a tener los profesionales de la web.
 
 Medio año más tarde fundamos [Blackslot](http://blackslot.com), tratando de aplicar esas diferencias a nuestros servicios.
 

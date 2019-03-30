@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2009-01-19 00:17:33+00:00
 layout: post
-link: http://asiermarques.com/2009/semanas-moviditas/
-slug: semanas-moviditas
+slug: /2009/semanas-moviditas/
 title: Semanas moviditas
-wordpress_id: 1034
-categories:
-- Diario
-- Emprendedores
-- Eventos
-- Personal
+template: post
+tags:
+  - Diario
+  - Emprendedores
+  - Eventos
+  - Personal
+category: Personal
+draft: false
 ---
 
 Desde que empezó el año mi tiempo se ha ido esfumando a una velocidad alarmante. Por suerte, y a pesar de que creo se podría optimizar mejor, creo que está siendo bien invertido.

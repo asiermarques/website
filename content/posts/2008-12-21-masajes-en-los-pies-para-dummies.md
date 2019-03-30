@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2008-12-21 03:23:09+00:00
 layout: post
-link: http://asiermarques.com/2008/masajes-en-los-pies-para-dummies/
-slug: masajes-en-los-pies-para-dummies
+slug: /2008/masajes-en-los-pies-para-dummies/
 title: Masajes en los pies para dummies
-wordpress_id: 952
-categories:
-- Personal
-- Sexo
+template: post
+tags:
+  - Personal
+  - Sexo
+category: Personal
+draft: false
 ---
 
 Ante todo **no me considero un experto en este campo**, este es un intento por reunir algunas cosas que he aprendido practicando y leyendo sobre el tema.

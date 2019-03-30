@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-12-11 21:38:28+00:00
 layout: post
-link: http://asiermarques.com/2008/hosting-10-para-la-web-20/
-slug: hosting-10-para-la-web-20
+slug: /2008/hosting-10-para-la-web-20/
 title: Hosting 1.0 para la web 2.0
-wordpress_id: 942
-categories:
-- Desarrollo Web
-- Internet
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Desarrollo Web
+  - Internet
+  - '[Pe]n[sa]n[do]'
+category: Desarrollo Web
+draft: false
 ---
 
 En internet las cosas han cambiado. Hace años se avecinaba un cambio, una evolución en internet, al que muchos bautizaron con el criticado nombre (con razón) "web 2.0".

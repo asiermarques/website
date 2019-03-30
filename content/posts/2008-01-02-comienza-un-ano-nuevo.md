@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2008-01-02 00:41:21+00:00
 layout: post
-link: http://asiermarques.com/2008/comienza-un-ano-nuevo/
-slug: comienza-un-ano-nuevo
+slug: /2008/comienza-un-ano-nuevo/
 title: Comienza un nuevo año
-wordpress_id: 413
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Personal
+draft: false
 ---
 
 Ante todo con éste post quería desearos un buen año y animaros a conseguir vuestras metas.

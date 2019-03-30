@@ -1,21 +1,20 @@
 ---
-author: asier
-comments: true
 date: 2012-12-09 14:40:08+00:00
 layout: post
-link: http://asiermarques.com/2012/mi-ultimo-ano-y-un-mes/
-slug: mi-ultimo-ano-y-un-mes
+slug: /2012/mi-ultimo-ano-y-un-mes/
 title: Mi último año y un mes
-wordpress_id: 2693
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
-Hacía algún tiempo que no hacía una [recapitulación escrita](http://asiermarques.com/2012/03/15/mis-ultimos-5-meses/) de lo que he hecho en los últimos meses a pesar de que os puedo asegurar que ha sido el año más intenso que recuerdo, de hecho, estos dos últimos años han sido los años que más cosas he aprendido de mí mismo y los últimos cuatro, además de ser en los que más he aprendido en general, han sido en los que más vivo me he sentido con diferencia.
+Hacía algún tiempo que no hacía una [recapitulación escrita](/2012/03/15/mis-ultimos-5-meses/) de lo que he hecho en los últimos meses a pesar de que os puedo asegurar que ha sido el año más intenso que recuerdo, de hecho, estos dos últimos años han sido los años que más cosas he aprendido de mí mismo y los últimos cuatro, además de ser en los que más he aprendido en general, han sido en los que más vivo me he sentido con diferencia.
 
 
-![](http://asiermarques.com/wp-content/uploads/2012/12/cihuri.jpg)
+![](/media//cihuri.jpg)
 
 
 Arranqué en Octubre del año pasado con una decisión bastante dura, que fue abandonar mi anterior empresa [Blackslot](http://blackslot.com), de la cual soy cliente, en la que hicimos cosas tan interesantes como [Artesanio](http://artesanio.com), para crear una **agencia de desarrollo de proyectos para Internet** llamada [**Simettric**](http://simettric.com).

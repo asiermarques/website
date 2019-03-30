@@ -1,16 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2009-06-30 01:43:07+00:00
 layout: post
-link: http://asiermarques.com/2009/conocimientos-tecnicos-hasta-donde-merece-la-pena-llegar/
-slug: conocimientos-tecnicos-hasta-donde-merece-la-pena-llegar
-title: Conocimientos técnicos, ¿hasta dónde merece la pena llegar?
-wordpress_id: 1174
-categories:
-- Diario
-- Personal
-- '[Pe]n[sa]n[do]'
+slug: /2009/conocimientos-tecnicos-hasta-donde-merece-la-pena-llegar/
+title: Conocimientos técnicos, ¿hasta dónde
+  merece la pena llegar?
+template: post
+tags:
+  - Diario
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Diario
+draft: false
 ---
 
 Esta es una pregunta que me llevo haciendo desde hace algunos años y creo que muchas personas, por muy triste que me pueda parecer, ya han puesto respuesta.

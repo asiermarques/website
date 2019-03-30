@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-03-31 20:27:53+00:00
 layout: post
-link: http://asiermarques.com/2008/carlos-sanchez-el-valor-de-las-redes-sociales-en-la-gestion-de-contenidos-web/
-slug: carlos-sanchez-el-valor-de-las-redes-sociales-en-la-gestion-de-contenidos-web
-title: Carlos Sánchez, El valor de las redes sociales en la gestión de contenidos
-  web
-wordpress_id: 471
-categories:
-- Desarrollo Web
-- Internet
+slug: /2008/carlos-sanchez-el-valor-de-las-redes-sociales-en-la-gestion-de-contenidos-web/
+title:
+  - web
+template: post
+tags:
+  - Desarrollo Web
+  - Internet
+category: Desarrollo
+draft: false
 ---
 
 [Carlos Sánchez](http://blog.txarly.com), fundador y director de [nvivo internet](http://nvivo.es) (nvivo.es), hizo algunas semanas una ponencia sobre redes sociales.

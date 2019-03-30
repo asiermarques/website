@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2012-04-18 19:35:56+00:00
 layout: post
-link: http://asiermarques.com/2012/presupuestos/
-slug: presupuestos
+slug: /2012/presupuestos/
 title: Presupuestos
-wordpress_id: 2211
-categories:
-- Marketing
-- Personal
-- Producto
+template: post
+tags:
+  - Marketing
+  - Personal
+  - Producto
+category: Marketing
+draft: false
 ---
 
 Esta semana mi socia [Irene Vidal](http://www.linkedin.com/in/irenevidal) de [4Visions](http://4visionsmanager.com), ha publicado un post sobre **[el trabajo de presupuestar](http://4visionsmanager.com/es/2012/04/17/presupuestos-a-quien-corresponde-hacerlos/)**.
@@ -19,7 +18,7 @@ Irene es una gran profesional del mundo de la traducción y comenta algo a lo qu
 
 Hace tiempo en mi twitter puse lo siguiente
 
-[![](http://asiermarques.com/wp-content/uploads/2012/04/asier_cita1.png)](https://twitter.com/#!/asiermarques/status/152332816577871873)
+[![](/media//asier_cita1.png)](https://twitter.com/#!/asiermarques/status/152332816577871873)
 
 Creo que esto es algo inevitable, hay quien cobra por hacer el presupuesto, pero en servicios fuera de consultoría esto es impracticable y no da buena imagen.
 
@@ -35,7 +34,9 @@ Evidentemente este tipo de clientes no sabe ni de precios, ni que un programador
 
 Me ha llamado la atención este update en twitter de [Marcos Labad](http://www.linkedin.com/in/marcoslabad) de [Acilia](http://acilia.es/), en el que hace un comentario que resume perfectamente este hecho.
 
-[![](http://asiermarques.com/wp-content/uploads/2012/04/marcos_cita1.png)](https://twitter.com/#!/esmiz/status/192561969461604352)
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="es" dir="ltr">&quot;Quiero para ya un presupuesto para hacer edificio, que sea alto&quot;. Cada vez veo más peticiones así aplicadas a software, en pleno sXXI</p>&mdash; Marcos Labad (@esmiz) <a href="https://twitter.com/esmiz/status/192561969461604352?ref_src=twsrc%5Etfw">18 April 2012</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Esta es la razón por la que he empezado a ofrecer mi servicio de diseño de producto en [Simettric](http://simettric.com). Presupuestar o desarrollar un sitio web o un software sin tener claro al detalle qué es lo que se quiere, priorizado y detallado está abocado al fracaso.
 

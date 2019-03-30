@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2007-11-08 02:40:56+00:00
 layout: post
-link: http://asiermarques.com/2007/diario-suenos-online/
-slug: diario-suenos-online
+slug: /2007/diario-suenos-online/
 title: 'Diario: Sueños Online'
-wordpress_id: 357
-categories:
-- Diario
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Diario
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Como no puedo dormir sin decir algunas cosas (a quien quiera que quiera leerlas), he decidido escribir una nueva entrada en el diario.

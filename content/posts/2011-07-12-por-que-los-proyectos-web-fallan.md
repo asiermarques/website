@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2011-07-12 20:50:23+00:00
 layout: post
-link: http://asiermarques.com/2011/por-que-los-proyectos-web-fallan/
-slug: por-que-los-proyectos-web-fallan
+slug: /2011/por-que-los-proyectos-web-fallan/
 title: ¿Por qué los proyectos web fallan?
-wordpress_id: 1851
-categories:
-- Emprendedores
-- Negocios
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Negocios
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 Últimamente he estado recordando aquellos proyectos que he empezado y que nunca han visto la luz o que sí la han visto pero no han pasado de la fase de salida.
@@ -24,7 +23,7 @@ Estos son los 10 motivos que para mí son los más importantes y los que más he
 ### 1. Se desconoce el campo al que se ataca
 
 
-Hace un tiempo escribí sobre la necesidad de[ ser uno mismo el propio usuario](http://asiermarques.com/2009/12/08/tu-tu-propio-usuario/) del servicio. Esto para mí es muy importante. Hay gente que ha conseguido triunfar en un proyecto relacionado con un área que desconocía, pero personalmente creo que es mucho más fácil si uno de los promotores, y desde mi punto de vista **el que debe ser el líder**, conozca las necesidades del usuario de primera mano.
+Hace un tiempo escribí sobre la necesidad de[ ser uno mismo el propio usuario](/2009/12/08/tu-tu-propio-usuario/) del servicio. Esto para mí es muy importante. Hay gente que ha conseguido triunfar en un proyecto relacionado con un área que desconocía, pero personalmente creo que es mucho más fácil si uno de los promotores, y desde mi punto de vista **el que debe ser el líder**, conozca las necesidades del usuario de primera mano.
 
 
 ### 2. Asumir lo que el usuario o consumidor va a necesitar a la hora de priorizar

@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2011-12-11 21:58:12+00:00
 layout: post
-link: http://asiermarques.com/2011/responsables-de-producto-y-su-dominio/
-slug: responsables-de-producto-y-su-dominio
+slug: /2011/responsables-de-producto-y-su-dominio/
 title: Responsables de producto y su dominio
-wordpress_id: 2085
-categories:
-- Citas
-- Marketing
-- Personal
-- Producto
+template: post
+tags:
+  - Citas
+  - Marketing
+  - Personal
+  - Producto
+category: Citas
+draft: false
 ---
 
 "Puede ser peligroso para un responsable de producto tener demasiada experiencia en un dominio concreto.

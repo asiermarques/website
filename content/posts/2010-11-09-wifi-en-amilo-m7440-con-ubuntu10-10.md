@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2010-11-09 01:41:01+00:00
 layout: post
-link: http://asiermarques.com/2010/wifi-en-amilo-m7440-con-ubuntu10-10/
-slug: wifi-en-amilo-m7440-con-ubuntu10-10
+slug: /2010/wifi-en-amilo-m7440-con-ubuntu10-10/
 title: Wifi en Amilo M7440 con Ubuntu10.10
-wordpress_id: 1465
-categories:
-- Sistemas
-- Trucos
+template: post
+tags:
+  - Sistemas
+  - Trucos
+category: Sistemas
+draft: false
 ---
 
 Ayer se me fastidiaron el adaptador de corriente de mi portátil HP y el disco duro de mi Mac Book Pro, lo que me ha obligado a resucitar mi primer equipo portátil: un **Fujitsu Siemens Amilo M7440**.

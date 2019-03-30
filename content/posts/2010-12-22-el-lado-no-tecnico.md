@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2010-12-22 01:37:46+00:00
 layout: post
-link: http://asiermarques.com/2010/el-lado-no-tecnico/
-slug: el-lado-no-tecnico
+slug: /2010/el-lado-no-tecnico/
 title: El lado no técnico
-wordpress_id: 1498
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 Hoy hace unos dos años desde que elegimos el logotipo de Blackslot y sobre un año y medio desde que montamos las mesas sobre las que hoy trabajamos.
@@ -21,7 +20,7 @@ Este último punto me llevó hace unos días a [comentar en mi twitter](http://t
 
 No voy a abandonar el terreno técnico, para mí investigar sobre desarrollo/arquitectura web o sistemas para internet no es formación, es una droga. Creo que tengo cuatro pasiones que sobresalen con diferencia al resto de cosas que me gustan en esta vida: plantear o programar cosas que funcionen en internet, la cultura geek, mezclar música electrónica y el sexo.
 
-Sin embargo, por mucho que me apasione **crear cosas** para internet, es realmente interesante **hacerlas funcionar**. Esto es algo que los geeks no solemos entender hasta que nos damos de bruces contra la misma experiencia: por muy profundos que sean nuestros conocimientos y por muy exquisito que sea nuestro dominio de la tecnología, hay que saber cómo hacer conocido lo que hagamos, seducir a los clientes que nos interesen, una vez seducidos gestionar su experiencia e invitarlos a formar parte de nuestra comunidad, alimentar nuestra marca, cultivar una buena cartera de contactos, crear un equipo y delegar en él, incrementar la productividad de nuestro equipo, saber diferenciar y automatizar los procesos (no técnicos) que sean vitales para llegar al camino que buscamos y sobre todo, saber cómo buscar el camino adecuado y la gente adecuada para compartirlo. Todo ello durmiendo más de 4 horas al día. Y se puede hacer, ya lo creo. Pero si se hace, debe hacerse de forma natural porque de lo contrario podríamos [cansarnos o cansar a otras personas](http://asiermarques.com/2010/11/26/cansado/).
+Sin embargo, por mucho que me apasione **crear cosas** para internet, es realmente interesante **hacerlas funcionar**. Esto es algo que los geeks no solemos entender hasta que nos damos de bruces contra la misma experiencia: por muy profundos que sean nuestros conocimientos y por muy exquisito que sea nuestro dominio de la tecnología, hay que saber cómo hacer conocido lo que hagamos, seducir a los clientes que nos interesen, una vez seducidos gestionar su experiencia e invitarlos a formar parte de nuestra comunidad, alimentar nuestra marca, cultivar una buena cartera de contactos, crear un equipo y delegar en él, incrementar la productividad de nuestro equipo, saber diferenciar y automatizar los procesos (no técnicos) que sean vitales para llegar al camino que buscamos y sobre todo, saber cómo buscar el camino adecuado y la gente adecuada para compartirlo. Todo ello durmiendo más de 4 horas al día. Y se puede hacer, ya lo creo. Pero si se hace, debe hacerse de forma natural porque de lo contrario podríamos [cansarnos o cansar a otras personas](/2010/11/26/cansado/).
 
 Otro fallo importante que cometemos los que tenemos perfiles geek vuelve a ser provocado por dar demasiada importancia a los aspectos técnicos y a la perfección de los mismos. A veces no logramos **comunicar** correctamente la importancia que tienen algunos aspectos tecnológicos, la gente no técnica sencillamente no entiende lo que decimos aunque a nosotros nos parezca básico. Luego escuchamos a otra gente hablar sobre estos temas, y en lugar de aprender cómo comunican al resto de personas criticamos los errores técnicos que cometen al hacerlo.
 

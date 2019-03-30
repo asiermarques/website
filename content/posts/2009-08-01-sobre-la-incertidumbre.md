@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2009-08-01 14:34:21+00:00
 layout: post
-link: http://asiermarques.com/2009/sobre-la-incertidumbre/
-slug: sobre-la-incertidumbre
+slug: /2009/sobre-la-incertidumbre/
 title: Sobre la incertidumbre
-wordpress_id: 1198
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 La incertidumbre, esa sensación que puede provocar inquietud a la hora de enfrentarse a lo desconocido, en mi opinión lejos de ser el "mayor enemigo para un emprendedor" como dicen algunos, yo más bien la considero una instructora e incluso una compañera de viaje.

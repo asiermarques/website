@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-03-09 21:38:28+00:00
 layout: post
-link: http://asiermarques.com/2008/no-hay-dominios/
-slug: no-hay-dominios
+slug: /2008/no-hay-dominios/
 title: No hay dominios
-wordpress_id: 468
-categories:
-- Internet
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Internet
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Éste es un tema que llevo ya algún tiempo teniendo en discusiones con varias personas y todos coincidimos en lo mismo, la situación es tan evidente como crítica: **todos los nombres que se te ocurran para tu proyecto están ya registrados**.
@@ -24,7 +23,7 @@ La realidad es que **desde hace unos años se ha venido abusando del negocio de 
 En éste mercado se manejan cifras surrealistas tanto así que dominios que costaron a sus dueños originalmente 20 euros al año, si tienen un mínimo de calidad, pueden ser vendidos por cantidades cercanas a los 10.000 euros o cantidades bastante superiores en muchos casos.
 
 
-![screen-capture-4.png](http://www.asiermarques.com/wp-content/uploads/2008/03/screen-capture-4.png)
+![screen-capture-4.png](/media/screen-capture-4.png)
 
 
 **¿Quién paga tanto por un dominio?**

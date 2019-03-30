@@ -1,15 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2007-10-09 10:05:31+00:00
 layout: post
-link: http://asiermarques.com/2007/charla-de-dopplr-en-future-of-web-apps-2007/
-slug: charla-de-dopplr-en-future-of-web-apps-2007
-title: Charla de Dopplr en Future Of Web Apps 2007
-wordpress_id: 335
-categories:
-- Desarrollo Web
-- Internet
+slug: /2007/charla-de-dopplr-en-future-of-web-apps-2007/
+title: Charla de Dopplr en Future Of Web Apps
+  2007
+template: post
+tags:
+  - Desarrollo Web
+  - Internet
+category: Desarrollo
+draft: false
 ---
 
 [Dopplr](http://dopplr.com) es un servicio web para usuarios que viajan frecuentemente, que sigue la metodología del microblogging para conseguir red social.

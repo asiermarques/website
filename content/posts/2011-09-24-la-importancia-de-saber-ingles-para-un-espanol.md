@@ -1,15 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2011-09-24 13:34:43+00:00
 layout: post
-link: http://asiermarques.com/2011/la-importancia-de-saber-ingles-para-un-espanol/
-slug: la-importancia-de-saber-ingles-para-un-espanol
-title: La importancia de saber inglés para un español
-wordpress_id: 1949
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+slug: /2011/la-importancia-de-saber-ingles-para-un-espanol/
+title: La importancia de saber inglés para un
+  español
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 [![Anuncio profesor de inglés japón](http://farm1.static.flickr.com/229/448185743_d91b7e8aa2.jpg)](http://www.flickr.com/photos/sonyasonya/448185743)Saber inglés es muy relativo, depende del nivel, fluidez de conversación y perfección gramatical que tenga cada uno (y supongo que existen más factores). Pero creo que cualquier persona en España que no se lo tome en serio, está perdiendo oportunidades cada minuto por no tener contacto con este idioma en su día a día.

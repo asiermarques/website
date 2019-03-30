@@ -17,7 +17,7 @@ description: "Últimamente he reflexionado mucho sobre el uso que se le daba hac
 
 Cuanto empecé a usarlo, la gente no relacionada con el mundo tecnológico e Internet, no lo veía como una herramienta interesante, incluso lo veían peligroso y fuera de lugar.
 
-**En el 2008** el genial [Joan Planas](http://joanplanas.com/) hizo un vídeo en el que se recogían las **[opiniones sobre Twitter de gente de a pie](http://asiermarques.com/2008/twitter-pero-para-eso-ya-tienes-el-fotolog-no/)**, fuera de todo ámbito profesional o motivación hacia Internet.
+**En el 2008** el genial [Joan Planas](http://joanplanas.com/) hizo un vídeo en el que se recogían las **[opiniones sobre Twitter de gente de a pie](/2008/twitter-pero-para-eso-ya-tienes-el-fotolog-no/)**, fuera de todo ámbito profesional o motivación hacia Internet.
 
 Ha cambiado mucho Twitter desde esos primeros años en los que una herramienta por la que nadie apostaba pasó a convertirse en un poderoso canal para acercarse a personas interesantes, muy activas y que generaban o compartían contenido de valor muy difícil de encontrar hasta esa fecha.
 

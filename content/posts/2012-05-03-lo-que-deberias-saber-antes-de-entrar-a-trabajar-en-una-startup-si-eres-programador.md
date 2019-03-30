@@ -1,14 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2012-05-03 15:48:57+00:00
 layout: post
-link: http://asiermarques.com/2012/lo-que-deberias-saber-antes-de-entrar-a-trabajar-en-una-startup-si-eres-programador/
-slug: lo-que-deberias-saber-antes-de-entrar-a-trabajar-en-una-startup-si-eres-programador
-title: Lo que deberías saber antes de entrar a trabajar en una Startup si eres programador
-wordpress_id: 2285
-categories:
-- Emprendedores
+slug: /2012/lo-que-deberias-saber-antes-de-entrar-a-trabajar-en-una-startup-si-eres-programador/
+title: Lo que deberías saber antes de entrar a
+  trabajar en una Startup si eres
+  programador
+template: post
+tags:
+  - Emprendedores
+category: Emprendedores
+draft: false
 ---
 
 Dada la situación que existe actualmente en España y que hay mucho talento buscando trabajo y algunas Startups estamos buscando ese talento, me he decidido a escribir esta entrada en base a las conclusiones que he experimentado reclutando profesionales técnicos para pequeñas empresas de internet y analizando después los resultados de haberlo hecho.

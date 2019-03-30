@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2011-01-02 01:14:23+00:00
 layout: post
-link: http://asiermarques.com/2011/mas-que-objetivos/
-slug: mas-que-objetivos
+slug: /2011/mas-que-objetivos/
 title: Más que objetivos
-wordpress_id: 1521
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
 Suele ser tradición hacer un repaso en tu blog de los objetivos que te planteaste el año pasado y los que te propones para el que empieza. Este año yo no lo voy a hacer.

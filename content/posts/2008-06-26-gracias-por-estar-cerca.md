@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2008-06-26 00:15:59+00:00
 layout: post
-link: http://asiermarques.com/2008/gracias-por-estar-cerca/
-slug: gracias-por-estar-cerca
+slug: /2008/gracias-por-estar-cerca/
 title: Gracias por estar cerca
-wordpress_id: 578
-categories:
-- Diario
-- Escrituras aleatorias
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Diario
+  - Escrituras aleatorias
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Diario
+draft: false
 ---
 
 No estoy enamorado de ti. Ni del sonido ni del agradable olor de emites. Ni siquiera del brillo del sol reflejado en tu cara que provoca que me quede cómo un ser inmóvil mirándote, cómo si fuese un árbol centenario ahí plantado contemplando un atardecer de tantos.  Tampoco de la tranquilidad que puedes conseguir y que consigues traspasarme con sólo mirarte, de una forma tan inexplicablemente precisa.

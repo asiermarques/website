@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2011-04-22 18:23:02+00:00
 layout: post
-link: http://asiermarques.com/2011/tecnologia-corporativa/
-slug: tecnologia-corporativa
+slug: /2011/tecnologia-corporativa/
 title: Tecnología corporativa
-wordpress_id: 1648
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Desde hace algunos años, sobre todo desde que tuve la oportunidad de empezar y aprender del mundo del desarrollo para internet (para crear negocios o simplemente proyectos), veo las cosas de forma muy distinta a mis excompañeros y otros profesionales que conozco encerrados en proyectos corporativos colosales, o que tienen una intencionada apariencia sobredimensionada y compleja.

@@ -18,7 +18,7 @@ Tenía 21 años, acaba de terminar el grado superior de administración de siste
 
 Por aquella época intentaba buscar trabajo de desarrollador web pero era imposible, los entrevistadores de las consultoras informáticas a las que me presentaba me decían que eso no tenía futuro, que era una moda.
 
-En el 2006 inicié un negocio con otras cuatro personas que no fue a ninguna parte y, en el 2008 di el paso de [trabajar como autónomo](http://asiermarques.com/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/), el resto [ya lo sabéis](http://asiermarques.com/info) (más o menos ;).
+En el 2006 inicié un negocio con otras cuatro personas que no fue a ninguna parte y, en el 2008 di el paso de [trabajar como autónomo](/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/), el resto [ya lo sabéis](/info) (más o menos ;).
 
 Estos son una serie de cosas que le escribo a mi yo del pasado, el del 2008, que cansado de trabajar como consultor de tecnologías IT Microsoft por el día (trabajo que odiaba pero que no se le daba mal) y desarrollador de proyectos web personales de noche, está a punto de embarcarse en una aventura de no retorno.
 
@@ -83,7 +83,7 @@ Simplemente ten en cuenta que tu negocio será mejor para ti si tú eres feliz.�
 
 
 	
-  * [Selecciona a tus clientes](http://asiermarques.com/2012/clientes-con-los-que-yo-no-trabajo/).
+  * [Selecciona a tus clientes](/2012/clientes-con-los-que-yo-no-trabajo/).
 
 	
   * Duerme y descansa.
@@ -112,7 +112,7 @@ Antes de pensar en programar averigua cómo vas a venderlo, a qué precio y a cu
 
 Por muy sencillo que sea un proyecto, va a necesitar mucha dedicación, dinero y al final puede que no funcione a pesar de que vieses su éxito muy claro al principio.
 
-Las razones por las que un proyecto puede funcionar [pueden ser muchas](http://asiermarques.com/2011/por-que-los-proyectos-web-fallan/), incluso hay veces que no funcionan en un momento del mercado específico, en un momento de tu vida específico o con ciertos socios.
+Las razones por las que un proyecto puede funcionar [pueden ser muchas](/2011/por-que-los-proyectos-web-fallan/), incluso hay veces que no funcionan en un momento del mercado específico, en un momento de tu vida específico o con ciertos socios.
 
 Hay que saber también retirarse del juego a tiempo, aunque se haya puesto dinero o esfuerzo, ningún precipicio tiene pinta de ser agradable de recorrer de cabeza y sin paracaídas.
 

@@ -1,21 +1,20 @@
 ---
-author: asier
-comments: true
 date: 2010-09-20 01:34:54+00:00
 layout: post
-link: http://asiermarques.com/2010/sistema-de-recomendacion-de-contactos-en-twitter/
-slug: sistema-de-recomendacion-de-contactos-en-twitter
+slug: /2010/sistema-de-recomendacion-de-contactos-en-twitter/
 title: 'Idea: sistema de recomendación de contactos en Twitter'
-wordpress_id: 1440
-categories:
-- Desarrollo Web
-- Emprendedores
-- Ideas de proyectos
-- Innovación
-- Internet
-- Mis Proyectos
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Desarrollo Web
+  - Emprendedores
+  - Ideas de proyectos
+  - Innovación
+  - Internet
+  - Mis Proyectos
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Desarrollo
+draft: false
 ---
 
 Desde hace un tiempo he estado dándole vueltas a un sistema de recomendación de contactos en twitter.

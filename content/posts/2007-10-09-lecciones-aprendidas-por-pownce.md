@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2007-10-09 10:38:56+00:00
 layout: post
-link: http://asiermarques.com/2007/lecciones-aprendidas-por-pownce/
-slug: lecciones-aprendidas-por-pownce
+slug: /2007/lecciones-aprendidas-por-pownce/
 title: Lecciones aprendidas por Pownce
-wordpress_id: 336
-categories:
-- Desarrollo Web
-- Internet
+template: post
+tags:
+  - Desarrollo Web
+  - Internet
+category: Desarrollo
+draft: false
 ---
 
 [Leah Curver](http://www.leahculver.com), cofundadora de Pownce, ha publicado en su blog la presentación que dirigió en el [Future of Web Applications 2007](http://www.futureofwebapps.com/).

@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2009-12-08 00:30:03+00:00
 layout: post
-link: http://asiermarques.com/2009/tu-tu-propio-usuario/
-slug: tu-tu-propio-usuario
+slug: /2009/tu-tu-propio-usuario/
 title: Tú, tu propio usuario
-wordpress_id: 1238
-categories:
-- Desarrollo Web
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Desarrollo Web
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Desarrollo Web
+draft: false
 ---
 
 En el desarrollo de proyectos web, sobre todo en el desarrollo de proyectos que lideran **emprendedores en internet**, existe un factor con el que me encuentro a menudo y  que lleva a la mayoría de los mismos, al más contundente de los **fracasos**. Es un factor que es muy fácil de reconocer y que puede darte la cualidad de adivinar qué proyecto puede pasar de una primera fase y cuál no, en el 95% de los casos.

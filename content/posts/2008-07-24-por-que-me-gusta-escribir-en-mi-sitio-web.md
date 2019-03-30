@@ -1,15 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-07-24 00:44:04+00:00
 layout: post
-link: http://asiermarques.com/2008/por-que-me-gusta-escribir-en-mi-sitio-web/
-slug: por-que-me-gusta-escribir-en-mi-sitio-web
-title: Por qué me gusta escribir en mi sitio web
-wordpress_id: 616
-categories:
-- Memes
-- Personal
+slug: /2008/por-que-me-gusta-escribir-en-mi-sitio-web/
+title: Por qué me gusta escribir en mi sitio
+  web
+template: post
+tags:
+  - Memes
+  - Personal
+category: Personal
+draft: false
 ---
 
 Hacía bastante tiempo que no me pasaban un meme y ha sido [Neokrisys](http://neokrisys.com/2008/07/23/10-razones-por-las-que-me-gusta-bloguear/) quien lo ha hecho. La cuestión que se plantea es **"por qué te gusta bloguear"**.
@@ -34,7 +34,7 @@ Antes de responder a la pregunta, con vuestro permiso voy a comentar lo que es p
 
 6 - Mis clientes saben qué tecnologías me interesan y mi punto de vista sobre las mismas
 
-7 - Mis clientes tienen un complemento perfecto que les da más información sobre mí que [mi currículum](http://asiermarques.com/curriculum-vitae/)
+7 - Mis clientes tienen un complemento perfecto que les da más información sobre mí que [mi currículum](/curriculum-vitae/)
 
 8 - Mis amigos y familia saben cómo me va la vida, a pesar de no verme o hablar conmigo desde hace tiempo.
 

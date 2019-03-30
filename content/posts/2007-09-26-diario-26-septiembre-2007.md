@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2007-09-26 18:36:39+00:00
 layout: post
-link: http://asiermarques.com/2007/diario-26-septiembre-2007/
-slug: diario-26-septiembre-2007
+slug: /2007/diario-26-septiembre-2007/
 title: Diario, 26 Septiembre 2007
-wordpress_id: 322
-categories:
-- Diario
-- Negocios
-- Personal
+template: post
+tags:
+  - Diario
+  - Negocios
+  - Personal
+category: Personal
+draft: false
 ---
 
 He decidido escribir éste post para hacer una pausa entre las tareas que tenía preparadas para el día de hoy, y resumir lo que he estado haciendo éstas dos últimas semanas.

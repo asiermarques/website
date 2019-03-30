@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2011-09-27 11:44:09+00:00
 layout: post
-link: http://asiermarques.com/2011/idea-servicio-que-recopila-enlaces-para-ver-al-final-del-dia-o-en-otro-momento/
-slug: idea-servicio-que-recopila-enlaces-para-ver-al-final-del-dia-o-en-otro-momento
+slug: /2011/idea-servicio-que-recopila-enlaces-para-ver-al-final-del-dia-o-en-otro-momento/
 title: 'Idea: servicio que recopila enlaces para ver al final del día o en otro momento'
-wordpress_id: 1964
-categories:
-- Ideas de proyectos
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Ideas de proyectos
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Ideas de proyectos
+draft: false
 ---
 
 Ya sé lo que pensará la mayoría: esa idea ya existe, se llama [readItlater](http://readitlater.com/).

@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2012-08-01 23:05:44+00:00
 layout: post
-link: http://asiermarques.com/2012/espana-no-es-la-primera-opcion/
-slug: espana-no-es-la-primera-opcion
+slug: /2012/espana-no-es-la-primera-opcion/
 title: España no es la primera opción
-wordpress_id: 2595
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 En el 2005 fui a dar una charla al instituto donde cursé el módulo superior de administración de sistemas informáticos.  

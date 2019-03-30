@@ -1,14 +1,13 @@
 ---
-author: asier
-comments: true
 date: 2009-09-12 01:18:12+00:00
 layout: post
-link: http://asiermarques.com/2009/valor-vs-precio/
-slug: valor-vs-precio
+slug: /2009/valor-vs-precio/
 title: Valor vs Precio
-wordpress_id: 1212
-categories:
-- Emprendedores
+template: post
+tags:
+  - Emprendedores
+category: Negocio
+draft: false
 ---
 
 Una de las principales cosas que aprendes cuando te metes a emprender una empresa sin tener ni idea de economía, contabilidad y tienes el dinero justo es precisamente, a valorarlo.

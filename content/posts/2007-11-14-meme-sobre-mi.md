@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2007-11-14 12:14:35+00:00
 layout: post
-link: http://asiermarques.com/2007/meme-sobre-mi/
-slug: meme-sobre-mi
+slug: /2007/meme-sobre-mi/
 title: Meme sobre mí
-wordpress_id: 361
-categories:
-- Memes
-- Personal
+template: post
+tags:
+  - Memes
+  - Personal
+category: Personal
+draft: false
 ---
 
 He visto que [Neokrisys](http://neokrisys.com/2007/11/14/cosas-sobre-mi/) y  [Kialaya](http://kialaya.blogspot.com/2007/11/meme-interrogatorio-de-tercer-grado.html) tienen un meme abierto en su blog y voy a seguirlo.
@@ -51,7 +50,7 @@ YO
 
 
 	
-  * Tienes un diario: Si, [en éste blog](http://www.asiermarques.com/category/personal/diario/) y en un [moleskine](http://es.wikipedia.org/wiki/Moleskine).
+  * Tienes un diario: Si, [en éste blog](/category/personal/diario/) y en un [moleskine](http://es.wikipedia.org/wiki/Moleskine).
 
 	
   * Te gusta cocinar: Me encanta pero sólo se hacer lo típico para sobrevivir. Pienso mejorar en un futuro :)

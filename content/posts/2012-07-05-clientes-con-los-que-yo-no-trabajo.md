@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2012-07-05 23:35:37+00:00
 layout: post
-link: http://asiermarques.com/2012/clientes-con-los-que-yo-no-trabajo/
-slug: clientes-con-los-que-yo-no-trabajo
+slug: /2012/clientes-con-los-que-yo-no-trabajo/
 title: Clientes con los que yo no trabajo
-wordpress_id: 2569
-categories:
-- Emprendedores
-- Personal
+template: post
+tags:
+  - Emprendedores
+  - Personal
+category: Emprendedores
+draft: false
 ---
 
 Desde hace unos años vemos cómo se dice que hay falta de buenos programadores. [Hay quien no está de acuerdo y debate](http://www.bonillaware.com/la-falacia-del-programador-perdido) con que hay falta de empresas que paguen --el sueldo-- que un buen programador merece. 

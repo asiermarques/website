@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2007-10-23 16:19:16+00:00
 layout: post
-link: http://asiermarques.com/2007/mis-inicios-en-internet/
-slug: mis-inicios-en-internet
+slug: /2007/mis-inicios-en-internet/
 title: Mis inicios en internet
-wordpress_id: 343
-categories:
-- Memes
-- Personal
+template: post
+tags:
+  - Memes
+  - Personal
+category: Personal
+draft: false
 ---
 
 He visto que [Carlos Mantero](http://www.carlosmantero.com/como-me-inicie-en-internet-en-5-preguntas/) me ha enviado éste meme en el que se responden 5 preguntas para volver al pasado y contar cómo te iniciaste en <strike>[interneeeeeeeé](http://www.youtube.com/watch?v=2OBZHB5I89A)</strike> internet. Voy a responderlo pues:

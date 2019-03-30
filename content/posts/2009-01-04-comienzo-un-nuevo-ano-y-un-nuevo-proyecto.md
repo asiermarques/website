@@ -1,16 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2009-01-04 23:03:47+00:00
 layout: post
-link: http://asiermarques.com/2009/comienzo-un-nuevo-ano-y-un-nuevo-proyecto/
-slug: comienzo-un-nuevo-ano-y-un-nuevo-proyecto
-title: Comienzo un nuevo año y un nuevo proyecto
-wordpress_id: 997
-categories:
-- Diario
-- Mis Proyectos
-- Personal
+slug: /2009/comienzo-un-nuevo-ano-y-un-nuevo-proyecto/
+title: Comienzo un nuevo año y un nuevo
+  proyecto
+template: post
+tags:
+  - Diario
+  - Mis Proyectos
+  - Personal
+category: Personal
+draft: false
 ---
 
 El jueves comenzó un nuevo año, un año que algunos han clasificado como temible y otros tantos le han puesto la etiqueta oportunidad.

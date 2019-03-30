@@ -1,21 +1,20 @@
 ---
-author: asier
-comments: true
 date: 2008-07-16 09:50:40+00:00
 layout: post
-link: http://asiermarques.com/2008/emprende-web-bilbao/
-slug: emprende-web-bilbao
+slug: /2008/emprende-web-bilbao/
 title: Emprende Web Bilbao
-wordpress_id: 600
-categories:
-- Desarrollo Web
-- Emprendedores
-- Eventos
-- Innovación
-- Internet
+template: post
+tags:
+  - Desarrollo Web
+  - Emprendedores
+  - Eventos
+  - Innovación
+  - Internet
+category: Eventos
+draft: false
 ---
 
-Hace algunos meses [intenté organizar un evento](http://asiermarques.com/2008/01/30/phpbilbaoorg/) para desarrolladores php en Bilbao. La idea era juntar a personas que desarrollasen aplicaciones web para compartir experiencias.
+Hace algunos meses [intenté organizar un evento](/2008/01/30/phpbilbaoorg/) para desarrolladores php en Bilbao. La idea era juntar a personas que desarrollasen aplicaciones web para compartir experiencias.
 
 El problema fue que el mismo tema del evento limitaba a los asistentes y no atraía al resto de la gente que no desarrollaba en php, pero si desarrollaba en otras tecnologías web.
 

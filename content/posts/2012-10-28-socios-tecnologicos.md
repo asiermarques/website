@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2012-10-28 16:55:23+00:00
 layout: post
-link: http://asiermarques.com/2012/socios-tecnologicos/
-slug: socios-tecnologicos
+slug: /2012/socios-tecnologicos/
 title: Socios tecnológicos
-wordpress_id: 2649
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 Hace meses leí **[una entrada en el blog de Desencadenado](http://desencadenado.com/2012/01/no-necesitas-un-cofundador-tecnico.html)** en el cual se argumentaba sobre por qué si eres una empresa que empieza en Internet y ninguno de sus promotores son de perfil técnico, **no necesitas un cofundador técnico**.

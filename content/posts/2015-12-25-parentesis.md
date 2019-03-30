@@ -46,6 +46,6 @@ Cuando estás en movimiento conoces a gente nueva, gente increíble, y te metes 
 
 Estoy muy emocionado de empezar este nuevo año experimentando este paréntesis en un sitio brutal y tranquilo, donde el contexto rural creo que me va a aportar también nueva perspectiva y serenidad para cumplir los objetivos que me marcado.
 
-Ya os iré contando por [Twitter](http://twitter.com/asiermarques) y también podéis leer la lista de[ cosas concretas en las que ando metido](http://asiermarques.com/en-que-ando-metido/).
+Ya os iré contando por [Twitter](http://twitter.com/asiermarques) y también podéis leer la lista de[ cosas concretas en las que ando metido](/en-que-ando-metido/).
 
 Felices fiestas y urte berri on!

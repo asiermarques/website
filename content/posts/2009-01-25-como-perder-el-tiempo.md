@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2009-01-25 17:03:54+00:00
 layout: post
-link: http://asiermarques.com/2009/como-perder-el-tiempo/
-slug: como-perder-el-tiempo
+slug: /2009/como-perder-el-tiempo/
 title: Cómo perder el tiempo
-wordpress_id: 1041
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 **1 - Contesta a tus emails inmediatamente**. Contestar tus emails en el acto es una práctica grandiosa para perder el tiempo. Con mucha suerte lograrás tener respuestas inmediatas, transformando tu bandeja de entrada en un chat.

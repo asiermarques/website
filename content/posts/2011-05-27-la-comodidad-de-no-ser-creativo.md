@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2011-05-27 23:14:11+00:00
 layout: post
-link: http://asiermarques.com/2011/la-comodidad-de-no-ser-creativo/
-slug: la-comodidad-de-no-ser-creativo
+slug: /2011/la-comodidad-de-no-ser-creativo/
 title: La comodidad de no ser creativo
-wordpress_id: 1764
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Una de las cosas que más rabia me da de algunas personas es la habilidad que tienen para limitar sus propias expectativas de éxito ante cualquier reto.

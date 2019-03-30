@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2007-09-09 23:46:06+00:00
 layout: post
-link: http://asiermarques.com/2007/diario-10-de-septiembre/
-slug: diario-10-de-septiembre
+slug: /2007/diario-10-de-septiembre/
 title: Diario, 10 de Septiembre del 2007
-wordpress_id: 300
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
 Bueno escribo esto tras llegar de cenar "al lado" [de la playa](http://maps.google.es/maps?f=q&hl=es&geocode=&q=kukullo,sopelana&sll=43.390298,-2.989075&sspn=0.005551,0.010042&ie=UTF8&ll=43.390938,-2.992659&spn=0.011102,0.020084&t=k&z=16&om=1), y ver [mi lector de rss](http://www.google.com/reader) lleno de cosas interesantes para leer e investigar.

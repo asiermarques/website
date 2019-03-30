@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2007-07-28 21:49:01+00:00
 layout: post
-link: http://asiermarques.com/2007/un-blog-mas-personal/
-slug: un-blog-mas-personal
+slug: /2007/un-blog-mas-personal/
 title: Un blog más personal
-wordpress_id: 270
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Este blog se está convirtiendo poco a poco en un repositorio de apuntes y enlaces técnicos que es para lo que fue pensado. Mi idea fue recoger en éste sitio todo lo que viese en el día a día tecnológicamente interesante (desde mis inquietudes), sin importarme en número de post ni la periodicidad ni las modas, buscaba y busco la calidad de la información contenida en él.
@@ -27,7 +26,7 @@ Para ello voy a publicar, de una forma menos frecuente a  los post técnicos hab
   * Citas de libros, películas y demás fuentes (al estilo [Microsiervos](http://www.microsiervos.com))
 
 	
-  * Post de reflexiones en la sección [**pe**n**sa**n**do**](http://www.asiermarques.com/category/pensando/), no solo tecnológicas, sino en general, que serán el resultado de recopilar varias cosas de los dos puntos anteriores (recogidos en la sección [personal](http://www.asiermarques.com/category/personal/))
+  * Post de reflexiones en la sección [**pe**n**sa**n**do**](/category/pensando/), no solo tecnológicas, sino en general, que serán el resultado de recopilar varias cosas de los dos puntos anteriores (recogidos en la sección [personal](/category/personal/))
 
 
 Sinceramente, espero que os guste.

@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2011-01-23 19:45:29+00:00
 layout: post
-link: http://asiermarques.com/2011/el-pornografo-emprendedor/
-slug: el-pornografo-emprendedor
+slug: /2011/el-pornografo-emprendedor/
 title: El pornógrafo emprendedor
-wordpress_id: 1550
-categories:
-- Emprendedores
-- Libros
+template: post
+tags:
+  - Emprendedores
+  - Libros
+category: Negocio
+draft: false
 ---
 
 Durante esta última semana necesitado tomar una semana de descanso por diversas razones de peso y, mientras lo hacía, he tenido la oportunidad de leer este apasionante libro escrito por [Gavin Griffiths](http://www.thebloke.co.uk/).

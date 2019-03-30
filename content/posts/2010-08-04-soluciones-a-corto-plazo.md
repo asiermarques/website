@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2010-08-04 04:22:18+00:00
 layout: post
-link: http://asiermarques.com/2010/soluciones-a-corto-plazo/
-slug: soluciones-a-corto-plazo
+slug: /2010/soluciones-a-corto-plazo/
 title: Soluciones a corto plazo
-wordpress_id: 1426
-categories:
-- Emprendedores
-- Negocios
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Negocios
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 <blockquote>"Siempre hay un plan"
@@ -26,7 +25,7 @@ Sin embargo, puede resultar que también dicha jugada nos salga bien (o aparente
 
 Si tomar dicha decisión nos lleva a un error, habremos aprendido y la próxima vez cuando nos recuperemos, será un poco más difícil dejarnos seducir por una solución aparentemente muy fácil e inmediata y tendremos más confianza en nuestros planes originales. Seguro que también sabemos identificar con mayor precisión los pros y contras de estas decisiones.
 
-La incertidumbre siempre está presente y como he comentado alguna vez [creo que debemos acostumbrarnos a ella](http://asiermarques.com/2009/08/01/sobre-la-incertidumbre/) si no queremos equivocarnos, agobiarnos o perder la cabeza. Desconozco si para las personas que lideran grandes corporaciones esto se cumple, pero desde lo que yo conozco no sé de ninguna persona que emprenda con un negocio desde 0 (y ya sabéis a lo que me refiero con desde 0) que no tenga que enfrentarse cara a cara con este problema.
+La incertidumbre siempre está presente y como he comentado alguna vez [creo que debemos acostumbrarnos a ella](/2009/08/01/sobre-la-incertidumbre/) si no queremos equivocarnos, agobiarnos o perder la cabeza. Desconozco si para las personas que lideran grandes corporaciones esto se cumple, pero desde lo que yo conozco no sé de ninguna persona que emprenda con un negocio desde 0 (y ya sabéis a lo que me refiero con desde 0) que no tenga que enfrentarse cara a cara con este problema.
 
 Es difícil, incluso para personas acostumbradas de sobra a soportar la presión, enfrentarse a una situación en la que no se ve claramente que las cosas vayan a salir bien a medio o corto plazo.
 

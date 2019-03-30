@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2010-11-17 04:51:16+00:00
 layout: post
-link: http://asiermarques.com/2010/pensar-en-conceptos/
-slug: pensar-en-conceptos
+slug: /2010/pensar-en-conceptos/
 title: Pensar en conceptos
-wordpress_id: 1474
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 Soy un adicto a pensar en nuevos conceptos, o darle vueltas a otros existentes, para generar ideas ejecutables en áreas que me apasionan y mayormente en el contexto de internet.

@@ -1,21 +1,21 @@
 ---
-author: asier
-comments: true
 date: 2008-09-20 00:10:14+00:00
 layout: post
-link: http://asiermarques.com/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/
-slug: cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2
-title: Cosas que he aprendido al trabajar como autónomo desde casa (parte 2 de 2)
-wordpress_id: 779
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/
+title: Cosas que he aprendido al trabajar como
+  autónomo desde casa (parte 2 de 2)
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 Esta es la continuación de algo que empecé escribiendo a modo de reflexión personal de las lecciones que he aprendido o he puesto en práctica trabajando como autónomo desde casa.
 
-[En la primera parte](http://asiermarques.com/2008/09/12/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/) analicé una serie de puntos que he aprendido al trabajar desde casa, en esta segunda parte analizaré cosas que he aprendido trabajando como autónomo.
+[En la primera parte](/2008/09/12/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/) analicé una serie de puntos que he aprendido al trabajar desde casa, en esta segunda parte analizaré cosas que he aprendido trabajando como autónomo.
 
 
 ### ****Trabajar como autónomo

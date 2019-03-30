@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2008-05-14 07:46:37+00:00
 layout: post
-link: http://asiermarques.com/2008/recuperar-ultimo-id-insertado-en-sql-server-desde-php-con-el-driver-oficial-de-microsoft/
-slug: recuperar-ultimo-id-insertado-en-sql-server-desde-php-con-el-driver-oficial-de-microsoft
-title: Recuperar último id insertado en SQL Server desde php con el Driver Oficial
-  de Microsoft
-wordpress_id: 543
-categories:
-- Desarrollo Web
-- Sistemas
+slug: /2008/recuperar-ultimo-id-insertado-en-sql-server-desde-php-con-el-driver-oficial-de-microsoft/
+title:
+  - de Microsoft
+template: post
+tags:
+  - Desarrollo Web
+  - Sistemas
+category: Desarrollo
+draft: false
 ---
 
 Microsoft ha publicó hace unos meses la [versión RTM de su driver oficial para php](http://blogs.msdn.com/sqlphp/archive/2008/02/19/the-february-08-ctp-is-now-available.aspx) que permite conectarse a sus bases de datos SQL Server.

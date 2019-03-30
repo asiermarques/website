@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
 date: 2011-03-16 13:55:29+00:00
 layout: post
-link: http://asiermarques.com/2011/las-normas-sociales/
-slug: las-normas-sociales
+slug: /2011/las-normas-sociales/
 title: Las normas sociales
-wordpress_id: 1583
-categories:
-- Internet
-- Marketing
-- Negocios
-- Personal
+template: post
+tags:
+  - Internet
+  - Marketing
+  - Negocios
+  - Personal
+category: Internet
+draft: false
 ---
 
 Estos días me estoy releyendo el libro [Las trampas del deseo](http://www.casadellibro.com/libro-las-trampas-del-deseo-como-controla-los-impulsos-irracionales-qu-e-nos-llevan-al-error/2900001235988) de [Dan Ariely](http://danariely.com/), ya que tiene distintos ejemplos que explican ciertos resultados curiosos que estamos obteniendo de algunas de las acciones de marketing que estamos ejecutando desde [Blackslot](http://blackslot.com).

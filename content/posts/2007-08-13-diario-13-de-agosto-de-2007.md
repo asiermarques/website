@@ -1,22 +1,21 @@
 ---
-author: asier
-comments: true
 date: 2007-08-13 23:35:50+00:00
 layout: post
-link: http://asiermarques.com/2007/diario-13-de-agosto-de-2007/
-slug: diario-13-de-agosto-de-2007
+slug: /2007/diario-13-de-agosto-de-2007/
 title: Diario 13 de Agosto de 2007
-wordpress_id: 284
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
 Bueno éste es mi primer post en ésta sección que va a tratar a modo de diario en el que contaré cosas que hago, pensamientos, cosas que me interesan etc.
 
 No va a tratar de temas técnicos o si surgen, se tratará de manera superficial con un link a la fuente de información detallada.
 
-El motivo de ésta sección es eliminar la imagen de blog exclusivamente técnico que ha arrastrado durante todo éste año, y la de fusionarlo en uno con mi blog personal (alojado en [spaces.live.es](http://asiermarques.spaces.live.com/) de msn, y en el que me limitaré a copiar lo que postee en ésta dirección: [http://www.asiermarques.com/category/diario/](http://www.asiermarques.com/category/diario/)). Seguirán apareciendo apuntes técnicos con la frecuencia y calidad, si mi tiempo lo permite, que se ha intentado llevar hasta el mes de Julio.
+El motivo de ésta sección es eliminar la imagen de blog exclusivamente técnico que ha arrastrado durante todo éste año, y la de fusionarlo en uno con mi blog personal (alojado en [spaces.live.es](http://asiermarques.spaces.live.com/) de msn, y en el que me limitaré a copiar lo que postee en ésta dirección: [/category/diario/](/category/diario/)). Seguirán apareciendo apuntes técnicos con la frecuencia y calidad, si mi tiempo lo permite, que se ha intentado llevar hasta el mes de Julio.
 
 En éste mes de Agosto he decidido tomarme las cosas con calma. Como todos los años, para desconectar suelo ir a un pueblo de Zamora que mucha gente incluso en esa ciudad no conoce. El pueblo se llama [Videmala](http://es.wikipedia.org/wiki/Videmala) ([link página web](http://www.telefonica.net/web2/videmala/)) ([link a google maps](http://maps.google.es/maps?f=q&hl=es&geocode=&q=videmala&ie=UTF8&ll=41.611977,-6.017675&spn=0.045562,0.080338&t=k&z=14&iwloc=addr&om=1)). No lo recomiendo como destino turístico para nada, a menos que tengas casa ahí y quieras aislarte totalmente (y aun así seguro que hay destinos mejores).
 

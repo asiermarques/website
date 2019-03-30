@@ -12,7 +12,7 @@ tags:
 description: "Jose ha anunciado hoy la apertura oficial de Artesanio que será este próximo Lunes 11 de Abril."
 ---
 
-[![](http://asiermarques.com/wp-content/uploads/2011/04/27543_116466571710881_7563_n.jpg)](http://artesanio.com)[Jose](http://venzario.wordpress.com/) ha anunciado hoy [la apertura oficial de Artesanio](http://blog.artesanio.com/2011/04/fecha-de-lanzamiento-11-de-abril/) que será este **próximo Lunes 11 de Abril**.
+[![](/media//27543_116466571710881_7563_n.jpg)](http://artesanio.com)[Jose](http://venzario.wordpress.com/) ha anunciado hoy [la apertura oficial de Artesanio](http://blog.artesanio.com/2011/04/fecha-de-lanzamiento-11-de-abril/) que será este **próximo Lunes 11 de Abril**.
 
 Después de desglosar la idea en fases, abrimos el blog hace casi un año y desde entonces, hemos conocido a más de **300 artesanos** y hemos hecho más de [2.500 amigos en facebook](http://www.facebook.com/artesanio).
 

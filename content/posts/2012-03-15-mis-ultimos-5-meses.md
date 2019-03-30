@@ -1,26 +1,25 @@
 ---
-author: asier
-comments: true
 date: 2012-03-15 13:53:54+00:00
 layout: post
-link: http://asiermarques.com/2012/mis-ultimos-5-meses/
-slug: mis-ultimos-5-meses
+slug: /2012/mis-ultimos-5-meses/
 title: Mis últimos 5 meses
-wordpress_id: 2162
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
-Como sabéis los que me conocéis o leéis este blog, en Octubre dí [el paso de tomar un camino distinto](http://asiermarques.com/2011/11/21/simettric/) que necesitaba tomar tanto a nivel personal como profesional.
+Como sabéis los que me conocéis o leéis este blog, en Octubre dí [el paso de tomar un camino distinto](/2011/11/21/simettric/) que necesitaba tomar tanto a nivel personal como profesional.
 
 
-![](http://asiermarques.com/wp-content/uploads/2012/03/rioja-e1331819571641.jpeg)
+![](/media//rioja-e1331819571641.jpeg)
 
 
 Mi idea era crear un negocio acorde con mi visión personal de cómo tenía que ser una agencia de desarrollo, partía de cero y a contrareloj ya que los costes mensuales, y trimestrales, en España de ser autónomo ahora mismo ahogan a alguien que crea una empresa desde cero exactamente igual que a alguien que ya lleva años funcionando.
 
-Los que vivimos en España sabemos de sobra cómo está el tejido empresarial en estos momentos, especialmente los presupuestos y [garantías](http://asiermarques.com/2010/01/09/el-cuento-de-los-tres-cerditos-para-emprendedores/) de pago que pueden ofrecer los clientes del sector internet en este país. En estos pocos meses he visto cómo clientes que me habían confirmado proyectos han tenido que cerrar directamente antes de poder empezarlos o contaban con subvenciones para ejecutarlos que no han conseguido.
+Los que vivimos en España sabemos de sobra cómo está el tejido empresarial en estos momentos, especialmente los presupuestos y [garantías](/2010/01/09/el-cuento-de-los-tres-cerditos-para-emprendedores/) de pago que pueden ofrecer los clientes del sector internet en este país. En estos pocos meses he visto cómo clientes que me habían confirmado proyectos han tenido que cerrar directamente antes de poder empezarlos o contaban con subvenciones para ejecutarlos que no han conseguido.
 
 Esta situación ha forzado a que tomase una de las mejores decisiones que podría haber tomado en este tiempo: buscarme clientes fuera de España. Mi inglés es muy básico, aunque me suelto y no me corto a la hora de hablar, está lejos de ser correcto, sin embargo puedo mantener una conversación y escribir sin problema, sobre todo en temas técnicos. Soy bastante tiquismiquis con las faltas ortográficas en castellano, por lo que me come las entrañas cuando hablo o escribo en inglés y cometo errores, por lo que estoy tomándome muy en serio mi formación en este idioma. Me viene muy bien negociar con gente fuera de España para mejorarlo además de por supuesto, aprender un montón sobre cómo funcionan las cosas fuera y las falsas asunciones que tenemos a nivel profesional desde este país con respecto a otros.
 
@@ -36,7 +35,7 @@ En este proyecto ahora mismo me encuentro aplicando un cambio de diseño radical
 
 Además de 4visions, he evaluado varias ofertas de participación en proyectos tecnológicos, más de diez, y me ha motivado mucho ver que hay gente con mucha experiencia en otros sectores intentando aplicar dicha experiencia y conocimientos en internet. Espero que puedan tener todos una buena ejecución y pueda ver crecer sus proyectos en los próximos meses.
 
-A nivel personal también necesitaba un cambio, cambio que estoy aplicando en base a lo que he aprendido en los últimos años, de los errores y estupideces que ahora veo claramente que he cometido y de los aciertos que no he sabido valorar y de los que no he sabido disfrutar. Es complicado cuando estás tan centrado, enfocado u obsesionado con algo, darte cuenta de todo [lo que dejas de ver con un mínimo de claridad](http://asiermarques.com/2011/03/05/cierra-los-ojos/).
+A nivel personal también necesitaba un cambio, cambio que estoy aplicando en base a lo que he aprendido en los últimos años, de los errores y estupideces que ahora veo claramente que he cometido y de los aciertos que no he sabido valorar y de los que no he sabido disfrutar. Es complicado cuando estás tan centrado, enfocado u obsesionado con algo, darte cuenta de todo [lo que dejas de ver con un mínimo de claridad](/2011/03/05/cierra-los-ojos/).
 
 Un consejo que puedo dar a los que quieran montar un negocio, sobre todo si son programadores o tengan capacidad de ejecución, es que no se obsesionen con el hecho de emprender en sí. Emprender o ser el mejor emprendedor o muy conocido en ambientes emprendedores que están tan de moda ahora mismo, no vale nada, vale más el vender tu producto o servicio a tu público objetivo, que a menos que sean emprendedores (posiblemente el sector más reducido que existe), están muy lejos de esos círculos y eventos. Aun así, conocer a gente es importante y nunca sabes quien te va a abrir una puerta en el futuro.
 

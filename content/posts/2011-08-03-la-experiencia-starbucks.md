@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2011-08-03 03:09:53+00:00
 layout: post
-link: http://asiermarques.com/2011/la-experiencia-starbucks/
-slug: la-experiencia-starbucks
+slug: /2011/la-experiencia-starbucks/
 title: La experiencia Starbucks
-wordpress_id: 1892
-categories:
-- Marketing
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Marketing
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Marketing
+draft: false
 ---
 
 [![I Love Starbucks By Beniamino Baj](http://farm4.static.flickr.com/3221/3106600695_f9b75a03cb_m.jpg)](http://www.flickr.com/photos/benji87/3106600695/)He de hacer una confesión, soy un fan crónico de [Starbucks](http://www.starbucks.es/). Cada vez que visito una ciudad que dispone de su presencia siento una necesidad imperiosa de ir a tomarme un Frappucino Venti hasta arriba de nata y a poder ser bañado con chocolate por encima, acompañado siempre de un pastel de queso con frambuesa.

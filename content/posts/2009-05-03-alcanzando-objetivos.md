@@ -1,24 +1,23 @@
 ---
-author: asier
-comments: true
 date: 2009-05-03 19:05:10+00:00
 layout: post
-link: http://asiermarques.com/2009/alcanzando-objetivos/
-slug: alcanzando-objetivos
+slug: /2009/alcanzando-objetivos/
 title: Alcanzando objetivos
-wordpress_id: 1125
-categories:
-- Diario
-- Personal
+template: post
+tags:
+  - Diario
+  - Personal
+category: Diario
+draft: false
 ---
 
 Sí, sigo vivo, de hecho creo que no he estado nunca tan vivo como hasta ahora.
 
-Este año me plantee [algunos objetivos](http://asiermarques.com/2008/12/26/mis-objetivos-para-el-proximo-2009), de los cuales estoy a pocos días de conseguir dos: **perder peso y montar una empresa**.
+Este año me plantee [algunos objetivos](/2008/12/26/mis-objetivos-para-el-proximo-2009), de los cuales estoy a pocos días de conseguir dos: **perder peso y montar una empresa**.
 
 **Conseguir  perder peso ha sido fácil**. En realidad era cuestión de reordenar mis hábitos alimenticios,  regular mi horario y mantener mi hora diaria dedicada a hacer algo de ejercicio.
 
-El año pasado estuve durante una larga temporada trabajando en casa, eso junto algunos errores que cometí ([grandes lecciones que he aprendido](http://asiermarques.com/2008/09/20/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2)) hicieron que mis horarios se sumiesen en un riguroso y caótico desastre, donde ni de casualidad comía ni cenaba a la misma hora, ni contaba con una dieta precisamente sana. Era habitual encontrarme cenando a las 3 de la mañana, por ejemplo.
+El año pasado estuve durante una larga temporada trabajando en casa, eso junto algunos errores que cometí ([grandes lecciones que he aprendido](/2008/09/20/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2)) hicieron que mis horarios se sumiesen en un riguroso y caótico desastre, donde ni de casualidad comía ni cenaba a la misma hora, ni contaba con una dieta precisamente sana. Era habitual encontrarme cenando a las 3 de la mañana, por ejemplo.
 
 Todo esto ha cambiado, he empezado a desayunar (dos veces), comer sin pan, merendar y cenar pescado (el pescado y yo nunca nos habíamos llevado bien) y lo más importante, seguir un horario constante (excepto en algunas situaciones que es inevitable romperlo).
 

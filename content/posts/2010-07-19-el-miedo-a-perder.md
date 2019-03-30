@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2010-07-19 16:39:42+00:00
 layout: post
-link: http://asiermarques.com/2010/el-miedo-a-perder/
-slug: el-miedo-a-perder
+slug: /2010/el-miedo-a-perder/
 title: El miedo a perder
-wordpress_id: 1357
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Personal
+draft: false
 ---
 
 <blockquote>No hace falta conocer el peligro para tener miedo; de hecho, los peligros desconocidos son los que inspiran más temor.

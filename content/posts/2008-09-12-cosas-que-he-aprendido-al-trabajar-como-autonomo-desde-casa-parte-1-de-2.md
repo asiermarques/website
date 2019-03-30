@@ -1,14 +1,14 @@
 ---
-author: asier
-comments: true
 date: 2008-09-12 17:07:14+00:00
 layout: post
-link: http://asiermarques.com/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/
-slug: cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2
-title: Cosas que he aprendido al trabajar como autónomo desde casa (parte 1 de 2)
-wordpress_id: 740
-categories:
-- Emprendedores
+slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/
+title: Cosas que he aprendido al trabajar como
+  autónomo desde casa (parte 1 de 2)
+template: post
+tags:
+  - Emprendedores
+category: Emprendedores
+draft: false
 ---
 
 Llevo poco tiempo como autónomo (desde Abril de este año) y trabajando desde casa (desde Enero de este año) aún así, he aprendido algunas cosas y me he animado a escribir sobre las mismas.
@@ -127,4 +127,4 @@ Descansar es fundamental para ser más productivos. Piensa que si tienes que res
 
 **Debes desconectar**: vete a cenar/tomar copas con tus amigos, juega a la consola, alquila películas/ve al cine, ve a [conciertos](http://nvivo.es), escápate a una casa rural.. y vete a eventos que organize gente como tú.
 
-[Continúa leyendo la segunda parte](http://asiermarques.com/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/).
+[Continúa leyendo la segunda parte](/2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/).

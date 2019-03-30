@@ -1,18 +1,17 @@
 ---
-author: asier
-comments: true
 date: 2010-11-05 23:06:23+00:00
 layout: post
-link: http://asiermarques.com/2010/busco-companeros-de-podcast/
-slug: busco-companeros-de-podcast
+slug: /2010/busco-companeros-de-podcast/
 title: Busco compañeros de podcast
-wordpress_id: 1460
-categories:
-- Mis Proyectos
-- Personal
+template: post
+tags:
+  - Mis Proyectos
+  - Personal
+category: Personal
+draft: false
 ---
 
-Llevo varios meses con la [idea de hacer un podcast](http://asiermarques.com/2010/04/11/como-seria-tu-podcast-ideal-sobre-tecnologia-e-internet/) dedicado a internet y sus tecnologías, lo que tengo claro es que no quiero hacerlo solo.
+Llevo varios meses con la [idea de hacer un podcast](/2010/04/11/como-seria-tu-podcast-ideal-sobre-tecnologia-e-internet/) dedicado a internet y sus tecnologías, lo que tengo claro es que no quiero hacerlo solo.
 
 Aunque en el pasado cogí algo de experiencia con un programa de radio sobre música electrónica en una emisora local de Bilbao, creo que lo interesante de este proyecto es el debate que pueda generarse.
 

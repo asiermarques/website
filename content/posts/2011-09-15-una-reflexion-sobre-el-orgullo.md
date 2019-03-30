@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
 date: 2011-09-15 21:50:35+00:00
 layout: post
-link: http://asiermarques.com/2011/una-reflexion-sobre-el-orgullo/
-slug: una-reflexion-sobre-el-orgullo
+slug: /2011/una-reflexion-sobre-el-orgullo/
 title: Una reflexión sobre el orgullo
-wordpress_id: 1935
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+template: post
+tags:
+  - Emprendedores
+  - Personal
+  - '[Pe]n[sa]n[do]'
+category: Emprendedores
+draft: false
 ---
 
 Llevo un tiempo pensando sobre la importancia de tener orgullo, sobre todo cuando te tienes que enfrentar a cosas difíciles. El orgullo no te permite acomodarte y te da motivos para ignorar los intentos de los demás por convencerte de que tú no puedes hacer algo.
