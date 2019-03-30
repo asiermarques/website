@@ -35,7 +35,6 @@ Un ejemplo de implementación que se lo salta es la de Active Record que se impl
 Un ejemplo parecido de esto sería este código
 
 ```php
-
 class Message {
 
   public function setFrom( Person $person ) {}
