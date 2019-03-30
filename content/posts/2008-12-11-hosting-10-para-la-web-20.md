@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Desarrollo Web
 draft: false
+description: ""
 ---
 
 En internet las cosas han cambiado. Hace años se avecinaba un cambio, una evolución en internet, al que muchos bautizaron con el criticado nombre (con razón) "web 2.0".

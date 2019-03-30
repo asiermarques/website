@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Soy un persona a la que le gusta definirse metas, por imposibles o absurdas que parezcan. Soy de la opinión de que una meta sólo puede ser considerada absurda por una persona que no quiere ser feliz. Para mí la ilusión de intentarlo es más valiosa y didáctica que el hecho final de alcanzar tus objetivos.

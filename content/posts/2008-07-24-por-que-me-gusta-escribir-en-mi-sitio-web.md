@@ -2,14 +2,14 @@
 date: 2008-07-24 00:44:04+00:00
 layout: post
 slug: /2008/por-que-me-gusta-escribir-en-mi-sitio-web/
-title: Por qué me gusta escribir en mi sitio
-  web
+title: Por qué me gusta escribir en mi sitio web
 template: post
 tags:
   - Memes
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Hacía bastante tiempo que no me pasaban un meme y ha sido [Neokrisys](http://neokrisys.com/2008/07/23/10-razones-por-las-que-me-gusta-bloguear/) quien lo ha hecho. La cuestión que se plantea es **"por qué te gusta bloguear"**.

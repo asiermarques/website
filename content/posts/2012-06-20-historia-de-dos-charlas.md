@@ -8,6 +8,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Quería compartir con vosotros una experiencia que he tenido recientemente, algo que he aprendido a fuego, a pesar de que conocía la teoría al dedillo.

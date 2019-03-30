@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 En el 2005 fui a dar una charla al instituto donde cursé el módulo superior de administración de sistemas informáticos.  

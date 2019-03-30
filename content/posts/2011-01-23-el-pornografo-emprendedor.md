@@ -9,6 +9,7 @@ tags:
   - Libros
 category: Negocio
 draft: false
+description: ""
 ---
 
 Durante esta última semana necesitado tomar una semana de descanso por diversas razones de peso y, mientras lo hacía, he tenido la oportunidad de leer este apasionante libro escrito por [Gavin Griffiths](http://www.thebloke.co.uk/).

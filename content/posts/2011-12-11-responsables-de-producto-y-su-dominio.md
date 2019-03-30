@@ -11,6 +11,7 @@ tags:
   - Producto
 category: Citas
 draft: false
+description: ""
 ---
 
 "Puede ser peligroso para un responsable de producto tener demasiada experiencia en un dominio concreto.

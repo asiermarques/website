@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Hace unos tres años [comentaba que los servicios de hosting necesitaban un cambio](/2008/12/11/hosting-10-para-la-web-20/), adaptarse a las necesidades que en ese momento empezaban a tener los profesionales de la web.

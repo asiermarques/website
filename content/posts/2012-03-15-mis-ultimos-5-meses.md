@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Como sabéis los que me conocéis o leéis este blog, en Octubre dí [el paso de tomar un camino distinto](/2011/11/21/simettric/) que necesitaba tomar tanto a nivel personal como profesional.

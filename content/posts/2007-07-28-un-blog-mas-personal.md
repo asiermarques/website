@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Este blog se está convirtiendo poco a poco en un repositorio de apuntes y enlaces técnicos que es para lo que fue pensado. Mi idea fue recoger en éste sitio todo lo que viese en el día a día tecnológicamente interesante (desde mis inquietudes), sin importarme en número de post ni la periodicidad ni las modas, buscaba y busco la calidad de la información contenida en él.

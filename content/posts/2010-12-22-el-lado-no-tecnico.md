@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Hoy hace unos dos años desde que elegimos el logotipo de Blackslot y sobre un año y medio desde que montamos las mesas sobre las que hoy trabajamos.

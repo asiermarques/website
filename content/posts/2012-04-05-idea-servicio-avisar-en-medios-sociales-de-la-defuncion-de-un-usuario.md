@@ -1,13 +1,14 @@
 ---
 date: 2012-04-05 15:41:37+00:00
 layout: post
-slug: /2012/idea-servicio-avisar-en-medios-sociales-de-la-defuncion-de-un-usuario/
+slug:  /2012/idea-servicio-avisar-en-medios-sociales-de-la-defuncion-de-un-usuario/
 title: 'Idea: servicio que permite a familiares avisar en medios sociales de la defunción de un usuario'
 template: post
 tags:
   - Ideas de proyectos
 category: Ideas de proyectos
 draft: false
+description: ""
 ---
 
 Esta idea se me ocurrió en el 2008, como no creo que la llegue a ejecutar nunca la publico [como suelo hacer en este blog](/category/ideas-de-proyectos/).

@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Bueno escribo esto tras llegar de cenar "al lado" [de la playa](http://maps.google.es/maps?f=q&hl=es&geocode=&q=kukullo,sopelana&sll=43.390298,-2.989075&sspn=0.005551,0.010042&ie=UTF8&ll=43.390938,-2.992659&spn=0.011102,0.020084&t=k&z=16&om=1), y ver [mi lector de rss](http://www.google.com/reader) lleno de cosas interesantes para leer e investigar.

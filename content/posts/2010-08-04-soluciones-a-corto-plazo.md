@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 <blockquote>"Siempre hay un plan"

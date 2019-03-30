@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Éste es un tema que llevo ya algún tiempo teniendo en discusiones con varias personas y todos coincidimos en lo mismo, la situación es tan evidente como crítica: **todos los nombres que se te ocurran para tu proyecto están ya registrados**.

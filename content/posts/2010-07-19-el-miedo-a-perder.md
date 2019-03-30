@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 <blockquote>No hace falta conocer el peligro para tener miedo; de hecho, los peligros desconocidos son los que inspiran más temor.

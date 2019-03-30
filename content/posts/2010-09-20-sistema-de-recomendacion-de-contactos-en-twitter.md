@@ -15,6 +15,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Desarrollo
 draft: false
+description: ""
 ---
 
 Desde hace un tiempo he estado dándole vueltas a un sistema de recomendación de contactos en twitter.

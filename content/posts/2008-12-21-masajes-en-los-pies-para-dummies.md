@@ -9,6 +9,7 @@ tags:
   - Sexo
 category: Personal
 draft: false
+description: ""
 ---
 
 Ante todo **no me considero un experto en este campo**, este es un intento por reunir algunas cosas que he aprendido practicando y leyendo sobre el tema.

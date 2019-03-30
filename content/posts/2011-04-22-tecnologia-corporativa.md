@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Desde hace algunos años, sobre todo desde que tuve la oportunidad de empezar y aprender del mundo del desarrollo para internet (para crear negocios o simplemente proyectos), veo las cosas de forma muy distinta a mis excompañeros y otros profesionales que conozco encerrados en proyectos corporativos colosales, o que tienen una intencionada apariencia sobredimensionada y compleja.

@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Hace meses leí **[una entrada en el blog de Desencadenado](http://desencadenado.com/2012/01/no-necesitas-un-cofundador-tecnico.html)** en el cual se argumentaba sobre por qué si eres una empresa que empieza en Internet y ninguno de sus promotores son de perfil técnico, **no necesitas un cofundador técnico**.

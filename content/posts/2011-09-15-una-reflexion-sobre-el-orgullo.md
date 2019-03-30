@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Llevo un tiempo pensando sobre la importancia de tener orgullo, sobre todo cuando te tienes que enfrentar a cosas difíciles. El orgullo no te permite acomodarte y te da motivos para ignorar los intentos de los demás por convencerte de que tú no puedes hacer algo.

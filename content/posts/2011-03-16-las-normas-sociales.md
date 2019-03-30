@@ -11,6 +11,7 @@ tags:
   - Personal
 category: Internet
 draft: false
+description: ""
 ---
 
 Estos días me estoy releyendo el libro [Las trampas del deseo](http://www.casadellibro.com/libro-las-trampas-del-deseo-como-controla-los-impulsos-irracionales-qu-e-nos-llevan-al-error/2900001235988) de [Dan Ariely](http://danariely.com/), ya que tiene distintos ejemplos que explican ciertos resultados curiosos que estamos obteniendo de algunas de las acciones de marketing que estamos ejecutando desde [Blackslot](http://blackslot.com).

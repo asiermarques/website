@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Bueno éste es mi primer post en ésta sección que va a tratar a modo de diario en el que contaré cosas que hago, pensamientos, cosas que me interesan etc.

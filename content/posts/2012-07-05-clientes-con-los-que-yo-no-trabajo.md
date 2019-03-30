@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Desde hace unos años vemos cómo se dice que hay falta de buenos programadores. [Hay quien no está de acuerdo y debate](http://www.bonillaware.com/la-falacia-del-programador-perdido) con que hay falta de empresas que paguen --el sueldo-- que un buen programador merece. 

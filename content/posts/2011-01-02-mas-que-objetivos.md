@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Suele ser tradición hacer un repaso en tu blog de los objetivos que te planteaste el año pasado y los que te propones para el que empieza. Este año yo no lo voy a hacer.

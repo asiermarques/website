@@ -11,6 +11,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Desde que empezó el año mi tiempo se ha ido esfumando a una velocidad alarmante. Por suerte, y a pesar de que creo se podría optimizar mejor, creo que está siendo bien invertido.

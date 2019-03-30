@@ -9,6 +9,7 @@ tags:
   - Internet
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Imprescindible e inspiradora presentación de [Chad Dickerson](http://blog.chaddickerson.com/), director técnico en [Etsy.com](http://etsy.com).

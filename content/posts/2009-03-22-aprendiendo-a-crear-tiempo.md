@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Diario
 draft: false
+description: ""
 ---
 
 Últimamente no escribo mucho por aquí ni por otros medios en los que suelo contar mis batallas personales y profesionales.

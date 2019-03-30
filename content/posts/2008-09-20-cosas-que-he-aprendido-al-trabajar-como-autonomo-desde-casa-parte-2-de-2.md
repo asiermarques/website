@@ -2,8 +2,7 @@
 date: 2008-09-20 00:10:14+00:00
 layout: post
 slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/
-title: Cosas que he aprendido al trabajar como
-  autónomo desde casa (parte 2 de 2)
+title: Cosas que he aprendido trabajando como autónomo desde casa (parte 2 de 2)
 template: post
 tags:
   - Emprendedores
@@ -11,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Esta es la continuación de algo que empecé escribiendo a modo de reflexión personal de las lecciones que he aprendido o he puesto en práctica trabajando como autónomo desde casa.

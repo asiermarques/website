@@ -2,13 +2,13 @@
 date: 2008-09-12 17:07:14+00:00
 layout: post
 slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/
-title: Cosas que he aprendido al trabajar como
-  autónomo desde casa (parte 1 de 2)
+title: Cosas que he aprendido trabajando como autónomo desde casa (parte 1 de 2)
 template: post
 tags:
   - Emprendedores
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Llevo poco tiempo como autónomo (desde Abril de este año) y trabajando desde casa (desde Enero de este año) aún así, he aprendido algunas cosas y me he animado a escribir sobre las mismas.

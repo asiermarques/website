@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Diario
 draft: false
+description: ""
 ---
 
 No estoy enamorado de ti. Ni del sonido ni del agradable olor de emites. Ni siquiera del brillo del sol reflejado en tu cara que provoca que me quede cómo un ser inmóvil mirándote, cómo si fuese un árbol centenario ahí plantado contemplando un atardecer de tantos.  Tampoco de la tranquilidad que puedes conseguir y que consigues traspasarme con sólo mirarte, de una forma tan inexplicablemente precisa.

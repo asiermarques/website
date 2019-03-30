@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Negocios
 draft: false
+description: ""
 ---
 
 Hoy he tenido una experiencia interesante con la Sociedad General de Autores y Editores ([SGAE](http://www.sgae.es)). Resulta que desde hace unos días llevo dándole vueltas a la posibilidad de crear [un blog](http://www.entrediscos.com) sobre música electrónica, en el que iría escribiendo en mis escasos ratos libres con un antiguo amigo, amante de ese estilo de música -entre otros- como yo, opinando sobre novedades o clásicos dentro de ese estilo musical.

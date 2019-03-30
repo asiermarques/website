@@ -1,7 +1,7 @@
 ---
 date: 2010-07-18 18:44:22+00:00
 layout: post
-slug: /2010/redes-sociales-empresas-y-personas/
+slug:  /2010/redes-sociales-empresas-y-personas/
 title: Redes sociales, empresas y personas
 template: post
 tags:
@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 En los últimos tres años hemos descubierto el poder que tienen este tipo de sitios y servicios web sobre las empresas, consumidores y personas (que van incluídas en el grupo anterior y en algunas ocasiones, también en el primero).

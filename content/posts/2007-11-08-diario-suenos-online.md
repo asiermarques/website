@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Como no puedo dormir sin decir algunas cosas (a quien quiera que quiera leerlas), he decidido escribir una nueva entrada en el diario.

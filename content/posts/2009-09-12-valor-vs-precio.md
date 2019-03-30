@@ -8,6 +8,7 @@ tags:
   - Emprendedores
 category: Negocio
 draft: false
+description: ""
 ---
 
 Una de las principales cosas que aprendes cuando te metes a emprender una empresa sin tener ni idea de economía, contabilidad y tienes el dinero justo es precisamente, a valorarlo.

@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Últimamente he estado recordando aquellos proyectos que he empezado y que nunca han visto la luz o que sí la han visto pero no han pasado de la fase de salida.

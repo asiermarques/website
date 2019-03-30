@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Una de las cosas que más rabia me da de algunas personas es la habilidad que tienen para limitar sus propias expectativas de éxito ante cualquier reto.

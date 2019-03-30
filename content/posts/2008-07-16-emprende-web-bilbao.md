@@ -12,6 +12,7 @@ tags:
   - Internet
 category: Eventos
 draft: false
+description: ""
 ---
 
 Hace algunos meses [intenté organizar un evento](/2008/01/30/phpbilbaoorg/) para desarrolladores php en Bilbao. La idea era juntar a personas que desarrollasen aplicaciones web para compartir experiencias.

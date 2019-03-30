@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Ideas de proyectos
 draft: false
+description: ""
 ---
 
 Ya sé lo que pensará la mayoría: esa idea ya existe, se llama [readItlater](http://readitlater.com/).

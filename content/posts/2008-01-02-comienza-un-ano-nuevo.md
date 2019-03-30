@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Ante todo con éste post quería desearos un buen año y animaros a conseguir vuestras metas.

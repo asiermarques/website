@@ -10,6 +10,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 He decidido escribir éste post para hacer una pausa entre las tareas que tenía preparadas para el día de hoy, y resumir lo que he estado haciendo éstas dos últimas semanas.

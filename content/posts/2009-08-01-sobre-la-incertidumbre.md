@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 La incertidumbre, esa sensación que puede provocar inquietud a la hora de enfrentarse a lo desconocido, en mi opinión lejos de ser el "mayor enemigo para un emprendedor" como dicen algunos, yo más bien la considero una instructora e incluso una compañera de viaje.

@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 He visto que [Neokrisys](http://neokrisys.com/2007/11/14/cosas-sobre-mi/) y  [Kialaya](http://kialaya.blogspot.com/2007/11/meme-interrogatorio-de-tercer-grado.html) tienen un meme abierto en su blog y voy a seguirlo.

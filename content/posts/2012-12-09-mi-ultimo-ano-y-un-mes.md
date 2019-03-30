@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 Hacía algún tiempo que no hacía una [recapitulación escrita](/2012/03/15/mis-ultimos-5-meses/) de lo que he hecho en los últimos meses a pesar de que os puedo asegurar que ha sido el año más intenso que recuerdo, de hecho, estos dos últimos años han sido los años que más cosas he aprendido de mí mismo y los últimos cuatro, además de ser en los que más he aprendido en general, han sido en los que más vivo me he sentido con diferencia.

@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Llevo varios meses con la [idea de hacer un podcast](/2010/04/11/como-seria-tu-podcast-ideal-sobre-tecnologia-e-internet/) dedicado a internet y sus tecnologías, lo que tengo claro es que no quiero hacerlo solo.

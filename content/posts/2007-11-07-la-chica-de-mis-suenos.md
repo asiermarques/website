@@ -11,6 +11,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Internet
 draft: false
+description: ""
 ---
 
 He visto [un micropost de Gina](http://twitter.com/Plastidecor/statuses/394732062) (la chica ésta de [ginatonic.net](http://www.ginatonic.net)) en [twitter](http://twitter.com/asiermarques/with_friends), en la que hablaba de un enlace que le resultaba romático y al entrar para curiosear me he encontrado con una muy grata sorpresa... **esto**:

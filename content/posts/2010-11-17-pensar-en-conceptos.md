@@ -9,6 +9,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 Soy un adicto a pensar en nuevos conceptos, o darle vueltas a otros existentes, para generar ideas ejecutables en áreas que me apasionan y mayormente en el contexto de internet.

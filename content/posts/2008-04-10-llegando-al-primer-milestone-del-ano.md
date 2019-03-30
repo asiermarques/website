@@ -1,7 +1,8 @@
 ---
 date: 2008-04-10 01:38:54+00:00
 layout: post
-slug: /2008/llegando-al-primer-milestone-del-ano/
+slug: >
+  /2008/llegando-al-primer-milestone-del-ano/
 title: Llegando al primer milestone del año
 template: post
 tags:
@@ -9,6 +10,7 @@ tags:
   - Personal
 category: Diario
 draft: false
+description: ""
 ---
 
 [Cómo os conté al empezar el año](/2008/01/02/comienza-un-ano-nuevo/), éste 2008 iba a ser un año diferente en el que iba a tener una actitud también diferente, a la hora de plantearme **nuevas metas** que afectaran a la dirección que va tomando mi carrera profesional.

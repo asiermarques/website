@@ -1,8 +1,10 @@
 ---
 date: 2007-10-06 23:50:59+00:00
 layout: post
-slug: /2007/8-cosas-que-probablemente-no-sabes-de-mi/
-title: 8 cosas que probablemente no sabes de
+slug: >
+  /2007/8-cosas-que-probablemente-no-sabes-de-mi/
+title: >
+  8 cosas que probablemente no sabes de
   mí
 template: post
 tags:
@@ -10,6 +12,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 Acabo de ver que [Carol](http://esteinar.wordpress.com/) ("[Esteinar](http://esteinar.wordpress.com/2007/09/01/significado-de-stinr/)") me ha dejado un meme en su blog y, no podría negar a seguir un meme que proviene de una chica tan atractivamente geek :)

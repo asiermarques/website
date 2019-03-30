@@ -10,6 +10,7 @@ tags:
   - Producto
 category: Marketing
 draft: false
+description: ""
 ---
 
 Esta semana mi socia [Irene Vidal](http://www.linkedin.com/in/irenevidal) de [4Visions](http://4visionsmanager.com), ha publicado un post sobre **[el trabajo de presupuestar](http://4visionsmanager.com/es/2012/04/17/presupuestos-a-quien-corresponde-hacerlos/)**.

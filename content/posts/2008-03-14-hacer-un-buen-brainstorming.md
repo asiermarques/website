@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Innovación
 draft: false
+description: ""
 ---
 
 Actualmente para poder diferenciarte a la hora de ofrecer un servicio **debes innovar**. Ésto en algunos campos como en el desarrollo web es una obligación, especialmente si quieres desarrollar un proyecto personal que resulte interesante.

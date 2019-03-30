@@ -2,14 +2,14 @@
 date: 2008-03-31 20:27:53+00:00
 layout: post
 slug: /2008/carlos-sanchez-el-valor-de-las-redes-sociales-en-la-gestion-de-contenidos-web/
-title:
-  - web
+title: Carlos Sánchez, el valor de las redes sociales en la gestión de contenidos web
 template: post
 tags:
   - Desarrollo Web
   - Internet
 category: Desarrollo
 draft: false
+description: ""
 ---
 
 [Carlos Sánchez](http://blog.txarly.com), fundador y director de [nvivo internet](http://nvivo.es) (nvivo.es), hizo algunas semanas una ponencia sobre redes sociales.

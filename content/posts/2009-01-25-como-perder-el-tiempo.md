@@ -10,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Personal
 draft: false
+description: ""
 ---
 
 **1 - Contesta a tus emails inmediatamente**. Contestar tus emails en el acto es una práctica grandiosa para perder el tiempo. Con mucha suerte lograrás tener respuestas inmediatas, transformando tu bandeja de entrada en un chat.

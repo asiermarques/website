@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 He visto que [Carlos Mantero](http://www.carlosmantero.com/como-me-inicie-en-internet-en-5-preguntas/) me ha enviado éste meme en el que se responden 5 preguntas para volver al pasado y contar cómo te iniciaste en <strike>[interneeeeeeeé](http://www.youtube.com/watch?v=2OBZHB5I89A)</strike> internet. Voy a responderlo pues:

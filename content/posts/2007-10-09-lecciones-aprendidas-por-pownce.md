@@ -9,6 +9,7 @@ tags:
   - Internet
 category: Desarrollo
 draft: false
+description: ""
 ---
 
 [Leah Curver](http://www.leahculver.com), cofundadora de Pownce, ha publicado en su blog la presentación que dirigió en el [Future of Web Applications 2007](http://www.futureofwebapps.com/).

@@ -9,6 +9,7 @@ tags:
   - Marketing
 category: Negocio
 draft: false
+description: ""
 ---
 
 La palabra emprender hoy en día es una palabra tan devaluada que no somos realmente conscientes de lo que realmente es un emprendedor.

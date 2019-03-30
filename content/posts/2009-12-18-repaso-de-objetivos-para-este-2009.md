@@ -9,6 +9,7 @@ tags:
   - Personal
 category: Personal
 draft: false
+description: ""
 ---
 
 El 26 de Diciembre del año pasado [me plantee una serie de objetivos](/2008/12/26/mis-objetivos-para-el-proximo-2009/), que voy a repasar en las siguientes líneas.

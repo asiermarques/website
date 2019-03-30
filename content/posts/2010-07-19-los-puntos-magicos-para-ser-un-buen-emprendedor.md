@@ -2,8 +2,7 @@
 date: 2010-07-19 23:32:22+00:00
 layout: post
 slug: /2010/los-puntos-magicos-para-ser-un-buen-emprendedor/
-title: Los puntos mágicos para ser un buen
-  emprendedor
+title: Los puntos mágicos para ser un buen emprendedor
 template: post
 tags:
   - Emprendedores
@@ -11,6 +10,7 @@ tags:
   - '[Pe]n[sa]n[do]'
 category: Emprendedores
 draft: false
+description: ""
 ---
 
 Quizá una de las primeras cosas que alguien hace si quiere emprender en el mundo de internet es leer sobre el tema. Ya sean los libros más recomendados (el arte de empezar, el libro negro del emprendedor, la semana laboral de 4 horas, padre rico, padre pobre...) o los blogs de personas que han tenido éxito emprendiendo (o no) y que ofrecen consejos sobre el tema.
