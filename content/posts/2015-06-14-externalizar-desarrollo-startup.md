@@ -1,20 +1,18 @@
 ---
-author: asier
-comments: true
-date: 2015-06-14 18:00:24+00:00
-layout: post
-link: http://asiermarques.com/2015/externalizar-desarrollo-startup/
-slug: externalizar-desarrollo-startup
 title: Sobre externalizar tu desarrollo si eres una Startup
-wordpress_id: 4139
-categories:
-- Emprendedores
-- Negocios
+date: "2015-06-14 18:00:24+00:00"
+template: "post"
+draft: false
+slug: "/2015/externalizar-desarrollo-startup/"
+category: "Desarrollo"
+tags:
+  - "Emprendedores"
+  - "Negocios"
+
+description: "Hace unos días Joel Gascoigne, cofundador de la herramienta SaaS para social media Buffer, escribió en su blog tres razones para no subcontratar el desarrollo de tu startup en freelances o agencias de desarrollo"
 ---
 
 Hace unos días **Joel Gascoigne**, cofundador de la herramienta SaaS para social media [Buffer](http://buffer.com), escribió en su blog** [tres razones para no subcontratar el desarrollo de tu startup](http://joel.is/3-reasons-you-shouldnt-outsource-your-startup-and-what-to-do-instead/) en freelances o agencias de desarrollo**.
-
-[caption id="" align="aligncenter" width="640"]![](https://farm9.staticflickr.com/8633/16224676073_1a302545f7_z_d.jpg) Imagen por [John Kraus](https://www.flickr.com/photos/johny/16224676073/)[/caption]
 
 Me parece un tema interesante, sobre todo para contar mi opinión trabajando con clientes que son startups en [Simettric](http://simettric.com).
 

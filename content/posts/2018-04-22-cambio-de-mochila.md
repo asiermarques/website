@@ -1,15 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2018-04-22 16:08:31+00:00
-layout: post
-link: http://asiermarques.com/2018/cambio-de-mochila/
-slug: cambio-de-mochila
 title: Cambio de mochila
-wordpress_id: 4357
-categories:
-- Diario
-- Personal
+date: "2018-04-22 16:08:31+00:00"
+template: "post"
+draft: false
+slug: "/2018/cambio-de-mochila/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+description: "Tengo una especie de ritual cada vez que cambio de etapa profesional y consiste en cambiar también de mochila. No se trata de algo metafórico, literalmente cambio la mochila en la que suelo llevar el portátil.
+
+Este año he elegido cambiar de mochila. Es la tercera vez que lo hago. Después de diez años como autónomo, tres empresas creadas y siete años trabajando en remoto, desde Febrero he comenzado una nueva etapa profesional."
 ---
 
 Tengo una especie de ritual cada vez que cambio de etapa profesional y consiste en cambiar también de mochila. No se trata de algo metafórico, literalmente cambio la mochila en la que suelo llevar el portátil.
@@ -36,7 +37,9 @@ Sin embargo también veo más postureo de buenrollismo y charlas orientadas a cu
 
 Y en este sentido, esperamos también aportar desde [elComité](http://elcomite.bio) nuestro granito de arena. Desde hace un año estamos trabajando en este sentido y nos gusta también hacerlo en compañía de otras comunidades, fuera incluso de Euskadi.
 
-De momento, esto es todo. Llevaba tiempo sin escribir en el blog, en parte por la duda de si este tipo de entradas aportan valor. Todo feedback es bienvenido :)
+De momento, esto es todo. Llevaba tiempo sin escribir en el blog, en parte por la duda de si este tipo de entradas aportan valor. 
+
+Todo feedback es bienvenido :)
 
 
 

@@ -1,15 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2016-04-24 12:36:27+00:00
-layout: post
-link: http://asiermarques.com/2016/ultimos-cuatro-meses/
-slug: ultimos-cuatro-meses
 title: Mis últimos cuatro meses
-wordpress_id: 4217
-categories:
-- Diario
-- Personal
+date: "2016-06-05 21:56:19+00:00"
+template: "post"
+draft: false
+slug: "/2016/ultimos-cuatro-meses/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+
+description: "Hace cuatro meses me establecí en Cihuri], La Rioja con el firme propósito de realizar cambios en mi agencia Simettric e impulsar ideas de servicios que se desarrollarían como producto propio de la misma."
 ---
 
 Hace cuatro meses me establecí en [Cihuri](https://es.wikipedia.org/wiki/Cihuri), La Rioja con el firme propósito de realizar cambios en mi agencia [Simettric](http://simettric.com) e impulsar ideas de servicios que se desarrollarían como producto propio de la misma.

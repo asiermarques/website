@@ -1,14 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2013-04-11 13:48:22+00:00
-layout: post
-link: http://asiermarques.com/2013/conceptos-sobre-apis-rest/
-slug: conceptos-sobre-apis-rest
 title: Conceptos sobre APIs REST
-wordpress_id: 3650
-categories:
-- Desarrollo Web
+date: "2013-04-11 13:48:22+00:00"
+template: "post"
+draft: false
+slug: "/2013/conceptos-sobre-apis-rest/"
+category: "Desarrollo"
+tags:
+  - "Desarrollo web"
+  - "APIs Web"
+description: "REST nos permite crear servicios y aplicaciones que pueden ser usadas por cualquier dispositivo o cliente que entienda HTTP, por lo que es increíblemente más simple y convencional que otras alternativas que se han usado en los últimos diez años como SOAP y XML-RPC."
 ---
 
 En esta entrada voy a resumir los conceptos más importantes que he tratado en mis ponencias sobre REST.
@@ -179,7 +179,7 @@ Cuando realizamos una operación, es vitar saber si dicha operación se ha reali
 
 Un error común sería por ejemplo:
 
-[code]
+```
 Petición
 ========
 PUT /facturas/123
@@ -193,7 +193,7 @@ Content:
   code:    734,
   error:   "datos insuficientes"
 }
-[/code]
+```
 
 En este ejemplo se devuelve un código de estado 200, que significa que la petición se ha realizado correctamente, sin embargo, estamos devolviendo en el cuerpo de la respuesta un error y no el recurso solicitado en la URL.
 
@@ -217,7 +217,7 @@ HTTP tiene un abanico muy amplio que cubre todas las posibles indicaciones que v
 
 El siguiente ejemplo sería correcto de la siguiente forma:
 
-[code]
+```
 Petición
 ========
 PUT /facturas/123
@@ -229,7 +229,7 @@ Content:
 {
   message: "se debe especificar un id de cliente para la factura"
 }
-[/code]
+```
 
 **Tipos y formatos de contenido.**
 
@@ -241,7 +241,7 @@ Nuestra API devolverá el recurso en el primer formato disponible y, de no poder
 
 En la respuesta, se devolverá el header **Content-Type**, para que el cliente sepa qué formato se devuelve, por ejemplo:
 
-[code]
+```
 Petición
 ========
 GET /facturas/123
@@ -251,7 +251,7 @@ Respuesta
 =========
 Status Code 200
 Content-Type: application/pdf
-[/code]
+```
 
 En este caso, el cliente solicita la factura en epub comprimido con ZIP y de no tenerlo, en pdf o json por orden de preferencia. El servidor le devuelve finalmente la factura en pdf.
 
@@ -265,7 +265,7 @@ Con Hypermedia básicamente añadimos información extra al recurso sobre su con
 
 Aquí tenemos un ejemplo:
 
-[code lang="xml"]
+```
 <pedido>
  <id>666</id>
  <estado>Procesado</estado>
@@ -275,7 +275,7 @@ Aquí tenemos un ejemplo:
    </link>
  </links>
 </pedido>
-[/code]
+```
 
 En este ejemplo vemos cómo indicar en un xml que representa un pedido, el enlace al recurso de la factura relacionada con el mismo.
 
@@ -285,7 +285,7 @@ Para ello conseguir esto, debemos utilizar las cabeceras Accept y Content-Type, 
 
 Por ejemplo:
 
-[code lang="xml"]
+```
 Petición
 ========
 GET /pedido/666
@@ -306,7 +306,7 @@ Content:
    </link>
  </links>
 </pedido>
-[/code]
+```
 
 Como vemos, el cliente solicita el formato **application/nuestra_api+xml** de forma preferente al formato text/xml. De esta forma, le indica al servicio web, que entiende **su formato** **hypermedia** y puede aprovecharlo.
 

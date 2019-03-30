@@ -59,7 +59,7 @@ request.open("GET", "https://api.dominio.com/recurso/", false);
 request.setRequestHeader("API version", "1");
 request.send();
 
-[/code]
+```
 
 En jQuery se añadiría el header de la siguiente forma.
 
@@ -70,6 +70,6 @@ $.ajax(
   {"headers": {"API version": "1"}}
 );
 
-[/code]
+```
 
 En cualquier caso, se elija la opción que se elija es importante tener en cuenta que nuestra API puede cambiar en el futuro y facilitar la vida a los desarrolladores que programen los clientes de la misma siempre es una buena práctica.

@@ -1,14 +1,17 @@
 ---
-author: asier
-comments: true
-date: 2018-04-29 15:49:13+00:00
-layout: post
-link: http://asiermarques.com/2018/principios-solid/
-slug: principios-solid
 title: Principios SOLID
-wordpress_id: 4361
-categories:
-- Desarrollo
+date: "2018-04-29 15:49:13+00:00"
+template: "post"
+draft: false
+slug: "/2018/principios-solid/"
+category: "Desarrollo"
+tags:
+  - "Arquitectura de software"
+description: "Los principios SOLID son la base para diseñar software que sea flexible, testeable y fácil de mantener.
+
+Algunos están ya bastante asumidos por la comunidad de desarrollo, otros no tanto.
+
+En este artículo explicaré cada uno de estos principios con simples ejemplos que representan escenarios típicos de nuestro día a día."
 ---
 
 A pesar de que existe mucho material escrito sobre este tema, en mi día a día me encuentro con software diseñado desde cero sin tener en cuenta algunos o ninguno de los principios SOLID.
@@ -31,7 +34,7 @@ Un ejemplo de implementación que se lo salta es la de Active Record que se impl
 
 Un ejemplo parecido de esto sería este código
 
-[php]
+```php
 
 class Message {
 
@@ -43,11 +46,11 @@ class Message {
 
 }
 
-[/php]
+```
 
 En este código, vemos que una clase mensaje implementa el método "send" para enviarse a sí mismo. Sin embargo, esta responsabilidad debería ser delegada en un objeto cuya labor sea enviar.
 
-[php]
+```php
 
 $user1 = new Person( "Asier" );
 
@@ -69,7 +72,7 @@ $sender = new EmailSender();
 
 $sender->send( $message );
 
-[/php]
+```
 
 Como vemos en el código anterior, la primera ventaja de separar en responsabilidades nuestro código reside en que podemos tener flexibilidad a la hora de trabajar con nuestros mensajes sin cambiar el código de las clases que los representan.
 
@@ -89,7 +92,7 @@ El objetivo a conseguir es hacer extensible tu código sin tener que modificarlo
 
 Pongamos el siguiente ejemplo que no respeta este principio:
 
-[php]
+```php
 
 class SenderFactory {
 
@@ -116,7 +119,7 @@ $sender  = $factory->createFromProtocol('sms');
 
 $sender->send( $message );
 
-[/php]
+```
 
 En esta típica clase de Factoría, tenemos un Switch/Case para crear cada uno de los Sender a los que dará soporte. Si quisiéramos añadir un nuevo tipo de Sender, deberíamos añadir otro case más para el mismo, teniendo que modificar la clase por cada extensión.
 
@@ -124,18 +127,18 @@ Para conseguir respetar el principio Abierto-Cerrado, deberíamos seguir los sig
 
 1) Crear una interfaz para los objeto Sender
 
-[php]
+```php
 interface SenderInterface {
 
   public function send();
 
 }
 
-[/php]
+```
 
 2) Crear un sistema para poder añadir de forma externa las diferentes implementaciones de Senders en la factoría. Un ejemplo simplificado (no utilizar en producción):
 
-[php]
+```php
 
 class SenderFactory {
 
@@ -160,11 +163,11 @@ class SenderFactory {
 
 }
 
-[/php]
+```
 
 De esta forma podríamos añadir de forma externa sin preocuparnos de tener que tocar el código de la factoría:
 
-[php]
+```php
 
 $senderFactory = new SenderFactory();
 
@@ -176,7 +179,7 @@ $sender = $senderFactory->createFromProtocol( 'sms' );
 
 $sender->send( $message );
 
-[/php]
+```
 
 
 
@@ -212,7 +215,7 @@ Esto conlleva varias cosas:
 
 Un ejemplo sobre este último punto: si tenemos esta interfaz
 
-[php]
+```php
 
 interface SenderFactoryInterface {
 
@@ -223,11 +226,11 @@ interface SenderFactoryInterface {
 
 }
 
-[/php]
+```
 
 Esperamos que las clases que implementen la SenderFactoryInterface puedan crear un Sender que hayamos cargado en la misma.
 
-[php]
+```php
 
 class SenderFactory implements SenderFactoryInterface {
 
@@ -242,7 +245,7 @@ class SenderFactory implements SenderFactoryInterface {
 
 }
 
-[/php]
+```
 
 En este ejemplo vemos que hay una condición interna en el método createFromProtocol que decide si funcionar o no con un tipo de protocolo. Esto viola el principio de sustitución de Liscov ya que otra clase que implemente SenderFactoryInterface no tiene por qué contemplar esa condición y esto puede derivar en inestabilidad del sistema al cambiar de SenderFactory.
 
@@ -263,7 +266,7 @@ Al seguir el principio de Segregación de interfaces debemos asegurarnos de que 
 
 Por ejemplo, si tenemos una interfaz que define cómo podemos extraer y guardar datos de un sistema de almacenamiento:
 
-[php]
+```php
 
 interface StorageManagerInterface {
 
@@ -273,11 +276,11 @@ interface StorageManagerInterface {
 
 }
 
-[/php]
+```
 
 Y tenemos una clase que necesite leer datos de ese sistema para imprimirlos:
 
-[php]
+```php
 
 class PrintService {
 
@@ -285,7 +288,7 @@ class PrintService {
  
 }
 
-[/php]
+```
 
 Dentro del método printLines no nos interesa guardar nada en el sistema de almacenamiento. De hecho, sería peligroso hacerlo en ese método, ya que se supone que no vamos a hacer ninguna manipulación, sólo deberíamos imprimir los datos que nos traigamos del sistema de almacenamiento.
 
@@ -293,7 +296,7 @@ Para no saltarnos el principio de Segregación de interfaces, deberíamos separa
 
 Nuestro PrintService ahora ya tiene únicamente los métodos que necesita como vemos en el siguiente ejemplo.
 
-[php]
+```php
 
 interface StorageReaderInterface {
   
@@ -315,7 +318,7 @@ class PrintService {
  public function printLines( StorageReaderInterface $storage ) { } 
  
 }
-[/php]
+```
 
 
 
@@ -324,7 +327,7 @@ class PrintService {
 
 La idea de la inversión de dependencias es que nuestro código dependa siempre de abstracciones, no de clases concretas.
 
-[php]
+```php
 
 // incorrecto
 class NotificationService { 
@@ -344,7 +347,7 @@ class NotificationService {
 
 }
 
-[/php]
+```
 
 En el ejemplo superior vemos cómo respetar este principio y que al inyectar la interfaz SenderInterface, le damos más flexibilidad pudiendo cambiar en un futuro el tipo de Sender sin tener que modificar el código.
 
@@ -352,7 +355,7 @@ Sin embargo, pasar una interfaz no es lo único recomendable. Suele ser habitual
 
 Esto nos genera una dependencia con el framework, lo cual puede ser un problema si luego queremos reutilizar código separándolo en un paquete independiente.
 
-[php]
+```php
 
 class LoggerService { 
 
@@ -360,11 +363,11 @@ class LoggerService {
 
 }
 
-[/php]
+```
 
 Lo ideal sería crear nuestra propia interfaz e implementarla en una clase que haga uso de la interfaz que nos provee el framework. Esto nos permite cambiar en un futuro de framework sin que nuestro código se vea afectado.
 
-[php]
+```php
 
 class FrameworkEventDispatcher 
              implements EventDispatcherInterface {
@@ -380,7 +383,7 @@ class LoggerService {
 
 $logger = new LoggerService( new FrameworkEventDispatcher() );
 
-[/php]
+```
 
 
 

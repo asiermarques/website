@@ -1,12 +1,7 @@
 ---
-author: asier
-comments: false
-date: 2013-10-28 10:37:51+00:00
-layout: page
-link: http://asiermarques.com/en-que-ando-metido/
-slug: en-que-ando-metido
-title: En qué ando metido
-wordpress_id: 3820
+title: "En qué ando metido"
+template: "page"
+slug: /info/en-que-ando-metido/
 ---
 
 El objetivo de esta lista es mostrar un resumen de cosas en las que actualmente estoy trabajando y de las que puedo hablar abiertamente.

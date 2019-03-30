@@ -59,4 +59,4 @@ sqlsrv_free_stmt($s);
 //cerramos la conexión
 sqlsrv_close($c);
 
-[/code]
+```

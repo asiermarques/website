@@ -1,15 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2016-12-19 14:50:33+00:00
-layout: post
-link: http://asiermarques.com/2016/cosas-aprendido-2016/
-slug: cosas-aprendido-2016
 title: Cosas que he aprendido en 2016
-wordpress_id: 4295
-categories:
-- Diario
-- Personal
+date: "2016-12-19 14:50:33+00:00"
+template: "post"
+draft: false
+slug: "/2016/cosas-aprendido-2016/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+
+description: "En las comunidades relacionadas con el mundo del desarrollo de software tenemos una cosa muy buena y es la gente que se anima a compartir su experiencia, lo que ha aprendido e incluso código para que otros desarrolladores puedan aportar valor en su día a día, sin privarse de invertir tiempo con los suyos."
 ---
 
 **El equilibrio lo es todo. **

@@ -1,20 +1,20 @@
 ---
-author: asier
-comments: true
-date: 2015-12-25 19:04:08+00:00
-layout: post
-link: http://asiermarques.com/2015/parentesis/
-slug: parentesis
 title: Un pequeño paréntesis
-wordpress_id: 4190
-categories:
-- Diario
-- Personal
+date: "2015-12-25 19:04:08+00:00"
+template: "post"
+draft: false
+slug: "/2015/parentesis/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+
+description: "Es imposible para mi en estos momentos escribir lo que ha supuesto en mi vida mi paso por Sevilla de estos dos últimos años."
 ---
 
 Es imposible para mi en estos momentos escribir lo que ha supuesto en mi vida mi paso por Sevilla de estos dos últimos años.
 
-![Vista desde las Setas](http://asiermarques.com/wp-content/uploads/2015/12/11385145_686457901454447_1126923462_n.jpg)
+![Vista desde las Setas](/media/11385145_686457901454447_1126923462_n.jpg)
 
 Puedo decir que Sevilla es una ciudad con un potencial brutal y cuenta con gente trabajando día a día para hacer que así sea.
 
@@ -42,7 +42,7 @@ He hecho y me han pasado muchas más cosas interesantes durante estos dos años
 
 Cuando estás en movimiento conoces a gente nueva, gente increíble, y te metes en mil fregados que al final te hacen aprender y conocer a más personas de esas que merece la pena tener en tu vida a nivel profesional, personal o ambas si eres afortunado.
 
-![](http://asiermarques.com/wp-content/uploads/2015/12/11820417_133835476955885_1370760536_n.jpg)
+![](/media/11820417_133835476955885_1370760536_n.jpg)
 
 Estoy muy emocionado de empezar este nuevo año experimentando este paréntesis en un sitio brutal y tranquilo, donde el contexto rural creo que me va a aportar también nueva perspectiva y serenidad para cumplir los objetivos que me marcado.
 

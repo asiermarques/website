@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2016-06-05 21:56:19+00:00
-layout: post
-link: http://asiermarques.com/2016/buen-desarrollador-software/
-slug: buen-desarrollador-software
 title: El buen desarrollador de software
-wordpress_id: 4236
-categories:
-- Desarrollo
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2016-06-05 21:56:19+00:00"
+template: "post"
+draft: false
+slug: "/2016/buen-desarrollador-software/"
+category: "Desarrollo"
+tags:
+  - "Personal"
+  - "Desarrollo de software"
+
+description: "Estamos hartos de escuchar el término nómada digital como si fuese una doctrina a seguir, pero realmente esto es solo una elección en la forma en la que trabajas. No necesitas ser un nómada, ni trabajar en remoto pero si quieres, puedes hacerlo."
 ---
 
 ![Strip-Faire-payer-la-formation-650-finalenglish-1 (1)](http://asiermarques.com/wp-content/uploads/2016/06/Strip-Faire-payer-la-formation-650-finalenglish-1-1.jpg)

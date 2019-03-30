@@ -1,19 +1,18 @@
 ---
-author: asier
-comments: true
-date: 2016-06-20 00:28:16+00:00
-layout: post
-link: http://asiermarques.com/2016/trabajar-en-remoto/
-slug: trabajar-en-remoto
 title: Trabajar en remoto
-wordpress_id: 4260
-categories:
-- Mis Proyectos
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2016-06-20 00:28:16+00:00"
+template: "post"
+draft: false
+slug: "/2016/trabajar-en-remoto/"
+category: "Proyectos"
+tags:
+  - "Personal"
+  - "Mis proyectos"
+
+description: "Estamos hartos de escuchar el término nómada digital como si fuese una doctrina a seguir, pero realmente esto es solo una elección en la forma en la que trabajas. No necesitas ser un nómada, ni trabajar en remoto pero si quieres, puedes hacerlo."
 ---
 
-![10748111_1534441890135825_555708309_n](http://asiermarques.com/wp-content/uploads/2016/06/10748111_1534441890135825_555708309_n-e1466380886787.jpg)
+![10748111_1534441890135825_555708309_n](/media/10748111_1534441890135825_555708309_n-e1466380886787.jpg)
 
 Hace unas semanas leí un genial artículo de [Jurgen Appelo](http://jurgenappelo.com/) que llevaba el título "[Stop remote working](https://www.linkedin.com/pulse/stop-remote-working-jurgen-appelo)".
 

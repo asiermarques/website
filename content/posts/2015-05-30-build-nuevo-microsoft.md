@@ -1,21 +1,20 @@
 ---
-author: asier
-comments: true
-date: 2015-05-30 17:57:20+00:00
-layout: post
-link: http://asiermarques.com/2015/build-nuevo-microsoft/
-slug: build-nuevo-microsoft
 title: Lo que vi en el Build 2015 y el nuevo Microsoft
-wordpress_id: 4125
-categories:
-- Desarrollo
-- Innovación
-- Personal
+date: "2015-05-30 17:57:20+00:00"
+template: "post"
+draft: false
+slug: "/2015/build-nuevo-microsoft/"
+category: "Eventos"
+tags:
+  - "Desarrollo"
+  - "Personal"
+
+description: "Hace casi un mes estuve en San Francisco y gracias a Microsoft, acudí a su evento más importante para desarrolladores, el Build"
 ---
 
 Hace casi un mes estuve en San Francisco y gracias a Microsoft, acudí a su evento más importante para desarrolladores, el [Build](http://www.buildwindows.com/).
 
-[![11193070_503361936494064_1696561452_n](http://asiermarques.com/wp-content/uploads/2015/05/11193070_503361936494064_1696561452_n.jpg)](http://asiermarques.com/wp-content/uploads/2015/05/11193070_503361936494064_1696561452_n.jpg)
+![](/media/11193070_503361936494064_1696561452_n.jpg)
 
 Lo primero que me impactó de este evento antes de ir es que costando la entrada 2000$ se agotasen el mismo día. Más de 5000 desarrolladores de nivel internacional acudieron al evento. Siendo español y organizador de eventos técnicos, esto me llama poderosamente la atención ya que en España hay poca costumbre de asumir inversiones de mucha más baja cuantía independientemente de la calidad del evento al que queramos acudir.
 

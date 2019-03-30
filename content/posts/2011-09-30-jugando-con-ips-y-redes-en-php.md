@@ -95,7 +95,7 @@ $resultado_en_binario = $ip_en_binario & $mascara_en_binario;
 
 echo long2ip( bindec( $resultado_en_binario ) );
 
-[/code]
+```
 
 Tal y como esperábamos, el resultado que nos devuelve este script es 192.168.128.0, que es la dirección de red a la que pertenece la ip 192.168.129.3/18.
 

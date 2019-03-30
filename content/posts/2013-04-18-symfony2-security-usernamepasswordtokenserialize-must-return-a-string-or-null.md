@@ -31,6 +31,6 @@ public function __sleep(){
    return array('id', 'username', 'email');
 }
 
-[/code]
+```
 
 This sets the id, email and username as the desired attributes to serialize ignoring the mappings and other properties in the Entity.

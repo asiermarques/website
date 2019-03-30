@@ -1,17 +1,17 @@
 ---
-author: asier
-comments: true
-date: 2018-06-20 11:37:01+00:00
-layout: post
-link: http://asiermarques.com/2018/el-perfil-paracetamol/
-slug: el-perfil-paracetamol
-title: El perfil Paracetamol
-wordpress_id: 4399
-categories:
-- Desarrollo
+title: El perfil paracetamol
+date: "2018-06-20 11:37:01+00:00"
+template: "post"
+draft: false
+slug: "/2018/el-perfil-paracetamol/"
+category: "Desarrollo"
+tags:
+  - "Desarrollo de software"
+  - "Gestión"
+description: "Hace algunos años, compartía con un gran amigo y colega del sector varios botellines casi congelados de 1906 en una de las geniales terrazas que hay por Alameda de Hércules en Sevilla. En una de las conversaciones surgió que en su equipo había dos personas que cuando no estaban, el trabajo parecía no salir adelante."
 ---
 
-![](http://asiermarques.com/wp-content/uploads/2018/06/Paracetamol-skeletal.png)
+![](/media/Paracetamol-skeletal.png)
 
 
 Hace algunos años, compartía con un gran amigo y colega del sector varios botellines casi congelados de 1906 en una de las geniales terrazas que hay por Alameda de Hércules en Sevilla. En una de las conversaciones surgió que en su equipo había dos personas que cuando no estaban, el trabajo parecía no salir adelante.

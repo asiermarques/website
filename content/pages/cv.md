@@ -1,12 +1,7 @@
 ---
-author: asier
-comments: false
-date: 2007-05-21 11:08:09+00:00
-layout: page
-link: http://asiermarques.com/curriculum-vitae/
-slug: curriculum-vitae
-title: CV
-wordpress_id: 139
+title: "Currículum Vitae"
+template: "page"
+slug: /info/cv/
 ---
 
 También puedes encontrarme [en linkedin](http://linkedin.com/in/asier).

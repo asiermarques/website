@@ -54,5 +54,5 @@ $app->register(new Silex\Provider\SecurityServiceProvider(), array(
 
 $app->register(new \Silex\Provider\RememberMeServiceProvider());
 
-[/code]
+```
   *[InvalidArgumentException]: InvalidArgumentException

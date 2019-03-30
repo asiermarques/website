@@ -26,7 +26,7 @@ La tecnología más importante usada en nvivo es la siguiente:
 
 Por nuestra experiencia hemos podido comprobar que no es nada dramático implementarlo y su configuración es bastante cómoda e intuitiva. Los cambios se pueden hacer en caliente, sin parar el servicio, tanto en configuración como en actualización del propio binario del servidor.
 
-**[PHP](http://php.net) en [FastCGI.](http://www.fastcgi.com/)** Es requisito para servir aplicaciones php en nginx, y dicho requisito hace que la aplicación se sirva de una forma mucho más potente que si se sirviese en modo cgi normal. Esto es posible ya que trabajando en Fastcgi, no es necesario levantar el proceso cgi de php por cada petición, sino que php se mantiene levantado y responde de inmediato a las peticiones que le llegan desde el servidor.
+**```php(http://php.net) en [FastCGI.](http://www.fastcgi.com/)** Es requisito para servir aplicaciones php en nginx, y dicho requisito hace que la aplicación se sirva de una forma mucho más potente que si se sirviese en modo cgi normal. Esto es posible ya que trabajando en Fastcgi, no es necesario levantar el proceso cgi de php por cada petición, sino que php se mantiene levantado y responde de inmediato a las peticiones que le llegan desde el servidor.
 
 [**Smarty**](http://smarty.php.net). Además de permitirnos separar la lógica de presentación y el html del resto de capas de la aplicación, juega un papel fundamental tanto en la caché del sitio como en su modularidad.
 
