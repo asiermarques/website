@@ -1,17 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2014-03-31 14:35:23+00:00
-layout: post
-link: http://asiermarques.com/2014/el-camino-correcto/
-slug: el-camino-correcto
 title: El camino correcto
-wordpress_id: 3923
-categories:
-- Emprendedores
-- Negocios
-- Personal
-- '[Pe]n[sa]n[do]'
+date: 2014-04-31 12:38:59+00:00
+template: "post"
+draft: false
+slug: "/2014/el-camino-correcto/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Negocios"
+
+description: "Desde que tengo memoria no me han faltado ocasiones de conocer a un montón de personas que no han dudado en expresar lo equivocado que estaba al elegir un camino en lugar de otro."
 ---
 
 Desde que tengo memoria no me han faltado ocasiones de conocer a un montón de personas que no han dudado en expresar lo equivocado que estaba al elegir un camino en lugar de otro.

@@ -11,6 +11,7 @@ categories:
 - Desarrollo Web
 ---
 
+
 Por la naturaleza de mi entorno profesional, lidio con conceptos de IT y redes en mi día a día que me ayudan a tener frescos conceptos que aprendí hace ya algún tiempo cursando el temario del programa [CCNA](http://www.cisco.com/web/learning/netacad/course_catalog/CCNAexploration.html) de Cisco y del [MCSE](http://www.microsoft.com/learning/en/us/certification/mcse.aspx) de Microsoft.
 
 Concretamente en el área de redes, es muy útil saber cómo hacer subredes o saber a qué red pertenece una ip en concreto haciendo operaciones AND binarias con las máscaras y direcciones a evaluar.
@@ -85,7 +86,7 @@ En este escenario utilizaremos tan sólo dos cosas:
 
 Volviendo al anterior ejemplo, podemos saber a qué dirección de red pertenece la ip 192.168.129.3/18 de la siguiente forma:
 
-[code language="php"]
+```php
 
 $ip_en_binario        = decbin( ip2long( "192.168.129.3" ) );
 

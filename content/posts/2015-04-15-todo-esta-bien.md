@@ -1,18 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2015-04-15 10:13:49+00:00
-layout: post
-link: http://asiermarques.com/2015/todo-esta-bien/
-slug: todo-esta-bien
 title: Todo está bien
-wordpress_id: 4113
-categories:
-- Diario
-- Emprendedores
-- Negocios
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2015-04-15 10:13:49+00:00"
+template: "post"
+draft: false
+slug: "/2015/todo-esta-bien/"
+category: "Personal"
+tags:
+  - "Diario"
+  - "Negocios"
+  - "Personal"
+
+description: "Hace año y medio me vine a vivir a Sevilla. Mi mente me pedía a gritos un cambio drástico en el 2013 tras pelear profesionalmente durante los últimos seis años de una forma muy dura en la zona del Gran Bilbao."
 ---
 
 Hace año y medio me vine a vivir a Sevilla. Mi mente me pedía a gritos un cambio drástico en el 2013 tras pelear profesionalmente durante los últimos seis años de una forma muy dura en la zona del [Gran Bilbao](http://es.wikipedia.org/wiki/Gran_Bilbao).

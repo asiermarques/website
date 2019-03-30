@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2011-04-07 15:32:11+00:00
-layout: post
-link: http://asiermarques.com/2011/artesanio/
-slug: artesanio
 title: Artesanio
-wordpress_id: 1626
-categories:
-- Mis Proyectos
-- Personal
-- Proyectos
+date: "2011-04-07 15:32:11+00:00"
+template: "post"
+draft: false
+slug: "/2011/artesanio/"
+category: "Personal"
+tags:
+  - "Mis Proyectos"
+  - "Negocios"
+  - "Personal"
+description: "Jose ha anunciado hoy la apertura oficial de Artesanio que será este próximo Lunes 11 de Abril."
 ---
 
 [![](http://asiermarques.com/wp-content/uploads/2011/04/27543_116466571710881_7563_n.jpg)](http://artesanio.com)[Jose](http://venzario.wordpress.com/) ha anunciado hoy [la apertura oficial de Artesanio](http://blog.artesanio.com/2011/04/fecha-de-lanzamiento-11-de-abril/) que será este **próximo Lunes 11 de Abril**.

@@ -1,14 +1,13 @@
 ---
-author: asier
-comments: true
-date: 2012-12-04 14:57:51+00:00
-layout: post
-link: http://asiermarques.com/2012/versiones-en-nuestra-api-rest/
-slug: versiones-en-nuestra-api-rest
 title: Versiones en nuestra API REST
-wordpress_id: 2675
-categories:
-- Desarrollo Web
+date: "2012-12-04 14:57:51+00:00"
+template: "post"
+draft: false
+slug: "/2012/versiones-en-nuestra-api-rest/"
+category: "Desarrollo"
+tags:
+  - "APIs"
+description: "Una de las cosas que hay que tener en cuenta cuando hacemos una API es que esta, al igual que otro tipo de aplicaciones web, va a cambiar."
 ---
 
 Una de las cosas que hay que tener en cuenta cuando hacemos una API es que esta, al igual que otro tipo de aplicaciones web, va a cambiar.
@@ -52,7 +51,7 @@ Después en el servidor podremos separar las versiones de las APIs en distintos 
 
 En javascript por ejemplo tendríamos el siguiente código para añadir un header http a nuestra llamada AJAX.
 
-[code lang="javascript"]
+```
 
 var request = new XMLHttpRequest();
 request.open("GET", "https://api.dominio.com/recurso/", false);
@@ -63,7 +62,7 @@ request.send();
 
 En jQuery se añadiría el header de la siguiente forma.
 
-[code lang="javascript"]
+```
 
 $.ajax(
   "https://api.dominio.com/recurso/",

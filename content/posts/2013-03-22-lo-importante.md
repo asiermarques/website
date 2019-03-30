@@ -1,16 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2013-03-22 12:22:22+00:00
-layout: post
-link: http://asiermarques.com/2013/lo-importante/
-slug: lo-importante
 title: Lo importante
-wordpress_id: 3633
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-03-22 12:22:22+00:00"
+template: "post"
+draft: false
+slug: "/2013/lo-importante/"
+category: "Negocios"
+tags:
+  - "Personal"
+  - "Negocios"
+description: "Hay algo que aprendes cuando te pones en serio a crear un negocio: el valor de centrarte en vender, ejecutar con éxito lo que vendes y tener en la cabeza una fórmula muy sencilla: ingresos - gastos**."
 ---
 
 Hay algo que aprendes cuando te pones en serio a crear un negocio: el valor de centrarte en **vender**, **ejecutar** con éxito lo que vendes **y** tener en la cabeza una fórmula muy sencilla: **ingresos - gastos**.

@@ -1,18 +1,18 @@
 ---
-author: asier
-comments: true
-date: 2013-12-31 16:53:04+00:00
-layout: post
-link: http://asiermarques.com/2013/mi-no-resumen-del-2013/
-slug: mi-no-resumen-del-2013
 title: Mi no resumen del 2013
-wordpress_id: 3870
-categories:
-- Diario
-- Personal
+date: "2013-12-31 16:53:04+00:00"
+template: "post"
+draft: false
+slug: "/2013/mi-no-resumen-del-2013/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+
+description: "Si tuviese que hacer un resumen de este año, de las cosas que he hecho, sé que terminaría por no acabar este texto, quedaría abandonado en la aburrida cesta que forman los demás borradores que nunca terminaré de escribir. Básicamente lo sé porque lo he intentado dos veces y justo ahí es donde han quedado los dos intentos, en mis borradores."
 ---
 
-![cabrio](http://asiermarques.com/wp-content/uploads/2013/12/cabrio.jpg)
+![cabrio](/media/cabrio.jpg)
 
 Si tuviese que hacer un resumen de este año, de las cosas que he hecho, sé que terminaría por no acabar este texto, quedaría abandonado en la aburrida cesta que forman los demás borradores que nunca terminaré de escribir. Básicamente lo sé porque lo he intentado dos veces y justo ahí es donde han quedado los dos intentos, en mis borradores.
 

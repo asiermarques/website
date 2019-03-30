@@ -1,16 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2011-11-21 20:06:45+00:00
-layout: post
-link: http://asiermarques.com/2011/simettric/
-slug: simettric
 title: Simettric
-wordpress_id: 2070
-categories:
-- Mis Proyectos
-- Personal
-- Proyectos
+date: "2011-11-21 20:06:45+00:00"
+template: "post"
+draft: false
+slug: "/2011/simettric/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Negocios"
+description: "Como muchos ya sabéis, desde hace un mes dejé de formar parte del equipo de Blackslot, empresa que cofundé en el 2009 y que va en el mejor camino para convertirse en la mejor opción de servicios de hosting de calidad/precio en España."
 ---
 
 Como muchos ya sabéis, desde hace un mes dejé de formar parte del equipo de [Blackslot](http://blackslot.com), empresa que cofundé en el 2009 y que va en el mejor camino para convertirse en la mejor opción de servicios de hosting de calidad/precio en España.

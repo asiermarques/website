@@ -1,16 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2011-03-05 00:45:52+00:00
-layout: post
-link: http://asiermarques.com/2011/cierra-los-ojos/
-slug: cierra-los-ojos
 title: Cierra los ojos
-wordpress_id: 1570
-categories:
-- Diario
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2011-03-05 00:45:52+00:00"
+template: "post"
+draft: false
+slug: "/2011/cierra-los-ojos/"
+category: "Personal"
+tags:
+  - "Diario"
+  - "Personal"
+description: "Como algunos ya sabéis, he estado algo así como un mes y una semana fuera de toda actividad relacionada con un ordenador y por lo tanto, con mi trabajo y prácticamente mi vida. Me he recuperado de una enfermedad bastante grave en la córnea del ojo derecho que me llegó incluso a impedir encender la luz de cualquier habitación en la que me encontrase."
 ---
 
 [![Try to Escape from what we were](http://farm4.static.flickr.com/3533/3802272718_059b40596f_m.jpg)](http://www.flickr.com/photos/33370236@N06/3802272718/)¿Qué opinas de todo lo que te rodea? ¿Tiene el mismo sentido o importancia que hace unos segundos, cuando podías ver cada cosa o persona que está a tu lado?

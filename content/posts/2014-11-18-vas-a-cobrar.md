@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2014-11-18 18:44:39+00:00
-layout: post
-link: http://asiermarques.com/2014/vas-a-cobrar/
-slug: vas-a-cobrar
 title: Vas a cobrar
-wordpress_id: 4056
-categories:
-- Emprendedores
-- Negocios
+date: "2014-11-18 18:44:39+00:00"
+template: "post"
+draft: false
+slug: "/2014/vas-a-cobrar/"
+category: "Negocios"
+tags:
+  - "Negocios"
+
+description: "Esta mañana he visto como Rafa Vargas exponía en Twitter cinco puntos sobre que él ve claves a la hora de cobrar por tu trabajo y me decidido a aportar mi punto de vista inspirado un poco en su punto de vista."
 ---
 
 ![shutupandtakemymoneys](http://asiermarques.com/wp-content/uploads/2014/11/shutupandtakemymoneys.jpg)

@@ -1,14 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2013-04-18 20:18:53+00:00
-layout: post
-link: http://asiermarques.com/2013/lo-que-le-diria-a-mi-yo-del-pasado/
-slug: lo-que-le-diria-a-mi-yo-del-pasado
 title: Lo que le diría a mi yo del pasado
-wordpress_id: 3678
-categories:
-- Emprendedores
+date: "2013-04-18 20:18:53+00:00"
+template: "post"
+draft: false
+slug: "/2013/lo-que-le-diria-a-mi-yo-del-pasado/"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Negocios"
+
+description: "La primera vez que barajé la idea de montar un negocio, de forma lejana y totalmente ilusa por supuesto, fue en el 2004."
 ---
 
 La primera vez que barajé la idea de montar un negocio, de forma lejana y totalmente ilusa por supuesto, fue en el 2004.

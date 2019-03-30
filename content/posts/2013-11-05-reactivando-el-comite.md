@@ -1,18 +1,19 @@
 ---
-author: asier
-comments: true
-date: 2013-11-05 20:10:19+00:00
-layout: post
-link: http://asiermarques.com/2013/reactivando-el-comite/
-slug: reactivando-el-comite
 title: Reactivando El Comité para mejorar el mercado de Internet en Bilbao
-wordpress_id: 3839
-categories:
-- Internet
-- Personal
+date: "2013-11-05 20:10:19+00:00"
+template: "post"
+draft: false
+slug: "/2013/reactivando-el-comite"
+category: "Eventos"
+tags:
+  - "Personal"
+  - "Proyectos"
+  - "Eventos"
+
+description: "Para los que no lo sepáis, el comité (antes llamado webdevbilbao) es uno de los proyectos en los que he estado activo en los últimos dos años."
 ---
 
-Para los que no lo sepáis, [el comité](http://elcomite.org) (antes llamado webdevbilbao) es uno de los proyectos en los que he estado activo en los últimos dos años.
+Para los que no lo sepáis, [el comité](http://elcomite.net) (antes llamado webdevbilbao) es uno de los proyectos en los que he estado activo en los últimos dos años.
 
 Fue en el 2011 cuando empezamos a organizar un evento periódico llamado webdevbilbao el último jueves de cada mes que tras un año de actividad decidimos cambiar el nombre a El Comité, con el objetivo de que sonase menos a programación y más a hablar de tecnología en general y crear cosas en torno a Internet.
 

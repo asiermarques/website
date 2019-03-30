@@ -1,16 +1,15 @@
 ---
-author: asier
-comments: true
-date: 2013-04-29 21:51:21+00:00
-layout: post
-link: http://asiermarques.com/2013/limites-y-pensamiento-lateral/
-slug: limites-y-pensamiento-lateral
 title: Límites y pensamiento lateral
-wordpress_id: 3743
-categories:
-- Innovación
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-04-29 21:51:21+00:00"
+template: "post"
+draft: false
+slug: "/2013/limites-y-pensamiento-lateral"
+category: "Personal"
+tags:
+  - "Personal"
+  - "Diario"
+
+description: "Hay muchas personas que creen erróneamente que la creatividad es algo con lo que nacemos y que no se puede adquirir o mejorar mediante estudio o entrenamiento."
 ---
 
 Hay muchas personas que creen erróneamente que la creatividad es algo con lo que nacemos y que no se puede adquirir o mejorar mediante estudio o entrenamiento.
@@ -29,7 +28,7 @@ Escuché hablar sobre el pensamiento lateral hace unos ocho años y desde entonc
 
 Un ejemplo se ve claramente al intentar unir todos los puntos en el siguiente dibujo realizando sólo cuatro trazas sin levantar el lápiz del papel.
 
-![dots1](http://asiermarques.com/wp-content/uploads/2013/04/dots1.jpg)
+![dots1](/media/dots1.jpg)
 
 Si lo intentamos como haría una persona normal, llegaremos a la rápida conclusión de que es imposible hacerlo, pero no lo es.
 

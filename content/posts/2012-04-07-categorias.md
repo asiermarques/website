@@ -1,18 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2012-04-07 04:10:14+00:00
-layout: post
-link: http://asiermarques.com/2012/categorias/
-slug: categorias
 title: Categorías
-wordpress_id: 2198
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2012-04-07 04:10:14+00:00"
+template: "post"
+draft: false
+slug: "/2012/categorias/"
+category: "Personal"
+tags:
+  - "Personal"
+description: "Los seres humanos somos increíbles. En serio, tenemos la capacidad de hacer de cualquier cosa una ciencia entendible y mejorable hasta niveles artísticos."
 ---
 
-Los seres humanos somos increíbles. En serio, tenemos la capacidad de hacer de cualquier cosa una ciencia entendible y mejorable hasta niveles artísticos.
+Los seres humanos somos increíbles. En serio, tenemos la capacidad de hacer de cualquier cosa una ciencia entendible y mejorable hasta niveles artísticos.  
 Un ejemplo de ello es la música. Algo que seguramente empezase con un ritmo improvisado, apostaría que causado por un peludo ser pensante al golpear un instrumento tan sotisficado como un palo o una piedra contra algo. De esto no sólo hemos hecho un arte, sino que es matemáticamente posible hacer cálculos sobre la representación de una canción para manipularla o para encontrarla entre una gigantesca base de datos de canciones por comparación con lo que está sonando por un altavoz, gracias a seres humanos que han programado cosas tan útiles como la aplicación para móvil de [Sazam](http://www.shazam.com/).
 
 Hemos conseguido volar también, e incluso hacer que cosas sin vida puedan volar sin chocarse con el primer árbol que se cruce en su camino.

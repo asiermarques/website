@@ -1,16 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2015-03-30 20:36:52+00:00
-layout: post
-link: http://asiermarques.com/2015/pet-projects/
-slug: pet-projects
 title: Pet projects
-wordpress_id: 4096
-categories:
-- Negocios
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2015-04-15 10:13:49+00:00"
+template: "post"
+draft: false
+slug: "/2015/pet-projects/"
+category: "Personal"
+tags:
+  - "Diario"
+  - "Negocios"
+  - "Personal"
+
+description: "El año pasado un artículo escrito por Mikael Cho tuvo bastante impacto en Hacker News y en general en el mundillo de desarrollo de servicios para Internet. En él se describía la exitosa experiencia personal del autor al crear un side project super simple mientras intentaba salvar su proyecto principal."
 ---
 
 El año pasado [este artículo escrito por Mikael Cho](http://blog.pickcrew.com/how-side-projects-saved-our-startup/) tuvo bastante impacto en Hacker News y en general en el mundillo de desarrollo de servicios para Internet. En él se describía la exitosa experiencia personal del autor al crear un [side project super simple](https://unsplash.com/) mientras intentaba salvar su proyecto principal.

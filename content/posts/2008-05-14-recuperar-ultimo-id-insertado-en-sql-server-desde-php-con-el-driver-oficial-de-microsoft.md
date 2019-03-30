@@ -17,7 +17,7 @@ Microsoft ha publicó hace unos meses la [versión RTM de su driver oficial para
 
 Vamos a usar dicho driver para mostrar cómo recuperaríamos el último id insertado en una tabla.
 
-[code lang="php"]
+```php
 
 //Especificamos el servidor
 $server = "HOSTINSTANCIA";

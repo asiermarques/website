@@ -1,19 +1,17 @@
 ---
-author: asier
-comments: true
-date: 2013-03-17 17:45:50+00:00
-layout: post
-link: http://asiermarques.com/2013/por-que-mis-tweets-caducan/
-slug: por-que-mis-tweets-caducan
 title: Por qué mis Tweets caducan
-wordpress_id: 3621
-categories:
-- Mis Proyectos
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-03-17 17:45:50+00:00"
+template: "post"
+draft: false
+slug: "/2013/por-que-mis-tweets-caducan/"
+category: "Personal"
+tags:
+  - "Negocios"
+description: "Últimamente he reflexionado mucho sobre el uso que se le daba hace seis años a esa herramienta y el que se le da ahora."
 ---
 
-[caption id="" align="alignleft" width="210"][![](http://farm1.staticflickr.com/44/182613360_6d76db726a.jpg)](http://www.flickr.com/photos/jackdorsey/182613360) Boceto inicial de Twitter, por JackDorsey (@jack)[/caption]
+
+[![](http://farm1.staticflickr.com/44/182613360_6d76db726a.jpg)](http://www.flickr.com/photos/jackdorsey/182613360) Boceto inicial de Twitter, por JackDorsey (@jack)
 
 **Soy usuario de [Twitter](http://twitter.com) desde el 2007.** Últimamente he reflexionado mucho sobre el uso que se le daba hace seis años a esa herramienta y el que se le da ahora.
 

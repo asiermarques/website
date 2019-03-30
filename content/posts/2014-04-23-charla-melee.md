@@ -1,18 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2014-04-23 11:19:50+00:00
-layout: post
-link: http://asiermarques.com/2014/charla-melee/
-slug: charla-melee
 title: Charla sobre negocio creando servicios para Internet en The Mêlée
-wordpress_id: 3941
-categories:
-- Emprendedores
-- Eventos
-- Internet
-- Negocios
-- Personal
+date: "2014-04-23 11:19:50+00:00"
+template: "post"
+draft: false
+slug: "/2014/charla-melee/"
+category: "Eventos"
+tags:
+  - "Personal"
+  - "Negocios"
+  - "Eventos"
+
+description: "La comunidad de The Mêlée suele estar presente en algunas iniciativas que hacemos desde El Comité por eso me hizo mucha ilusión que me invitasen a dar una charla cuando comenté en Twitter que me apetecía visitar su hermosa ciudad, San Sebastián."
 ---
 
 La comunidad de [The Mêlée ](http://themelee.org/)suele estar presente en algunas iniciativas que hacemos desde [El Comité](http://elcomite.org) por eso me hizo mucha ilusión que me invitasen a dar una charla cuando comenté en Twitter que me apetecía visitar su hermosa ciudad, [San Sebastián](http://es.wikipedia.org/wiki/San_Sebasti%C3%A1n).

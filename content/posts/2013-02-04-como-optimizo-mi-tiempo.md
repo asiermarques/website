@@ -1,16 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2013-02-04 18:23:49+00:00
-layout: post
-link: http://asiermarques.com/2013/como-optimizo-mi-tiempo/
-slug: como-optimizo-mi-tiempo
 title: Cómo optimizo mi tiempo
-wordpress_id: 3265
-categories:
-- Emprendedores
-- Negocios
-- Personal
+date: "2013-02-04 18:23:49+00:00"
+template: "post"
+draft: false
+slug: "/2013/como-optimizo-mi-tiempo/"
+category: "Negocios"
+tags:
+  - "Negocios"
+  - "Personal"
+description: "Esto no es una guía de productividad ni un artículo para dar consejos o algo por el estilo, espero que no lo tomes así. Simplemente voy a comentar una serie de cosas o hábitos que me funcionan y a los que me he acostumbrado en mi día a día para poder lidiar con todos los fregados en los que me suelo meter."
 ---
 
 Esto no es una guía de productividad ni un artículo para dar consejos o algo por el estilo, espero que no lo tomes así. Simplemente voy a comentar una serie de cosas o hábitos que me funcionan y a los que me he acostumbrado en mi día a día para poder lidiar con todos los fregados en los que me suelo meter.

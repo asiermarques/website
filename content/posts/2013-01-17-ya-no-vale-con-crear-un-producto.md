@@ -1,16 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2013-01-17 12:04:35+00:00
-layout: post
-link: http://asiermarques.com/2013/ya-no-vale-con-crear-un-producto/
-slug: ya-no-vale-con-crear-un-producto
 title: Ya no vale con crear un producto
-wordpress_id: 3255
-categories:
-- Innovación
-- Marketing
-- Producto
+date: "2013-01-17 12:04:35+00:00"
+template: "post"
+draft: false
+slug: "/2013/ya-no-vale-con-crear-un-producto/"
+category: "Negocios"
+tags:
+  - "Negocios"
+  - "Personal"
+description: "Quien haya trabajado conmigo desarrollando servicios para Internet, ya sea proveedor, cliente o socio, sabrá la importancia que le doy a crear comunidad entorno al producto o servicio que se esté desarrollando."
 ---
 
 Quien haya trabajado conmigo desarrollando servicios para Internet, ya sea proveedor, cliente o socio, sabrá la importancia que le doy a crear comunidad entorno al producto o servicio que se esté desarrollando.

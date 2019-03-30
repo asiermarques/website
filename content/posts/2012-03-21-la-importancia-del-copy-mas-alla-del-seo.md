@@ -1,17 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2012-03-21 03:15:24+00:00
-layout: post
-link: http://asiermarques.com/2012/la-importancia-del-copy-mas-alla-del-seo/
-slug: la-importancia-del-copy-mas-alla-del-seo
 title: La importancia del copy, más allá del SEO
-wordpress_id: 2181
-categories:
-- Internet
-- Marketing
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2012-03-21 03:15:24+00:00"
+template: "post"
+draft: false
+slug: "/2012/la-importancia-del-copy-mas-alla-del-seo/"
+category: "Producto"
+tags:
+  - "Personal"
+  - "Negocios"
+  - "Producto"
+  - "Desarrollo"
+description: "in duda, el texto es el elemento más importante en cualquier sitio web. Aunque en este artículo hablaré sobre sitios web y no aplicaciones web, en éstas últimas los textos son críticas para la usabilidad y experiencia de usuario."
 ---
 
 Sin duda, el texto es el elemento más importante en cualquier sitio web. Aunque en este artículo hablaré sobre sitios web y no aplicaciones web, en éstas últimas los textos son críticas para la usabilidad y experiencia de usuario.

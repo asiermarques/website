@@ -1,17 +1,13 @@
 ---
-author: asier
-comments: true
-date: 2013-02-10 19:11:08+00:00
-layout: post
-link: http://asiermarques.com/2013/cosas-buenas-que-hacemos-en-espana/
-slug: cosas-buenas-que-hacemos-en-espana
 title: Cosas buenas que hacemos en España
-wordpress_id: 3276
-categories:
-- Ideas de proyectos
-- Internet
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-02-10 19:11:08+00:00"
+template: "post"
+draft: false
+slug: "/2013/cosas-buenas-que-hacemos-en-espana/"
+category: "Negocios"
+tags:
+  - "Negocios"
+description: "Hace algún tiempo lo comenté en twitter, la necesidad de crear un sitio web en el que se compartiesen noticias o artículos exclusivamente de cosas buenas que hacemos en España."
 ---
 
 Hace algún tiempo lo comenté en twitter, la necesidad de crear un sitio web en el que se compartiesen noticias o artículos exclusivamente de cosas buenas que hacemos en España.

@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2013-07-14 20:39:30+00:00
-layout: post
-link: http://asiermarques.com/2013/no-contar-tus-metas/
-slug: no-contar-tus-metas
 title: No contar tus metas
-wordpress_id: 3780
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-07-14 20:39:30+00:00"
+template: "post"
+draft: false
+slug: "/2013/no-contar-tus-metas/"
+category: "Personal"
+tags:
+  - "Personal"
+
+description: "Derek Sivers es una de las personas que más me inspiran en el mundo, es una pena que no haya tenido la oportunidad de desvirtualizarlo todavía."
 ---
 
 [Derek Sivers](http://sivers.org) es una de las personas que más me inspiran en el mundo, es una pena que no haya tenido la oportunidad de desvirtualizarlo todavía.

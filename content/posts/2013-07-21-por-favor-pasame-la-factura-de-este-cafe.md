@@ -1,15 +1,16 @@
 ---
-author: asier
-comments: true
-date: 2013-07-21 12:02:12+00:00
-layout: post
-link: http://asiermarques.com/2013/por-favor-pasame-la-factura-de-este-cafe/
-slug: por-favor-pasame-la-factura-de-este-cafe
 title: Por favor, pásame la factura de este café
-wordpress_id: 3805
-categories:
-- Emprendedores
-- Personal
+date: "2013-07-21 12:02:12+00:00"
+template: "post"
+draft: false
+slug: "/2013/por-favor-pasame-la-factura-de-este-cafe"
+category: "Negocios"
+tags:
+  - "Personal"
+  - "Diario"
+  - "Negocios"
+
+description: "Hace unos meses, quedé con un cliente para tomar un café. No era una reunión de trabajo, simplemente era un café, para hablar y compartir un respiro en nuestras agendas."
 ---
 
 Hace unos meses, quedé con un cliente para tomar un café. No era una reunión de trabajo, simplemente era un café, para hablar y compartir un respiro en nuestras agendas.

@@ -1,15 +1,14 @@
 ---
-author: asier
-comments: true
-date: 2014-04-15 12:38:59+00:00
-layout: post
-link: http://asiermarques.com/2014/mas-madera/
-slug: mas-madera
 title: Más madera
-wordpress_id: 3933
-categories:
-- Personal
-- '[Pe]n[sa]n[do]'
+date: 2014-04-15 12:38:59+00:00
+template: "post"
+draft: false
+slug: "/2014/mas-madera/"
+category: "Personal"
+tags:
+  - "Personal"
+
+description: "Desde que tengo memoria no me han faltado ocasiones de conocer a un montón de personas que no han dudado en expresar lo equivocado que estaba al elegir un camino en lugar de otro."
 ---
 
 ![](https://farm8.staticflickr.com/7318/9050197634_24e01900e0_z.jpg)

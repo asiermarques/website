@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://asiermarques.com',
-  title: 'Blog by Asier Marqués',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  title: 'Asier Marqués, blog personal',
+  subtitle: 'Blog personal y artículos sobre desarrollo de software.',
+  copyright: '',
+  disqusShortname: 'asiermarques',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Artículos',
@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'Asier Marqués',
     photo: '/photo.jpg',
-    bio: 'Blog personal, desarrollo de software entre otros temas.',
+    bio: 'Blog personal y artículos sobre desarrollo de software.',
     contacts: {
       email: 'asiermarques@gmail.com',
       twitter: 'asiermarques',

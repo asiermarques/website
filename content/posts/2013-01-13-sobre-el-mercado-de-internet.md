@@ -1,16 +1,13 @@
 ---
-author: asier
-comments: true
-date: 2013-01-13 23:47:42+00:00
-layout: post
-link: http://asiermarques.com/2013/sobre-el-mercado-de-internet/
-slug: sobre-el-mercado-de-internet
 title: Sobre el mercado de Internet
-wordpress_id: 3241
-categories:
-- Emprendedores
-- Personal
-- '[Pe]n[sa]n[do]'
+date: "2013-01-13 23:47:42+00:00"
+template: "post"
+draft: false
+slug: "/2013/sobre-el-mercado-de-internet/"
+category: "Negocios"
+tags:
+  - "Negocios"
+description: "Aunque profesionalmente, y quizá en cierto grado personalmente, mi mercado es el de Internet y el desarrollo de software para el mismo, tengo el placer de conocer y compartir varios cafés a la semana, junto a sus debidas conversaciones, con líderes de negocios en otros sectores, ya sean amigos, clientes o incluso familiares."
 ---
 
 Aunque profesionalmente, y quizá en cierto grado personalmente, mi mercado es el de Internet y el desarrollo de software para el mismo, tengo el placer de conocer y compartir varios cafés a la semana, junto a sus debidas conversaciones, con líderes de negocios en otros sectores, ya sean amigos, clientes o incluso familiares.
