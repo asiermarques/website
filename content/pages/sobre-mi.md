@@ -6,7 +6,7 @@ slug: /info/about-me/
 
 Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y actualmente resido en Madrid.
 
-Puedes ver en "qué ando metido" actualmente [en este enlace.](/en-que-ando-metido/)
+Puedes ver en "qué ando metido" actualmente [en este enlace.](/info/en-que-ando-metido/)
 
 Empecé mi carrera tecnológica trabajando en el área de sistemas IT en empresas como Softec, Ibermática, Batz Coop. (Grupo Mondragón), Altran (en proyectos para Panda Security y BP Solar) para después pasar al campo de desarrollo web trabajando en nvivo Internet, como autónomo en diversos proyectos web y finalmente como director técnico en Ideateca Factory.
 
@@ -28,7 +28,7 @@ Soy formador y [ponente](http://es.slideshare.net/asiermarques), impartiendo cha
 
 Me apasiona también la música, además de buscar continuamente grupos, artistas y temas, [practico el arte de la mezcla](https://www.mixcloud.com/asiermarques) de música electrónica desde 1997. Me encanta el cine y la cultura/ambiente [geek](http://es.wikipedia.org/wiki/Geek).
 
-Puedes leer [mi currículum en este enlace](/curriculum-vitae/).
+Puedes leer [mi currículum en este enlace](/info/cv/).
 
 Si quieres, puedes contactar conmigo por:
 
