@@ -18,7 +18,7 @@ Este fin de semana he terminado de migrar este blog a Gatsby desde WordPress. Ll
 Desde hace años [Markdown](https://en.wikipedia.org/wiki/Markdown) es mi formato preferido para escribir y documentar prácticamente cualquier cosa, incluso para [crear diagramas](https://mermaidjs.github.io/).  
 Tenía muy claro que quería escribir en este formato.
 
-Markdown es un formato para escribir en texto plano. Al ser texto plano, no sólo puedo escribir más rápido sino que el contenido se almacena lo más "limpio" posible, pudiendo generarse a partir de él documentos Word, archivos PDF, sitios web html estáticos y muchos formatos más gracias a herramientas como [Pandoc](https://pandoc.org/) o scripts que podemos crear en prácticamente cualquier lenguaje de programación.
+Markdown es un formato para escribir en texto plano. Al ser texto plano, no sólo puedo escribir más rápido sino que el contenido se almacena lo más "limpio" posible, pudiendo generarse a partir de él documentos Word, archivos PDF, sitios web html estáticos y muchos formatos más gracias a herramientas como [Pandoc](https://pandoc.org/), editores de texto como [Bear](https://bear.app) o scripts que podemos crear en prácticamente cualquier lenguaje de programación.
 
 ### GIT como almacenamiento de los artículos
 
