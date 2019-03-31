@@ -41,7 +41,7 @@ Esto hace que el formato original del contenido cada vez sea más "sucio" y liga
 Hay infinidad de "generadores de sitios web estáticos", entre ellos los que arriba comento. En mi opinión Jekyll está perdiendo popularidad en favor al resto de opciones.  
 Para mí los que más se ajustaban a lo que necesitaba eran [VuePress](https://vuepress.vuejs.org/) y [Gatsby](https://www.gatsbyjs.org/).
 
-VuePress me encanta, lo uso mucho para documentar y se basa en VUE que es un framework con el que he trabajado para desarrollar aplicaciones web en los últimos años. Sin embargo, para sitios web estáticos y concretamente tipo blog o magazine, Gatsby está bastante más maduro en comunidad.  
+VuePress me encanta, lo uso mucho para documentar y se basa en [VueJs](https://vuejs.org/) que es un framework con el que he trabajado para desarrollar aplicaciones web en los últimos años. Sin embargo, para sitios web estáticos y concretamente tipo blog o magazine, Gatsby está bastante más maduro en comunidad.  
 Gatsby se basa en React por lo que también tiene muy buena base y una sólida arquitectura basada en componentes que facilita mucho el personalizar de forma avanzada el template.
 
 ### La migración
