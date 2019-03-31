@@ -109,7 +109,7 @@ Proyecto para Panda Security - Consultor de sistemas y Calidad/Testing
 
 * Tests de seguridad, funcionalidad y rendimiento de software antivirus en versiones sobre so desde Windows 95 hasta Vista y en entornos de servidores desde NT a 2008, con Exchange 2000/2003/20007, SMS 2003, Active Directory, Sql Server 2005 con alta disponibilidad y clusters.
 
-#### 2005 - 2006, Softec Ibermática, proyecto en Batz Coop. ([Grupo Mondragon](http://es.wikipedia.org/wiki/Corporaci%C3%B3n_Mondragon))
+#### 2005 - 2006, Softec Ibermática, proyecto en Batz Coop, [Grupo Mondragon](http://es.wikipedia.org/wiki/Corporaci%C3%B3n_Mondragon)
 
 
 Realizando labores de técnico de helpdesk y administrador de sistemas en la red de la empresa con entorno de Windows 2003 Server con Directorio Activo y Exchange 2003 Server.
