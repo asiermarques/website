@@ -131,9 +131,7 @@ En una cultura remota es clave el medir y gestionar la comunicación de forma as
 Dejo por aquí algunas opiniones y apuntes interesantes que he recibido por Twitter sobre este artículo.
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Otra técnica que va muy bien son los Architecture Decision Records. Más info en <a href="https://t.co/08mWyYUMRu">https://t.co/08mWyYUMRu</a>, <a href="https://t.co/cNKvOeKmtz">https://t.co/cNKvOeKmtz</a> y <a href="https://t.co/g3QzAswzLQ">https://t.co/g3QzAswzLQ</a></p>&mdash; Vicenç García-Altés (@vgaltes) <a href="https://twitter.com/vgaltes/status/1009408556708388864?ref_src=twsrc%5Etfw">20 de junio de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Mola. Describe más o menos el perfil de Brent en The Phoenix Project (librazo). Otra de las sugerencias que da es asegurarse de que siempre que Mr. Paracetamol tenga que hacer una tarea crítica que solo él conoce la haga en pair con alguien y sin tocar él el teclado.</p>&mdash; Alberto Varela (@artberri) <a href="https://twitter.com/artberri/status/1009490250123628545?ref_src=twsrc%5Etfw">20 de junio de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
