@@ -1,6 +1,6 @@
 ---
 title: Cómo he migrado este blog de WordPress a Gatsby
-date: "2019-03-31 11:37:01+00:00"
+date: "2019-03-31 14:30:01+00:00"
 template: "post"
 draft: false
 slug: "/2019/de-wordpress-a-gatsby/"
@@ -24,7 +24,7 @@ Markdown es un formato para escribir en texto plano. Al ser texto plano, no sól
 
 Podría utilizar cualquier almacenamiento como un servidor FTP, Amazón S3, Dropbox... pero GIT me da algo que el resto no: no me ata a un proveedor. Puedo tener un repositorio inicialmente en Github y replicarlo en Bitbucket, Gitlab o un servidor propio. De hecho, dicho repositorio puede estar replicado en todos esos servidores al mismo tiempo.
 
-Actualmente [tengo el contenido almacenado en GItHub)[https://github.com/asiermarques/website/tree/master/content/posts] y al editar cualquier cosa en el mismo, este sitio web se regenera de forma automática.
+Actualmente [tengo el contenido almacenado en GItHub](https://github.com/asiermarques/website/tree/master/content/posts) y al editar cualquier cosa en el mismo, este sitio web se regenera de forma automática.
 
 ### Qué herramientas estuve barajando
 
@@ -47,21 +47,16 @@ Gatsby se basa en React por lo que también tiene muy buena base y una sólida a
 ### La migración
 
 Para migrar, me basé en este genial artículo de [Tania Rascia](https://www.taniarascia.com/migrating-from-wordpress-to-gatsby/) en el que describe su experiencia de migración.  
-
 Mis pasos fueron los siguientes:
-
 #### 1. Descargar el archivo de exportación de WordPress
-
 Es un xml que puedes descargar desde cualquier WordPress.
 
 #### 2. Correr la utilidad exitwp
-
 [Es un pequeño script escrito en python](https://github.com/thomasf/exitwp) que lee el archivo xml de WordPress y te genera los archivos MarkDown en un directorio de cada post.
 
 La utilidad me encontró algún error de formato de xml a la hora de validar el archivo y tuve que corregirlos a mano.  
 
 #### 3. Limpiar los meta de cada archivo Markdown
-
 Me hice un pequeño script en php que lo que hacía es transformar la meta información que exitwp te genera en cada archivo Markdown.  
 Básicamente era añadir o cambiar campos YAML para que quedase una estructura similar a esta para que Gatsby fuese capaz de indexar cada artículo:
 
@@ -118,5 +113,3 @@ Un detalle que se me pasó fue el cambiar la configuración del DNS para apuntar
 El resultado ha sido poder liberarme de WordPress como plataforma de blog y tener un cómodo sistema que me permite escribir con Markdown y publicar en HTML con un potente sistema de CD similar al que utilizo cuando trabajo programando.
 
 Merece mucho la pena olvidarse de FTP, bases de datos y tener que gestionar otras cosas que no son sacar tiempo para escribir.
-
-
