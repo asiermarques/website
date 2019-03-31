@@ -53,7 +53,7 @@ El algoritmo que evalúe qué contactos de twitter deben estar en las listas q
 Pienso que podría ser una aplicación muy útil, si tenéis alguna sugerencia u os parece una tontería, dejad comentario.
 
 
-[![Domo-kun and devil ducks](http://farm4.static.flickr.com/3263/2801833980_2e5d6215bd.jpg)](http://www.flickr.com/photos/monkeyjenn/2801833980/)
+[![Domo-kun and devil ducks](https://farm4.static.flickr.com/3263/2801833980_2e5d6215bd.jpg)](http://www.flickr.com/photos/monkeyjenn/2801833980/)
 
 
 Siempre es interesante ver otros puntos de vista y aportaciones :)

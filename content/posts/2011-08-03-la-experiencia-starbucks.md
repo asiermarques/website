@@ -13,7 +13,7 @@ draft: false
 description: ""
 ---
 
-[![I Love Starbucks By Beniamino Baj](http://farm4.static.flickr.com/3221/3106600695_f9b75a03cb_m.jpg)](http://www.flickr.com/photos/benji87/3106600695/)He de hacer una confesión, soy un fan crónico de [Starbucks](http://www.starbucks.es/). Cada vez que visito una ciudad que dispone de su presencia siento una necesidad imperiosa de ir a tomarme un Frappucino Venti hasta arriba de nata y a poder ser bañado con chocolate por encima, acompañado siempre de un pastel de queso con frambuesa.
+[![I Love Starbucks By Beniamino Baj](https://farm4.static.flickr.com/3221/3106600695_f9b75a03cb_m.jpg)](http://www.flickr.com/photos/benji87/3106600695/)He de hacer una confesión, soy un fan crónico de [Starbucks](http://www.starbucks.es/). Cada vez que visito una ciudad que dispone de su presencia siento una necesidad imperiosa de ir a tomarme un Frappucino Venti hasta arriba de nata y a poder ser bañado con chocolate por encima, acompañado siempre de un pastel de queso con frambuesa.
 
 He de hacer otra confesión, no me gusta el café de Starbucks.
 

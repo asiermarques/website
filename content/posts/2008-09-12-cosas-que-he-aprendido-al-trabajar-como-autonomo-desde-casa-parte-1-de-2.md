@@ -26,7 +26,7 @@ Los consejos que doy, están dirigidos para mí mismo el primero.
 Para empezar hay que ser consciente de que **trabajar en casa no es ningún chollo** y dependiendo de cómo seas, pueden ser mayores los inconvenientes que las ventajas que conlleva.
 
 
-![home freelance](http://farm4.static.flickr.com/3296/2851367470_bcc4a6b96a.jpg)
+![home freelance](https://farm4.static.flickr.com/3296/2851367470_bcc4a6b96a.jpg)
 
 
 **Es bueno disponer de un espacio acondicionado para trabajar **

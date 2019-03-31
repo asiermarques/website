@@ -11,7 +11,7 @@ tags:
 description: "Como algunos ya sabéis, he estado algo así como un mes y una semana fuera de toda actividad relacionada con un ordenador y por lo tanto, con mi trabajo y prácticamente mi vida. Me he recuperado de una enfermedad bastante grave en la córnea del ojo derecho que me llegó incluso a impedir encender la luz de cualquier habitación en la que me encontrase."
 ---
 
-[![Try to Escape from what we were](http://farm4.static.flickr.com/3533/3802272718_059b40596f_m.jpg)](http://www.flickr.com/photos/33370236@N06/3802272718/)¿Qué opinas de todo lo que te rodea? ¿Tiene el mismo sentido o importancia que hace unos segundos, cuando podías ver cada cosa o persona que está a tu lado?
+[![Try to Escape from what we were](https://farm4.static.flickr.com/3533/3802272718_059b40596f_m.jpg)](http://www.flickr.com/photos/33370236@N06/3802272718/)¿Qué opinas de todo lo que te rodea? ¿Tiene el mismo sentido o importancia que hace unos segundos, cuando podías ver cada cosa o persona que está a tu lado?
 
 ¿Cambiarías alguna de esas cosas o personas por otras si no pudieses verlas nunca más?
 

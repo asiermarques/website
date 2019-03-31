@@ -23,7 +23,7 @@ Aunque todos tenemos nuestro lenguaje preferido, es importante cuando se nos <st
 
 Por otro lado, el Lunes fuí al [parque tecnológico de San Sebastián](http://www.miramon.es) junto a [Alberto Cuadrado](http://blog.albertocuadrado.com) a la conferencia de [Kenneth Morse](http://entrepreneurship.mit.edu/staff.php) "Cómo convertir una idea innovadora en un negocio rentable".
 
-![Ken Morse](http://farm2.static.flickr.com/1116/1443086321_22bbb6d7e7_m.jpg)Keneth Morse es el director del [centro de emprendedores de MIT](http://entrepreneurship.mit.edu/index.php) ([Massachusetts Institute of Technology,](http://web.mit.edu/aboutmit/) el instituto tecnológico más importante del mundo), además de ser el fundador 6 empresas, una de ellas [3com](http://www.3com.es/).
+![Ken Morse](https://farm2.static.flickr.com/1116/1443086321_22bbb6d7e7_m.jpg)Keneth Morse es el director del [centro de emprendedores de MIT](http://entrepreneurship.mit.edu/index.php) ([Massachusetts Institute of Technology,](http://web.mit.edu/aboutmit/) el instituto tecnológico más importante del mundo), además de ser el fundador 6 empresas, una de ellas [3com](http://www.3com.es/).
 
 La conferencia no estuvo mal (aunque no entró en mucha profundidad), resaltando frases/consejos cómo que lo importante en un emprendedor es la _**Integridad**_ tanto personal como moral, **son más importantes los clientes** que las subvenciones/inversiones de los [bussiness angels](http://en.wikipedia.org/wiki/Angel_investor), que **deberíamos apoyarnos**/alegrarnos del éxito de los demás y que,  literalmente, **"El [cash flow](http://es.wikipedia.org/wiki/Flujo_de_caja) es más importante que nuestras madres"**.
 
@@ -40,7 +40,7 @@ Me gustó especialmente cuando presentó la gráfica que sigue a éstas palabras
 
 
 
-![Dos caminos](http://farm2.static.flickr.com/1204/1443948096_3cbd3883b1.jpg)
+![Dos caminos](https://farm2.static.flickr.com/1204/1443948096_3cbd3883b1.jpg)
 
 
 Aunque la conferencia en si fue breve y algo superficial, el networking en el catering estuvo bastante bien. Tuve la oportunidad de conocer y charlar con [Sergio Monge](http://www.sergiomonge.com/) y con Juan Arrue del  				[ZITEK Mintegia](http://www.ikerkuntza.ehu.es/p083-8991/es/contenidos/informacion/zitek/es_zitek/zitek.html) de la UPV.

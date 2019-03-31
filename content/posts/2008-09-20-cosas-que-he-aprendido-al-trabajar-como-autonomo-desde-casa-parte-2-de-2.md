@@ -76,7 +76,7 @@ Ese tipo de clientes puede acaparar todo tu tiempo sin aportar beneficios, evita
 **Si quieres ofrecer servicios en los que no crees que eres tan bueno, tardas demasiado tiempo o no te motivan, externalízalos y trabaja con gente a la que si le resulten interesantes y les motiven.**
 
 
-![screen-capture-21](http://farm4.static.flickr.com/3082/2871615392_2316a18cb2.jpg)
+![screen-capture-21](https://farm4.static.flickr.com/3082/2871615392_2316a18cb2.jpg)
 
 
 

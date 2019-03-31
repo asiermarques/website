@@ -20,7 +20,7 @@ En una red social lo más importante es pensar en el usuario y hacer lo posible 
 
 
 
-[![SlideShare](http://static.slideshare.net/swf/logo_embd.png)](http://www.slideshare.net/?src=embed) | [View](http://www.slideshare.net/nvivo/el-valro-de-las-redes-sociales-enl-a-gestin-de-contenidos-web?src=embed) | [Upload your own](http://www.slideshare.net/upload?src=embed)
+[![SlideShare](https://static.slideshare.net/swf/logo_embd.png)](http://www.slideshare.net/?src=embed) | [View](http://www.slideshare.net/nvivo/el-valro-de-las-redes-sociales-enl-a-gestin-de-contenidos-web?src=embed) | [Upload your own](http://www.slideshare.net/upload?src=embed)
 
 
 

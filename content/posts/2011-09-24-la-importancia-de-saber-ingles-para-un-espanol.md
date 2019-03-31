@@ -12,7 +12,7 @@ draft: false
 description: ""
 ---
 
-[![Anuncio profesor de inglés japón](http://farm1.static.flickr.com/229/448185743_d91b7e8aa2.jpg)](http://www.flickr.com/photos/sonyasonya/448185743)Saber inglés es muy relativo, depende del nivel, fluidez de conversación y perfección gramatical que tenga cada uno (y supongo que existen más factores). Pero creo que cualquier persona en España que no se lo tome en serio, está perdiendo oportunidades cada minuto por no tener contacto con este idioma en su día a día.
+[![Anuncio profesor de inglés japón](https://farm1.static.flickr.com/229/448185743_d91b7e8aa2.jpg)](http://www.flickr.com/photos/sonyasonya/448185743)Saber inglés es muy relativo, depende del nivel, fluidez de conversación y perfección gramatical que tenga cada uno (y supongo que existen más factores). Pero creo que cualquier persona en España que no se lo tome en serio, está perdiendo oportunidades cada minuto por no tener contacto con este idioma en su día a día.
 
 Soy una persona que hasta hace unos cuatro años, daba mucha importancia a la experiencia y conocimientos técnicos casi en exclusiva, llegando a descuidar temas muy transcendentes y realmente útiles para llegar a conseguir lo que de verdad queremos en esta vida.
 
