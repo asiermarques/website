@@ -6,7 +6,7 @@ slug: /info/about-me/
 
 Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y resido de forma habitual en Madrid.
 
-Actualmente trabajo en [Packlink Shipping](https://www.packlink.com/) con los roles de Engineering Manager y Staff Backend Software Engineer.
+Actualmente trabajo en [Packlink Shipping](https://www.packlink.com/) con los roles de Engineering Manager y Staff Software Engineer en el área de Backend.
 
 Puedes ver "en qué ando metido" ahora mismo [en este enlace.](/info/en-que-ando-metido/)
 
