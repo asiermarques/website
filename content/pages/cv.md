@@ -6,7 +6,7 @@ slug: /info/cv/
 
 También puedes encontrarme [en linkedin](http://linkedin.com/in/asier).
 
-## INTERESES
+### INTERESES
  	
 1. Ser feliz creando cosas que importen al mundo.
 
@@ -20,7 +20,7 @@ También puedes encontrarme [en linkedin](http://linkedin.com/in/asier).
 
 6. Trabajo en remoto con una cultura de equipo realmente distribuido.
 
-## ME MOTIVA
+### ME MOTIVA
 
 * Diseño y gestión de producto.
 
@@ -31,30 +31,27 @@ También puedes encontrarme [en linkedin](http://linkedin.com/in/asier).
 * Trabajar con sistemas Kanban o similares, personas con buena comunicación, experiencia y visión senior
 
 
-## IDIOMAS
+### IDIOMAS
 
 * Español nativo.
 
-
 * Inglés.
 
-
 * Euskera: Nivel muy básico en lectura.
-
 
 * Japonés: Nivel de iniciación.
 
 
 
 
-## EXPERIENCIA
+### EXPERIENCIA
 
 
-### Enero 2019 - Actualidad. Engineering Manager en [Packlink Shipping](https://packlink.com)
+#### Enero 2019 - Actualidad. Engineering Manager en [Packlink Shipping](https://packlink.com)
 
-### Febrero 2018 - Diciembre 2018. Responsable del area de arquitectura de software en [Versia](https://www.versia.com/)
+#### Febrero 2018 - Diciembre 2018. Responsable del area de arquitectura de software en [Versia](https://www.versia.com/)
 
-### Octubre 2011 - Abril 2018. Dirección de [Simettric](http://simettric.com).
+#### Octubre 2011 - Abril 2018. Dirección de Simettric Internet Technologies S.L.
 
 Agencia de desarrollo de proyectos de innovación para internet.
 
@@ -62,17 +59,17 @@ Ofrece servicios de desarrollo y asesoramiento para clientes que deseen iniciar 
 
 También se realiza outsourcing de desarrollo y colaboración en proyectos de este tipo.
 
-### Septiembre 2015 - Actualidad. Dirección ejecutiva, diseño de producto en [4Visions Gestió de Projectes, SL](http://4visionsmanager.com).
+#### Septiembre 2015 - Actualidad. Dirección ejecutiva, diseño de producto en 4Visions Gestió de Projectes, SL.
 
 Desarrollamos soluciones de software cloud para el sector lingüistico y de la traducción.
 
-### Febrero 2012 - Agosto 2015. Responsable técnico, diseño de producto en [4Visions Gestió de Projectes, SL](http://4visionsmanager.com).
+#### Febrero 2012 - Agosto 2015. Responsable técnico, diseño de producto en 4Visions Gestió de Projectes, SL
 
-### Abril 2010 - Octubre 2011. Lead Developer y Socio fundador de Artesanio.com
+#### Abril 2010 - Octubre 2011. Lead Developer y Socio fundador de Artesanio.com
 
 Artesanio surge como un proyecto dentro de Blackslot S.L. que ofrece una plataforma saas + red social de comercio electrónico para artesanos a nivel internacional.
 
-### Mayo 2009 - Octubre 2011. CEO y Socio fundador de Blackslot S.L.
+#### Mayo 2009 - Octubre 2011. CEO y Socio fundador de Blackslot S.L.
 
 Empresa dedicada a desarrollar soluciones de infraestructura (cloud y hosting) y de desarrollo web propias, enfocadas para proyectos orientados al sector de internet.
 
@@ -83,19 +80,19 @@ Empresa dedicada a desarrollar soluciones de infraestructura (cloud y hosting) y
 * Gestión, análisis y desarrollo de proyectos.
 
 
-### Enero - Septiembre 2009, Director técnico en Ideate****ca Factory SA
+#### Enero - Septiembre 2009, Director técnico en Ideateca Factory SA
 
-### Abril - Diciembre 2008, Analista desarrollador web freelance
+#### Abril - Diciembre 2008, Analista desarrollador web freelance
 
 Desarrollo de aplicaciones web para internet e intranet
 
 
-### Enero - Abril 2008, NVivo Internet
+#### Enero - Abril 2008, NVivo Internet
 
 Arquitecto y desarrollador web en el proyecto [nvivo.es](http://www.nvivo.es)
 
 
-### 2006 - 2007, Consultor en Altran Technologies (INAD Intelligent Advisors)
+#### 2006 - 2007, Consultor en Altran Technologies (INAD Intelligent Advisors)
 
 Proyecto para BP Solar
 
@@ -112,7 +109,7 @@ Proyecto para Panda Security - Consultor de sistemas y Calidad/Testing
 
 * Tests de seguridad, funcionalidad y rendimiento de software antivirus en versiones sobre so desde Windows 95 hasta Vista y en entornos de servidores desde NT a 2008, con Exchange 2000/2003/20007, SMS 2003, Active Directory, Sql Server 2005 con alta disponibilidad y clusters.
 
-### 2005 - 2006, Softec Ibermática, proyecto en Batz Coop. ([Grupo Mondragon](http://es.wikipedia.org/wiki/Corporaci%C3%B3n_Mondragon))
+#### 2005 - 2006, Softec Ibermática, proyecto en Batz Coop. ([Grupo Mondragon](http://es.wikipedia.org/wiki/Corporaci%C3%B3n_Mondragon))
 
 
 Realizando labores de técnico de helpdesk y administrador de sistemas en la red de la empresa con entorno de Windows 2003 Server con Directorio Activo y Exchange 2003 Server.
@@ -121,7 +118,7 @@ Realizando labores de técnico de helpdesk y administrador de sistemas en la red
 Desarrollando módulos para la intranet de la empresa con asp 3.0 (colaborando en el proceso i+d para la implementación de ajax en la misma, junto al equipo de desarrollo de la empresa)
 
 
-### 2004 - 2004, Colegio Munabe
+#### 2004 - 2004, Colegio Munabe
 
 Realizando las prácticas del módulo de Administración de Sistemas en el centro
 
@@ -132,7 +129,7 @@ Realizando las prácticas del módulo de Administración de Sistemas en el centr
 * Impartir formación en Desarrollo web a personal docente del centro
 
 
-## FORMACIÓN 
+### FORMACIÓN 
 
 2002-2004 Técnico superior en Administración de Sistemas Informáticos
 Ciclo Formativo de Grado Superior. Colegio Gaztelueta. (Leioa - Vizcaya).
@@ -162,7 +159,7 @@ De carácter técnico
 * CNAP (CCNA) de Cisco Systems, Colegio Gaztelueta
 
 
-### Otros
+#### Otros
 
 * Curso gestión de proyectos, Nanfor Ibérica
 * Formación a promotores/as de iniciativas empresariales, Inguralde
