@@ -98,7 +98,7 @@ Yo he elegido [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) y a
 Para los comentarios tuve dudas. La primera es si tienen sentido los comentarios ahora mismo. Llegué a la conclusión de que sí y por eso he decidido dejarlos.
 
 Gatsby tiene ya la opción de serie de enganchar con [Disqus](https://disqus.com), por lo que símplemente tuve que subir mi archivo xml de WordPress y ya ha importado los comentarios en este servicio.  
-Aún estoy ajustando porque no hay reconocido bien alguna ruta o las ha duplicado, pero no es algo que me preocupe en exceso.
+Aún estoy ajustando porque no ha reconocido bien alguna ruta o las ha duplicado, pero no es algo que me preocupe en exceso.
 
 La otra alternativa que ví era [Staticman](https://staticman.net/) que permite tener los comentarios también el repositio GIT. Al no querer complicarme tanto, lo he dejado con Disqus.
 
