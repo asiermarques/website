@@ -35,7 +35,7 @@ Si quieres, puedes contactar conmigo por:
 
 
  	
-  1. Email: asiermarques [at] gmail.com
+  1. Email: asiermarques@gmail.com
 
  	
   2. Twitter: [twitter.com/asiermarques](http://twitter.com/asiermarques)

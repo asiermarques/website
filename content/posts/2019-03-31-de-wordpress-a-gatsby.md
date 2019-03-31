@@ -63,7 +63,7 @@ Básicamente era añadir o cambiar campos YAML para que quedase una estructura s
 ```yaml
 ---
 title: Cómo he migrado este blog de WordPress a Gatsby
-date: "2019-03-31 11:37:01+00:00"
+date: "2019-03-31 14:30:01+00:00"
 template: "post"
 draft: false
 slug: "/2019/de-wordpress-a-gatsby/"
