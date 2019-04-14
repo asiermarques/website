@@ -51,7 +51,7 @@ Pongamos un ejemplo típico en el que nos llega una especificación en formato d
 
 A partir de dicho documento, creamos la especificación en Open Api y mediante la misma, comenzamos a desarrollar el servicio.  
 
-Nuestros compañeros de front utilizan esa especificación para generarse mocks automáticamente y no tener que esperar a que terminemos el servicio para poder empezar a construir su aplicación web progresiva.
+Nuestros compañeros de front utilizan esa especificación para generar mocks automáticamente y no tener que esperar a que terminemos el servicio para poder empezar a construir su aplicación web progresiva.
 
 Resulta que nos damos cuenta de que no se había contemplado una necesidad en el comportamiento de nuestra API.
 
@@ -77,11 +77,11 @@ Cuando pasen los años y otro equipo de desarrollo que no disponga de toda la in
 
 La anterior cita, además de en la Wikipedia, forma parte de este interesante [paper de Gregorio Robles,  Jesus M. Gonzalez-Barahona e Israel Herraiz](http://herraiz.org/papers/english/icsm05short.pdf) además de hablarse sobre ello en el libro [Eating the IT Elephant: Moving from Greenfield Development to Brownfield de Richard Hopkins y Kevin Jenkins](https://www.goodreads.com/book/show/2950819-eating-the-it-elephant)
 
-Si llevamos un tiempo en el desarrollo de software, seguramente hayamos heredado más de una vez un proyecto sin documentación o peor aún, con documentación poco fiable. En otras situaciones, debemos migrar un desarrollo existente para poder actualizarlo, mejorar su mantenimiento o quizás poder a llegar a incluir alguna funcionalidad nueva sin que impacte en el resto de funcionalidades o sistema del que esa pieza forma parte.
+Si llevamos un tiempo en el desarrollo de software, seguramente hayamos heredado más de una vez un proyecto sin documentación o peor aún, con documentación poco fiable. En otras situaciones, debemos migrar un desarrollo existente para poder actualizarlo, mejorar su mantenimiento o quizás poder a llegar a incluir alguna funcionalidad nueva sin que impacte en el resto de funcionalidades o el sistema del que esa pieza forma parte.
 
 La única solución para conocer con seguridad qué hace ese software y cual es su impacto a nivel global, es estudiar sus entrañas y empezar a cubrir con tests de caja negra para ir ganando control y [entendimiento compartido](https://www.igi-global.com/dictionary/shared-understanding/26788) del equipo sobre el mismo.
 
-Sobra decir que esto es un proceso caro. Incluso con la idea de crear una estrategia de refactoring o en el últimos caso y si no queda más remedio, la re-escritura de todo el proyecto, ese tiempo de análisis puede llegar a ser más caro en tiempo o recursos que la propia ejecución del proyecto. A pesar de todo, esta inversión será necesaria para no encontrarnos con la misma situación en el futuro.
+Sobra decir que esto es un proceso caro. Incluso con la idea de crear una estrategia de refactoring o en el caso más extremo, la re-escritura total del proyecto, ese tiempo de análisis puede llegar a ser más caro en tiempo o recursos que la propia ejecución del proyecto. A pesar de todo, esta inversión será necesaria para no encontrarnos con la misma situación en el futuro.
 
 En estas situaciones es donde se ve claro el valor de tener una documentación bien actualizada y eliminar toda "isla de conocimiento". Pero esto no es fácil e implica cambios de cultura en el trabajo del equipo.
 
@@ -231,7 +231,7 @@ Cuidarlos es esencial, y no sólo en proyectos Open Source.
 
 Dependiendo de nuestras necesidades y del proyecto puede ser interesante incluirlos en nuestro pipeline.
 
-#### ADR: Architectural decision records**
+#### ADR: Architectural decision records
 
 [Los ADR](https://adr.github.io/) son una potente herramienta para anotar las decisiones que tomamos a nivel técnico. 
 Se basan en archivos Markdown con la siguiente estructura:
