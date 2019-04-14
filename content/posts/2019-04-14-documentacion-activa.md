@@ -162,7 +162,7 @@ Algunos servicios de mensajería y bases de datos documentales soportan JSON Sch
 **Gherkin**
 
 Gherkin es un lenguaje creado para escribir especificaciones que además nos sirvan como tests automáticos de aceptación. 
-Aunque se creó bajo el paraguas de la herramienta Cucumber del ecosistema Java, Gherkin es independiente de tecnología y frameworks, lo cual lo hace muy versátil y aceptado de forma general en la comunidad de desarrollo.
+Aunque se creó bajo el paraguas de la herramienta [Cucumber](https://en.wikipedia.org/wiki/Cucumber_(software)) del ecosistema Ruby, Gherkin es independiente de tecnología y frameworks, lo cual lo hace muy versátil y aceptado de forma general en la comunidad de desarrollo.
 
 Al ser una herramienta para probar nuestro software, tenemos la oportunidad perfecta para usarlo como documentación que debe estar continuamente actualizada.
 
