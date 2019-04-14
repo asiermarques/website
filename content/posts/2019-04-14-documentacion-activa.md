@@ -129,6 +129,7 @@ Para hacer viable nuestro trabajo escribimos tests unitarios y de integración, 
 Algunas de estas herramientas pueden ser las siguientes:
 
 **Open API/Swagger**
+
 [Open API](https://www.openapis.org/) es una evolución de [Swagger](https://swagger.io/) para especificar APIs REST, WebHooks y posiblemente [Websockets](https://github.com/OAI/OpenAPI-Specification/issues/523) en el futuro.
 
 Esta herramienta nos permite generar documentación en varios formatos e incluso código de clientes para consumir nuestro API y mocks partiendo de una especificación escrita en formato YAML.
@@ -138,11 +139,13 @@ Open API es muy maduro gracias a la adopción que ha tenido Swagger en los últi
 También contamos con la posibilidad de transformar directamente el archivo YAML a formato Markdown gracias a [esta herramienta de Rubens Mariuzzo](https://github.com/rmariuzzo/markdown-swagger)
 
 **AsyncAPI**
+
 [AsyncAPI](https://www.asyncapi.com/) es una iniciativa similar a Open API pero que desarrolla una especificación para APIs de mensajería o comunicación asíncrona.  
 
 Documentar los payloads de los eventos de nuestro sistema es algo fundamental sobretodo en arquitecturas orientadas a eventos como las que se basan en Microservicios.
 
 **JSON Schema**
+
 JSON Schema es una herramienta muy útil para especificar y validar documentos JSON que van a ser integrados o almacenamos en un sistema.
 
 Algunos servicios de mensajería y bases de datos documentales soportan JSON Schema para validar lo que se envía a ellos antes de aceptarlos. En servicios que no los soporten suele ser buena práctica validarlos desde el lado del consumidor o productor del mensaje en nuestra aplicación.
@@ -150,6 +153,7 @@ Algunos servicios de mensajería y bases de datos documentales soportan JSON Sch
 [Existe una herramienta de Adobe](https://github.com/adobe/jsonschema2md)  que nos permite convertir archivos JSON Schema complejos a archivos Markdown.
 
 **ADR: Architectural decision records**
+
 [Los ADR](https://adr.github.io/) son una potente herramienta para anotar las decisiones que tomamos a nivel técnico. 
 Se basan en archivos Markdown con la siguiente estructura:
 
