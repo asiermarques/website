@@ -1,11 +1,8 @@
 ---
 date: 2007-10-06 23:50:59+00:00
 layout: post
-slug: >
-  /2007/8-cosas-que-probablemente-no-sabes-de-mi/
-title: >
-  8 cosas que probablemente no sabes de
-  mí
+slug: /2007/8-cosas-que-probablemente-no-sabes-de-mi/
+title: 8 cosas que probablemente no sabes de mí
 template: post
 tags:
   - Memes
