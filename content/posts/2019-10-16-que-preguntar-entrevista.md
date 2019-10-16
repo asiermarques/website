@@ -11,21 +11,25 @@ tags:
 description: "Para mí, una de las partes más importantes de una entrevista es el turno de preguntas del entrevistado. Para este, es una oportunidad única para obtener información sobre el día a día que va a disfrutar --o sufrir-- en su futuro puesto de trabajo."
 ---
 
-Actualmente, las entrevistas de trabajo son bidireccionales, es decir, los entrevistadores están a ambos lados de la mesa. Esto es especialmente cierto en el sector tecnológico. 
+Las entrevistas de trabajo son bidireccionales, es decir, los entrevistadores están a ambos lados de la mesa.  
+Esto es especialmente cierto en el sector tecnológico. 
 
-Para mí, una de las partes más importantes de una entrevista es el turno de preguntas del entrevistado. 
-Para este, es una oportunidad única para obtener información sobre el día a día que va a disfrutar --o sufrir-- en su futuro puesto de trabajo. 
+Una de las partes más importantes de una entrevista es el turno de preguntas del entrevistado.  
+Para este, es una oportunidad única para obtener información sobre el día a día que va a disfrutar --o sufrir-- en su futuro puesto de trabajo.  
 Para los entrevistadores por otro lado, se trata de una oportunidad para conocer mejor las inquietudes e intereses del candidato. Es muy raro que un candidato no haga preguntas, sobretodo en perfiles senior.
 
 Siempre que he hecho entrevistas, independientemente del lado de la mesa en el que me encuentre, me vienen a la mente de forma recurrente una serie de preguntas que me gustaría hacer o que me hicieran.  
+
 Las siguientes, son una selección de las mismas.
 
 ## ¿Qué pasa si cometo un error?
 
-Todos cometemos errores y probablemente, acaben en producción. 
+Todos cometemos errores y probablemente, acaben en producción.  
+
 Es importante asegurarse de que la empresa cuente con mecanismos que eviten que un gran número de los mismos puedan llegar a producción y en el caso de que lo hagan, los sistemas y plataforma puedan recuperarse sin mayor problema.
 
-Por otro lado, es importante detectar si la empresa tiene una cultura donde los errores son castigados sin ningún tipo de piedad. En una cultura donde no se pueda fallar de forma segura, las personas se lo van a pensar dos veces antes de proponer inicitivas o soluciones que no les hayan pedido y el crecimiento e innovación están condenados al fracaso.  
+Por otro lado, es importante detectar si en la empresa a la que aplicas los errores son castigados sin ningún tipo de piedad.  
+En una cultura donde no se pueda fallar de forma segura, las personas se lo van a pensar dos veces antes de proponer inicitivas o soluciones que no les hayan pedido y el crecimiento e innovación están condenados al fracaso.  
 
 
 ## ¿Qué se espera de mí y de mi rol si entro en el equipo?
@@ -36,30 +40,39 @@ Es importante saber si lo que nosotros entendemos que vamos a hacer coincide con
 
 ## ¿Cómo podría ser mi progresión en la empresa?
 
-Es importante conocer qué opciones puedes tener cara a crecer en la empresa y qué medios vas a tener a tu alcance para conseguir llegar a tus objetivos.  
-Esta pregunta debería darte información muy valiosa sobre cómo vas a poder recibir feedback para conocer si vas por el buen camino a la hora de cercer en la empresa.
+Es importante conocer qué opciones vas a tener cara a crecer en la empresa y con qué medios vas a poder contar para conseguir llegar a tus objetivos.  
+
+Esta pregunta debería darte información muy valiosa sobre cómo vas a poder recibir feedback para conocer si vas por el buen camino a la hora de crecer en la empresa.
 
 ## ¿Cómo es el proceso desde que se crea una tarea hasta que esta se encuentra disponible en producción?
 
-Es muy importante conocer cómo de pulidos están los mecanismos que nos van a permitir trabajar en equipo, con la calidad y normalización que el equipo espera y también, poder entregar el trabajo que hacemos a los usuarios de nuestro software.  
-Plantear cuestiones del tipo cómo se gestionan los rollbacks y se hace seguimiento de los mismos, cómo se analiza el impacto de lo que se entrega, entre otros, demuestra madurez y preocupación por los procesos de trabajo. 
+Es muy importante conocer cómo de pulidos están los mecanismos que nos van a permitir trabajar en equipo, con la calidad y normalización que el equipo espera y también, poder entregar el trabajo que hacemos a los usuarios finales de nuestro software. 
+
+Plantear cuestiones del tipo "¿cómo se gestionan los rollbacks y se hace seguimiento de los mismos?", "¿cómo se analiza el impacto de lo que se entrega?", entre otras, demuestra madurez y preocupación por los procesos de trabajo. 
 
 ## ¿Cuál es vuestro proceso de definición de las tareas?
 
 La definición de las tareas es de las cosas más peleadas por equipos de software de todo el mundo.  
+
 Una empresa que cuente con una buena definición de tareas, tiene mucho ganado y puede ser un lugar muy interesante en el que trabajar.
 
 ## ¿Cuál es vuestro stack tecnológico?
 
 Al margen de lo que ponga en la oferta de trabajo, preguntar por el stack tecnológico nunca está de más.  
-Como entrevistado, siempre he agradecido que me hablasen no sólo de lo mejor del stack, sino también de la parte legacy que todas las empresas que tengan un mínimo recorrido, deben gestionar.
+
+Como entrevistado, siempre he agradecido que me hablasen no sólo de lo más interesante del stack, sino también de la parte legacy que todas las empresas que tengan un mínimo recorrido, deben gestionar.
 
 ## ¿Cómo se afronta la documentación en la empresa?
 
-La documentación es importante a muchos niveles en una empresa pero en concreto en una empresa de software, es clave. Sin documentación, los silos de conocimiento se fortalecen, la definición de las tareas se hace más complicada y la barrera de entrada a los productos en desarrollo se puede convertir en un handycap muy complicado de gestionar.  
+La documentación es importante a muchos niveles en una empresa pero en concreto en una empresa de software, es clave. 
+
+Sin documentación, los silos de conocimiento se fortalecen, la definición de las tareas se hace más complicada de conseguir y la barrera de entrada a los productos en desarrollo se puede convertir en un handicap muy complicado de gestionar. 
+
 En culturas de trabajo en remoto o empresas en las que hay equipos ubicados en diferentes zonas geográficas, la documentación es uno de los factores clave para poder trabajar y comunicar de forma asíncrona.
 
-Además de generar documentación, es importante que esté bien estructurada y haya mecanismos que permitan encontrarla y mantenerla viva. Conocer cómo de madura es la empresa en este sentido puede ser muy valioso en una entrevista.
+Además de generar documentación, es importante que esté bien estructurada y haya mecanismos que permitan encontrarla y mantenerla viva. 
+
+Conocer cómo de madura es la empresa en este sentido puede ser muy valioso en una entrevista.
 
 ## ¿Existen iniciativas de formación en la empresa?
 
@@ -67,10 +80,12 @@ Toda cultura de ingeniería debería dar importancia a la formación de sus equi
 
 ## ¿Hay posibilidad de trabajar en remoto?
 
-Esta es una de las preguntas que más se hacen actualmente. Una buena cultura de remoto proporciona una mejor calidad de vida gracias a la flexibilidad que aporta.  
+Esta es una de las preguntas que más se hacen actualmente. 
 
 El trabajo en remoto es un símbolo de confianza y madurez de los procesos de trabajo y comunicación en la empresa.  
-Tanto si estás interesado como si no en trabajar en remoto, esta pregunta es importante para conocer el estado de los procesos y madurez de la cultura de la empresa.
+Además, una buena cultura de remoto proporciona una mejor calidad de vida gracias a la flexibilidad que aporta por lo que se ha convertido en la primera e incluso única opción para muchos candidatos.  
+
+Tanto si estás interesado como si no en trabajar en remoto, esta pregunta es importante para conocer la opinión de la empresa en este sentido, cómo de maduros puedan llegar estar sus procesos y qué pasos se han dado para avanzar en este sentido.
 
 ## Perks
 
