@@ -15,8 +15,7 @@ Para los entrevistadores, se trata de una oportunidad para conocer mejor las inq
 
 ---
 
-Las entrevistas de trabajo son bidireccionales, es decir, los entrevistadores están a ambos lados de la mesa.  
-Esto es especialmente cierto en el sector tecnológico. 
+Las entrevistas de trabajo son bidireccionales, es decir, los entrevistadores están a ambos lados de la mesa. Esto es especialmente cierto en el sector tecnológico. 
 
 ![](/media/itcrowd.gif)
 
