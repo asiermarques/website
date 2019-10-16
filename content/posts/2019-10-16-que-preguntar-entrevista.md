@@ -96,7 +96,8 @@ Tanto si estás interesado como si no en trabajar en remoto, esta pregunta es im
 ### Perks
 
 Si la empresa ofrece perks es de recibo preguntar por ellos y cómo se puede disfrutar de los mismos.  
-Encontrar reticencia a la hora de explicarlos puede ser un bad smell y que esa empresa no pueda ser todo lo buena opción que parezca a priori.
+
+Encontrar reticencia a la hora de explicarlos puede ser un bad smell y que esa empresa no pueda ser todo lo buena opción que pueda parecer a priori.
 
 ### ¿Cómo es el ambiente de trabajo?
 
