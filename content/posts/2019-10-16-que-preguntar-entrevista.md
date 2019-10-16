@@ -34,8 +34,8 @@ Todos cometemos errores y probablemente, acaben en producción.
 
 Es importante asegurarse de que la empresa cuente con mecanismos que eviten que un gran número de los mismos puedan llegar a producción y en el caso de que lo hagan, los sistemas y plataforma puedan recuperarse sin mayor problema.
 
-Por otro lado, es importante detectar si en la empresa a la que aplicas los errores son castigados sin ningún tipo de piedad.  
-En una cultura donde no se pueda fallar de forma segura, las personas se lo van a pensar dos veces antes de proponer inicitivas o soluciones que no les hayan pedido y el crecimiento e innovación están condenados al fracaso.  
+Por otro lado, es importante detectar si en la empresa a la que aplicas, los errores son castigados sin ningún tipo de piedad.  
+En una cultura donde no se pueda fallar de forma segura, las personas se lo van a pensar dos veces antes de proponer iniciativas o soluciones que no les hayan pedido y el crecimiento e innovación están condenados al fracaso.  
 
 
 ### ¿Qué se espera de mí y de mi rol si entro en el equipo?
