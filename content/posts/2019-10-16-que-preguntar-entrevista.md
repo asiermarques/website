@@ -2,7 +2,7 @@
 title: Qué preguntar en tu próxima entrevista de trabajo
 date: "2019-10-16 19:47:01+00:00"
 template: "post"
-draft: true
+draft: false
 slug: "/2019/que-preguntar-entrevista/"
 category: "Desarrollo"
 tags:
@@ -13,6 +13,8 @@ description: "Para mí, una de las partes más importantes de una entrevista es 
 
 Las entrevistas de trabajo son bidireccionales, es decir, los entrevistadores están a ambos lados de la mesa.  
 Esto es especialmente cierto en el sector tecnológico. 
+
+![](/media/itcrowd.gif)
 
 Una de las partes más importantes de una entrevista es el turno de preguntas del entrevistado.  
 Para este, es una oportunidad única para obtener información sobre el día a día que va a disfrutar --o sufrir-- en su futuro puesto de trabajo.  
