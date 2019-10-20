@@ -6,8 +6,9 @@ draft: false
 slug: "/2019/que-preguntar-entrevista/"
 category: "Desarrollo"
 tags:
-  - "Desarrollo"
+  - "Desarrollo de software"
   - "Entrevistas"
+  - "Engineering Management"
 description: "Una de las partes más importantes de una entrevista es el turno de preguntas del entrevistado.  
 
 Para el candidato, es una oportunidad única para obtener información sobre el día a día que va a disfrutar --o sufrir-- en su futuro puesto de trabajo.  
