@@ -16,8 +16,7 @@ En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) 
 
 Para definir con precisión a qué llamamos cultura, elijo sin duda esta frase de Courtney Chapman, actual Administrative Business Partner de Google:
 
-> “Company Culture is the product of a company’s values, expectations  
-and environment.”  
+> “Company Culture is the product of a company’s values, expectations and environment.”  
 
 ## Algunos términos y buzzwords
 Existen una serie de buzzwords que a menudo se asocian con una buena cultura, o al menos, con una cultura actual y moderna.
