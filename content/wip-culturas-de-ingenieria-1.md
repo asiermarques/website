@@ -18,8 +18,8 @@ Hay multitud de frases que pueden definir a qué llamamos cultura, pero mi favor
 
 > “Company Culture is the product of a company’s values, expectations and environment.”  
 
-En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) -presidente de Ford por entonces- atribuyó la frase **“culture eats strategy for breakfast”** a Peter Drunker.  
-[Aunque no está probado que fuese realmente de Drunker](https://quoteinvestigator.com/2017/05/23/culture-eats/), esta frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de la importancia de crear culturas en las que los equipos tomen la responsabilidad por ellos mismos de alcanzar los objetivos de negocio.
+En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) -presidente de Ford por entonces- atribuyó la frase **“culture eats strategy for breakfast”** a Peter Drucker.  
+[Aunque no está probado que fuese realmente de Drucker](https://quoteinvestigator.com/2017/05/23/culture-eats/), esta frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de la importancia de crear culturas en las que los equipos tomen la responsabilidad por ellos mismos de alcanzar los objetivos de negocio.
 
 
 ## Algunos términos y buzzwords
