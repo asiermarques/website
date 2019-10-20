@@ -1,4 +1,4 @@
-# # Culturas de ingeniería 1
+# Culturas de ingeniería 1
 Esta es la primera entrada de una serie de artículos sobre culturas de ingeniería.
 * **1. De qué hablamos cuando hablamos de cultura**
 *  [2. Empezando a crear las bases de la cultura](/todo)
