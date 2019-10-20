@@ -12,7 +12,7 @@ En Julio de 2018, [Linkedin publicó este artículo en su blog](https://blog.lin
 Por si esto no fuese suficiente, también se mostraban qué factores de una buena cultura impactaban directamente en la retención del talento.
 
 En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) -presidente de Ford por entonces- atribuyó la frase **“culture eats strategy for breakfast”** a Peter Drunker.  
-[Aunque no está probado que fuese realmente de Drunker](https://quoteinvestigator.com/2017/05/23/culture-eats/), la frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de que los equipos tomen la responsabilidad por ellos mismos para alcanzar los objetivos de negocio.
+[Aunque no está probado que fuese realmente de Drunker](https://quoteinvestigator.com/2017/05/23/culture-eats/), esta frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de que los equipos tomen la responsabilidad por ellos mismos para alcanzar los objetivos de negocio.
 
 Para definir con precisión a qué llamamos cultura, elijo sin duda esta frase de Courtney Chapman, actual Administrative Business Partner de Google:
 
