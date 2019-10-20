@@ -23,7 +23,7 @@ En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) 
 
 
 ## Algunos términos y buzzwords
-En la actualidad, existen una serie de buzzwords que a menudo se asocian con una buena cultura, o al menos, con una cultura actual y moderna.
+En la actualidad, existen una serie de buzzwords que a menudo se asocian con una buena cultura, o al menos, con una cultura alineada con las preocupaciones y formas de trabajar que buscan actualmente los ingenieros de software y de sistemas.
 
 ### Agile
 > "Build projects around motivated individuals.  
