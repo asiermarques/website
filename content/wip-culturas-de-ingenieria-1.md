@@ -1,7 +1,7 @@
 # Culturas de ingeniería. Parte 1: De qué hablamos cuando hablamos de cultura
 Esta es la primera entrada de una serie de artículos sobre culturas de ingeniería.
 * **1. De qué hablamos cuando hablamos de cultura**
-*  [2. Empezando a crear las bases de la cultura](/todo)
+*  [2. Por dónde empezar](/todo)
 *  [3. Madurez de nuestra cultura](/todo)
 *  [4. Cultura de feedback](/todo)
 *  [5. Comunicación y documentación](/todo)
