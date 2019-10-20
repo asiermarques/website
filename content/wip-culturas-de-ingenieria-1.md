@@ -28,7 +28,7 @@ En la actualidad, existen una serie de buzzwords que a menudo se asocian con una
 ### Agile
 > "Build projects around motivated individuals.  
 Give them the environment and support they need, and trust them to get the job done."  
-[Manifesto for Agile Software Development](https://agilemanifesto.org/)
+[Manifesto for Agile Software Development](https://agilemanifesto.org/principles.html)
 
 Todo
 
