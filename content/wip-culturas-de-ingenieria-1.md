@@ -19,7 +19,7 @@ Hay multitud de frases que pueden definir a qué llamamos cultura, pero mi favor
 > “Company Culture is the product of a company’s values, expectations and environment.”  
 
 En 2006, [Mark Fields](https://en.wikipedia.org/wiki/Mark_Fields_(businessman)) -presidente de Ford por entonces- atribuyó la frase **“culture eats strategy for breakfast”** a Peter Drucker.  
-[Aunque no está probado que fuese realmente de Drucker](https://quoteinvestigator.com/2017/05/23/culture-eats/), esta frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de la importancia de crear culturas en las que los equipos tomen la responsabilidad por ellos mismos de alcanzar los objetivos de negocio.
+[Aunque no está probado que fuese realmente de Drucker](https://quoteinvestigator.com/2017/05/23/culture-eats/), esta frase ha ganado mucho protagonismo en los últimos años y a menudo se entiende en el sentido de sin desmerecer la importancia de una buena estrategia, es importante crear culturas en las que los equipos tomen la responsabilidad por ellos mismos de alcanzar los objetivos de negocio ya que son los que más cercanos están a la realidad del día a día.
 
 
 ## Algunos términos y buzzwords
@@ -30,7 +30,18 @@ En la actualidad, existen una serie de buzzwords que a menudo se asocian con una
 Give them the environment and support they need, and trust them to get the job done."  
 [Manifesto for Agile Software Development](https://agilemanifesto.org/principles.html)
 
-Todo
+Agile es algo que está en la mente de todos en nuestro sector desde hace años. Aunque normalmente el término se asocia a metodologías concretas, **agile es en sí una cultura**.  
+Esto implica muchas cosas pero la fundamental es buscar llegar a mecánicas que nos permitan mejorar de forma continua.
+
+Las metodologías agile son propuestas de forma de trabajo alineadas con una cultura que las soporte por lo que ninguna metodología va a ser eficaz si nuestra cultura no está alineada con [los principios del Manifiesto Agile](https://agilemanifesto.org/principles.html) 
+
+#### Cultura agile de Spotify
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvfz4HGtoPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+//todo
+
+
 
 ### Holocracia
 Todo
