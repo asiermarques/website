@@ -73,7 +73,9 @@ Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora
 
 Sin embargo, llegar a una cultura de este tipo, mejorará nuestros procesos, facilitará el crecimiento de nuestro equipo de ingeniería y dotará de madurez en muchos aspectos a los procesos de negocio.
 
-Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [gestionar una cultura full remote](https://medium.com/cabify-product/on-site-friendly-fba1f9ba69dc). Es interesante también echar un vistazo al canal de YouTube de Gitlab, donde los equipos [hacen públicas sus reuniones](https://www.youtube.com/watch?v=83trq40wczg&list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ) y hasta disponen de un [mini curso para Managers](https://www.youtube.com/playlist?list=PLFGfElNsQthYYlad7vtTUt3wXKQUTsZWz).
+Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [gestionar una cultura full remote](https://medium.com/cabify-product/on-site-friendly-fba1f9ba69dc).  
+
+Es interesante también echar un vistazo al canal de YouTube de Gitlab, donde los equipos [hacen públicas sus reuniones](https://www.youtube.com/watch?v=83trq40wczg&list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ) y hasta disponen de un [mini curso para Managers](https://www.youtube.com/playlist?list=PLFGfElNsQthYYlad7vtTUt3wXKQUTsZWz).
 
 ### DevOps
 Todo
