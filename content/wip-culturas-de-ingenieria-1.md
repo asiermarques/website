@@ -33,7 +33,7 @@ Give them the environment and support they need, and trust them to get the job d
 Agile es algo que está en la mente de todos en nuestro sector desde hace años. Aunque normalmente el término se asocia a metodologías concretas, **agile es en sí una cultura**.  
 Esto implica muchas cosas pero la fundamental es buscar llegar a mecánicas que nos permitan mejorar de forma continua.
 
-Las metodologías agile son propuestas de forma de trabajo alineadas con una cultura que las soporte por lo que ninguna metodología va a ser eficaz si nuestra cultura no está alineada con [los principios del Manifiesto Agile](https://agilemanifesto.org/principles.html) 
+Las metodologías agile son propuestas de forma de trabajo alineadas con una cultura que las soporte por lo que ninguna metodología va a ser eficaz si nuestra cultura no está alineada con [los principios del Manifiesto Agile](https://agilemanifesto.org/principles.html).
 
 #### Cultura agile de Spotify
 
