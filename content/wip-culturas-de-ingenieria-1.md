@@ -66,10 +66,10 @@ Cada persona puede asumir diferentes roles dependiendo del contexto o de los obj
 
 Un ejemplo de holocracia es Zappos que dispone de [una empresa dedicada a ofrecer servicios de formación](https://www.zapposinsights.com/) a empresas que deseen llegar con con éxito a una cultura basada en Holocracia.
 
-### Remote culture
+### Remote cultures
 Una cultura preparada para ofrecer full remote ofrece muchas ventajas y flexibilidad tanto a la empresa como a sus trabajadores. También elimina barreras -que son cada vez más altas- a la hora de contratar y retener talento.
 
-Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas. 
+Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas, además de tener muy interiorizados procesos de entrega continua, documentación y comunicación.
 
 Sin embargo, llegar a una cultura de este tipo, mejorará nuestros procesos, facilitará el crecimiento de nuestro equipo de ingeniería y dotará de madurez en muchos aspectos a los procesos de negocio.
 
@@ -78,7 +78,15 @@ Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [g
 Es interesante también echar un vistazo al canal de YouTube de Gitlab, donde los equipos [hacen públicas sus reuniones](https://www.youtube.com/watch?v=83trq40wczg&list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ) y hasta disponen de un [mini curso para Managers](https://www.youtube.com/playlist?list=PLFGfElNsQthYYlad7vtTUt3wXKQUTsZWz).
 
 ### DevOps
-Todo
+DevOps es otro término que encontramos en culturas de trabajo actuales y quizás es el peor entendido de todos.  
+
+[En una cultura donde realmente exista una buena implementación de DevOps](https://martinfowler.com/bliki/DevOpsCulture.html#), los equipos de desarrollo y de sistemas comparten una actitud de responsabilidad común hacia el mantenimiento de la plataforma y del software que corre en ella, facilitando la colaboración entre las personas con roles en esos diferentes áreas.
+
+En estas culturas:
+* Las personas en operaciones son involucradas lo antes posible en el proyecto de desarrollo
+* Ambas partes, desarollo y sistemas, son conscientes de las necesidades mutuas para alcanzar los objetivos de negocio
+* Se eliminan barreras a la hora de entregar el código a producción o aportar mejoras tanto en procesos como en la plataforma
+* Mejora la observabilidad y monitorización de la plataforma, dotando de mucha más información a todo el equipo de lo que está pasando en producción en cada momento.
 
 ## Conclusión 
 Todo
