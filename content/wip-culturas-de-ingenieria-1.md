@@ -41,22 +41,20 @@ Las metodologías agile son propuestas de forma de trabajo alineadas con una cul
 
 El vídeo anterior, publicado por Spotify en 2014, se hizo viral y consiguió que términos que se utilizaban internamente en la compañía, se adoptasen en los departamentos de ingeniería de otras empresas como términos estándar a la hora de organizar equipos.
 
-Los términos son los siguientes:
+**Squads**  
+Los squads son equipos independientes, autosuficientes y auto-organizados que son capaces de entregar valor a producción por ellos mismos.  
+Cada squad decide cómo trabaja y qué metodología aplica.
 
-**Squads**
-/todo
+**Chapters**  
+Los chapters son áreas de especialidad: frontend, backend, QA, infraestructura... 
 
-**Chapters**
-/todo
+**Tribes**  
+Las tribus son agrupaciones de squads por contexto de negocio. Dentro de una tribu, los miembros del equipo pueden cambiar de squad sin necesidad de cambiar de manager.
 
-**Guilds/Gremios**
-/todo
-
-**Tribes**
-/todo
+**Guilds/Gremios**  
+Los gremios son grupos abiertos de estudio e investigación. Son cross squads y cross tribus.
 
 Spotify se convirtió en un ejemplo de cultura agile y en parte también de organización holocrática, en la que los equipos squads se auto-organizaban y eran responsables a la hora de definir cómo trabajaban y qué metodología utilizaban.
-
 
 ### Holocracia
 Todo
