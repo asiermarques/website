@@ -52,12 +52,19 @@ Los chapters son áreas de especialidad: frontend, backend, QA, infraestructura.
 Las tribus son agrupaciones de squads por contexto de negocio. Dentro de una tribu, los miembros del equipo pueden cambiar de squad sin necesidad de cambiar de manager.
 
 **Guilds/Gremios**  
-Los gremios son grupos abiertos de estudio e investigación. Son cross squads y cross tribus.
+Los gremios son grupos abiertos de estudio e investigación, cross squads y cross tribus. De esta forma, independientemente de en qué squad estén, las personas en la empresa disponen de tiempo y la posibilidad de investigar sobre temas que les interesen y que estén alineados con los objetivos de la empresa. Esto fomenta la innovación, el conocer a otras personas fuera de tu equipo y la posibilidad de aprender haciendo.
 
-Spotify se convirtió en un ejemplo de cultura agile y en parte también de organización holocrática, en la que los equipos squads se auto-organizaban y eran responsables a la hora de definir cómo trabajaban y qué metodología utilizaban.
+Spotify se convirtió en un ejemplo de cultura agile y en parte también de organización holocrática, por pensar más allá de metodologías y descubrir nuevas formas de trabajar buscando la mejora continua.
 
 ### Holocracia
-Todo
+La holocracia u holacracia, se hizo famosa gracias a empresas como Netflix, Medium o Zappos. Basándose en conceptos de [sociocracia](https://en.wikipedia.org/wiki/Sociocracy), se busca que los equipos sean auto-organizados en lugar de buscar un modelo jerárquico tradicional.  
+
+A menudo se confunde la holocracia con un modelo "ausente de jefes", sin embargo, los líderes si existen pero no hacen tan dependientes de ellos a los equipos como en una estructura jerárquica clásica.
+
+En la holocracia se busca que las personas asuman roles en lugar de tener "cargos" o "títulos" concretos. 
+Cada persona puede asumir diferentes roles dependiendo del contexto o de los objetivos de la empresa en cada momento. Para poder hacerlo, los roles deben estar muy bien definidos y se deben conocer muy bien las aptitudes de cada persona en el equipo.
+
+Un ejemplo de holocracia es Zappos que dispone de [una empresa dedicada a ofrecer servicios de formación](https://www.zapposinsights.com/) a empresas que deseen llegar con con éxito a una cultura basada en Holocracia.
 
 ### Remote culture
 Todo
