@@ -69,9 +69,11 @@ Un ejemplo de holocracia es Zappos que dispone de [una empresa dedicada a ofrece
 ### Remote culture
 Una cultura preparada para ofrecer full remote ofrece muchas ventajas y flexibilidad tanto a la empresa como a sus trabajadores. También elimina barreras -que son cada vez más altas- a la hora de contratar y retener talento.
 
-Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas.  
+Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas. 
 
-Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [gestionar una cultura full remote](https://medium.com/cabify-product/on-site-friendly-fba1f9ba69dc).
+Sin embargo, llegar a una cultura de este tipo, mejorará nuestros procesos, facilitará el crecimiento de nuestro equipo de ingeniería y dotará de madurez en muchos aspectos a los procesos de negocio.
+
+Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [gestionar una cultura full remote](https://medium.com/cabify-product/on-site-friendly-fba1f9ba69dc). Es interesante también echar un vistazo al canal de YouTube de Gitlab, donde los equipos [hacen públicas sus reuniones](https://www.youtube.com/watch?v=83trq40wczg&list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ) y hasta disponen de un [mini curso para Managers](https://www.youtube.com/playlist?list=PLFGfElNsQthYYlad7vtTUt3wXKQUTsZWz).
 
 ### DevOps
 Todo
