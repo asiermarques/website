@@ -67,7 +67,11 @@ Cada persona puede asumir diferentes roles dependiendo del contexto o de los obj
 Un ejemplo de holocracia es Zappos que dispone de [una empresa dedicada a ofrecer servicios de formación](https://www.zapposinsights.com/) a empresas que deseen llegar con con éxito a una cultura basada en Holocracia.
 
 ### Remote culture
-Todo
+Una cultura preparada para ofrecer full remote ofrece muchas ventajas y flexibilidad tanto a la empresa como a sus trabajadores. También elimina barreras -que son cada vez más altas- a la hora de contratar y retener talento.
+
+Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas.  
+
+Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [gestionar una cultura full remote](https://medium.com/cabify-product/on-site-friendly-fba1f9ba69dc).
 
 ### DevOps
 Todo
