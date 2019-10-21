@@ -1,10 +1,10 @@
 # Culturas de ingeniería. Parte 1: De qué hablamos cuando hablamos de cultura
 Esta es la primera entrada de una serie de artículos sobre culturas de ingeniería.
 * **1. De qué hablamos cuando hablamos de cultura**
-*  [2. Por dónde empezar](/todo)
-*  [3. Madurez de nuestra cultura](/todo)
-*  [4. Cultura de feedback](/todo)
-*  [5. Comunicación y documentación](/todo)
+* *2. Por dónde empezar (próximamente)*
+* *3. Madurez de nuestra cultura (próximamente)*
+* *4. Cultura de feedback (próximamente)*
+* *5. Comunicación y documentación (próximamente)*
 
 ***
 
@@ -39,8 +39,23 @@ Las metodologías agile son propuestas de forma de trabajo alineadas con una cul
 
 [![](https://img.youtube.com/vi/Yvfz4HGtoPc/0.jpg)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 
-//todo
+El vídeo anterior, publicado por Spotify en 2014, se hizo viral y consiguió que términos que se utilizaban internamente en la compañía, se adoptasen en los departamentos de ingeniería de otras empresas como términos estándar a la hora de organizar equipos.
 
+Los términos son los siguientes:
+
+**Squads**
+/todo
+
+**Chapters**
+/todo
+
+**Guilds/Gremios**
+/todo
+
+**Tribes**
+/todo
+
+Spotify se convirtió en un ejemplo de cultura agile y en parte también de organización holocrática, en la que los equipos squads se auto-organizaban y eran responsables a la hora de definir cómo trabajaban y qué metodología utilizaban.
 
 
 ### Holocracia
