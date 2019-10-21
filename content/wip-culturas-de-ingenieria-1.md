@@ -37,7 +37,7 @@ Las metodologías agile son propuestas de forma de trabajo alineadas con una cul
 
 #### Cultura agile de Spotify
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvfz4HGtoPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/Yvfz4HGtoPc/0.jpg)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 
 //todo
 
