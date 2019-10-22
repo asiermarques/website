@@ -1,4 +1,5 @@
 ---
+
 title: Culturas de ingeniería. Parte 1: De qué hablamos cuando hablamos de cultura
 date: "2019-10-22 22:07:01+00:00"
 template: "post"
@@ -16,7 +17,6 @@ En esta entrada, veremos a qué nos referimos cuando hablamos de una cultura de 
 
 ---
 
-# 
 Esta es la primera entrada de una serie de artículos sobre culturas de ingeniería.
 * **1. De qué hablamos cuando hablamos de cultura**
 * *2. Por dónde empezar (próximamente)*
