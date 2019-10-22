@@ -24,7 +24,7 @@ Esta es la primera entrada de una serie de artículos sobre culturas de ingenier
 * *4. Cultura de feedback (próximamente)*
 * *5. Comunicación y documentación (próximamente)*
 
-***
+[![Culture](/media/vitaliy-lyubezhanin-gfVofr15ICc-unsplash.jpg)](https://unsplash.com/photos/gfVofr15ICc)
 
 En Julio de 2018, [Linkedin publicó este artículo en su blog](https://blog.linkedin.com/2018/june/26/workplace-culture-trends-the-key-to-hiring-and-keeping-top-talent) en el que se mostraban datos interesantes que exponían cómo una buena cultura ayuda a un candidato a decidirse por entrar en una empresa, sobre otros factores como la cantidad económica o un cargo/título que les posicione supuestamente mejor en el mercado.  
 Por si esto no fuese suficiente, también se mostraban qué factores de una buena cultura impactaban directamente en la retención del talento.
