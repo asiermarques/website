@@ -37,9 +37,8 @@ Las metodologías agile son propuestas de forma de trabajo alineadas con una cul
 
 #### Cultura agile de Spotify
 
-[![](https://img.youtube.com/vi/Yvfz4HGtoPc/0.jpg)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
-
-El vídeo anterior, publicado por Spotify en 2014, se hizo viral y consiguió que términos que se utilizaban internamente en la compañía, se adoptasen en los departamentos de ingeniería de otras empresas como términos estándar a la hora de organizar equipos.
+[Spotify publicó una serie de videos](https://www.youtube.com/watch?v=Yvfz4HGtoPc) sobre su cultura en el 2014 que se hicieron virales en la comunidad de desarrollo.  
+Estos vídeos, consiguieron que términos que se utilizaban internamente en la compañía, se adoptasen en los departamentos de ingeniería de otras empresas como términos casi de facto a la hora de organizar equipos.
 
 **Squads**  
 Los squads son equipos independientes, autosuficientes y auto-organizados que son capaces de entregar valor a producción por ellos mismos.  
@@ -54,7 +53,7 @@ Las tribus son agrupaciones de squads por contexto de negocio. Dentro de una tri
 **Guilds/Gremios**  
 Los gremios son grupos abiertos de estudio e investigación, cross squads y cross tribus. De esta forma, independientemente de en qué squad estén, las personas en la empresa disponen de tiempo y la posibilidad de investigar sobre temas que les interesen y que estén alineados con los objetivos de la empresa. Esto fomenta la innovación, el conocer a otras personas fuera de tu equipo y la posibilidad de aprender haciendo.
 
-Spotify se convirtió en un ejemplo de cultura agile y en parte también de organización holocrática, por pensar más allá de metodologías y descubrir nuevas formas de trabajar buscando la mejora continua.
+Lo importante del ejemplo de Spotify no son estos términos y forma de distribuir los equipos, sino la iniciativa que tomaron para ir más allá de metodologías a la hora de forjar su cultura.  
 
 ### Holocracia
 La holocracia u holacracia, se hizo famosa gracias a empresas como Netflix, Medium o Zappos. Basándose en conceptos de [sociocracia](https://en.wikipedia.org/wiki/Sociocracy), se busca que los equipos sean auto-organizados en lugar de buscar un modelo jerárquico tradicional.  
@@ -64,9 +63,9 @@ A menudo se confunde la holocracia con un modelo "ausente de jefes", sin embargo
 En la holocracia se busca que las personas asuman roles en lugar de tener "cargos" o "títulos" concretos. 
 Cada persona puede asumir diferentes roles dependiendo del contexto o de los objetivos de la empresa en cada momento. Para poder hacerlo, los roles deben estar muy bien definidos y se deben conocer muy bien las aptitudes de cada persona en el equipo.
 
-Un ejemplo de holocracia es Zappos que dispone de [una empresa dedicada a ofrecer servicios de formación](https://www.zapposinsights.com/) a empresas que deseen llegar con con éxito a una cultura basada en Holocracia.
+Podemos encontrar un ejemplo de holocracia en Zappos, que incluso ha creado [una plataforma dedicada a ofrecer servicios de formación](https://www.zapposinsights.com/) a otras empresas que deseen llegar con con éxito a una cultura de Holocracia.
 
-### Remote cultures
+### Culturas de trabajo en remoto
 Una cultura preparada para ofrecer full remote ofrece muchas ventajas y flexibilidad tanto a la empresa como a sus trabajadores. También elimina barreras -que son cada vez más altas- a la hora de contratar y retener talento.
 
 Llegar a una cultura en remoto no es fácil ya que supone muchos retos a la hora de gestionar equipos distribuídos, especialmente si estos se encuentran en zonas horarias distintas, además de tener muy interiorizados procesos de entrega continua, documentación y comunicación.
@@ -78,18 +77,21 @@ Pablo Carranza, Head of Engineering en Cabify, explica muy bien qué conlleva [g
 Es interesante también echar un vistazo al canal de YouTube de Gitlab, donde los equipos [hacen públicas sus reuniones](https://www.youtube.com/watch?v=83trq40wczg&list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ) y hasta disponen de un [mini curso para Managers](https://www.youtube.com/playlist?list=PLFGfElNsQthYYlad7vtTUt3wXKQUTsZWz).
 
 ### DevOps
-DevOps es otro término que encontramos en culturas de trabajo actuales y quizás es el peor entendido de todos.  
+DevOps es otro término que encontramos en culturas de trabajo actuales y también trae consigo un montón de retos a la hora de aplicarlo.  
 
-[En una cultura donde realmente exista una buena implementación de DevOps](https://martinfowler.com/bliki/DevOpsCulture.html#), los equipos de desarrollo y de sistemas comparten una actitud de responsabilidad común hacia el mantenimiento de la plataforma y del software que corre en ella, facilitando la colaboración entre las personas con roles en esos diferentes áreas.
+[En una cultura alineada con el concepto DevOps](https://martinfowler.com/bliki/DevOpsCulture.html#), los equipos de desarrollo y de sistemas comparten una actitud de responsabilidad común hacia el mantenimiento de la plataforma y del software que corre en ella, facilitando la colaboración entre las personas con roles en esos diferentes áreas.
 
 En estas culturas:
-* Las personas en operaciones son involucradas lo antes posible en el proyecto de desarrollo
-* Ambas partes, desarollo y sistemas, son conscientes de las necesidades mutuas para alcanzar los objetivos de negocio
-* Se eliminan barreras a la hora de entregar el código a producción o aportar mejoras tanto en procesos como en la plataforma
-* Mejora la observabilidad y monitorización de la plataforma, dotando de mucha más información a todo el equipo de lo que está pasando en producción en cada momento.
+* Las personas en operaciones son involucradas lo antes posible en el proyecto de desarrollo.
+* Ambas partes, desarollo y sistemas, son conscientes de las necesidades mutuas para alcanzar los objetivos de negocio.
+* Se eliminan barreras a la hora de entregar el código a producción o aportar mejoras tanto en procesos como en la plataforma.
+* Como consecuencia, algunos aspectos como la observabilidad y monitorización de la plataforma mejoran notablemente.
 
 ## Conclusión 
-Todo
+
+Toda empresa tiene una cultura, que es el resultado de los valores, formas de trabajo y visión que los equipos han interiorizado durante los años.  
+
+En la actualidad, existen varios movimientos y conceptos que bien aplicados, pueden hacen mejorar la cultura de nuestra empresa y hacer de la misma, el mejor lugar posible para trabajar.
 
 
 
