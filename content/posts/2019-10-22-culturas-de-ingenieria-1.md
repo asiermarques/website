@@ -49,7 +49,7 @@ Give them the environment and support they need, and trust them to get the job d
 [Manifesto for Agile Software Development](https://agilemanifesto.org/principles.html)
 
 Agile es algo que está en la mente de todos en nuestro sector desde hace años. Aunque normalmente el término se asocia a metodologías concretas, **ser una empresa agile es una cultura en sí mismo**.  
-Esta frase implica muchas cosas pero lo principal, es llegar a diseñar mecánicas que nos permitan mejorar de forma continua.
+Esta frase implica muchas cosas pero lo principal es llegar a diseñar mecánicas que nos permitan mejorar de forma continua.
 
 Aunque normalmente se da el protagonismo a las metodologías agile y a sus dinámicas, estas no son más que propuestas de formas de trabajo. Ninguna metodología agile va a ser eficaz si nuestra cultura no está alineada con [los principios del Manifiesto Agile](https://agilemanifesto.org/principles.html).
 
