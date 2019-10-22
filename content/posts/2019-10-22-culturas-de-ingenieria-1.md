@@ -1,6 +1,6 @@
 ---
 
-title: "Culturas de ingeniería. Parte 1: De qué hablamos cuando hablamos de cultura"
+title: "Culturas de ingeniería: De qué hablamos cuando hablamos de cultura"
 date: "2019-10-22 22:07:01+00:00"
 template: "post"
 draft: false
