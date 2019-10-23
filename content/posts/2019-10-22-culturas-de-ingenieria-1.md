@@ -30,7 +30,7 @@ En Julio de 2018, [Linkedin publicó este artículo en su blog](https://blog.lin
 Por si esto no fuese suficiente, también se mostraban qué factores de una buena cultura impactaban directamente en la retención del talento.
 
 En varias ocasiones, he visto debatir sobre el término cultura como algo que sólo pueden alcanzar ciertas empresas, refiriéndose exclusivamente a lo que idealmente sería una buena cultura de empresa, siempre bajo el criterio subjetivo de los interlocutores.  
-Sin embargo, **todas las empresas tienen su propia cultura**. Quizás podamos considerar que en nuestra empresa no se tenga una "buena" cultura o una cultura "madura" o podamos definirla como una cultura "tóxica" pero sin duda, seguro que tenemos una sobre la cual podamos trabajar.
+Sin embargo, **todas las empresas tienen su propia cultura**. Quizás podamos considerar que en una empresa no se tenga una "buena" cultura o una cultura "madura" o podamos definirla como una cultura "tóxica" pero indudablemente, se tiene una sobre la cual podamos trabajar.
 
 Hay multitud de frases que pueden definir a qué llamamos cultura, pero mi favorita es sin esta de Courtney Chapman, actual Administrative Business Partner de Google:
 
