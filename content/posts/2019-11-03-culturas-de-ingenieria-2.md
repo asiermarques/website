@@ -54,8 +54,8 @@ El cultural fit es un factor crítico para determinar si es buena idea que la em
 Es importante conocer qué expectativas tiene el candidato, a qué tipo de culturas está acostumbrado y si aceptaría un posible cambio. Evaluar el choque cultural en el caso de que un candidato proceda de otras culturas es algo clave cuando estás contratando.  
 Hace unas semanas escribí sobre [qué preguntas me gustaría que me hiciese un candidato](https://asiermarques.com/2019/que-preguntar-entrevista/), precisamente por este motivo.
 
-En nuestro sector, el talento puede elegir dónde quiere trabajar y dónde sin que le falten opciones. El salario es un factor, pero no es el único.  
-Podemos encontrar fácilmente análisis que nos muestran cómo una buena cultura es decisiva tanto para conseguir captar, como para retener talento y para ello, necesitamos cuidar algunas cosas de nuestro proceso.
+En nuestro sector, los buenos profesionales pueden elegir dónde quieren trabajar entre muchas opciones. El salario es un factor, pero no es el único.  
+Podemos encontrar fácilmente análisis que nos muestran cómo una buena cultura es decisiva tanto para conseguir captar talento como para retenerlo. Teniendo en cuenta esto, necesitamos cuidar algunas cosas de nuestro proceso.
 
 Es importante que en las ofertas que publiquemos, se perciban nuestra cultura y valores, además de las expectativas que tenemos al buscar a esa persona para nuestro equipo.
 
@@ -73,7 +73,7 @@ Las entrevistas son una oportunidad para aprender mucho de uno mismo, el mejor f
 
 ### El proceso de selección como publicidad de la cultura de tu empresa
 
-Todo contacto con un candidato es una oportunidad para dar a conocer tu cultura. Por ello, en los procesos de selección hay que tener especial cuidado de la imagen que estás dando.
+Todo contacto con un candidato es una oportunidad para dar a conocer nuestra cultura. Por ello, en los procesos de selección hay que tener especial cuidado de la imagen que estamos dando.
 
 Ten por seguro que si a una persona le ha gustado tu proceso va a contarlo a su gente de confianza y esa gente puede que forme parte del talento que estás buscando. Si la impresión es negativa, la voz se va a correr como la pólvora.
 
