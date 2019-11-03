@@ -1,3 +1,9 @@
 /info/ /info/about-me/
 /en-que-ando-metido/ /info/en-que-ando-metido/
 /curriculum-vitae/ /info/cv/
+/feed/rss2/ /rss.xml
+/feed/rss2 /rss.xml
+/feed/rss/ /rss.xml
+/feed/rss /rss.xml
+/feed/ /rss.xml
+/feed /rss.xml
