@@ -24,7 +24,7 @@ Esta es la segunda entrada de una serie de artículos sobre culturas de ingenier
 * *4. Cultura de feedback (próximamente)*
 * *5. Comunicación y documentación (próximamente)*
 
-[![Culture](/static/media/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg)](https://unsplash.com/photos/VkwRmha1_tI)
+[![Culture](/media/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg)](https://unsplash.com/photos/VkwRmha1_tI)
 
 ## Valores
 
@@ -93,7 +93,7 @@ Si pensamos a largo plazo y sobretodo en una cultura de trabajo en equipo, los s
 
 ## El On-Boarding
 
-![](/static/media/onboarding-e170a82a-29cb-4a12-b3f9-c071d46b7135.gif)
+![](/media/onboarding-e170a82a-29cb-4a12-b3f9-c071d46b7135.gif)
 
 Tras cerrar el proceso de contratación, comienza el proceso de onboarding.  
 
@@ -130,7 +130,7 @@ El objetivo de los buddies es el de dar contexto y ayudar en todo lo que la nuev
 
 ## El Off-Boarding
 
-![](/static/media/offboarding-b05f6363-a750-46f7-b3af-edbdc2349f28.gif)
+![](/media/offboarding-b05f6363-a750-46f7-b3af-edbdc2349f28.gif)
 
 Tarde o temprano, llega el momento en el que alguien del equipo decide dejar la empresa y buscar nuevos retos. 
 Al igual que hemos hecho con el onboarding, debemos cuidar cómo decir adiós a ese profesional que ha aportado a la empresa y gestionar todo lo relativo a su baja digital en la misma.
