@@ -135,7 +135,7 @@ El objetivo de los buddies es el de dar contexto y ayudar en todo lo que la nuev
 Tarde o temprano, llega el momento en el que alguien del equipo decide dejar la empresa y buscar nuevos retos. 
 Al igual que hemos hecho con el onboarding, debemos cuidar cómo decir adiós a ese profesional que ha aportado a la empresa y gestionar todo lo relativo a su baja digital en la misma.
 
-En el offboarding, es importante cuidar todo lo que consideremos importante en los últimos días de esa persona: recoger feedback, asegurar el traspaso de conocimiento, informar a clientes y proveedores, organizar una despedida en condiciones... todo depende de nuestra cultura y cómo queramos queremos que esa persona nos recuerde.
+En el offboarding, es importante cuidar todo lo que consideremos importante en los últimos días de esa persona: recoger feedback, asegurar el traspaso de conocimiento, informar a clientes y proveedores, organizar una despedida en condiciones... todo depende de cómo nos gustaría que esa persona recuerde el cierre de su etapa trabajando con nosotros.
 
 Por último, una vez que esa persona se haya ido, es importante dar de baja los accesos pertinentes y gestionar los recursos a los que dicha persona tiene acceso. 
 
