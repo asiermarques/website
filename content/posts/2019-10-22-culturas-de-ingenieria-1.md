@@ -5,10 +5,9 @@ date: "2019-10-22 22:07:01+00:00"
 template: "post"
 draft: false
 slug: "/2019/culturas-ingenieria-1/"
-category: "Desarrollo"
+category: "Gestión"
 tags:
   - "Desarrollo de software"
-  - "Entrevistas"
   - "Gestión"
   - "Engineering Management"
 description: "En varias ocasiones, he visto debatir sobre el término cultura como algo que sólo pueden alcanzar ciertas empresas, refiriéndose exclusivamente a lo que idealmente sería una buena cultura de empresa, siempre bajo el criterio subjetivo de los interlocutores.  

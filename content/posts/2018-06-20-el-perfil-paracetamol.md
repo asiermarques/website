@@ -4,7 +4,7 @@ date: "2018-06-20 11:37:01+00:00"
 template: "post"
 draft: false
 slug: "/2018/el-perfil-paracetamol/"
-category: "Desarrollo"
+category: "Gestión"
 tags:
   - "Desarrollo de software"
   - "Gestión"
