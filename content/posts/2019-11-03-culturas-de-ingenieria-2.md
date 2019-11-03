@@ -34,30 +34,30 @@ Esta es la segunda entrada de una serie de artículos sobre culturas de ingenier
 He de reconocer que a lo largo de mi carrera, he sido bastante escéptico con la utilidad los valores y visión de la empresa.  
 Me dejé llevar por los prejuicios alimentados por experiencias en determinados contextos, en los que los valores quedaban estáticos en una pared a modo de buenas intenciones o deseos, muy alejados de la realidad del día a día de los equipos.
 
-Con el tiempo, aprendiendo en otros contextos de trabajo distintos e intercambiando experiencias con otros colegas de profesión, me he convencido de que tomarse en serio los valores son clave para afianzar una buena cultura.
+Con el tiempo, aprendiendo en otros contextos de trabajo distintos e intercambiando experiencias con otros colegas de profesión, me he convencido de que los valores son una herramienta clave para afianzar una buena cultura.
 
 Los valores deben estar documentados y deben ser actualizados cada cierto tiempo en base a la realidad de los equipos. Con valores alineados con esa realidad, podemos empezar a construir procesos, políticas y otras herramientas que hacen más fácil mantener nuestra cultura.
 
-Si no se ha hecho antes, documentar los valores comunes interiorizados por todos los equipos es una práctica muy sana para descubrir aquello que todos esperan del resto y hace irrelevante que estén escritos en una pared para que todo el mundo los siga y demande seguirlos en cada decisión o proceso.
+Si no se ha hecho antes, documentar los valores comunes interiorizados por todos los equipos es una práctica muy sana para descubrir aquello que todos esperan del resto y hace que no sea tan importante que estén escritos en una pared para que todo el mundo los siga y demande seguirlos en cada decisión o proceso.
 
-Con los valores ya definidos, podemos empezar a construir nuestra cultura desde el principio: la contratación.
+Con los valores ya definidos, podemos empezar a construir nuestra cultura desde el principio: la contratación de las personas adecuadas.
 
 ## Contratar
 
 > “Shaping your culture is more than half done when you hire your team.”  
 — Jessica Herrin, Stella & Dot founder
 
-El principio de la cultura de la empresa, tanto si se empieza a cocinar como si queremos mejorar la que ya tenemos, empieza en contratar a las personas correctas.
+La base de todas cultura de empresa empieza por contratar a las personas correctas.
 
-El término "cultural fit" existe por algo y es un factor crítico para determinar si es buena idea que la empresa y el candidato empiecen juntos una relación profesional.
+El cultural fit es un factor crítico para determinar si es buena idea que la empresa y el candidato empiecen juntos una relación profesional.
 
-Es importante conocer qué expectativas tiene el candidato, a qué tipo de culturas está acostumbrado y si aceptaría un posible cambio. Evaluar el choque cultural en el caso de que un candidato viene de otras culturas es algo clave cuando estás contratando.  
+Es importante conocer qué expectativas tiene el candidato, a qué tipo de culturas está acostumbrado y si aceptaría un posible cambio. Evaluar el choque cultural en el caso de que un candidato proceda de otras culturas es algo clave cuando estás contratando.  
 Hace unas semanas escribí sobre [qué preguntas me gustaría que me hiciese un candidato](https://asiermarques.com/2019/que-preguntar-entrevista/), precisamente por este motivo.
 
-En nuestro sector, el talento puede elegir dónde quiere trabajar y dónde sin que le falten opciones. El salario es un factor, pero no es el único. 
+En nuestro sector, el talento puede elegir dónde quiere trabajar y dónde sin que le falten opciones. El salario es un factor, pero no es el único.  
 Podemos encontrar fácilmente análisis que nos muestran cómo una buena cultura es decisiva tanto para conseguir captar, como para retener talento y para ello, necesitamos cuidar algunas cosas de nuestro proceso.
 
-Por ello, es importante que en la oferta se perciba nuestra cultura y valores, además de las expectativas que tenemos al buscar una persona para nuestro equipo.
+Es importante que en las ofertas que publiquemos, se perciban nuestra cultura y valores, además de las expectativas que tenemos al buscar a esa persona para nuestro equipo.
 
 ### La UX del proceso de selección
 
@@ -65,7 +65,7 @@ Por ello, es importante que en la oferta se perciba nuestra cultura y valores, a
 — Katie Burke, chief people officer at HubSpot.
 
 Algunas empresas tratan su cultura como un producto en sí mismo, podemos ver ejemplos en [Hubspot](https://business.linkedin.com/talent-solutions/blog/company-culture/2019/why-hubspot-treats-culture-as-product-to-attract-candidates) y en [Asana](https://www.youtube.com/watch?v=o1LeIf2BteU). Si seguimos el ejemplo, el proceso de contratación debe ser medible, iterable, guiado por feedback y con una UX cuidada al máximo.  
-Todo esto teniendo en cuenta que el nuestro, es un mercado en el que el coste de oportunidad a la hora de contratar talento es tremendamente alto.
+Hay que tener en cuenta que en nuestro un mercado, el coste de oportunidad a la hora de contratar talento es tremendamente alto.
 
 Idealmente, la persona que pase por nuestro proceso de selección debería percibir cómo sería el día a día en base a las pruebas y preguntas que le hagamos y percibir en todo momento si tiene un cultural fit adecuado y los skills que estamos buscando.
 
@@ -86,7 +86,10 @@ Como candidato, si te dan feedback, recíbelo con generosidad. No hay nada peor 
 ### Evitar héroes x10
 
 La época de los rock star del software ya ha pasado, o al menos en culturas de empresas que quieran ser escalables y no tener un ambiente tóxico.  
-Los soft skills, en especial la comunicación, aceptación de la crítica y el trabajo en equipo, son más difíciles de aprender que la tecnología.
+Se ha escrito mucho sobre perfiles que trabajan sólos y son capaces de arreglar lo que el resto de los equipos no pueden y subir código a producción mucho más rápido que el resto.  
+La realidad es que estos perfiles generan silos de conocimiento, dependencia y son los únicos que se atreven a lidiar con la deuda técnica que ellos mismos generan.  
+
+Los soft skills, en especial la comunicación, aceptación de la crítica y el trabajo en equipo, son más valiosos en las personas y evitan que se necesiten perfiles x10.
 
 ## El On-Boarding
 
@@ -94,7 +97,7 @@ Los soft skills, en especial la comunicación, aceptación de la crítica y el t
 
 Tras cerrar el proceso de contratación, comienza el proceso de onboarding.  
 
-El onboarding es una pieza clave de la cultura de una empresa ya que es el momento en el que la persona que entre va a evaluar si ha tomado una buena decisión o no a la hora de decantarse por nuestra empresa.
+El onboarding es una pieza clave de la cultura de una empresa ya que es el momento en el que la persona que entre va a evaluar si ha tomado una buena decisión o no a la hora de decantarse por nuestra empresa y también es un momento en el que debe aprenderlo todo sobre nuestra forma de trabajar.
 
 Al formar parte de la cultura, debe estar documentado por varios motivos:
 
