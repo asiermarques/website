@@ -1,6 +1,6 @@
 ---
 
-title: "Culturas de ingeniería: Por dónde empezar"
+title: "Culturas de ingeniería: por dónde empezar"
 date: "2019-11-03 22:07:01+00:00"
 template: "post"
 draft: true
