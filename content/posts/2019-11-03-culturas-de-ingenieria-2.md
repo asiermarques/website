@@ -123,7 +123,7 @@ Todo ello en un espacio de tiempo seguro en el que el resto de equipos de la org
 
 ### Buddies
 
-[El buddie](https://hbr.org/2019/06/every-new-employee-needs-an-onboarding-buddy) es un rol ya conocido en diferentes culturas que cuidan de su onboarding y tiene como objetivo acompañar a las personas que llegan en sus primeros días o en lo que dure el onboarding.
+[El buddy](https://hbr.org/2019/06/every-new-employee-needs-an-onboarding-buddy) es un rol ya conocido en diferentes culturas que cuidan de su onboarding y tiene como objetivo acompañar a las personas que llegan en sus primeros días o en lo que dure el onboarding.
 
 El objetivo de los buddies es el de dar contexto y ayudar en todo lo que la nueva persona necesite, pero hay que tener en cuenta su carga de trabajo antes de asignarles este rol. Si no se tiene en cuenta esto, impactará en el equipo en el que el buddy forme parte y la experiencia del onboarding no será la misma.
 
