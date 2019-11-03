@@ -86,10 +86,10 @@ Como candidato, si te dan feedback, recíbelo con generosidad. No hay nada peor 
 ### Evitar héroes x10
 
 La época de los rock star del software ya ha pasado, o al menos en culturas de empresas que quieran ser escalables y no tener un ambiente tóxico.  
-Se ha escrito mucho sobre perfiles que trabajan sólos y son capaces de arreglar lo que el resto de los equipos no pueden y subir código a producción mucho más rápido que el resto.  
-La realidad es que estos perfiles generan silos de conocimiento, dependencia y son los únicos que se atreven a lidiar con la deuda técnica que ellos mismos generan.  
+Se ha escrito mucho sobre perfiles que trabajan mejor solos y que son capaces de arreglar lo que el resto de los equipos no pueden y subir código a producción mucho más rápido que el resto.  
+La realidad es que estos perfiles generan silos de conocimiento, dependencia y son los únicos que se atreven a lidiar con la deuda técnica que a menudo ellos mismos generan.  
 
-Los soft skills, en especial la comunicación, aceptación de la crítica y el trabajo en equipo, son más valiosos en las personas y evitan que se necesiten perfiles x10.
+Si pensamos a largo plazo y sobretodo en una cultura de trabajo en equipo, los soft skills, en especial la comunicación, aceptación de la crítica, capacidad de aprendizaje, son más valiosos en las personas que se incorporen. Si nos fijamos en estas cosas, llegaremos más lejos que con perfiles 10x.
 
 ## El On-Boarding
 
@@ -101,31 +101,32 @@ El onboarding es una pieza clave de la cultura de una empresa ya que es el momen
 
 Al formar parte de la cultura, debe estar documentado por varios motivos:
 
-- No recaiga siempre en la misma persona y cualquiera del equipo pueda saber gestionarlo y mejorarlo
+- No recaiga siempre en la misma persona y cualquier persona del equip,o independientemente de su rol, pueda saber gestionarlo y mejorarlo
 - Todos los procesos de onboarding se hagan de la misma forma
 - Que el primer día la persona tenga todo listo para empezar a trabajar
 - Se puedan anticipar necesidades y la reserva de huecos en el calendario de los involucrados
+- Dar mayor seguridad a la persona que se incorpora
 
 En un buen onboarding toda persona que entre debería tener todo lo necesario para poder hacer su trabajo el primer día, conocer los valores de la empresa, saber qué se espera de ella en su primer mes y tener espacio de tiempo para conocer los procesos de la empresa, otros departamentos y aprender las dinámicas del día a día.
 
 ### Cómo documentar nuestro On Boarding
 
 Independientemente de qué herramienta utilicemos para documentarlo, el onboarding debe tener en cuenta lo que se necesita hacer antes de que la persona entre y lo que esta va a hacer desde el primer día hasta que el on-boarding haya finalizado.
-Idealmente, cualquiera del equipo debería poder acceder y actualizar esa documentación, de tal forma que cualquiera del equipo, podría asumir el preparar el on-boarding y tener claro todo lo que se necesita dejar listo antes de la entrada de esa persona.
+Idealmente, cualquiera del equipo debería poder acceder y actualizar esa documentación, de tal forma que cualquiera del equipo, podría asumir el preparar el on-boarding y tener claro todo lo que se necesita dejar listo antes del día en el que esa persona se incorpore.
 
-El primer día en una empresa nueva siempre es un día especial pero también un día en el que estás muy perdido con todo, tienes la sensación de no ser capaz de recordar ninguno de los nombres de tus compañeros y en muchos casos, el síndrome del impostor te puede hacer pasar una mala jugada. 
+El primer día en una empresa nueva siempre es un día especial pero también es un día en el que estás muy perdido con todo, tienes la sensación de no ser capaz de recordar ninguno de los nombres de tus compañeros y en muchos casos, el síndrome del impostor te puede hacer pasar una mala jugada. 
 Cuanto mejor cuidemos la parte del onboarding de una persona, mejor será su experiencia y antes se integrará en el día a día.
 
 Por otro lado, debemos pensar que durante sus primeros días, la persona va a saber si su elección ha sido buena o mala. En este sentido, no hay nada peor para una persona nueva que estar esperando días a tener su equipo de trabajo, que la metan en un proyecto directamente sin tener contexto ni interiorizados los procesos de trabajo, que no le presenten a nadie de otros departamentos ni le expliquen lo que estos hacen, que nadie le diga qué esperan de ella o de su rol en la empresa...
 
-Lo ideal es que la persona tenga un sitio en el que poder consultar sus primeros pasos a modo checklist, un listado de los recursos más importantes a consultar en cuanto a nuestra cultura y a quien va a conocer en sus primeros días. 
-Todo ello en un espacio de tiempo seguro en el que el resto de equipos de la organización sepan que esa persona está en su tiempo de onboarding y no esperen que sea productivo hasta que este tiempo finalice.
+Lo ideal es que la persona tenga un sitio en el que poder consultar sus primeros pasos a modo checklist, un listado de los recursos más importantes a consultar en cuanto a nuestra cultura y vaya conociendo el funcionamiento no sólo de su departamento, sino el del resto de la empresa. 
+Todo ello debe suceder en un espacio de tiempo seguro en el que el resto de equipos de la organización sepan que esa persona está en su tiempo de onboarding y no esperen que sea productivo hasta que este tiempo finalice.
 
 ### Buddies
 
 [El buddy](https://hbr.org/2019/06/every-new-employee-needs-an-onboarding-buddy) es un rol ya conocido en diferentes culturas que cuidan de su onboarding y tiene como objetivo acompañar a las personas que llegan en sus primeros días o en lo que dure el onboarding.
 
-El objetivo de los buddies es el de dar contexto y ayudar en todo lo que la nueva persona necesite, pero hay que tener en cuenta su carga de trabajo antes de asignarles este rol. Si no se tiene en cuenta esto, impactará en el equipo en el que el buddy forme parte y la experiencia del onboarding no será la misma.
+El objetivo de los buddies es el de dar contexto y ayudar en todo lo que la nueva persona necesite, pero hay que tener en cuenta su carga de trabajo antes de asignarles este rol. Si no se tiene en cuenta esto, habra un impacto directo en el equipo en el que el buddy forme parte y la experiencia del onboarding para la persona que entre no será la misma.
 
 ## El Off-Boarding
 
@@ -138,8 +139,7 @@ En el offboarding, es importante cuidar todo lo que consideremos importante en l
 
 Por último, una vez que esa persona se haya ido, es importante dar de baja los accesos pertinentes y gestionar los recursos a los que dicha persona tiene acceso. 
 
-Al igual que hemos documentado el onboarding, es necesario documentar también este proceso para que cualquiera en la empresa sepa cómo gestionarlo y siempre se haga de la misma forma.
-
+Al igual que hemos documentado el onboarding, es necesario documentar también este proceso para que cualquiera en la empresa sepa cómo gestionarlo y siempre se haga de la misma forma, sin que nos dejemos ningún paso importante. 
 
 ## Conclusión
 
