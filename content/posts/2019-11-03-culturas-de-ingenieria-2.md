@@ -153,8 +153,8 @@ Por último, no debemos descuidar cómo es la experiencia cuando una persona dec
 
 ## Referencias y recursos relacionados
 
-Lo que he comentado en este artículo está inspirado en mi experiencia de los últimos años y en especial en lo que aplicamos en [Packlink](https://packlink.es) ([estamos contratando](http://jobs.packlink.com/) por cierto).
-Existen muchos más recursos que hablan sobre este tema, he recopilado unas cuantas. 
+Lo que he comentado en este artículo está inspirado en mi experiencia de los últimos años y en especial en lo que aplicamos en [Packlink](https://packlink.es) ([estamos contratando](http://jobs.packlink.com/) por cierto).  
+Existen muchos más recursos que hablan sobre este tema, aquí he recopilado unos cuantos.  
 Iré actualizando esta lista a medida que vaya encontrando más:
 
 - [Alvaro Salazar habla del proceso de onBoarding en Lookiero](https://xala3pa.github.io/blog/onboarding/)
