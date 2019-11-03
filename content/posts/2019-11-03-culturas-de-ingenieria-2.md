@@ -28,7 +28,7 @@ Esta es la segunda entrada de una serie de artículos sobre culturas de ingenier
 
 ## Valores
 
-> "When your values are clear to you, making decisions becomes easier."
+> "When your values are clear to you, making decisions becomes easier."  
 — Roy E. Disney
 
 He de reconocer que a lo largo de mi carrera, he sido bastante escéptico con la utilidad los valores y visión de la empresa.  
@@ -44,7 +44,7 @@ Con los valores ya definidos, podemos empezar a construir nuestra cultura desde 
 
 ## Contratar
 
-> “Shaping your culture is more than half done when you hire your team.”
+> “Shaping your culture is more than half done when you hire your team.”  
 — Jessica Herrin, Stella & Dot founder
 
 El principio de la cultura de la empresa, tanto si se empieza a cocinar como si queremos mejorar la que ya tenemos, empieza en contratar a las personas correctas.
@@ -137,7 +137,6 @@ Por último, una vez que esa persona se haya ido, es importante dar de baja los 
 
 Al igual que hemos documentado el onboarding, es necesario documentar también este proceso para que cualquiera en la empresa sepa cómo gestionarlo y siempre se haga de la misma forma.
 
----
 
 ## Conclusión
 
