@@ -11,9 +11,9 @@ tags:
   - "Entrevistas"
   - "Gestión"
   - "Engineering Management"
-description: "En varias ocasiones, he visto debatir sobre el término cultura como algo que sólo pueden alcanzar ciertas empresas, refiriéndose exclusivamente a lo que idealmente sería una buena cultura de empresa, siempre bajo el criterio subjetivo de los interlocutores.  
+description: "El primer paso a la hora de construir una cultura pasa por conocer cuáles son los valores de todo el equipo y contratar a las personas adecuadas.
 
-En esta entrada, veremos a qué nos referimos cuando hablamos de una cultura de ingeniería en una empresa."
+Para ello, debemos comunicar muy bien qué buscamos en esas personas y destacar aspectos importantes de nuestra cultura."
 
 ---
 
