@@ -25,9 +25,8 @@ Esta es la tercera entrada de una serie de artículos sobre culturas de ingenier
 
 En este artículo vamos a ver diferentes estados de madurez en los que puede estar una cultura de tecnología.
 
-La división que he elegido está inspirada en el libro [Elastic Leadership de Roy Osherove](https://www.manning.com/books/elastic-leadership) ya que en mi opinión, es la mejor que he visto y la comparto totalmente. 
-
-No obstante, me he tomado la libertad de adaptarlos un poco en base a mi experiencia personal y he añadido algunos puntos que me resultan importantes.
+Esta escala de tres niveles está inspirada en la que se plantea en el libro [Elastic Leadership de Roy Osherove](https://www.manning.com/books/elastic-leadership).  
+Me he tomado la libertad de adaptarlos un poco en base a mi experiencia y he añadido, en cada uno de ellos, algunos puntos que me resultan importantes.
 
 Hay que tener en cuenta que, aunque hablaremos de tres niveles, en la vida real no sólo hay blancos o negros y es posible que una misma empresa tenga estos diferentes niveles repartidos entre diferentes áreas, oficinas o equipos.
 
@@ -80,13 +79,13 @@ En estas situaciones suele ser increible la cantidad de cosas que no funcionan b
 Además de control, es clave introducir métricas. Si no tenemos métricas no sabremos realmente si los cambios que hacemos tienen un impacto positivo o negativo y guiaremos nuestras decisiones mediante meras sensaciones. 
 
 **Priorizar**  
-Tenemos que renunciar a cosas y aprender a jugar bien con el tiempo. Si todo es urgente nada lo es. Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo.  
-Debemos gestionar la entrada de trabajo para limitar el work in progress de los equipos. Es la mejor medida para poder entregar trabajo con cierto orden.
+Tenemos que renunciar a ejecutar cosas de forma inmediata y sin criterio, a aprender a jugar bien con el tiempo. Si todo es urgente nada lo es.  
+Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo. Es crítico gestionar la entrada de trabajo para limitar el work in progress de los equipos. Es la mejor medida para poder entregar trabajo con cierto orden.
 
-Esto no depende de metodología, tanto waterfall como Kanban pueden funcionar si hay orden. Hay quien puede estar tentado en meter Scrum de libro en este momento. Yo evaluaría seriamente el impacto de aplicar Scrum en esta etapa teniendo en cuenta lo que esto conlleva a nivel de roles y ceremonias. 
+Esto no depende de metodología, tanto waterfall como Kanban pueden funcionar si hay orden.
 
 **Conseguir tiempo para los equipos**  
-En estos contextos, lo más importante que creo que debemos hacer es conseguir tiempo. 
+En estos contextos, lo más importante que creo que debemos hacer es conseguir tiempo.  
 Debemos detectar qué es lo que más roba tiempo a los equipos y reducirlo en la medida de lo posible.
 Seguramente nos demos cuenta de que lo que más roba tiempo a los equipos son las reuniones innecesarias y las consultas por cosas que no están documentadas.
 
@@ -95,18 +94,18 @@ Por lo tanto, si hacemos daily meetings, estas pueden reducirse considerablement
 Incluso podríamos ahorrarnos esta daily, si cada miembro del equipo sube su resumen a un gestor de documentación. Los interesados podrán recibir una notificación cuando se añada ese resumen escrito.  
 De esta forma nos ahorramos una reunión y ganamos en visibilidad que puede consultarse en asíncrono no sólo por los integrantes de un equipo, sino por otras personas de la empresa.
 
-Al igual que en este ejemplo, podemos poner normas estrictas del tipo "si no hay agenda en una reunión, con todos los topics que se van a hablar y un pequeño resumen de los mismos", la reunión se cancela.
+Al igual que en este ejemplo, podemos poner normas estrictas del tipo "si no hay agenda en una reunión, con todos los topics que se van a hablar y un pequeño resumen de los mismos" de antemano, la reunión se cancela.
 
-Imaginemos que podemos reducir una daily que se suele ir a 30 minutos a 12 minutos. Hemos ganado una hora y media a la semana para cada uno de los involucrados en esa reunión.  
-Este tiempo lo pueden dedicar a aprender, dar charlas sobre tecnologías que se usen en la empresa, a que un compañero les explique cómo configura un entorno de desarrollo que a la vez puede hacerle ganar tiempo, a automatizar cosas que se hacen de forma manual, etc.
-Cuanto más tiempo ganemos y lo invirtamos en que los equipos se formen, más tiempo se ganará a medio y largo plazo.
+Si conseguimos reducir una daily que se suele ir a 30 minutos a tan sólo 12 minutos, hemos ganado una hora y media a la semana para cada uno de los involucrados en esa reunión.  
+Este tiempo lo pueden dedicar a aprender, dar charlas sobre tecnologías que se usen en la empresa, a que un compañero les explique cómo configura un entorno de desarrollo que a la vez puede hacerle ganar tiempo, a automatizar cosas que se hacen de forma manual, etc.  
+Cuanto más tiempo ganemos y lo invirtamos en que los equipos se formen y automaticen procesos, más tiempo se ganará a medio y largo plazo.
 
 Debemos velar por que ese tiempo se dedique a aprendizaje y no a asumir más tareas de clientes o relacionadas con milestones de proyectos. Esto es de vital importancia. Por ello, esta estrategia debe ir acompañada de una buena priorización, mencionada en el punto anterior.
 
 **Evitar los silos de conocimiento**  
-En este escenario, los silos de conocimiento son muy habituales y nos impactan mucho, sobretodo cuando personas que han adquirido el conocimiento a través de trabajar en ciertos proyectos o resolviendo problemas relacionados con deuda técnica sin documentar.
+En este escenario, los silos de conocimiento son muy habituales y nos impactan mucho. Cuando personas que han adquirido el conocimiento a través de trabajar en ciertos proyectos o resolviendo problemas relacionados con deuda técnica sin documentar se van de la empresa, tenemos un problema.  
 
-En este contexto, lo ideal es detectar quiénes son los que tienen el conocimiento y establecer dinámicas para que distribuyan su conocimiento al resto de equipos.
+En este contexto, lo ideal es detectar quiénes son los que tienen el conocimiento y establecer dinámicas para que distribuyan su conocimiento al resto de equipos.  
 Una técnica importante y que podemos establecer de forma inmediata es introducir Pair-Programming en los proyectos.
 
 Otra cosa que deberíamos hacer es introducir documentación activa, es decir, documentación que se mantenga actualizada de forma automática. Escribí sobre [documentación activa en este artículo](https://asiermarques.com/2019/documentacion-activa/).  
