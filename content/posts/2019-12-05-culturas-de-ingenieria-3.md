@@ -16,7 +16,7 @@ Es interesante saber reconocerlos y poner los medios para ir creciendo todos jun
 
 ---
 
-Esta es la segunda entrada de una serie de artículos sobre culturas de ingeniería.
+Esta es la tercera entrada de una serie de artículos sobre culturas de ingeniería.
 * [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
 * [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
 * **3. Madurez de nuestra cultura**
