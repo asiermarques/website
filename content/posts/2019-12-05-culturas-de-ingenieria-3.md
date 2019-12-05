@@ -53,10 +53,10 @@ Al haber problemas de comunicación, se sobrecargan las agendas de los project m
 Los problemas de comunicación se hacen más graves y los desarrolladores terminan por entrar a reuniones cuando ya es demasiado tarde y tienen poco margen para actuar.
 
 Todo este panorama unido al estrés al que todas las personas del equipo están sometidas, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  
-Si esta persona no soluciona el problema de forma ugente, se la apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
+Si esta persona no soluciona el problema de forma urgente, se la apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
 Esto hará que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa sin que nadie aprenda nada valioso en el proceso.
 
-En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero.
+En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero. 
 
 En algunas empresas tienen muy interiorizada esta forma de trabajar y normalmente acabaremos cansados de escuchar la siguiente frase para rechazar cualquier tipo de cambio:
 
@@ -80,8 +80,8 @@ En estas situaciones suele ser increible la cantidad de cosas que no funcionan b
 Además de control, es clave introducir métricas. Si no tenemos métricas no sabremos realmente si los cambios que hacemos tienen un impacto positivo o negativo y guiaremos nuestras decisiones mediante meras sensaciones. 
 
 **Priorizar**  
-Tenemos que renunciar a cosas y aprender a jugar bien con el tiempo. Si todo es urgente nada lo es. Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo.
-Hay que construir hasta donde sea posible un muro en el cual podamos frenar el work in progress de los equipos para poder llegar a entregar trabajo con cierto orden.
+Tenemos que renunciar a cosas y aprender a jugar bien con el tiempo. Si todo es urgente nada lo es. Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo.  
+Debemos gestionar la entrada de trabajo para limitar el work in progress de los equipos. Es la mejor medida para poder entregar trabajo con cierto orden.
 
 Esto no depende de metodología, tanto waterfall como Kanban pueden funcionar si hay orden. Hay quien puede estar tentado en meter Scrum de libro en este momento. Yo evaluaría seriamente el impacto de aplicar Scrum en esta etapa teniendo en cuenta lo que esto conlleva a nivel de roles y ceremonias. 
 
@@ -90,13 +90,14 @@ En estos contextos, lo más importante que creo que debemos hacer es conseguir t
 Debemos detectar qué es lo que más roba tiempo a los equipos y reducirlo en la medida de lo posible.
 Seguramente nos demos cuenta de que lo que más roba tiempo a los equipos son las reuniones innecesarias y las consultas por cosas que no están documentadas.
 
-Al introducir micro-gestión, los project manager necesitarán en todo momento conocer el estado de las tareas y de los proyectos. Podemos ganar tiempo si utilizamos correctamente nuestro gestor de tareas con un board de Kanban, en el que se puede ver y medir el trabajo en progreso.
-Por lo tanto, si hacemos daily meetings, estas pueden reducirse considerablemente si en lugar de comentar en lo que estamos trabajando, comentamos qué bloqueos tenemos (si hay alguno) y qué vamos a hacer en los próximos días, para que el resto de los integrantes de un equipo puedan detectar necesidades o cosas que les impacten.
-Incluso esta daily, podríamos evitarla si la documentamos en una herramienta de documentación mediante la cual, los interesados puedan recibir una notificación cuando se añada el resumen escrito. De esta forma nos ahorramos una reunión y ganamos en visibilidad que puede consultarse en asíncrono no sólo por los integrantes de un equipo, sino por otras personas de la empresa.
+Al introducir micro-gestión, los project manager necesitarán en todo momento conocer el estado de las tareas y de los proyectos. Podemos ganar tiempo si utilizamos correctamente nuestro gestor de tareas con un board de Kanban, en el que se puede ver y medir el trabajo en progreso.  
+Por lo tanto, si hacemos daily meetings, estas pueden reducirse considerablemente si en lugar de comentar en lo que estamos trabajando, comentamos qué bloqueos tenemos (si hay alguno) y qué vamos a hacer en los próximos días, para que el resto de los integrantes de un equipo puedan detectar necesidades o cosas que les impacten.  
+Incluso podríamos ahorrarnos esta daily, si cada miembro del equipo sube su resumen a un gestor de documentación. Los interesados podrán recibir una notificación cuando se añada ese resumen escrito.  
+De esta forma nos ahorramos una reunión y ganamos en visibilidad que puede consultarse en asíncrono no sólo por los integrantes de un equipo, sino por otras personas de la empresa.
 
 Al igual que en este ejemplo, podemos poner normas estrictas del tipo "si no hay agenda en una reunión, con todos los topics que se van a hablar y un pequeño resumen de los mismos", la reunión se cancela.
 
-Imaginemos que podemos reducir una daily que se suele ir a 30 minutos a 12 minutos. Hemos ganado una hora y media a la semana para cada uno de los involucrados en esa reunión. 
+Imaginemos que podemos reducir una daily que se suele ir a 30 minutos a 12 minutos. Hemos ganado una hora y media a la semana para cada uno de los involucrados en esa reunión.  
 Este tiempo lo pueden dedicar a aprender, dar charlas sobre tecnologías que se usen en la empresa, a que un compañero les explique cómo configura un entorno de desarrollo que a la vez puede hacerle ganar tiempo, a automatizar cosas que se hacen de forma manual, etc.
 Cuanto más tiempo ganemos y lo invirtamos en que los equipos se formen, más tiempo se ganará a medio y largo plazo.
 
@@ -108,8 +109,8 @@ En este escenario, los silos de conocimiento son muy habituales y nos impactan m
 En este contexto, lo ideal es detectar quiénes son los que tienen el conocimiento y establecer dinámicas para que distribuyan su conocimiento al resto de equipos.
 Una técnica importante y que podemos establecer de forma inmediata es introducir Pair-Programming en los proyectos.
 
-Otra cosa que deberíamos hacer es introducir documentación activa, es decir, documentación que se mantenga actualizada de forma automática. Escribí sobre documentación activa en este artículo.
-Puede ser un error sobredocumentar ya que al no disponer de tiempo, la documentación generada a mano será costosa y tiene muchas posibilidades de que quede obsoleta muy rápidamente.
+Otra cosa que deberíamos hacer es introducir documentación activa, es decir, documentación que se mantenga actualizada de forma automática. Escribí sobre [documentación activa en este artículo](https://asiermarques.com/2019/documentacion-activa/).  
+En este estado crear mucha documentación de forma manual sin disponer de tiempo para mantenerla actualizada, además de ser muy costoso, es sin duda contraproducente.
 
 **Elegir las batallas**  
 Si tienes el rol de actor de cambio en un contexto similar a este, debes armarte de paciencia y elegir las batallas una a una, asumiendo que cada paso va a ser como caminar en un río con una corriente colosal que va a estar continuamente desafiando tus decisiones.
