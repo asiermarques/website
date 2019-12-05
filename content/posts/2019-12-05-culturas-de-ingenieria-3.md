@@ -29,7 +29,7 @@ La división que he elegido está inspirada en el libro [Elastic Leadership de R
 
 No obstante, me he tomado la libertad de adaptarlos un poco en base a mi experiencia personal y he añadido algunos puntos que me resultan importantes.
 
-Hay que tener en cuenta que, aunque hablaremos de tres niveles, en la vida real no hay sólo blancos o negros y es posible que una misma empresa tenga estos diferentes niveles repartidos entre diferentes áreas, oficinas o equipos.
+Hay que tener en cuenta que, aunque hablaremos de tres niveles, en la vida real no sólo hay blancos o negros y es posible que una misma empresa tenga estos diferentes niveles repartidos entre diferentes áreas, oficinas o equipos.
 
 ## Supervivencia
 
@@ -40,19 +40,23 @@ El peor escenario posible es una cultura de supervivencia. Cuando trabajamos en 
 Este tipo de entornos la rotación de personal suele ser muy alta y la ausencia de documentación unida a la presión de fechas, hace que surjan ciertos perfiles que hagan el papel de héroes, los llamados desarrolladores 10x o [el perfil paracetamol del que ya escribí por aquí](https://asiermarques.com/2018/el-perfil-paracetamol/).   
 El mentoring básicamente se basa en un "quita que ya lo hago yo".
 
-Suele ser habitual que los equipos tengan cambios constantes de foco. Los proyectos se retrasan pero no se frena la nueva entrada de trabajo, por lo que la presión se hace muy fuerte y la sensación de los equipos es la de estar en un constante periodo en el que todas las entregas sufren retrasos.
+Suele ser habitual que los equipos tengan cambios constantes de foco. Los proyectos se retrasan pero no se frena la nueva entrada de trabajo. La presión se hace muy fuerte y la sensación que los equipos perciben es la de estar en un constante periodo en el que todas las entregas sufren retrasos.
 
-En los entornos en los que esto se hace más latente, los stakeholders realizan sus peticiones directamente a los desarrolladores, por lo que no se priorizan las peticiones e incluso se hacen invisibles por los project managers, lo que impacta directamente en los proyectos en curso, que sufren retrasos constantes o peor aún, subidas a producción sin la calidad mínima necesaria que termina por obligar a hacer rollbacks o ocupar con soporte a problemas en producción a los equipos que ya han empezado otros proyectos nuevos que deben pararlos de forma no oficial para atender peticiones de este tipo sin ningún tipo de control y prioridad.
+En los entornos en los que esto se hace más latente, los stakeholders realizan sus peticiones directamente a los desarrolladores. No se priorizan las peticiones e incluso se hacen invisibles a los project managers, lo que impacta directamente en los proyectos en curso.  
+Los retrasos constantes generan subidas a producción sin la calidad mínima necesaria lo que obliga a hacer rollbacks que saturan a los equipos con soporte a problemas urgentes en producción. Muchos de estos equipos ya han empezado otros proyectos nuevos que deben pararse de forma no oficial para atender peticiones sin ningún tipo de control ni prioridad.
 
-La comunicación se hace complicada, nunca hay tiempo para documentar y la documentación se deja para el final de los proyectos que queda como un mero entregable y destinada a quedarse obsoleta al no contemplar correcciones después de la entrega o incluso evolutivos.
+La comunicación se hace complicada y nunca hay tiempo para documentar. La documentación se deja para el final de los proyectos que queda como un mero entregable y destinada a quedarse obsoleta al no contemplar correcciones después de la entrega o incluso cuando se desarrollan evolutivos.
 
 ![](/media/trabajo.gif)
 
-Al haber problemas de comunicación, se sobrecargan las agendas de los project manager con reuniones para clarificar dudas o malentendidos pero no se cuenta con los desarrolladores para "no quitarles tiempo", por lo que los problemas de comunicación se hacen más graves y terminan por entrar a reuniones cuando ya es demasiado tarde y tienen poco margen para actuar.
+Al haber problemas de comunicación, se sobrecargan las agendas de los project manager con reuniones para clarificar dudas o malentendidos pero no se cuenta con los desarrolladores para "no quitarles tiempo".  
+Los problemas de comunicación se hacen más graves y los desarrolladores terminan por entrar a reuniones cuando ya es demasiado tarde y tienen poco margen para actuar.
 
-Todo este panorama, unido al estrés de todas las personas del equipo, hace que los errores no se perciban como del equipo sino tengan Nombre y Apellidos de una persona que o bien carga con la culpa y responsabilidad de arreglarlo o bien se la aparte para que el paracetamol de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para solucionarlo, por lo que esa persona no tiene la oportunidad de aprender de sus errores y simplemente cargue con la culpa. 
+Todo este panorama, unido al estrés de todas las personas del equipo, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  
+Si esta persona no soluciona el problema de forma ugente, se las apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema. Esto hará no tiene la oportunidad de aprender de sus errores y simplemente cargue con la culpa. 
+Todo este panorama, unido al estrés de todas las personas del equipo, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  Si no solucionan el problema de forma ugente, se las apartará para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para solucionarlo, por lo que esa persona que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa. Y nadie aprende nada. 
 
-Esto hace que en general, nadie quiera arriesgarse a cometer un error o implementar un cambio que le pueda "enmarronar" a él o a un compañero. Irónicamente la empresa, que ve la necesidad de cambio, intenta "animar" al equipo a innovar sin comprender la realidad de los equipos en el día a día.
+El resultado es que en un contexto así, nadie quiera arriesgarse a cometer un error o implementar un cambio que le pueda "enmarronar" a él o a un compañero. Irónicamente la empresa, que ve la necesidad de cambio, intenta "animar" al equipo a innovar sin comprender la realidad de los equipos en el día a día.
 
 En algunas empresas tienen muy interiorizada esta forma de trabajar y normalmente acabaremos cansados de escuchar la siguiente frase para rechazar cualquier tipo de cambio:
 
@@ -69,9 +73,11 @@ Los siguientes puntos son temas por los que empezar a trabajar. No pretendo que 
 Este estado es el peor en el que puedes estar como manager y cualquiera que haya pasado por este tipo de cambio debería contar con nuestro más profundo respeto.
 
 **Introducir control y métricas**  
-Si existe un contexto en el que tenga sentido la micro-gestión es este. Tenemos que tener claro que esto es una medida a corto plazo mientras introducimos el resto de cambios y procesos.
+Si existe un contexto en el que tenga sentido la micro-gestión, es este. La introducción de decisiones y control del estado/progreso es fundamental pero tenemos que tener claro que esto es una medida a corto plazo mientras introducimos procesos que nos vayan permitiendo delegar ese control.
 
-Es clave medir, si no tenemos métricas no vamos a saber realmente si lo que hacemos tiene impacto positivo o negativo. 
+En estas situaciones suele ser increible la cantidad de cosas que no funcionan bien sólo porque nadie se atreve a tomar una decisión, por muy obvio que sea el camino. 
+
+Además de control, es clave introducir métricas. Si no tenemos métricas no sabremos realmente si los cambios que hacemos tienen un impacto positivo o negativo y guiaremos nuestras decisiones mediante meras sensaciones. 
 
 **Priorizar**  
 Tenemos que renunciar a cosas y aprender a jugar bien con el tiempo. Si todo es urgente nada lo es. Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo.
