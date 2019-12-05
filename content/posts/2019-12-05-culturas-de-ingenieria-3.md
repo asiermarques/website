@@ -53,7 +53,7 @@ Al haber problemas de comunicación, se sobrecargan las agendas de los project m
 Los problemas de comunicación se hacen más graves y los desarrolladores terminan por entrar a reuniones cuando ya es demasiado tarde y tienen poco margen para actuar.
 
 Todo este panorama unido al estrés al que todas las personas del equipo están sometidas, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  
-Si esta persona no soluciona el problema de forma ugente, se las apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
+Si esta persona no soluciona el problema de forma ugente, se la apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
 Esto hará que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa sin que nadie aprenda nada valioso en el proceso.
 
 En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero.
