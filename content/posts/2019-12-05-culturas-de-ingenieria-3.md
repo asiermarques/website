@@ -29,7 +29,7 @@ La división que he elegido está inspirada en el libro [Elastic Leadership de R
 
 No obstante, me he tomado la libertad de adaptarlos un poco en base a mi experiencia personal y he añadido algunos puntos que me resultan importantes.
 
-Hay que tener en cuenta que, aunque hablaremos de tres niveles, en la vida real no hay sólo blancos o negros y es posible que una misma empresa tenga estos diferentes niveles repartidos entre diferentes áreas, oficinas u equipos.
+Hay que tener en cuenta que, aunque hablaremos de tres niveles, en la vida real no hay sólo blancos o negros y es posible que una misma empresa tenga estos diferentes niveles repartidos entre diferentes áreas, oficinas o equipos.
 
 ## Supervivencia
 
