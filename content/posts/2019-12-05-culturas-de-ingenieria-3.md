@@ -56,7 +56,7 @@ Esto hace que en general, nadie quiera arriesgarse a cometer un error o implemen
 
 En algunas empresas tienen muy interiorizada esta forma de trabajar y normalmente acabaremos cansados de escuchar la siguiente frase para rechazar cualquier tipo de cambio:
 
-> Es que en nuestra empresa trabajamos así ™
+> Es que en esta empresa trabajamos así ™
 
 ![](/media/dontknow.gif)
 
