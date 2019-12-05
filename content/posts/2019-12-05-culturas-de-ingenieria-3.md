@@ -66,11 +66,11 @@ En algunas empresas tienen muy interiorizada esta forma de trabajar y normalment
 
 ### Cómo salir de esta situación
 
-Esta es sin duda la peor situación de la que salir y el esfuerzo de cambiar una cultura de este tipo puede llegar a ser titánico y es posible que incluso no dependa de nosotros solos.  
-Aquí hay un requisito importante: la dirección de la empresa debe estar alineada con el cambio y asumir ciertas inversiones que hacen falta para poder cambiar las cosas.
+Esta es sin duda la peor situación de partida. El esfuerzo de cambiar una cultura de este tipo puede llegar a ser titánico y probablemente no dependa únicamente de nosotros solos.  
+Aquí hay un requisito importante: la dirección de la empresa debe estar alineada con el cambio y asumir ciertas inversiones que hacen falta para poder cambiar las cosas.  
 
-Los siguientes puntos son temas por los que empezar a trabajar. No pretendo que esto sirva de lección ya que cada contexto es un mundo muy particular. 
-Este estado es el peor en el que puedes estar como manager y cualquiera que haya pasado por este tipo de cambio debería contar con nuestro más profundo respeto.
+Los siguientes puntos son temas por los que empezar a trabajar. No pretendo que esto sirva de lección ya que cada contexto es un mundo muy particular.  
+Este estado es el peor en el que puedes trabajar como manager y cualquiera que haya pasado por este tipo de cambio debería contar con nuestro más profundo respeto.
 
 **Introducir control y métricas**  
 Si existe un contexto en el que tenga sentido la micro-gestión, es este. La introducción de decisiones y control del estado/progreso es fundamental pero tenemos que tener claro que esto es una medida a corto plazo mientras introducimos procesos que nos vayan permitiendo delegar ese control.
