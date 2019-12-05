@@ -52,11 +52,11 @@ La comunicación se hace complicada y nunca hay tiempo para documentar. La docum
 Al haber problemas de comunicación, se sobrecargan las agendas de los project manager con reuniones para clarificar dudas o malentendidos pero no se cuenta con los desarrolladores para "no quitarles tiempo".  
 Los problemas de comunicación se hacen más graves y los desarrolladores terminan por entrar a reuniones cuando ya es demasiado tarde y tienen poco margen para actuar.
 
-Todo este panorama, unido al estrés de todas las personas del equipo, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  
-Si esta persona no soluciona el problema de forma ugente, se las apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema. Esto hará no tiene la oportunidad de aprender de sus errores y simplemente cargue con la culpa. 
-Todo este panorama, unido al estrés de todas las personas del equipo, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  Si no solucionan el problema de forma ugente, se las apartará para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para solucionarlo, por lo que esa persona que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa. Y nadie aprende nada. 
+Todo este panorama unido al estrés al que todas las personas del equipo están sometidas, hace que los errores de una persona terminen por adquirir su Nombre y Apellidos.  
+Si esta persona no soluciona el problema de forma ugente, se las apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
+Esto hará que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa sin que nadie aprenda nada valioso en el proceso.
 
-El resultado es que en un contexto así, nadie quiera arriesgarse a cometer un error o implementar un cambio que le pueda "enmarronar" a él o a un compañero. Irónicamente la empresa, que ve la necesidad de cambio, intenta "animar" al equipo a innovar sin comprender la realidad de los equipos en el día a día.
+En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero.
 
 En algunas empresas tienen muy interiorizada esta forma de trabajar y normalmente acabaremos cansados de escuchar la siguiente frase para rechazar cualquier tipo de cambio:
 
