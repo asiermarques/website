@@ -37,7 +37,7 @@ El peor escenario posible es una cultura de supervivencia. Cuando trabajamos en 
 
 ![](/media/fine.gif)
 
-Este tipo de entornos la rotación de personal suele ser muy alta y la ausencia de documentación unida a la presión de fechas, hace que surjan ciertos perfiles que hagan el papel de héroes, los llamados desarrolladores 10x o [el perfil paracetamol del que ya escribí por aquí](https://asiermarques.com/2018/el-perfil-paracetamol/).   
+En este tipo de entornos la rotación de personal suele ser muy alta y la ausencia de documentación unida a la presión de fechas, hace que surjan ciertos perfiles que hagan el papel de héroes, los llamados desarrolladores 10x o [el perfil paracetamol del que ya escribí por aquí](https://asiermarques.com/2018/el-perfil-paracetamol/).   
 El mentoring básicamente se basa en un "quita que ya lo hago yo".
 
 Suele ser habitual que los equipos tengan cambios constantes de foco. Los proyectos se retrasan pero no se frena la nueva entrada de trabajo. La presión se hace muy fuerte y la sensación que los equipos perciben es la de estar en un constante periodo en el que todas las entregas sufren retrasos.
