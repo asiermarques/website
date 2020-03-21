@@ -4,7 +4,7 @@ title: "Culturas de ingeniería: cultura de feedback"
 date: "2020-03-21 16:07:01+00:00"
 template: "post"
 draft: false
-slug: "/2019/culturas-ingenieria-4/"
+slug: "/2020/culturas-ingenieria-4/"
 category: "Gestión"
 tags:
   - "Desarrollo de software"
