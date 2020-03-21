@@ -20,7 +20,7 @@ Esta es la primera entrada de una serie de artículos sobre culturas de ingenier
 * **1. De qué hablamos cuando hablamos de cultura**
 * [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
 * [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
-* *4. Cultura de feedback (próximamente)*
+* [4. Cultura de feedback](/2019/culturas-ingenieria-4/)
 * *5. Comunicación y documentación (próximamente)*
 
 [![Culture](/media/vitaliy-lyubezhanin-gfVofr15ICc-unsplash.jpg)](https://unsplash.com/photos/gfVofr15ICc)
