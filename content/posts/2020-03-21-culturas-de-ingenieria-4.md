@@ -84,8 +84,7 @@ Para que el feedback sea efectivo y se interiorice en nuestra cultura, es muy im
 
 ### Mecanismos y herramientas
 
-**Reuniones one on one**
-
+#### Reuniones one on one
 La reunión de 1-1 es una herramienta ya conocida y muy asentada en muchas culturas, que es utilizada por managers y personas del equipo para construir una relación de confianza, dar feedback, establecer objetivos y hacer seguimiento de una persona.
 
 Para mí, estas reuniones no son opcionales y de hecho, creo que son las más importantes que se puedan tener como manager. Dependiendo del número de personas a las que estoy haciendo seguimiento en un determinado momento, me gusta tener 1-1 con cada persona cada dos o tres semanas, como máximo.
@@ -107,13 +106,11 @@ Como en todas las reuniones y siempre que sea posible, lo ideal es poder dejar e
 
 Disponer de herramientas como un Career Path cuidado pueden ayudar a que el feedback pueda ser conducido también al crecimiento dentro de la empresa.
 
-[**Feedback 360**](https://en.wikipedia.org/wiki/360-degree_feedback)
-
+#### [**Feedback 360**](https://en.wikipedia.org/wiki/360-degree_feedback)
 Esta mecánica consiste en recopilar feedback por parte de personas que han interactuado con la persona a la que se va a dar feedback.
 Es una mecánica valiosa, sobretodo para que dicha persona disponga de feedback por parte de personas de diferentes áreas y con diferentes perspectivas que han trabajado con ella directamente.
 
-**Performance reviews**
-
+#### Performance reviews
 Las *performance reviews* son las reuniones en las que se hace una recopilación de cómo ha sido la evolución de una persona a la hora de alcanzar sus objetivos.
 
 Me pareció interesante mencionar esta mecánica porque esta reunión debe ser un resumen final de todo lo que se haya visto durante las 1-1 periódicas y otras mecánicas como los Feedback 360.
@@ -125,41 +122,35 @@ Os dejo aquí [un artículo del MIT con recursos muy útiles sobre estas reunion
 
 De nuevo, disponer de un buen Career Path en la empresa, puede aumentar la eficacia de estas reuniones.
 
-**Retrospectivas**
-
+#### Retrospectivas
 Las retrospectivas son una buena herramienta para dar y recibir feedback ya no a nivel personal, sino como equipo.
 
 Hay muchas mecánicas para conducir retrospectivas pero lo principal es recoger feedback tanto de los que se ha hecho bien como de lo que se ha de mejorar como equipo.
 Es importante que se haga seguimiento de los action point que se establezcan en las retrospectivas para que estas no caigan en saco roto, lo cual puede desmotivar al equipo y conseguir que el feedback más valioso vaya desapareciendo.
 
-**Postmortems**
-
+#### Postmortems
 Los postmortem son un tipo de retrospectiva que se centra en un problema o catástrofe que hemos tenido y de la que queremos aprender para que no vuelva a ocurrir.
 
 Lo importante de los postmortem es que deben buscar lecciones aprendidas y no culpables. Al involucrar diferentes áreas o incluso empresas, esta debe ser la base principal y puede ser un reto al involucrar diferentes culturas en las que esta premisa no siempre se cumpla.
 
 ### Antipatrones
 
-**Feedback sandwich**
-
+#### Feedback sandwich
 Este anti patrón es bastante conocido por lo altamente utilizado que es por algunos managers. Básicamente consiste en sacar un tema que introduce la conversación hacia algo en el que creamos que la persona pueda estar confortable o directamente dar un feedback positivo para después llegar a nuestro objetivo, que es dar un feedback de mejora o correctivo.
 
 Hay algunos libros de gestión que aconsejan el uso de esta práctica pero yo lo considero un anti patrón. La razón es básicamente que las personas con la que trabajamos no son estúpidas y al no serlo, no les va a gustar que les trates como tal.
 
 Por mi personalidad, me gustan las cosas directas y a la cara cuanto antes mejor, por lo que este tipo de prácticas no las considero para nada acertadas.
 
-**Feedback tardío**
-
+#### Feedback tardío
 Esperar más de 48 horas para dar feedback es un error típico también. Hay mil razones que nos impidan dar feedback en este rango de tiempo, pero debemos tener presente que cuánto más tiempo pase, el feedback será más inefectivo o incluso contraproducente. 
 
-**Feedback sin ejemplos concretos**
-
+#### Feedback sin ejemplos concretos
 Dar feedback sin ejemplos puede llegar a malinterpretarse o generar confusión a la persona. Si el feedback es basándonos en algo que se haya escrito, debemos mostrárselo a la persona para que nos dé más información o comprenda a qué nos referimos. 
 
 Si ha sido un comportamiento de otro tipo, es crítico dar el feedback cuanto antes para que no se olviden detalles importantes del objeto del feedback.
 
-**Feedback para culpabilizar**
-
+#### Feedback para culpabilizar
 El patrón más importante a evitar es en el feedback en realidad es una búsqueda de culpables o poner en manifiesto un comportamiento como si fuese una cualidad de una persona con nombre y apellidos en lugar de exponer el comportamiento concreto mediante ejemplos objetivos con los que poder trabajar.
 
 ### Conclusión
