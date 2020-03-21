@@ -1,6 +1,6 @@
 ---
 
-title: "Culturas de ingeniería: madurez"
+title: "Culturas de ingeniería: madurez de nuestra cultura"
 date: "2019-12-05 19:07:01+00:00"
 template: "post"
 draft: false
@@ -68,21 +68,18 @@ Aquí hay un requisito importante: la dirección de la empresa debe estar alinea
 Los siguientes puntos son temas por los que empezar a trabajar. No pretendo que esto sirva de lección ya que cada contexto es un mundo muy particular. 
 Este estado es el peor en el que puedes estar como manager y cualquiera que haya pasado por este tipo de cambio debería contar con nuestro más profundo respeto.
 
-**Introducir control y métricas**
-
+**Introducir control y métricas**  
 Si existe un contexto en el que tenga sentido la micro-gestión es este. Tenemos que tener claro que esto es una medida a corto plazo mientras introducimos el resto de cambios y procesos.
 
 Es clave medir, si no tenemos métricas no vamos a saber realmente si lo que hacemos tiene impacto positivo o negativo. 
 
-**Priorizar**
-
+**Priorizar**  
 Tenemos que renunciar a cosas y aprender a jugar bien con el tiempo. Si todo es urgente nada lo es. Debemos empezar a documentar por escrito las prioridades y hacerlas visibles a todo el equipo.
 Hay que construir hasta donde sea posible un muro en el cual podamos frenar el work in progress de los equipos para poder llegar a entregar trabajo con cierto orden.
 
 Esto no depende de metodología, tanto waterfall como Kanban pueden funcionar si hay orden. Hay quien puede estar tentado en meter Scrum de libro en este momento. Yo evaluaría seriamente el impacto de aplicar Scrum en esta etapa teniendo en cuenta lo que esto conlleva a nivel de roles y ceremonias. 
 
-**Conseguir tiempo para los equipos**
-
+**Conseguir tiempo para los equipos**  
 En estos contextos, lo más importante que creo que debemos hacer es conseguir tiempo. 
 Debemos detectar qué es lo que más roba tiempo a los equipos y reducirlo en la medida de lo posible.
 Seguramente nos demos cuenta de que lo que más roba tiempo a los equipos son las reuniones innecesarias y las consultas por cosas que no están documentadas.
@@ -99,8 +96,7 @@ Cuanto más tiempo ganemos y lo invirtamos en que los equipos se formen, más ti
 
 Debemos velar por que ese tiempo se dedique a aprendizaje y no a asumir más tareas de clientes o relacionadas con milestones de proyectos. Esto es de vital importancia. Por ello, esta estrategia debe ir acompañada de una buena priorización, mencionada en el punto anterior.
 
-**Evitar los silos de conocimiento**
-
+**Evitar los silos de conocimiento**  
 En este escenario, los silos de conocimiento son muy habituales y nos impactan mucho, sobretodo cuando personas que han adquirido el conocimiento a través de trabajar en ciertos proyectos o resolviendo problemas relacionados con deuda técnica sin documentar.
 
 En este contexto, lo ideal es detectar quiénes son los que tienen el conocimiento y establecer dinámicas para que distribuyan su conocimiento al resto de equipos.
@@ -109,8 +105,7 @@ Una técnica importante y que podemos establecer de forma inmediata es introduci
 Otra cosa que deberíamos hacer es introducir documentación activa, es decir, documentación que se mantenga actualizada de forma automática. Escribí sobre documentación activa en este artículo.
 Puede ser un error sobredocumentar ya que al no disponer de tiempo, la documentación generada a mano será costosa y tiene muchas posibilidades de que quede obsoleta muy rápidamente.
 
-**Elegir las batallas**
-
+**Elegir las batallas**  
 Si tienes el rol de actor de cambio en un contexto similar a este, debes armarte de paciencia y elegir las batallas una a una, asumiendo que cada paso va a ser como caminar en un río con una corriente colosal que va a estar continuamente desafiando tus decisiones.
 
 ## Aprendizaje
