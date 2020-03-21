@@ -21,7 +21,7 @@ Esta es la segunda entrada de una serie de artículos sobre culturas de ingenier
 * [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
 * **2. Por dónde empezar**
 * [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
-* [4. Cultura de feedback](/2019/culturas-ingenieria-4/)
+* [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
 * *5. Comunicación y documentación (próximamente)*
 
 [![Culture](/media/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg)](https://unsplash.com/photos/VkwRmha1_tI)

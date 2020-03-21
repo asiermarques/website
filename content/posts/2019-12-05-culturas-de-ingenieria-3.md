@@ -20,7 +20,7 @@ Esta es la tercera entrada de una serie de artículos sobre culturas de ingenier
 * [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
 * [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
 * **3. Madurez de nuestra cultura**
-* [4. Cultura de feedback](/2019/culturas-ingenieria-4/)
+* [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
 * *5. Comunicación y documentación (próximamente)*
 
 En este artículo vamos a ver diferentes estados de madurez en los que puede estar una cultura de tecnología.
