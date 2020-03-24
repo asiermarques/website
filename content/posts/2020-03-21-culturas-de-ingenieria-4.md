@@ -53,13 +53,13 @@ Acompañado al contexto, el impacto es algo importante a incluir en el feedback.
 El feedback puede ser positivo, de mejora o correctivo. Hago distinción entre mejora y corrección porque creo que es importante la diferencia de enfoque y objetivo deseado al darlo. Hablo de esto más adelante en esta sección.
 
 El feedback positivo parece que es el más sencillo de dar, pero curiosamente es el que menos se cuida. Es importante dar correctamente el feedback positivo para que sea útil. 
-Hablaremos más adelante sobre anti-patrones a la hora de dar feedback, pero es importante recalcar que el feedback positivo no es una palmada en la espalda, un elogio o reconocimiento o una herramienta para utilizar antes de dar otro feedback que es el que realmente queramos dar.
-Debemos tener en cuenta que el objetivo de dar este tipo de feedback es el que la persona mejore y no solo que se sienta bien al recibirlo.
+Hablaremos más adelante sobre anti-patrones a la hora de dar feedback, pero es importante recalcar que el feedback positivo no es una palmada en la espalda, un elogio o reconocimiento o una herramienta para utilizar antes de dar otro feedback que es el que realmente queramos dar.  
+Debemos tener en cuenta que el objetivo de dar este tipo de feedback, es que la persona mejore y no solo que se sienta bien al recibirlo.
 
 Cuando damos feedback positivo es muy importante recalcar el contexto y el impacto junto al hecho concreto sobre el cual estamos dando feedback. Es posible que la persona no le haya dado importancia a un hecho porque no comprende todo lo que ha desencadenado porque no tiene visión o simplemente porque no ha podido hacer seguimiento.
 En estos casos el contexto es importante también para que esa persona entienda las circunstancias concretas en las que ese comportamiento ha tenido ese impacto positivo. De esta forma podrá seguir adoptándolo y reforzándolo en futuras ocasiones en las que el contexto sea similar.
 
-Cuando damos feedback de mejora, la idea es que la persona lo tenga presente para que reflexiones y aplique libremente los cambios que vea necesarios con nuestra ayuda si fuese necesario. Este feedback va orientado a que la persona crezca.
+Cuando damos feedback de mejora, la idea es que la persona lo tenga presente para que reflexione y aplique libremente los cambios que vea necesarios con nuestra ayuda si fuese necesario. Este feedback va orientado a que la persona crezca.
 
 Cuando damos feedback correctivo, estamos especificando también qué comportamientos y cambios esperamos que esta persona aplique. 
 Este feedback suele darse cuando hay banderas rojas en la actitud o comportamiento y se precisa una corrección de cosas concretas antes de que provoquen problemas mayores que afecten al equipo o lleguen incluso a conllevar la necesidad de despidos.
@@ -80,7 +80,7 @@ Al disponer de feedback como cultura, podemos desarrollar y gozar de cosas tan i
 - Los prejuicios se reducen
 - Lo que se expone termina por generar cambio
 
-Para que el feedback sea efectivo y se interiorice en nuestra cultura, es muy importante hacer seguimiento del estado las acciones de mejora propuestas tras conversar acerca del feedback.
+Para que el feedback sea efectivo y se interiorice en nuestra cultura, es muy importante hacer seguimiento del estado de las acciones de mejora propuestas tras conversar acerca del feedback.
 
 ### Mecanismos y herramientas
 
@@ -125,7 +125,7 @@ De nuevo, disponer de un buen Career Path en la empresa, puede aumentar la efica
 #### Retrospectivas
 Las retrospectivas son una buena herramienta para dar y recibir feedback ya no a nivel personal, sino como equipo.
 
-Hay muchas mecánicas para conducir retrospectivas pero lo principal es recoger feedback tanto de los que se ha hecho bien como de lo que se ha de mejorar como equipo.
+Hay muchas mecánicas para conducir retrospectivas pero lo principal es recoger feedback tanto de lo que se ha hecho bien como de lo que se ha de mejorar como equipo.
 Es importante que se haga seguimiento de los action point que se establezcan en las retrospectivas para que estas no caigan en saco roto, lo cual puede desmotivar al equipo y conseguir que el feedback más valioso vaya desapareciendo.
 
 #### Postmortems
@@ -151,7 +151,7 @@ Dar feedback sin ejemplos puede llegar a malinterpretarse o generar confusión a
 Si ha sido un comportamiento de otro tipo, es crítico dar el feedback cuanto antes para que no se olviden detalles importantes del objeto del feedback.
 
 #### Feedback para culpabilizar
-El patrón más importante a evitar es en el feedback en realidad es una búsqueda de culpables o poner en manifiesto un comportamiento como si fuese una cualidad de una persona con nombre y apellidos en lugar de exponer el comportamiento concreto mediante ejemplos objetivos con los que poder trabajar.
+El patrón más importante a evitar es el feedback que realidad busca culpables en lugar de exponer un hecho o comportamiento concreto mediante ejemplos objetivos con los que poder trabajar.
 
 ### Conclusión
 
