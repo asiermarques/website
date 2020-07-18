@@ -115,7 +115,7 @@ Además de todo esto, es importante asegurar buenas prácticas de comunicación.
 
 Algunas de las más importantes para mi son las siguientes:
 
-### Promover la escuchar activa
+### Promover la escucha activa
 
 Es importante asegurar que todas las personas puedan terminar de comunicar su mensaje sin ser interrumpidas en medio del mismo. Al margen de asegurar que las conversaciones en las reuniones sean sanas, saber escuchar es una habilidad que es muy valiosa de trabajar para dentro y fuera del aspecto profesional. 
 
