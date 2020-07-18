@@ -112,7 +112,6 @@ Esto último es importante también cuando esas personas han mostrado intención
 Además de todo esto, es importante asegurar buenas prácticas de comunicación. Estas mejorarán la eficiencia e inclusividad en las reuniones.
 
 Las más importantes suelen ser:
-
 ### Promocionar la escuchar activa
 
 Es importante asegurar que todas las personas puedan terminar de comunicar su mensaje sin ser interrumpidas en medio del mismo. Al margen de asegurar que las conversaciones en las reuniones sean sanas, saber escuchar es una habilidad que es muy valiosa de trabajar para dentro y fuera del aspecto profesional. 
