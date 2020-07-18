@@ -92,7 +92,7 @@ Si no eres la persona que organiza la reunión y ves que la misma no tiene agend
 ## Decidir quién va a ser el driver de la reunión antes de la misma
 
 Algo típico que suele ocurrir en un equipo es que siempre sea la misma persona la que modere o esté atento de cómo se desenvuelve la reunión. 
-Muchas veces suele coincidir que esa persona es la que agenda la reunión porque tenga el rol de manager, porque ya ha dinamizado alguna otra reunión antes.  
+Muchas veces suele coincidir que esa persona es la que agenda la reunión porque tenga el rol de manager o porque ya ha dinamizado alguna otra reunión antes.  
 En otras ocasiones la reunión termina siendo conducida de forma improvisada por las personas con más iniciativa o facilidad de palabra del equipo.
 
 Para evitar esa improvisación y mejorar la eficiencia de la reunión, es muy recomendable que se sepa antes de la misma quién es la persona encargada de guiar esa reunión.
