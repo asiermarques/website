@@ -1,6 +1,6 @@
 ---
 
-title: "Culturas de ingeniería: cultura de feedback"
+title: "Sobre reuniones"
 date: "2020-07-18 16:07:01+00:00"
 template: "post"
 draft: false
