@@ -3,7 +3,7 @@
 title: "Culturas de ingeniería: cultura de feedback"
 date: "2020-07-18 16:07:01+00:00"
 template: "post"
-draft: true
+draft: false
 slug: "/2020/sobre-reuniones/"
 category: "Gestión"
 tags:
@@ -16,6 +16,7 @@ Quería escribir este artículo con algunas buenas prácticas que he ido aprendi
 "
 
 ---
+[![](/media/meetings.jpg)](https://unsplash.com/photos/Se7vVKzYxTI)
 
 Hay mucho escrito sobre la eficiencia y buenas prácticas a la hora de gestionar reuniones en el ámbito profesional.
 
