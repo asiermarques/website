@@ -31,7 +31,7 @@ Quería escribir este artículo con algunas buenas prácticas que he ido aprendi
 
 ## Evitar reuniones y promover la comunicación asíncrona
 
-La reuniones síncronas suponen una inversión de tiempo, poco y disponibilidad que se traduce en un alto coste económico. 
+La reuniones síncronas suponen una inversión de tiempo, atención y disponibilidad que se traduce en un alto coste económico. 
 La dificultad para encontrar disponibilidad puede ser exponencial si los integrantes disponen una agenda llena de reuniones
 
 Teniendo esto en cuenta, cuantas más reuniones o ceremonias síncronas podamos evitar, más efectivos seremos a la hora de encontrar huecos para aquellas reuniones que sí que merezcan la inversión. 
