@@ -109,8 +109,9 @@ Si hay personas de diferentes culturas en la reunión o alguien se siente muy in
 Suele ser importante también preguntar directamente sobre su punto de vista a las personas que han permanecido calladas durante una discusión o un punto de la agenda.
 Esto último es importante también cuando esas personas han mostrado intención de meterse en una discusión pero ha sido eclipsada continuamente durante la misma.
 
-Además de todo esto, es importante asegurar buenas prácticas de comunicación. Estas mejorarán la eficiencia e inclusividad en las reuniones.  
-Las más importantes para mi son, entre otras:
+Además de todo esto, es importante asegurar buenas prácticas de comunicación. Estas mejorarán la eficiencia e inclusividad en las reuniones. 
+
+Algunas de las más importantes para mi son las siguientes:
 
 ### Promover la escuchar activa
 
