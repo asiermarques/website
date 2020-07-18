@@ -152,4 +152,4 @@ Como hemos comentado, las reuniones son caras y por ello, todo feedback para mej
 
 Las reuniones pueden tener un coste muy alto en varios aspectos y no siempre podemos sustituirlas en favor de comunicación asíncrona.
 
-Sin embargo, es importante hacer todo lo posible para sacar el máximo partido de las mismas, respetando el tiempo de las personas con las que trabajamos.
+Es importante hacer todo lo posible para sacar el máximo partido de las mismas, respetando el tiempo de las personas con las que trabajamos.
