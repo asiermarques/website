@@ -3,7 +3,7 @@
 title: "Culturas de ingeniería: comunicación y documentación"
 date: "2020-10-25 16:07:01+00:00"
 template: "post"
-draft: true
+draft: false
 slug: "/2020/culturas-ingenieria-5/"
 category: "Gestión"
 tags:
