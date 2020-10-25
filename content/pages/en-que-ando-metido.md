@@ -6,13 +6,13 @@ slug: /info/en-que-ando-metido/
 
 El objetivo de esta lista es mostrar un resumen de cosas en las que actualmente estoy trabajando y de las que puedo hablar abiertamente.
  	
-1. Trabajando en [Packlink Shipping](http://packlink.com) y disfrutando del genial equipo que tenemos y su cultura.
+1. Trabajando en [Packlink Shipping](http://packlink.com), enfrentándome a retos interesantes y creciendo día a día.
 
-2. Organizando talleres, eventos y otras iniciativas de forma constante junto a [Fran](https://twitter.com/fran_mosteiro/) y [Diego](https://twitter.com/arketipo) en la asociación [elComité](http://elcomite.net) para generar una cultura de creación de proyectos tecnológicos y de otras artes en Bilbao.
+2. Estudiando el Grado de psicología en la UNED.
 
-3. Aprendiendo diseño de interfaz en ratos libres.
+3. Aprendiendo todo lo que puedo en los contextos: programación funcional con Scala, SRE, IaC y management.
 
-4. Estudiando y desarrollando en Scala y programación funcional de forma continua.
+4. Compartiendo lecturas y algún que otro proyecto de escritura.
 
 
-Actualizado el 23/03/2019
+Actualizado el 25/10/2020
