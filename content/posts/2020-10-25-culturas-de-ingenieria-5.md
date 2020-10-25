@@ -85,11 +85,11 @@ Hay otro aspecto que creo importante en la comunicación, sobre todo en aquellos
 El disagree and commit es una técnica importante para evitar que "todo sea un consenso" o que las decisiones se alarguen demasiado.  
 Incluso cuando una decisión se tome en consenso, puede que renunciemos a pelear eternamente algunos puntos que nos parecen importantes o tengan impacto claro bajo nuestro punto de vista en el día a día.
 
-Aunque pueda parecer algo malo, el disagreed and commit es una técnica muy positiva o al menos más positiva que la alternativa: no llegar a tomar decisiones.
+Aunque pueda parecer algo malo, el disagree and commit es una técnica muy positiva o al menos más positiva que la alternativa: no llegar a tomar decisiones.
 
 El disagree and commit consta de dos partes fundamentales:
 
-- disagree: expongo las razones por las que no estoy de acuerdo con tomar una decisión e intento dar una alternativa. Dar una alternativa es muy valioso en este punto porque aunque no se tome ese otro camino, muestra que había otras posibilidades encima de la mesa y nos puede ayudar a mejorar en el futuro. Sin alternativa ese disagreed sería muy difícil de diferenciar de una simple queja.
+- disagree: expongo las razones por las que no estoy de acuerdo con tomar una decisión e intento dar una alternativa. Dar una alternativa es muy valioso en este punto porque aunque no se tome ese otro camino, muestra que había otras posibilidades encima de la mesa y nos puede ayudar a mejorar en el futuro. Sin alternativa ese disagree sería muy difícil de diferenciar de una simple queja.
 - commit: me comprometo a ejecutar la decisión de forma profesional y haciendo todo lo posible para que tenga éxito.
 
 La segunda parte es muy clave y relacionada con la comunicación. Comunicar a los equipos un camino a seguir con el que no estás de acuerdo es muy complicado y es un punto en el que es muy fácil fallar, sobre todo cuando son cosas que impactan a un equipo en el que estás participando como líder o manager.
@@ -99,7 +99,7 @@ Las consecuencias de fallar en una comunicación de este tipo son muy graves, en
 - Crear sesgo en el equipo con el foro en el que se toman las decisiones o con algunos managers en concreto, provocando inseguridades en los equipos o decisiones que van en contra de la dirección común acordada.
 - Crear o hacer más patente una cultura de "ellos contra nosotros", provocando conflictos entre departamentos o equipos.
 
-Aunque es importante el disagreed and commit, cada uno de nosotros debemos valorar si las decisiones empiezan a traspasar barreras éticas o que entran en conflicto con nuestros valores e integridad.  
+Aunque es importante el disagree and commit, cada uno de nosotros debemos valorar si las decisiones empiezan a traspasar barreras éticas o que entran en conflicto con nuestros valores e integridad.  
 En este punto, antes de provocar problemas como los que hemos visto, debemos plantearnos si es sano continuar en una cultura o empresa en la que no encajamos a esos niveles. 
 
 Hay mucho sobre lo que leer sobre este tema, os recomiendo especialmente [este artículo de Cedric Chin sobre el tema](https://managementforstartups.com/articles/the-hard-thing-about-disagree-and-commit/).
