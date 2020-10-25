@@ -44,7 +44,7 @@ La oratoria brinda muchas oportunidades a la hora de influenciar a las personas 
 
 Sin embargo, gozar de buena oratoria pero dejando la capacidad de comunicación sin pulir, puede tener un impacto negativo en la confianza a medio y largo plazo en cuanto aparezcan de forma frecuente los primeros problemas derivados de la falta de buenas prácticas en cuanto a comunicación se refiere. Hablaremos de algunas en este artículo.
 
-> "Candor is the key to collaborating effectively. Lack of candor leads to dysfunctional environments."
+> "Candor is the key to collaborating effectively. Lack of candor leads to dysfunctional environments."  
 —Edwin Catmull
 
 La transparencia y claridad son otros aspectos que nos vienen a la mente cuando pensamos en una buena comunicación. 
@@ -61,12 +61,12 @@ También nos suele venir a la mente la escucha activa, como uno de los aspectos 
 
 Especialmente en roles relacionados con la gestión de personas y equipos, escuchar es clave para entender los problemas reales. Incluso cuando la persona que nos hable no tenga razón o esté desencaminada totalmente en lo que dice, es importante escuchar todo lo que necesita decirnos porque puede darnos pistas de problemas que ni siquiera puedan estar aparentemente relacionados con lo que se está hablando.
 
-> "Sometimes creating a culture of listening is simply a matter of managing meetings the right way."
+> "Sometimes creating a culture of listening is simply a matter of managing meetings the right way."  
 —Kim Scott. [Radical Candor](https://www.amazon.es/Radical-Candor-Kickass-Without-Humanity/dp/1250103509)
 
 Una cultura sana tiene mucho de buena comunicación y sobretodo, escuchar todo lo que cada persona de la empresa tiene que decir. Al final, hemos contratado profesionales también para escuchar sus aportaciones ¿no?
 
-En la reuniones tomamos decisiones, vemos diferentes opciones e intentamos estar todos en la misma página. Es una oportunidad para asegurar que ciertos aspectos culturales como el de la escucha y el espacio para tener voz se produzcan.
+En la reuniones tomamos decisiones, vemos diferentes opciones e intentamos estar todos en la misma página. Es una oportunidad para asegurar que ciertos aspectos culturales como el de la escucha y el espacio para tener voz se produzcan.  
 Escribí algunas ideas sobre estos y otro temas relacionados sobre cómo mejorar nuestras reuniones [en este artículo](https://asiermarques.com/2020/sobre-reuniones/).
 
 Hay varios aspectos importantes de comunicación que afectan directamente a nuestra cultura, vamos a ver algunos de los que he encontrado más importantes.
@@ -127,7 +127,10 @@ Si hay algo en lo que no debemos relajarnos a la hora de asegurar una buena comu
 
 En su libro [Domain-Driven design: tackling the complexity in the hearth of software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215), Eric Evans escribió
 
-> On a project without a common language, developers have to translate for domain experts. Domain experts translate between developers and still other domain experts. Developers even translate for each other. Translation muddles model concepts, which leads to destructive refactoring of code. 
+> On a project without a common language, developers have to translate for domain experts.  
+Domain experts translate between developers and still other domain experts.  
+Developers even translate for each other.  
+**Translation muddles model concepts, which leads to destructive refactoring of code.**
 
 The indirectness of communication conceals the formation of schisms—different team members use terms differently but don’t realize it. This leads to unreliable software that doesn’t fit together. 
 
@@ -137,24 +140,24 @@ DDD nos ha mostrado una parte estratégica que podemos utilizar no sólo para co
 
 Uno de los principales orígenes de esa complejidad suele darse a la hora de entender los diferentes conceptos críticos en nuestro negocio. Y como la ley de Conway bien expresa, estos problemas de comunicación se unen a otros que impactan directamente en la arquitectura de nuestros sistemas y plataformas:
 
-> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."
-— Melvin E. Conway
+> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."  
+—Melvin E. Conway
 
 Como parte de la gestión de la comunicación y la organización de nuestros equipos para evitar problemas de alineamiento entre ellos, un glosario común es una herramienta fundamental cara a entender los conceptos de la misma forma.
 
 Cuanto más común sea el ejercicio de aclarar estos conceptos y modelar en base a ellos, más problemas de comunicación nos ahorraremos en el día a día que puedan aumentar la complejidad en nuestros sistemas. 
 
-En esta línea, es importante también asegurar que las definiciones y entendimiento de conceptos que usamos en nuestro día a día estén alineados con el entendimiento de la comunidad fuera de nuestra empresa. 
+En esta línea, es importante también asegurar que las definiciones y entendimiento de conceptos que usamos en nuestro día a día estén alineados con el entendimiento de la comunidad fuera de nuestra empresa.   
 Por ejemplo, si empleamos el término "retrospectiva" como una dinámica que nada tiene que ver con cómo se conoce fuera de nuestra empresa estamos dificultando a que nuevos miembros que se incorporen a nuestros equipos conozcan nuestro contexto y por otro lado, vamos a tener problemas de gestión de expectativas en los equipos.
 
-Un último punto que quería añadir tiene su origen en una conversación que tuve hace tiempo con un amigo. Comentábamos sobre la típica frase que solemos utilizar, generalmente con la intención de dejar claro que en nuestros equipos no queremos héroes: "en nuestros equipos nadie puede ser imprescindible".
-Generalmente todos conocemos el contexto y el por qué de comentar esto, pero debemos plantearnos cómo puede llegar a entenderse por alguien que no venga de una cultura similar a la nuestra: "¿significa eso que entonces todos somos prescindibles? Y si soy prescindible, ¿realmente les importo algo al resto de los compañeros que repiten ese mantra?".
+Un último punto que quería añadir tiene su origen en una conversación que tuve hace tiempo con un amigo. Comentábamos sobre la típica frase que solemos utilizar, generalmente con la intención de dejar claro que en nuestros equipos no queremos héroes: "en nuestros equipos nadie puede ser imprescindible".  
+Generalmente todos conocemos el contexto y el por qué de comentar esto, pero debemos plantearnos cómo puede llegar a entenderse por alguien que no venga de una cultura similar a la nuestra: "¿significa eso que entonces todos somos prescindibles? Y si soy prescindible, ¿realmente les importo algo al resto de los compañeros que repiten ese mantra?".  
 Aunque nuestra intención sea buena, a veces debemos plantearnos si estamos dejando claro qué queremos conseguir con un concepto y si todo el mundo lo entiende de la misma forma.
 
 ## Cultura de documentación
 
-> “If it is not written down, it does not exist.”
-Philippe Kruchten
+> “If it is not written down, it does not exist.”  
+—Philippe Kruchten
 
 Cuando pensamos en documentación asumimos que nos estamos refiriendo a una parte concreta en un proceso dedicada a reflejar aspectos que consideramos importantes para otros compañeros.
 
