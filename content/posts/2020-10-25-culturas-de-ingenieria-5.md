@@ -19,7 +19,7 @@ En este artículo voy a repasar con vosotros aquellos aspectos que me parecen cr
 
 ---
 
-Esta es la cuarta entrada de una serie de artículos sobre culturas de ingeniería.
+Esta es la quinta y última entrada de una serie de artículos sobre culturas de ingeniería.
 * [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
 * [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
 * [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
