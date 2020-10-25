@@ -22,7 +22,7 @@ Esta es la segunda entrada de una serie de artículos sobre culturas de ingenier
 * **2. Por dónde empezar**
 * [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
 * [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
-* *5. Comunicación y documentación (próximamente)*
+* [5. Comunicación y documentación](/2020/culturas-ingenieria-5/)
 
 [![Culture](/media/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg)](https://unsplash.com/photos/VkwRmha1_tI)
 

@@ -23,7 +23,7 @@ Esta es la cuarta entrada de una serie de artículos sobre culturas de ingenier�
 * [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
 * [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
 * **4. Cultura de feedback**
-* *5. Comunicación y documentación (próximamente)*
+* [5. Comunicación y documentación](/2020/culturas-ingenieria-5/)
 
 
 [![](/media/adi-goldstein-n2V4ZNflsHM-unsplash.jpg)](https://unsplash.com/photos/n2V4ZNflsHM)
