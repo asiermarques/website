@@ -26,7 +26,7 @@ Esta es la cuarta entrada de una serie de artículos sobre culturas de ingenier�
 * [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
 * **5. Comunicación y documentación**
 
-[![](/media/pavan-trikutam-71CjSSB83Wo-unsplash)](https://unsplash.com/photos/71CjSSB83Wo)
+[![](/media/pavan-trikutam-71CjSSB83Wo-unsplash.jpg)](https://unsplash.com/photos/71CjSSB83Wo)
 
 Cuando pensamos en las cualidades que debe tener un rol o cualquier persona para considerarse un buen profesional, la comunicación seguro que está entre las primeras.
 
