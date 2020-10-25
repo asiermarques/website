@@ -2,6 +2,7 @@
 
 module.exports = {
   url: 'https://asiermarques.com',
+  siteUrl: 'https://asiermarques.com',
   title: 'Asier Marqués, blog personal',
   subtitle: 'Blog personal y artículos sobre desarrollo de software.',
   copyright: '',
