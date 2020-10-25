@@ -161,6 +161,7 @@ Por ejemplo, si empleamos el término "retrospectiva" como una dinámica que nad
 
 Un último punto que quería añadir tiene su origen en una conversación que tuve hace tiempo con un amigo. Comentábamos sobre la típica frase que solemos utilizar, generalmente con la intención de dejar claro que en nuestros equipos no queremos héroes: "en nuestros equipos nadie puede ser imprescindible".  
 Generalmente todos conocemos el contexto y el por qué de comentar esto, pero debemos plantearnos cómo puede llegar a entenderse por alguien que no venga de una cultura similar a la nuestra: "¿significa eso que entonces todos somos prescindibles? Y si soy prescindible, ¿realmente les importo algo al resto de los compañeros que repiten ese mantra?".  
+
 Aunque nuestra intención sea buena, a veces debemos plantearnos si estamos dejando claro qué queremos conseguir con un concepto y si todo el mundo lo entiende de la misma forma.
 
 ## Cultura de documentación
