@@ -59,9 +59,9 @@ Hay motivos emocionales que nos pueden llevar a no ser claros en las comunicacio
 Hay incluso motivos peores como el subestimar la necesidad de comunicación de algo "porque ya se entiende" o descuidar la transmisión de expectativas porque no se ven necesarias.  
 Hacer challenge de los procesos de comunicación periódicamente es fundamental, básicamente porque **la comunicación siempre tiene margen de mejora**.
 
-Las comunicaciones que no son claras o se producen a destiempo generan desconfianza, frustraciones, falta de cumplimiento de las expectativas que no se han llegado a transmitir de forma clara, impactando en las planificaciones y conflictos en los equipos. A su vez, esto puede impactar directamente en nuestra cultura y generar frustraciones e incluso problemas como ansiedad, sesgos y malas decisiones a nivel estratégico.
+Las comunicaciones que no son claras o se producen a destiempo generan desconfianza, frustraciones, falta de cumplimiento de las expectativas que no se han llegado a transmitir de forma clara e impactan en las planificaciones generando conflictos entre los equipos. A su vez, estos errores pueden también impactar en nuestra cultura generando frustraciones e incluso problemas como ansiedad, sesgos y malas decisiones a nivel estratégico.
 
-También nos suele venir a la mente la escucha activa como uno de los aspectos más importantes de la comunicación.  
+Nos suele venir a la mente también la escucha activa como uno de los aspectos clave relacionados con la comunicación.  
 Escuchar antes de hablar es una práctica que nos enseña mucho de nuestro entorno, personas que apreciamos y que nos ayuda a crecer día a día.
 
 Especialmente en roles relacionados con la gestión de personas y equipos, escuchar es clave para entender los problemas reales.  
