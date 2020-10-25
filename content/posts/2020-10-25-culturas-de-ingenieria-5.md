@@ -40,7 +40,7 @@ Un aspecto fundamental que a menudo viene a nuestras mentes cuando pensamos en q
 
 La oratoria es una gran aptitud que a menudo se confunde con buena comunicación. 
 
-La oratoria brinda muchas oportunidades a la hora de influenciar a las personas ya que es un arma muy poderosa para convencer, sobretodo durante las primeras interacciones con otros.  
+La oratoria brinda muchas oportunidades a la hora de influenciar a las personas ya que es un arma muy poderosa para convencer, sobre todo durante las primeras interacciones con otros.  
 Las personas que cuentan con una buena oratoria y buena comunicación tienen un impacto increíble en una organización y en la cultura. 
 
 Sin embargo, gozar de buena oratoria sin pulir otros aspectos comunicativos puede tener un impacto negativo en la confianza a medio y largo plazo.  
@@ -70,7 +70,7 @@ Incluso cuando la persona que nos hable no tenga razón o esté desencaminada to
 > "Sometimes creating a culture of listening is simply a matter of managing meetings the right way."  
 —Kim Scott. [Radical Candor](https://www.amazon.es/Radical-Candor-Kickass-Without-Humanity/dp/1250103509)
 
-Una cultura sana tiene mucho de buena comunicación y sobretodo, escuchar todo lo que cada persona de la empresa tiene que decir.  
+Una cultura sana tiene mucho de buena comunicación y sobre todo, escuchar todo lo que cada persona de la empresa tiene que decir.  
 Al final, hemos contratado profesionales también para escuchar sus aportaciones ¿no?
 
 En las reuniones tomamos decisiones, vemos diferentes opciones e intentamos estar todos en la misma página. Es una oportunidad para asegurar que ciertos aspectos culturales como el de la escucha y el espacio para tener voz se produzcan.  
@@ -80,7 +80,7 @@ Hay varios aspectos importantes de comunicación que afectan directamente a nues
 
 ## Comunicar decisiones con las que no estamos de acuerdo
 
-Hay otro aspecto que creo importante en la comunicación, sobretodo en aquellos que son responsables de equipos o de transmitir la dirección a la que se va como organización: **el disagree and commit**.
+Hay otro aspecto que creo importante en la comunicación, sobre todo en aquellos que son responsables de equipos o de transmitir la dirección a la que se va como organización: **el disagree and commit**.
 
 El disagree and commit es una técnica importante para evitar que "todo sea un consenso" o que las decisiones se alarguen demasiado.  
 Incluso cuando una decisión se tome en consenso, puede que renunciemos a pelear eternamente algunos puntos que nos parecen importantes o tengan impacto claro bajo nuestro punto de vista en el día a día.
@@ -92,7 +92,7 @@ El disagree and commit consta de dos partes fundamentales:
 - disagree: expongo las razones por las que no estoy de acuerdo con tomar una decisión e intento dar una alternativa. Dar una alternativa es muy valioso en este punto porque aunque no se tome ese otro camino, muestra que había otras posibilidades encima de la mesa y nos puede ayudar a mejorar en el futuro. Sin alternativa ese disagreed sería muy difícil de diferenciar de una simple queja.
 - commit: me comprometo a ejecutar la decisión de forma profesional y haciendo todo lo posible para que tenga éxito.
 
-La segunda parte es muy clave y relacionada con la comunicación. Comunicar a los equipos un camino a seguir con el que no estás de acuerdo es muy complicado y es un punto en el que es muy fácil fallar, sobretodo cuando son cosas que impactan a un equipo en el que estás participando como líder o manager.
+La segunda parte es muy clave y relacionada con la comunicación. Comunicar a los equipos un camino a seguir con el que no estás de acuerdo es muy complicado y es un punto en el que es muy fácil fallar, sobre todo cuando son cosas que impactan a un equipo en el que estás participando como líder o manager.
 
 Las consecuencias de fallar en una comunicación de este tipo son muy graves, entre ellas las que he experimentado con frecuencia son
 
