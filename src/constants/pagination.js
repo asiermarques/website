@@ -1,6 +1,0 @@
-const PAGINATION = {
-  PREV_PAGE: '← ANTERIORES',
-  NEXT_PAGE: '→ SIGUIENTES'
-};
-
-export default PAGINATION;
