@@ -5585,9 +5585,9 @@ gatsby-telemetry@^1.6.0:
     uuid "3.4.0"
 
 gatsby-theme-serenity@^1.1.13:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-1.1.13.tgz#47efc9106841c989a13b01213be34881f30698fb"
-  integrity sha512-r/q0ui4dpoPcY3eiQGxDoeUDf9dL6KIhRgfSoPrktad/KFY/3BnN4ULy4A+QgjG1E21tJ1vYdYhHYWot7pFE+w==
+  version "1.1.17"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-1.1.17.tgz#d99d392aaaeb77c99191635fcfd4944315144bec"
+  integrity sha512-WLAbgUBYlS25CoF4AgIqFydYm/kdHRfuPxSA/l852UcgINNwYRM4E7y/ZE4QBIlvesK8KJ9KGaWUZQcPMmFIYg==
   dependencies:
     bootstrap "^4.5.3"
     gatsby-plugin-google-fonts "^1.0.1"
@@ -12556,13 +12556,12 @@ vfile@^3.0.0:
     vfile-message "^1.0.0"
 
 vfile@^4.0.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/vfile/-/vfile-4.2.0.tgz#26c78ac92eb70816b01d4565e003b7e65a2a0e01"
-  integrity sha512-a/alcwCvtuc8OX92rqqo7PflxiCgXRFjdyoGVuYV+qbgCb0GgZJRvIgCD4+U/Kl1yhaRsaTwksF88xbPyGsgpw==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-4.2.1.tgz#03f1dce28fc625c625bc6514350fbdb00fa9e624"
+  integrity sha512-O6AE4OskCG5S1emQ/4gl8zK586RqA3srz3nfK/Viy0UPToBc5Trp9BVFb1u0CjsKrAWwnpr4ifM/KBXPWwJbCA==
   dependencies:
     "@types/unist" "^2.0.0"
     is-buffer "^2.0.0"
-    replace-ext "1.0.0"
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
@@ -12897,9 +12896,9 @@ xss@^1.0.6:
     cssfilter "0.0.10"
 
 xstate@^4.11.0, xstate@^4.14.0, xstate@^4.9.1:
-  version "4.14.1"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.14.1.tgz#8902304944aa78ef5bdfa818ca2ca5fd109a3959"
-  integrity sha512-1LyR5c6wgA41660Cp8Dq5VWRtS75l+KnjysgpgZI9FVLvYl5BF2FmkfT5CAlTIo+CKfj/4IznQYkYfURxuY6WA==
+  version "4.15.0"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.15.0.tgz#4a27173666f7c8f0574a64b849f2da26f9641e7b"
+  integrity sha512-VXmJgkh1u2ejpNBSqdQLTU9V0YIn7clJ+4a3P/G/AJGyXwpyf8Ykf+k7I7UptccpmQktcPHPzLTtLctp+8qURA==
 
 xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   version "4.0.2"
