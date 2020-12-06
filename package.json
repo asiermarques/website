@@ -10,5 +10,10 @@
     "gatsby-theme-serenity": "^1.1.13",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "develop": "yarn run clean && gatsby develop",
+    "build": "yarn run clean && gatsby build",
+    "clean": "gatsby clean"
   }
 }
