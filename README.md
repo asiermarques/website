@@ -1,1 +1,1 @@
-My personal site, based on [Lumen starter for Gatsby](https://github.com/alxshelepenok/gatsby-starter-lumen)
+My personal site, based on the [Gatsby Serenity Theme](https://github.com/asiermarques/gatsby-theme-serenity)

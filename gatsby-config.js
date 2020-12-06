@@ -4,7 +4,7 @@ module.exports = {
       resolve: "gatsby-theme-serenity",
       options: {
            title: "Asier Marqués",
-           description: "A minimal theme for your personal blog or webpage",
+           description: "Blog personal y artículos sobre ingeniería de software.",
            author: {
              name: "Asier Marqués",
              bio: "Software Engineer",
@@ -13,21 +13,25 @@ module.exports = {
                  linkedin: "https://linkedin.com/in/asier",
                  github: "https://github.com/asiermarques",
                  instagram: "https://instagram.com/asiermarques",
-                 mail: ""
+                 mail: "mailto:asiermarques@gmail.com"
              }
            },
            links: [
                {
-                   title: "Articles",
+                   title: "Artículos",
                    href: "/"
                },
                {
-                   title: "About me",
+                   title: "Sobre mí",
                    href: "/info/about-me"
+               },
+               {
+                   title: "CV",
+                   href: "/info/cv"
                },
            ],
            articles_per_page: 4,
-           language: "en"
+           language: "es"
        },
     },
   ],
