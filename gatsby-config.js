@@ -18,24 +18,24 @@ module.exports = {
                       instagram: "https://instagram.com/asiermarques",
                       mail: "mailto:asiermarques@gmail.com"
                   }
-              }
-          },
-          links: [
-              {
-                  title: "Artículos",
-                  href: "/"
               },
-              {
-                  title: "Sobre mí",
-                  href: "/info/about-me"
-              },
-              {
-                  title: "CV",
-                  href: "/info/cv"
-              },
-          ],
-          articles_per_page: 4,
-          language: "es"
+              links: [
+                  {
+                      title: "Artículos",
+                      href: "/"
+                  },
+                  {
+                      title: "Sobre mí",
+                      href: "/info/about-me"
+                  },
+                  {
+                      title: "CV",
+                      href: "/info/cv"
+                  },
+              ],
+              articles_per_page: 4,
+              language: "es"
+          }
       }
   ]
 }
