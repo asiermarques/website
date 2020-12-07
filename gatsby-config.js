@@ -32,6 +32,10 @@ module.exports = {
                       title: "CV",
                       href: "/info/cv"
                   },
+                  {
+                      title: "RSS",
+                      href: "/rss.xml"
+                  },
               ],
               articles_per_page: 4,
               language: "es"
