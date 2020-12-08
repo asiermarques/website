@@ -6,6 +6,10 @@ template: "post"
 draft: false
 slug: "/2020/culturas-ingenieria-5/"
 category: "Gestión"
+
+coverImageCaption: Foto por <a href="https://unsplash.com/photos/71CjSSB83Wo">Pavan Trikutam</a>
+coverImage: "/media/pavan-trikutam-71CjSSB83Wo-unsplash.jpg" 
+
 tags:
   - "Desarrollo de software"
   - "Gestión"
@@ -13,9 +17,7 @@ tags:
   - "Engineering Management"
 description: "Cuando pensamos en las cualidades que debe tener un rol o cualquier persona para considerarse un buen profesional, la comunicación seguro que está entre las primeras.  
               
-Una buena comunicación tiene un impacto directo en la cultura de nuestra organización y puede significar una diferencia crítica a la hora de garantizar buen rendimiento y salud en los equipos.  
-              
-En este artículo voy a repasar con vosotros aquellos aspectos que me parecen críticos a la hora de pensar en la comunicación como algo cultural en nuestra organización."
+Una buena comunicación tiene un impacto directo en la cultura de nuestra organización y puede significar una diferencia crítica a la hora de garantizar buen rendimiento y salud en los equipos."
 
 ---
 
@@ -26,7 +28,7 @@ Esta es la quinta y última entrada de una serie de artículos sobre culturas de
 * [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
 * **5. Comunicación y documentación**
 
-[![](/media/pavan-trikutam-71CjSSB83Wo-unsplash.jpg)](https://unsplash.com/photos/71CjSSB83Wo)
+***
 
 Cuando pensamos en las cualidades que debe tener un rol o cualquier persona para considerarse un buen profesional, la comunicación seguro que está entre las primeras.
 
