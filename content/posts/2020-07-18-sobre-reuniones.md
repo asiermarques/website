@@ -9,6 +9,8 @@ category: "Gestión"
 tags:
   - "Eficiencia / Productividad"
   - "Gestión"
+coverImage: /media/meetings.jpg
+coverImageCaption: foto por <a href="https://unsplash.com/photos/Se7vVKzYxTI">Drew Beamer</a>
   
 description: "Hay mucho escrito sobre la eficiencia y buenas prácticas a la hora de gestionar reuniones en el ámbito profesional.
 
@@ -16,7 +18,6 @@ Quería escribir este artículo con algunas buenas prácticas que he ido aprendi
 "
 
 ---
-[![](/media/meetings.jpg)](https://unsplash.com/photos/Se7vVKzYxTI)
 
 Hay mucho escrito sobre la eficiencia y buenas prácticas a la hora de gestionar reuniones en el ámbito profesional.
 
