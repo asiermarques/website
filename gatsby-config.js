@@ -4,12 +4,13 @@ module.exports = {
           resolve: "gatsby-theme-serenity",
           options: {
               title: "Asier Marqués",
+              subtitle: "Blog personal",
               description: "Blog personal y artículos sobre ingeniería de software.",
-              site_url: "https://asiermarques.com",
-              default_preview_image: "/og-default.png",
+              siteUrl: "https://asiermarques.com",
+              defaultPreviewImage: "/og-default.png",
               author: {
                   name: "Asier Marqués",
-                  bio: "Software Engineer",
+                  bio: "Asier trabaja actualmente con el rol de Engineering Manager en Packlink Shipping.",
                   url: "https://asiermarques.com",
                   links: {
                       twitter: "https://twitter.com/asiermarques",
