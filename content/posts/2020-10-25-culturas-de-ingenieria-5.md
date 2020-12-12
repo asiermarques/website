@@ -141,11 +141,14 @@ En su libro [Domain-Driven design: tackling the complexity in the hearth of soft
 
 > On a project without a common language, developers have to translate for domain experts.  
 Domain experts translate between developers and still other domain experts.  
-Developers even translate for each other.  
+
+>Developers even translate for each other.  
 Translation muddles model concepts, which leads to destructive refactoring of code.  
-The indirectness of communication conceals the formation of schisms —different team members use terms differently but don’t realize it.  
+
+>The indirectness of communication conceals the formation of schisms —different team members use terms differently but don’t realize it.  
 This leads to unreliable software that doesn’t fit together.  
-**The effort of translation prevents the interplay of knowledge and ideas that lead to deep model insights.**
+
+>**The effort of translation prevents the interplay of knowledge and ideas that lead to deep model insights.**
 
 DDD nos ha mostrado una parte estratégica que podemos utilizar no sólo para construir software de una forma más efectiva, sino también para detectar formas de distribuir el trabajo reduciendo los problemas de comunicación y la carga cognitiva que pueden sufrir los ingenieros de software al lidiar con la complejidad.
 
