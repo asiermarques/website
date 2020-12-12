@@ -41,6 +41,7 @@ module.exports = {
               articles_per_page: 4,
               language: "es"
           }
-      }
+      },
+      'gatsby-plugin-remove-serviceworker'
   ]
 }
