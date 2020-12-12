@@ -1433,9 +1433,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "14.14.12"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.12.tgz#0b1d86f8c40141091285dea02e4940df73bba43f"
-  integrity sha512-ASH8OPHMNlkdjrEdmoILmzFfsJICvhBsFfAum4aKZ/9U4B6M6tTmTPh+f3ttWdD74CEGV5XvXWkbyfSdXaTd7g==
+  version "14.14.13"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.13.tgz#9e425079799322113ae8477297ae6ef51b8e0cdf"
+  integrity sha512-vbxr0VZ8exFMMAjCW8rJwaya0dMCDyYW2ZRdTyjtrCvJoENMpdUHOT/eTzvgyA5ZnqRZ/sI0NwqAxNHKYokLJQ==
 
 "@types/node@^8.5.7":
   version "8.10.66"
@@ -5598,9 +5598,9 @@ gatsby-telemetry@^1.6.0:
     uuid "3.4.0"
 
 gatsby-theme-serenity@^1.1.22:
-  version "1.1.45"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-1.1.45.tgz#6e1f9721ed821daef2c0c222f5aaaef15ab23648"
-  integrity sha512-14YP6YAfnIVGnm3VqPZmytaTPso1dudthj0xFzvzDStsplU7JE6PXSpMwgLfU2011HiWroOmsswC/D78+oUIPA==
+  version "1.1.46"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-1.1.46.tgz#1b666e18aa70791d6286e12571bf8f4c81bd5f0a"
+  integrity sha512-o3QiJ3fwi+r+NwXZ3c+5d+SZj2u6gCXoHVhOcU3v/DCvpWsP6P+ahFqENqkCqiapc0IwCeUj6RRGT8l8PdZrrw==
   dependencies:
     bootstrap "^4.5.3"
     gatsby-plugin-feed "^2.9.0"
