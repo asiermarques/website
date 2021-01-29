@@ -30,6 +30,10 @@ module.exports = {
                       href: "/info/about-me"
                   },
                   {
+                      title: "Recursos de aprendizaje y notas",
+                      href: "https://notes.asiermarques.com"
+                  },
+                  {
                       title: "CV",
                       href: "/info/cv"
                   },
