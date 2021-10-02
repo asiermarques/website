@@ -5102,10 +5102,10 @@ gatsby-telemetry@^2.14.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-serenity@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-2.0.1.tgz#4de14968c5b137e2a9d3e3b679cb42cc92f34960"
-  integrity sha512-ueKmX1MVkxQztVBmJ4ZXx53Fo/7asvuDadt4yun+S/feBR0O3/TKv1gp/AiSdonFxVkifOhtVpS84AO1LDIHBw==
+gatsby-theme-serenity@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-serenity/-/gatsby-theme-serenity-2.0.2.tgz#24d7d68cd965f7aecc46eeffeeb94a377f393ffe"
+  integrity sha512-v69K+WKujjRI+excyijE8XME0cMzz61E0PAcP+afSYx8iNmGctGqJlkdBc58gg2JVjwgTLKmM5a0tD7TMaA92g==
   dependencies:
     bootstrap "^4.5.3"
     gatsby-plugin-feed "^3.14.0"
