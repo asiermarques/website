@@ -1,4 +1,3 @@
----
 date: 2011-09-24 13:34:43+00:00
 layout: post
 slug: /2011/la-importancia-de-saber-ingles-para-un-espanol/
