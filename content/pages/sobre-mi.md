@@ -1,7 +1,7 @@
 ---
 title: "Sobre mí"
 template: "page"
-slug: /info/sobre-mi/
+slug: /es/sobre-mi/
 ---
 
 Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y resido de forma habitual en Madrid.

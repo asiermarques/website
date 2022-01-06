@@ -27,15 +27,11 @@ module.exports = {
                   },
                   {
                       title: "Sobre mí",
-                      href: "/info/about-me"
-                  },
-                  {
-                      title: "Recursos de aprendizaje y notas",
-                      href: "https://notes.asiermarques.com"
+                      href: "/es/sobre-mi"
                   },
                   {
                       title: "CV",
-                      href: "/info/cv"
+                      href: "/es/cv"
                   },
                   {
                       title: "RSS",

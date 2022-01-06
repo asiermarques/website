@@ -1,7 +1,7 @@
 ---
 title: "Currículum Vitae"
 template: "page"
-slug: /info/cv/
+slug: /es/cv/
 ---
 
 También puedes encontrarme [en linkedin](http://linkedin.com/in/asier).
