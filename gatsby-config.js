@@ -38,7 +38,7 @@ module.exports = {
                       href: "/rss.xml"
                   },
               ],
-              articles_per_page: 4,
+              articles_per_page: 10,
               language: "es"
           }
       },
