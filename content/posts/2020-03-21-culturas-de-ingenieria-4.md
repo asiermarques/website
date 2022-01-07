@@ -6,6 +6,7 @@ template: "post"
 draft: false
 slug: "/2020/culturas-ingenieria-4/"
 category: "Gestión"
+coverImage: "/media/adi-goldstein-n2V4ZNflsHM-unsplash.jpg"
 tags:
   - "Desarrollo de software"
   - "Gestión"
