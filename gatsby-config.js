@@ -31,7 +31,7 @@ module.exports = {
                   },
                   {
                       title: "CV",
-                      href: "/es/cv"
+                      href: "https://linkedin.com/in/asier"
                   },
                   {
                       title: "RSS",
