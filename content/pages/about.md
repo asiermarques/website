@@ -7,7 +7,7 @@ slug: /about/
 My name is Asier; I'm from [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1), 
 but I live in Madrid, Spain.
 
-Currently, I'm working as Sr. Engineering Manager at [Packlink Shipping](https://www.packlink.com/), and 
+Currently, I'm working as Sr. Engineering Director at [Auctane](https://www.auctane.com), and 
 I'm studying psychology at [UOC University](https://www.uoc.edu/).
 
 You can find me at:
