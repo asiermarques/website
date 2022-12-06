@@ -10,7 +10,7 @@ module.exports = {
               defaultPreviewImage: "/og-default.png",
               author: {
                   name: "Asier Marqués",
-                  bio: "Asier trabaja actualmente con el rol de Engineering Manager en Packlink Shipping.",
+                  bio: "Asier trabaja actualmente con el rol de Sr. Software Engineering Director en Auctane.",
                   url: "https://asiermarques.com",
                   links: {
                       twitter: "https://twitter.com/asiermarques",
