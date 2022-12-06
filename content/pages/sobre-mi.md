@@ -6,7 +6,7 @@ slug: /es/sobre-mi/
 
 Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y resido de forma habitual en Madrid.
 
-Actualmente trabajo en [Packlink Shipping](https://www.packlink.com/) con el rol de Senior Engineering Manager en el dominio de Plataforma Interna.
+Actualmente trabajo en [Auctane](https://auctane.com/) asumiendo el rol de Senior Engineering Director para el brand de Packlink Shipping y el hub de ingeniería de España.
 
 Empecé mi carrera tecnológica trabajando en el área de sistemas IT en empresas como Softec, Ibermática, Batz Coop. (Grupo Mondragón), Altran (en proyectos para Panda Security y BP Solar) para después pasar al campo de desarrollo web trabajando en nvivo Internet, como autónomo en diversos proyectos web y finalmente como director técnico en Ideateca Factory.
 
