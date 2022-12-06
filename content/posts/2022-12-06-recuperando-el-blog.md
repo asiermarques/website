@@ -12,7 +12,7 @@ description: "Hacía mucho que no escribía en este blog, es hora de recuperarlo
 
 Hace tiempo que no escribo por aquí. Y cuando digo tiempo, son ya dos años.
 
-Llevo tiempo pensando qué hacer con este blog. De hecho, mientras escribía las últimas entradas hace dos años tampoco lo tenía del todo claro.
+Llevaba tiempo pensando en qué hacer con este blog. De hecho, mientras escribía las últimas entradas hace dos años tampoco lo tenía del todo claro.
 
 Estos últimos años he usado *Medium* como plataforma para publicar artículos sobre tecnología o relacionados con mi profesión. Al hacerlo, este blog ha quedado en un segundo plano, apagándose poco a poco y quedando fuera de mi atención. 
 
@@ -25,7 +25,7 @@ El hambre de plasmar con texto lo que tengo en mi cabeza me fuerza a parar y ref
 
 En mi caso, este año ha sido un año de parar a reflexionar en varias ocasiones, de recuperar hábitos perdidos (que fueron unos cuantos), de introducir hábitos nuevos, de intentar responder a la pregunta "¿quién eres?". \
 Nunca me había detenido a pensar una respuesta útil a esa pregunta. Ni tampoco poner en cuestión si las respuestas que venían rápidamente a mi mente eran las que respondían realmente a la misma.\
-Creo que todos deberíamos pararnos a responder a esa pregunta de vez en cuándo. Es cuanto menos, un ejercicio curioso.
+Creo que todos deberíamos pararnos a responder esa pregunta de vez en cuándo. Es cuanto menos, un ejercicio curioso.
 
 Pero volvamos al asunto que nos atañe, qué hacer con este blog. Mi idea es continuarlo, pero como un blog más personal. \
 Esto no significa que excluya temáticas relacionadas con mi trabajo o de tecnología, al final es algo que forma parte de mi día a día, pero no tengo previsto que sean las únicas protagonistas de estas nuevas publicaciones.
