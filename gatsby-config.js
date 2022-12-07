@@ -14,7 +14,7 @@ module.exports = {
                   url: "https://asiermarques.com",
                   links: {
                       twitter: "https://twitter.com/asiermarques",
-                      linkedin: "https://linkedin.com/in/asier",
+                      linkedin: "https://es.linkedin.com/in/asier",
                       github: "https://github.com/asiermarques",
                       instagram: "https://instagram.com/asiermarques",
                       mail: "mailto:asiermarques@gmail.com"
