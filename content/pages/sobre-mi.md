@@ -22,7 +22,7 @@ En 2018 trabajé como responsable en el área de arquitectura de software en el 
 
 Me apasiona también la música, además de buscar continuamente grupos, artistas y temas, [practico el arte de la mezcla](https://www.mixcloud.com/asiermarques) de música electrónica desde 1997. 
 
-Puedes leer [mi currículum en este enlace](https://linkedin.com/in/asier).
+Puedes leer [mi currículum en este enlace](https://es.linkedin.com/in/asier).
 
 Y puedes encontrarme por:
  	
