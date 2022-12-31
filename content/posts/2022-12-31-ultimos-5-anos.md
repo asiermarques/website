@@ -128,7 +128,7 @@ Un ejemplo claro se da cuando tenemos éxito, especialmente en un entorno comple
 
 ![I made this](https://asiermarques.com/media/i-made-this.png)
 
-Y uno de los peligros de no analizar de forma objetiva nuestro éxito tras un reto concreto, es creernos que hemos conseguido todos nosotros solos. 
+Y uno de los peligros de no analizar de forma objetiva nuestro éxito tras un reto concreto, es creernos que hemos conseguido todo nosotros solos. 
 
 Especialmente cuando tenemos que plantear una estrategia es importante no fliparnos a la hora de traernos lecciones supuestamente aprendidas; puede que recordemos haber construido cosas desde cero cuando en realidad partíamos de cimientos que estaban establecidos previamente gracias al trabajo anterior de otras personas.  
 Utilizar o seguir el trabajo base de otras personas no significa que no haya mérito o trabajo detrás por nuestra parte, pero seguramente al plantear la misma solución en un contexto similar, si tenemos en cuenta la necesidad de este trabajo previo, acertaremos en conseguir el éxito que esperamos de una forma más precisa.
