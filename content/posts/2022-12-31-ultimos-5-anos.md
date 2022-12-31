@@ -95,7 +95,7 @@ El libro [Los comerciantes de la atención](https://www.goodreads.com/book/show/
 Una lectura que he sido reticente a leer desde hace tiempo y que creo que merece mucho la pena es [Los Siete Habitos de La Gente Altamente Efectiva](https://www.goodreads.com/book/show/2438466.Los_Siete_Habitos_de_La_Gente_Altamente_Efectiva) de Cowey.  
 El libro es mejor que el título o las portadas rancias que suele tener.  
 
-Esta lectura me ayudó en la parada para recargar que mencioné antes para ser consciente de cómo nuestros principios definen nuestro paradigma y cómo nuestro paradigma, definen nuestra forma de ver la vida. 
+Esta lectura me ayudó a ser consciente de cómo nuestros principios definen nuestro paradigma y cómo nuestro paradigma, define nuestra forma de ver la vida. 
 
 Hacer conscientes buenos o malos hábitos que apoyan o desafían nuestros principios ayuda de forma drástica a tomar algo de control sobre nuestro paradigma. Según mi entendimiento, tomar control de nuestro paradigma es prácticamente equivalente a tomar control de nuestra vida.  
 La sensación de cambiar con éxito un principio, ser consciente de ello y saber que eso tiene un impacto directo en tu realidad, es sencillamente brutal.
