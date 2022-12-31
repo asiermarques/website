@@ -42,7 +42,7 @@ Soy un pleno defensor del trabajo en remoto y de la gestión de personas en remo
 
 Hace más de diez años repetía esta frase entre otras más o menos pegadizas: *“el inglés es el mejor lenguaje de programación”.* 
 
-Ahora mismo, se me haría muy extraño volver a trabajar en un lugar en el que no se utilizase el inglés. Desde hace tiempo estoy más cómodo escribiendo en inglés sobre temas profesionales, a pesar de no ser mi idioma nativo y a pesar de no hacerlo de forma perfecta. Esto se ha convertido en un principio que cada vez es más férreo para mi.
+Ahora mismo, se me haría muy extraño volver a trabajar en un lugar en el que no se utilizase el inglés. Desde hace tiempo estoy más cómodo escribiendo en inglés sobre temas profesionales, a pesar de no ser mi idioma nativo y a pesar de no hacerlo de forma perfecta. Esto se ha convertido en un principio que cada vez es más férreo para mí.
 
 Por otro lado, he desarrollado también cero tolerancia de quien desanima, se burla o critica a personas que aun no teniendo un nivel avanzado de inglés, se lanzan a hablarlo, escribir artículos o dar charlas. 
 
@@ -79,7 +79,7 @@ Este año tuve la oportunidad de parar en seco unas semanas y dedicarme a entren
 
 Al leerles, me quedé sobre todo con dos principios que los he interiorizado como míos y en algunos casos lo he llevado al plano profesional y han sido claves para afrontar situaciones complejas.
 
-Saber detectar rápidamente lo que está fuera de mi control, lo que no me aporta pero se lleva mi energía o atención y el no esperar a que una situación mejore o sea “ideal” para conseguir avanzar y conseguir objetivos, son algunas de las ventajas que he obtenido gracias a la perspectiva que he conseguido adentrándome en este tema, totalmente desconocido para mi.
+Saber detectar rápidamente lo que está fuera de mi control, lo que no me aporta pero se lleva mi energía o atención y el no esperar a que una situación mejore o sea “ideal” para conseguir avanzar y conseguir objetivos, son algunas de las ventajas que he obtenido gracias a la perspectiva que he conseguido adentrándome en este tema, totalmente desconocido para mí.
 
 En alguna de esas lecturas invitaban a reflexionar a través de la pregunta “¿quién eres?”. Más allá de decir tu nombre y tu título profesional, ¿quién eres?
 Hacerse cargo de la identidad de uno mismo y saber lo que realmente forma parte de ella de forma genuina es muy interesante para priorizar y ahorrar un montón de tiempo, energía, preocupación y frustración.
