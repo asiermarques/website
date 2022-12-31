@@ -3,7 +3,7 @@ title: "Recuperando el blog"
 date: "2022-12-06 17:40:01+00:00"
 template: "post"
 draft: false
-slug: "/2020/recuperando-el-blog/"
+slug: "/2022/recuperando-el-blog/"
 category: "Diario"
 tags:
   - "Diario"
