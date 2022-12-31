@@ -24,7 +24,7 @@ Aquel cambio de mochila trajo un cambio personal bastante fuerte: volví a traba
 El 8 de Enero de 2019 me mudé a Madrid, ciudad en la que resido actualmente. Siempre he tenido un sesgo negativo con esta ciudad y antes de ese año hubiera apostado lo que fuese a que jamás, jamás en mi vida, acabaría viviendo en Madrid.  
 Cuando por trabajo tuve que decidir entre moverme a Málaga, ciudad que me encanta, conozco bien y forma parte del paraíso en la tierra también conocido como Andalucía o ir a Madrid, ciudad concebida en mi mente como gris por su omnipresente asfalto, edificios, contaminación y abarrotada de ridículos coches SUV, me sorprendí decidiendo por la segunda. Y fue una genial decisión.
 
-Me encanta Madrid. Es una ciudad muy cómoda y llena de gente interesante. Hay más lugares geniales en España, llenos también de gente interesante pero lo bueno de Madrid, es que está lo suficientemente bien situada como para poder llegar de forma cómoda a prácticamente todas ellas. 
+Me encanta Madrid. Es una ciudad muy cómoda y llena de gente interesante. Hay más lugares geniales en España, llenos también de gente interesante pero lo bueno de Madrid, es que está lo suficientemente bien situada como para poder llegar de forma cómoda a prácticamente todos ellos. 
 
 No descarto moverme en un futuro, pero de momento eso lo veo a bastante más largo plazo del que me hubiera imaginado hace cuatro años.
 
@@ -42,7 +42,8 @@ Soy un pleno defensor del trabajo en remoto y de la gestión de personas en remo
 
 Hace más de diez años repetía esta frase entre otras más o menos pegadizas: *“el inglés es el mejor lenguaje de programación”.* 
 
-Ahora mismo, se me haría muy extraño volver a trabajar en un lugar en el que no se utilizase el inglés. Desde hace tiempo estoy más cómodo escribiendo en inglés sobre temas profesionales, a pesar de no ser mi idioma nativo y a pesar de no hacerlo de forma perfecta. Esto se ha convertido en un principio que cada vez es más férreo para mí.
+Ahora mismo, se me haría muy extraño volver a trabajar en un lugar en el que no se utilizase el inglés. Desde hace tiempo estoy más cómodo escribiendo en inglés sobre temas profesionales, a pesar de no ser mi idioma nativo y a pesar de no hacerlo de forma perfecta.  
+He interiorizado el inglés como mi idioma por defecto para el ámbito profesional y esto se ha convertido en un principio personal bastante férreo.
 
 Por otro lado, he desarrollado también cero tolerancia de quien desanima, se burla o critica a personas que aun no teniendo un nivel avanzado de inglés, se lanzan a hablarlo, escribir artículos o dar charlas. 
 
