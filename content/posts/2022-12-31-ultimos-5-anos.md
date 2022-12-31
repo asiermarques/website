@@ -2,21 +2,22 @@
 title: "Breve repaso a mis últimos cinco años."
 date: "2022-12-31 16:00:01+00:00"
 template: "post"
-draft: true
+draft: false
 slug: "/2022/ultimos-cinco-anos/"
 category: "Diario"
 tags:
   - "Diario"
 description: "Un resumen a modo de reflexión sobre lo último que he vivido o que me ha resultado interesante desde mi última actualización personal de hace casi cinco años.
 
-¿Qué pasó desde entonces? Es imposible resumir todo lo vivido en esta entrada, pero repasaré los titulares que le contaría a un colega al que no veo desde hace años"
+¿Qué pasó desde entonces? Es imposible resumir todo lo vivido en esta entrada, pero repasaré algunos titulares que le contaría a un colega al que no veo desde hace años."
 ---
 
-Tenía ganas de encontrar el momento de escribir tranquilamente. Como aún no tengo hábito de escribir en este blog y no voy a ser muy original que digamos; escribiré a modo de reflexión sobre lo último que he vivido o que me ha resultado interesante desde mi última actualización personal, que fue mi “[cambio de mochila](https://asiermarques.com/2018/cambio-de-mochila/)” hace casi cinco años.
+Tenía ganas de encontrar el momento de escribir tranquilamente. Como aún no tengo hábito de escribir en este blog y no voy a ser muy original que digamos, escribiré a modo de reflexión sobre lo último que he vivido o que me ha resultado interesante desde mi última actualización personal. 
+Esta actualización fue sobre mi “[cambio de mochila](https://asiermarques.com/2018/cambio-de-mochila/)” hace casi cinco años.
 
-Ese cambio de mochila trajo un cambio personal bastante fuerte: volví a trabajar por cuenta ajena después de haber estado por mi cuenta y crear varias empresas desde cero los años anteriores. 
+Aquel cambio de mochila trajo un cambio personal bastante fuerte: volví a trabajar por cuenta ajena después de haber trabajado de forma autónoma y haber creado varias empresas desde cero durante los años anteriores. 
 
-¿Qué pasó desde entonces? Es imposible resumir todo lo vivido en esta entrada, pero repasaré los titulares que le contaría a un colega al que no veo desde hace años o a un yo del pasado que tuviera interés en spoilers por si quisiera cambiar algo.
+¿Qué pasó desde entonces? Es imposible resumir todo lo vivido en esta entrada, pero repasaré algunos titulares que le contaría a un colega al que no veo desde hace años o a mi yo del pasado por si tuviera interés en ser spoileado.
 
 ## Lo de mudarme a Madrid.
 
@@ -48,9 +49,10 @@ Por otro lado, he desarrollado también cero tolerancia de quien desanima, se bu
 ## Lo de perder, recuperar y crear hábitos.
 
 > “Observa tus acciones. Se transforman en hábitos. Observa tus hábitos. Se transforman en carácter. Observa tu carácter. Se transforma en tu destino.” Gandhi.
-> 
 
-Durante 2020 estuve obsesionado con haber perdido la rutina de correr que tanto trabajo me costó recuperar. Durante ese año y el siguiente intenté sin éxito recuperar ese hábito. En Abril de este año contraté a un entrenador personal y he tenido éxito no sólo en recuperar esa rutina, sino en hacerlo madrugando, mantenerla mientras viajo, he recuperado rutina de remo indoor y he añadido rutinas de fuerza también. 
+
+Durante 2020 estuve obsesionado con haber perdido la rutina de correr que tanto trabajo me costó recuperar años atrás. Durante ese año y el siguiente intenté sin éxito recuperar ese hábito. 
+En Abril de este año contraté a un entrenador personal y finalmente he tenido éxito no sólo en recuperar esa rutina, sino en hacerlo madrugando, mantenerla mientras viajo, he recuperado también mi rutina de remo indoor y he añadido rutinas adicionales de fuerza. 
 
 Como en otras cosas, tenía una perspectiva incorrecta cara a afrontar este problema. Cuando quieres conseguir crear, recuperar o eliminar un hábito, un problema frecuente suele ser obsesionarse por crear, recuperar o eliminar ese hábito en concreto. Los hábitos forman parte de un sistema formado por triggers y desencadenantes. En lugar de gestionar hábitos, debemos gestionar los sistemas en los que los hábitos encajan. Esto es algo que me ha obsesionado en el último año.
 
@@ -68,22 +70,22 @@ Hasta que no empecé a estudiar psicología no entendí bien lo importante de �
 ## Lo del estoicismo.
 
 > “*La vida es larga, si sabes cómo usarla.” Séneca.*
-> 
 
 Antes de recuperar de nuevo mis rutinas y hábitos, confiaba en exceso de mi capacidad de resilencia. A nada que hayamos leído a Taleb, especialmente su libro [Antifrágil](https://www.goodreads.com/book/show/40941583-antifr-gil?from_search=true&from_srp=true&qid=vVjsXFlm0J&rank=1), sabemos que esa aproximación tiene un recorrido limitado en momentos de estrés o de mucho cambio.
 
-Desde hacía años venía escuchando hablar sobre el estoicismo pero no me había detenido a leer sobre sus principios. Recuerdo una conversación con un amigo en el que me dijo “hay muchas personas fliplándose con el estoicismo”. Por mucho que hubiera querido sumarme a la crítica, me veía sin capacidad para responder ya que no había leído nada aún de Séneca, Epitecto o Marco Aurelio, por citar a los autores más conocidos.
+Desde hacía años venía escuchando hablar sobre el estoicismo pero no me había detenido a leer sobre sus principios. Recuerdo una conversación con un amigo en el que me dijo “últimamente hay muchas personas fliplándose con el estoicismo”. Por mucho que hubiera querido sumarme a la crítica, me veía sin capacidad para responder ya que no había leído nada aún de Séneca, Epitecto o Marco Aurelio, por citar a los autores más conocidos.
 
-Este año tuve la oportunidad de parar en seco y dedicarme a entrenar, leer y recargar energía que había perdido en los últimos años. Prioricé entre otras lecturas, libros de estos autores.
+Este año tuve la oportunidad de parar en seco unas semanas y dedicarme a entrenar, leer y recargar energía que había perdido en los últimos años. Prioricé entre otras lecturas, libros de estos autores.
 
 Al leerles, me quedé sobre todo con dos principios que los he interiorizado como míos y en algunos casos lo he llevado al plano profesional y han sido claves para afrontar situaciones complejas.
 
-Saber detectar rápidamente lo que está fuera de mi control, lo que no me aporta pero se lleva mi energía o atención y el no esperar a que una situación mejore o sea “ideal” para conseguir avanzar y conseguir objetivos, son algunas de las ventajas que he obtenido gracias a la perspectiva que he conseguido adentrándome en este tema que era un completo desconocido para mi.
+Saber detectar rápidamente lo que está fuera de mi control, lo que no me aporta pero se lleva mi energía o atención y el no esperar a que una situación mejore o sea “ideal” para conseguir avanzar y conseguir objetivos, son algunas de las ventajas que he obtenido gracias a la perspectiva que he conseguido adentrándome en este tema, totalmente desconocido para mi.
 
 En alguna de esas lecturas invitaban a reflexionar a través de la pregunta “¿quién eres?”. Más allá de decir tu nombre y tu título profesional, ¿quién eres?
 Hacerse cargo de la identidad de uno mismo y saber lo que realmente forma parte de ella de forma genuina es muy interesante para priorizar y ahorrar un montón de tiempo, energía, preocupación y frustración.
 
-Aunque no es estoicismo, pero está relacionado en cierto modo, no quería cerrar este titular sin mencionar la necesidad de gestionar nuestra atención. Vivimos en una era en la que la [economía de la atención](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_la_atenci%C3%B3n) es clave y es peligroso vivir en modo automático sin gestionarla.
+Aunque no es estoicismo, pero está relacionado en cierto modo, no quería cerrar este titular sin mencionar la necesidad de gestionar nuestra atención. 
+Vivimos en una era en la que la [economía de la atención](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_la_atenci%C3%B3n) es clave y es peligroso vivir en modo automático sin gestionarla.
 El libro [Los comerciantes de la atención](https://www.goodreads.com/book/show/51515328-comerciantes-de-atenci-n) de Tim Wu te da mucha perspectiva y un repaso histórico sobre este tema.
 
 ## Lo de los principios.
@@ -117,7 +119,7 @@ Los libros que he leído y me han aportado en este campo son innumerables; creo 
 
 ## Lo de no fliparse.
 
-Asumiendo roles de liderazgo o de gestión es muy fácil fliparse. Llamo fliparse a un patrón de comportamiento muy claro en el que perdemos humildad como grupo o individuos y nuestro ego no permite hacernos conscientes de partes críticas del contexto en el que actuamos.
+Asumiendo roles de liderazgo o de gestión es muy fácil fliparse. Con *fliparse* me refiero a un patrón de comportamiento muy claro en el que perdemos humildad como grupo o individuos y nuestro ego no permite hacernos conscientes de partes críticas del contexto en el que actuamos.
 
 Un ejemplo claro se da cuando tenemos éxito, especialmente en un entorno complejo. En esos casos, si no analizamos de forma objetiva nuestro contexto y los pasos que hemos dado, podemos asumir conclusiones erróneas y no entender exactamente por qué hemos conseguido algo. Esos factores pueden suponer una diferencia para replicar ese éxito en un contexto similar. 
 
@@ -145,8 +147,12 @@ Leer me da la vida. Es uno de mis vicios favoritos junto al café. Y lo mejor de
 Algo que también me encanta es leer libros con más personas y debatirlos. La experiencia de lectura se hace mucho más interesante y en el caso de ensayos u otras lecturas de no ficción, creo que es uno de mis métodos de aprendizaje favoritos. Me encanta la sensación de descubrir que muy a pesar de mi tremenda seguridad por lo contrario, no había entendido realmente el punto del autor sobre algo. 
 Nadie es más inteligente que una comunidad y en este sentido, tengo la suerte de contar con más gente inquieta cerca para debatir lecturas. 
 
-Leer hay que disfrutarlo y veo que hay personas que se obsesionan con leer un número concreto de lecturas al año cuando en realidad lo importante es disfrutar de lo que lees. 
+Deberíamos disfrutar de leer sin obsesionarnos con terminar un número concreto de lecturas al año. 
 Sin ánimo de meterme en la forma en la que otros leen libros, observo mucha presión por terminar los libros que se empiezan; esos libros no van a desaparecer y no pasa nada por tener libros sin terminar durante años. A veces nos metemos mucha presión con las cosas equivocadas.
+
+Me gusta mucho esta [reflexión de Borges](https://youtu.be/0MxPTqsd76E) al respecto.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MxPTqsd76E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
