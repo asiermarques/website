@@ -21,7 +21,7 @@ Aquel cambio de mochila trajo un cambio personal bastante fuerte: volví a traba
 
 ## Lo de mudarme a Madrid.
 
-El 8 de Enero de 2019 me mudé a Madrid, ciudad en la que resido actualmente. Siempre he tenido un sesgo negativo con esta ciudad y antes de ese año hubiera apostado lo que fuese a que jamás, jamás en mi vida, acabaría viviendo en Madrid. 
+El 8 de Enero de 2019 me mudé a Madrid, ciudad en la que resido actualmente. Siempre he tenido un sesgo negativo con esta ciudad y antes de ese año hubiera apostado lo que fuese a que jamás, jamás en mi vida, acabaría viviendo en Madrid.  
 Cuando por trabajo tuve que decidir entre moverme a Málaga, ciudad que me encanta, conozco bien y forma parte del paraíso en la tierra también conocido como Andalucía o ir a Madrid, ciudad concebida en mi mente como gris por su omnipresente asfalto, edificios, contaminación y abarrotada de ridículos coches SUV, me sorprendí decidiendo por la segunda. Y fue una genial decisión.
 
 Me encanta Madrid. Es una ciudad muy cómoda y llena de gente interesante. Hay más lugares geniales en España, llenos también de gente interesante pero lo bueno de Madrid, es que está lo suficientemente bien situada como para poder llegar de forma cómoda a prácticamente todas ellas. 
@@ -51,7 +51,7 @@ Por otro lado, he desarrollado también cero tolerancia de quien desanima, se bu
 > “Observa tus acciones. Se transforman en hábitos. Observa tus hábitos. Se transforman en carácter. Observa tu carácter. Se transforma en tu destino.” Gandhi.
 
 
-Durante 2020 estuve obsesionado con haber perdido la rutina de correr que tanto trabajo me costó recuperar años atrás. Durante ese año y el siguiente intenté sin éxito recuperar ese hábito. 
+Durante 2020 estuve obsesionado con haber perdido la rutina de correr que tanto trabajo me costó recuperar años atrás. Durante ese año y el siguiente intenté sin éxito recuperar ese hábito.  
 En Abril de este año contraté a un entrenador personal y finalmente he tenido éxito no sólo en recuperar esa rutina, sino en hacerlo madrugando, mantenerla mientras viajo, he recuperado también mi rutina de remo indoor y he añadido rutinas adicionales de fuerza. 
 
 Como en otras cosas, tenía una perspectiva incorrecta cara a afrontar este problema. Cuando quieres conseguir crear, recuperar o eliminar un hábito, un problema frecuente suele ser obsesionarse por crear, recuperar o eliminar ese hábito en concreto. Los hábitos forman parte de un sistema formado por triggers y desencadenantes. En lugar de gestionar hábitos, debemos gestionar los sistemas en los que los hábitos encajan. Esto es algo que me ha obsesionado en el último año.
@@ -85,7 +85,7 @@ En alguna de esas lecturas invitaban a reflexionar a través de la pregunta “�
 Hacerse cargo de la identidad de uno mismo y saber lo que realmente forma parte de ella de forma genuina es muy interesante para priorizar y ahorrar un montón de tiempo, energía, preocupación y frustración.
 
 Aunque no es estoicismo, pero está relacionado en cierto modo, no quería cerrar este titular sin mencionar la necesidad de gestionar nuestra atención. 
-Vivimos en una era en la que la [economía de la atención](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_la_atenci%C3%B3n) es clave y es peligroso vivir en modo automático sin gestionarla.
+Vivimos en una era en la que la [economía de la atención](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_la_atenci%C3%B3n) es clave y es peligroso vivir en modo automático sin gestionarla.  
 El libro [Los comerciantes de la atención](https://www.goodreads.com/book/show/51515328-comerciantes-de-atenci-n) de Tim Wu te da mucha perspectiva y un repaso histórico sobre este tema.
 
 ## Lo de los principios.
@@ -94,7 +94,7 @@ Una lectura que he sido reticente a leer desde hace tiempo y que creo que merece
 
 Esta lectura me ayudó en la parada para recargar que mencioné antes para ser consciente de cómo nuestros principios definen nuestro paradigma y cómo nuestro paradigma, definen nuestra forma de ver la vida. 
 
-Hacer conscientes buenos o malos hábitos que apoyan o desafían nuestros principios ayuda de forma drástica a tomar algo de control sobre nuestro paradigma. Según mi entendimiento, tomar control de nuestro paradigma es prácticamente equivalente a tomar control de nuestra vida. 
+Hacer conscientes buenos o malos hábitos que apoyan o desafían nuestros principios ayuda de forma drástica a tomar algo de control sobre nuestro paradigma. Según mi entendimiento, tomar control de nuestro paradigma es prácticamente equivalente a tomar control de nuestra vida.  
 La sensación de cambiar con éxito un principio, ser consciente de ello y saber que eso tiene un impacto directo en tu realidad, es sencillamente brutal.
 
 ## Lo de gestionar personas y un departamento de ingeniería.
@@ -127,7 +127,7 @@ Un ejemplo claro se da cuando tenemos éxito, especialmente en un entorno comple
 
 Y uno de los peligros de no analizar de forma objetiva nuestro éxito tras un reto concreto, es creernos que hemos conseguido todos nosotros solos. 
 
-Especialmente cuando tenemos que plantear una estrategia es importante no fliparnos a la hora de traernos lecciones supuestamente aprendidas; puede que recordemos haber construido cosas desde cero cuando en realidad partíamos de cimientos que estaban establecidos previamente gracias al trabajo anterior de otras personas. 
+Especialmente cuando tenemos que plantear una estrategia es importante no fliparnos a la hora de traernos lecciones supuestamente aprendidas; puede que recordemos haber construido cosas desde cero cuando en realidad partíamos de cimientos que estaban establecidos previamente gracias al trabajo anterior de otras personas.  
 Utilizar o seguir el trabajo base de otras personas no significa que no haya mérito o trabajo detrás por nuestra parte, pero seguramente al plantear la misma solución en un contexto similar, si tenemos en cuenta la necesidad de este trabajo previo, acertaremos en conseguir el éxito que esperamos de una forma más precisa.
 
 ## Lo de cambiar de opinión.
@@ -144,10 +144,10 @@ De nuevo, creo que he tenido suerte en los últimos años de contar con personas
 
 Leer me da la vida. Es uno de mis vicios favoritos junto al café. Y lo mejor de todo es que ambos vicios se pueden disfrutar al mismo tiempo.
 
-Algo que también me encanta es leer libros con más personas y debatirlos. La experiencia de lectura se hace mucho más interesante y en el caso de ensayos u otras lecturas de no ficción, creo que es uno de mis métodos de aprendizaje favoritos. Me encanta la sensación de descubrir que muy a pesar de mi tremenda seguridad por lo contrario, no había entendido realmente el punto del autor sobre algo. 
+Algo que también me encanta es leer libros con más personas y debatirlos. La experiencia de lectura se hace mucho más interesante y en el caso de ensayos u otras lecturas de no ficción, creo que es uno de mis métodos de aprendizaje favoritos. Me encanta la sensación de descubrir que muy a pesar de mi tremenda seguridad por lo contrario, no había entendido realmente el punto del autor sobre algo.  
 Nadie es más inteligente que una comunidad y en este sentido, tengo la suerte de contar con más gente inquieta cerca para debatir lecturas. 
 
-Deberíamos disfrutar de leer sin obsesionarnos con terminar un número concreto de lecturas al año. 
+Deberíamos disfrutar de leer sin obsesionarnos con terminar un número concreto de lecturas al año.  
 Sin ánimo de meterme en la forma en la que otros leen libros, observo mucha presión por terminar los libros que se empiezan; esos libros no van a desaparecer y no pasa nada por tener libros sin terminar durante años. A veces nos metemos mucha presión con las cosas equivocadas.
 
 Me gusta mucho esta [reflexión de Borges](https://youtu.be/0MxPTqsd76E) al respecto.
