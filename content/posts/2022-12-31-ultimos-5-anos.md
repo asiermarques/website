@@ -38,7 +38,7 @@ Cuando me mudé a Madrid, en Packlink (la empresa para la cual trabajaba antes d
 
 Soy un pleno defensor del trabajo en remoto y de la gestión de personas en remoto. Aunque hayamos experimentado un retroceso en comparación a lo ganado durante la pandemia, estoy plenamente convencido que en los trabajos en los que se pueda, los beneficios superan con creces a los inconvenientes, tanto para la empresa, como para los empleados.
 
-## Lo del ingles como idioma de trabajo.
+## Lo del inglés como idioma de trabajo.
 
 Hace más de diez años repetía esta frase entre otras más o menos pegadizas: *“el inglés es el mejor lenguaje de programación”.* 
 
