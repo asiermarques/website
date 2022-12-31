@@ -12,7 +12,7 @@ description: "Un resumen a modo de reflexión sobre lo último que he vivido o q
 ¿Qué pasó desde entonces? Es imposible resumir todo lo vivido en esta entrada, pero repasaré algunos titulares que le contaría a un colega al que no veo desde hace años."
 ---
 
-Tenía ganas de encontrar el momento de escribir tranquilamente. Como aún no tengo hábito de escribir en este blog y no voy a ser muy original que digamos, escribiré a modo de reflexión sobre lo último que he vivido o que me ha resultado interesante desde mi última actualización personal. 
+Tenía ganas de encontrar el momento de escribir tranquilamente. Aún no tengo hábito de escribir en este blog y no voy a ser muy original que digamos; escribiré a modo de reflexión sobre lo último que he vivido o que me ha resultado interesante desde mi última actualización personal. 
 Esta actualización fue sobre mi “[cambio de mochila](https://asiermarques.com/2018/cambio-de-mochila/)” hace casi cinco años.
 
 Aquel cambio de mochila trajo un cambio personal bastante fuerte: volví a trabajar por cuenta ajena después de haber trabajado de forma autónoma y haber creado varias empresas desde cero durante los años anteriores. 
