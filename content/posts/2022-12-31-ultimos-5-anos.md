@@ -1,5 +1,5 @@
 ---
-title: "Breve repaso a mis últimos cinco años."
+title: "Breve repaso a mis últimos cinco años"
 date: "2022-12-31 16:00:01+00:00"
 template: "post"
 draft: false
