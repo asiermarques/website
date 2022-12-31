@@ -24,7 +24,7 @@ Aquel cambio de mochila trajo un cambio personal bastante fuerte: volví a traba
 El 8 de Enero de 2019 me mudé a Madrid, ciudad en la que resido actualmente. Siempre he tenido un sesgo negativo con esta ciudad y antes de ese año hubiera apostado lo que fuese a que jamás, jamás en mi vida, acabaría viviendo en Madrid.  
 Cuando por trabajo tuve que decidir entre moverme a Málaga, ciudad que me encanta, conozco bien y forma parte del paraíso en la tierra también conocido como Andalucía o ir a Madrid, ciudad concebida en mi mente como gris por su omnipresente asfalto, edificios, contaminación y abarrotada de ridículos coches SUV, me sorprendí decidiendo por la segunda. Y fue una genial decisión.
 
-Me encanta Madrid. Es una ciudad muy cómoda y llena de gente interesante. Hay más lugares geniales en España, llenos también de gente interesante pero lo bueno de Madrid, es que está lo suficientemente bien situada como para poder llegar de forma cómoda a prácticamente todos ellos. 
+Me encanta Madrid. Es una ciudad muy cómoda y llena de gente interesante. Hay más lugares geniales en España, llenos de gente interesante también pero, lo bueno de Madrid, es que está lo suficientemente bien situada como para poder llegar de forma cómoda a prácticamente todos ellos. 
 
 No descarto moverme en un futuro, pero de momento eso lo veo a bastante más largo plazo del que me hubiera imaginado hace cuatro años.
 
