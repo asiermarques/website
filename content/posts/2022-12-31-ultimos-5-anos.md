@@ -54,7 +54,8 @@ Por otro lado, he desarrollado también cero tolerancia de quien desanima, se bu
 Durante 2020 estuve obsesionado con haber perdido la rutina de correr que tanto trabajo me costó recuperar años atrás. Durante ese año y el siguiente intenté sin éxito recuperar ese hábito.  
 En Abril de este año contraté a un entrenador personal y finalmente he tenido éxito no sólo en recuperar esa rutina, sino en hacerlo madrugando, mantenerla mientras viajo, he recuperado también mi rutina de remo indoor y he añadido rutinas adicionales de fuerza. 
 
-Como en otras cosas, tenía una perspectiva incorrecta cara a afrontar este problema. Cuando quieres conseguir crear, recuperar o eliminar un hábito, un problema frecuente suele ser obsesionarse por crear, recuperar o eliminar ese hábito en concreto. Los hábitos forman parte de un sistema formado por triggers y desencadenantes. En lugar de gestionar hábitos, debemos gestionar los sistemas en los que los hábitos encajan. Esto es algo que me ha obsesionado en el último año.
+Como en otras cosas, tenía una perspectiva incorrecta cara a afrontar este problema. Cuando quieres conseguir crear, recuperar o eliminar un hábito, un problema frecuente suele ser obsesionarse por crear, recuperar o eliminar ese hábito en concreto. Los hábitos forman parte de un sistema formado por triggers y desencadenantes.  
+En lugar de gestionar hábitos, debemos gestionar los sistemas en los que los hábitos encajan. Esto es algo que me ha obsesionado en el último año.
 
 Levantarse a las 6:30 o 7 (no he sido nunca una persona especialmente madrugadora) y salir a correr me ha permitido de forma natural desencadenar un sistema de hábitos relacionados, algunos que había perdido sin ser consciente de ello y otros nuevos que a su vez, van desencadenando otros y curiosamente, haciendo menos apetecibles los que son más tóxicos. 
 Es sorprendente la resilencia de un sistema de hábitos encadenados.
