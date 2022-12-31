@@ -90,7 +90,8 @@ El libro [Los comerciantes de la atención](https://www.goodreads.com/book/show/
 
 ## Lo de los principios.
 
-Una lectura que he sido reticente a leer desde hace tiempo y que creo que merece mucho la pena es [Los Siete Habitos de La Gente Altamente Efectiva](https://www.goodreads.com/book/show/2438466.Los_Siete_Habitos_de_La_Gente_Altamente_Efectiva) de Cowey. El libro es mejor que el título o las portadas rancias que suele tener.  
+Una lectura que he sido reticente a leer desde hace tiempo y que creo que merece mucho la pena es [Los Siete Habitos de La Gente Altamente Efectiva](https://www.goodreads.com/book/show/2438466.Los_Siete_Habitos_de_La_Gente_Altamente_Efectiva) de Cowey.  
+El libro es mejor que el título o las portadas rancias que suele tener.  
 
 Esta lectura me ayudó en la parada para recargar que mencioné antes para ser consciente de cómo nuestros principios definen nuestro paradigma y cómo nuestro paradigma, definen nuestra forma de ver la vida. 
 
