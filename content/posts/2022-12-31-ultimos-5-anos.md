@@ -79,7 +79,7 @@ Desde hacía años venía escuchando hablar sobre el estoicismo pero no me habí
 
 Este año tuve la oportunidad de parar en seco unas semanas y dedicarme a entrenar, leer y recargar energía que había perdido en los últimos años. Prioricé entre otras lecturas, libros de estos autores.
 
-Al leerles, me quedé sobre todo con dos principios que los he interiorizado como míos y en algunos casos lo he llevado al plano profesional y han sido claves para afrontar situaciones complejas.
+Al leerles, me quedé con algunos de sus principios que los he interiorizado como míos y en algunos casos lo he llevado al plano profesional y han sido claves para afrontar situaciones complejas.
 
 Saber detectar rápidamente lo que está fuera de mi control, lo que no me aporta pero se lleva mi energía o atención y el no esperar a que una situación mejore o sea “ideal” para conseguir avanzar y conseguir objetivos, son algunas de las ventajas que he obtenido gracias a la perspectiva que he conseguido adentrándome en este tema, totalmente desconocido para mí.
 
