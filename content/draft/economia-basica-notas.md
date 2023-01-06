@@ -29,3 +29,21 @@ La economía no trata sobre el destino financiero de individuos o empresas parti
 La economía no es simplemente un tema sobre el cual expresar opiniones o exteriorizar emociones; es un estudio sistemático de lo que ocurre cuando se realizan cosas específicas de una forma específica.
 
 ## La función de los precios
+
+En una economía de mercado coordinada por precios no hay nadie en la cima dictando órdenes para controlar y coordinar las actividades en la economía.
+
+Los precios desempeñan una función crucial en determinar cuánto de cada recurso se utiliza en qué lugar, y de qué manera el producto resultante se transfiere a millones de personas.
+
+A pesar de que el concepto de los mercados coordinados por movimientos de precios —o «capitalistas», como se los suele denominar— pueden parecer simple, suele conducir a más malentendidos que otras cuestiones mucho más complejas.  
+El sistema económico del libre mercado es comúnmente considerado un sistema de lucro, pero en realidad se trata de un sistema de ganancias y pérdidas, y las pérdidas son tan importantes como el lucro para la eficiencia de la economía, porque informan a los productores de lo que deben dejar de hacer, de lo que deben dejar de producir, de dónde deben dejar de asignar recursos, de en qué deben dejar de invertir.
+
+Desde el punto de vista de la economía, a pesar de que los productores están interesados tan sólo en sí mismos y en sus empresas, la sociedad en su conjunto termina usando sus recursos escasos de manera más eficiente porque sus decisiones están siendo orientadas por los precios.
+
+Ejemplo que ilustra cuando no se permiten libertad de precios -> A continuación, dos economistas soviéticos, Nikolai Shmelev y Vladimir Popov, describen lo que ocurrió cuando su gobierno subió el precio que pagaría por la piel de topo y los cazadores comenzaron a conseguir y vender más pieles de topo: 
+
+> Las compras estatales han aumentado y ahora todos los centros de distribución están a rebosar de estas pieles. La industria es incapaz de emplearlas todas, y con frecuencia se pudren antes de que se procesen.  
+> El ministro de Industria Ligera ha pedido al Comité Estatal de Precios en dos ocasiones que se bajen los precios de compra, pero el «asunto no se ha decidido» todavía. Esto no es algo sorprendente, pues sus miembros están demasiado ocupados como para decidir sobre esta cuestión.   
+> No tienen tiempo: además de fijar los precios para estas pieles, tienen que controlar otros 24 millones de precios.
+
+El dinero habla, y la gente escucha. Sus reacciones son normalmente más rápidas de lo que tardan los planificadores centrales en redactar sus informes.   Aunque decir a la gente qué debe hacer parece una manera más racional u ordenada de coordinar una economía, en la práctica ha resultado ser un modo mucho menos efectivo.
+
