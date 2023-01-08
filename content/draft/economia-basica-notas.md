@@ -47,3 +47,5 @@ Ejemplo que ilustra cuando no se permiten libertad de precios -> A continuación
 
 El dinero habla, y la gente escucha. Sus reacciones son normalmente más rápidas de lo que tardan los planificadores centrales en redactar sus informes.   Aunque decir a la gente qué debe hacer parece una manera más racional u ordenada de coordinar una economía, en la práctica ha resultado ser un modo mucho menos efectivo.
 
+El coste real de algo continúa siendo su valor en usos alternativos. Los costes reales de construir un puente son las otras cosas que podrían haberse construido con ese mismo trabajo y material. Esto es aplicable también a la vida de un individuo cualquiera, inclusive si no hay dinero de por medio: por ejemplo, el coste de ver una comedia o una telenovela en la televisión es el valor de las otras cosas que pudieron hacerse en ese mismo tiempo.
+
