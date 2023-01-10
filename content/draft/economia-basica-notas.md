@@ -49,3 +49,14 @@ El dinero habla, y la gente escucha. Sus reacciones son normalmente más rápida
 
 El coste real de algo continúa siendo su valor en usos alternativos. Los costes reales de construir un puente son las otras cosas que podrían haberse construido con ese mismo trabajo y material. Esto es aplicable también a la vida de un individuo cualquiera, inclusive si no hay dinero de por medio: por ejemplo, el coste de ver una comedia o una telenovela en la televisión es el valor de las otras cosas que pudieron hacerse en ese mismo tiempo.
 
+Si un gran empleador va a la quiebra en una pequeña comunidad, o si simplemente se muda a otra región o país, muchos de sus exempleados podrían decidir mudarse también. Si sus numerosas casas se pusieran en venta en la misma pequeña área al mismo tiempo, lo más probable es que los precios de dichas casas descendieran debido a la competencia. Pero ello no significaría que esas personas estuvieran vendiendo sus casas por menos que su valor «real». El valor de la vida en esa pequeña comunidad simplemente habría disminuido junto con las oportunidades de trabajo, y los precios de las casas estarían reflejando ese hecho. Los nuevos y más bajos precios reflejarían la nueva realidad tan bien como los precios anteriores reflejaban la realidad anterior.
+
+Las transacciones continuadas entre comprador y vendedor tienen sentido tan sólo si el valor es subjetivo, y cada quien obtiene lo que subjetivamente considera de mayor valor.
+
+## El control de precios
+
+Por lo general el control de precios son impuestos con la finalidad de evitar que suban hasta el nivel que alcanzarían en función de la oferta y la demanda.
+
+Las políticas económicas necesitan ser analizadas según los incentivos que crean, y no según las esperanzas que las inspiraron. (Ejemplo de control de alquileres; debatir sistema sanitario)
+
+Según diferentes encuestas realizadas por economistas, existe un amplio consenso según el cual, la disminución de calidad y cantidad de productos son efectos normales del control de precios en general.
