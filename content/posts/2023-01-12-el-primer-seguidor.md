@@ -12,9 +12,9 @@ description: "Los seguidores, especialmente cuando hablamos de cambios en contex
 
 
 
-> “El primer seguidor es el que transforma a un chiflado solitario en un líder. 
-— Derek Sivers
-> 
+> “El primer seguidor es el que transforma a un chiflado solitario en un líder.  
+> Derek Sivers.
+
 
 Hace años vi [esta charla](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=es) de [Derek Sivers](https://sive.rs/) que de forma reiterada termina volviendo a mi mente a lo largo de los años.
 
