@@ -7,7 +7,7 @@ slug: "/2023/el-primer-seguidor/"
 category: "Diario"
 tags:
   - "Diario"
-description: "Los seguidores, especialmente cuando hablamos de cambios en contextos culturales o profesionales, pueden ser los que se enfrenten a todos y cada uno de los obstáculos que impidan materializarse esa visión disruptiva cuando se enfrenta a la realidad de cada contexto."
+description: "Los seguidores, especialmente cuando hablamos de cambios en contextos culturales o profesionales, pueden ser los que se enfrenten a todos y cada uno de los obstáculos que impidan materializar esa visión disruptiva cuando esta se enfrente a la realidad de cada contexto."
 ---
 
 
