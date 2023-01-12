@@ -12,7 +12,7 @@ description: "Los seguidores, especialmente cuando hablamos de cambios en contex
 
 
 
-> “El primer seguidor es el que transforma a un chiflado solitario en un líder.  
+> “El primer seguidor es el que transforma a un chiflado solitario en un líder."  
 > Derek Sivers.
 
 
