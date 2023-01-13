@@ -22,7 +22,7 @@ Hace años vi [esta charla](https://www.ted.com/talks/derek_sivers_how_to_start_
 
 Normalmente consideramos líderes a aquellas personas que han impulsado un cambio disruptivo, una visión nueva que nadie más había visto antes. La idea de que ser un “seguidor” pueda considerarse como una forma de liderar es algo que a muchas personas puede parecer contradictorio casi por definición. 
 
-Considero fundamental la figura de una persona que lidere con la visión, sea capaz de transmitirla y sepa delegar en esos “followers” los planes de ejecución de la misma. Algunas veces se trata de la misma persona, pero en entornos complejos, es raro que pueda llegar a serlo.
+Considero fundamental la figura de una persona que lidere con la visión, sea capaz de transmitirla y sepa delegar en esos “seguidores” los planes de ejecución de la misma. Algunas veces se trata de la misma persona, pero en entornos complejos, es raro que pueda llegar a serlo.
 
 Los seguidores, especialmente cuando hablamos de cambios en contextos culturales o profesionales, pueden ser los que se enfrenten a todos y cada uno de los obstáculos que impidan materializarse esa visión disruptiva cuando se enfrenta a la realidad de cada contexto.
 
