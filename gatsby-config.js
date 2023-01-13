@@ -5,7 +5,7 @@ module.exports = {
           options: {
               title: "Asier Marqués",
               subtitle: "Blog personal",
-              description: "Blog personal y artículos sobre ingeniería de software.",
+              description: "Blog personal y reflexiones sobre gestión de ingeniería de software.",
               siteUrl: "https://asiermarques.com",
               defaultPreviewImage: "/og-default.png",
               author: {
