@@ -1,5 +1,5 @@
-^me/?$ https://asier.start.page
-^info/?$ https://asier.start.page
+/me/ https://asier.start.page
+/info/ https://asier.start.page
 /en-que-ando-metido/ /info/en-que-ando-metido/
 /curriculum-vitae/ /info/cv/
 /feed/rss2/ /rss.xml
