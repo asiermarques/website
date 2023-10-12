@@ -21,7 +21,8 @@ Tengo mucho que contar; en esta entrada me limitaré a lo que pueda aportarnos a
 
 ## Cambio de mochila
 
-Tras tres años como Senior Engineering Manager en Packlink Shipping y algo más de uno como Senior Director of Engineering en Auctane tras nuestra adquisición, llegó mi momento de cambio. En un principio esperaba parar durante medio año aprovechando la situación, pero soy muy malo aprovechando este tipo de situaciones y finalmente esta parada se limitó a unos tres meses, desde la segunda mitad de Abril hasta el 1 de Agosto.
+Tras tres años como Senior Engineering Manager en Packlink Shipping y algo más de uno como Senior Director of Engineering en Auctane tras nuestra adquisición, llegó mi momento de cambio.   
+En un principio mi plan era parar durante medio año aprovechando la situación, pero soy muy malo aprovechando este tipo de situaciones y finalmente esta parada se limitó a unos tres meses, desde la segunda mitad de Abril hasta el 1 de Agosto.
 
 Por contextualizar, este año ha sido protagonizado por la cantidad de despidos (Layoffs) en empresas tecnológicas, líderes referentes en el sector tech tomando decisiones con respecto a limitar o eliminar el remoto, y empresas haciendo el ridículo (en mi opinión) a nivel de comunicación cuando seguían esta tendencia con argumentos no siempre acertados.
 
