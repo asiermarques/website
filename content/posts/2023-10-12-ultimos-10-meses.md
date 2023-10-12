@@ -33,7 +33,7 @@ Este año se ha hablado mucho de estos temas. Algunas empresas y managers han ap
 
 Modelos como el de Gergely Orosz que incluyo a continuación han sido muy populares para entender el caos que se estaba viviendo.
 
-![Wartime VS Peacetime model by Gergely Orosz https://twitter.com/GergelyOrosz/status/1639590564835229698](https://prod-files-secure.s3.us-west-2.amazonaws.com/33a6a9b2-212e-4411-acca-0203e3cbda3d/01d82d17-359d-43ae-81b2-59ab73050290/Untitled.png)
+![Wartime VS Peacetime model by Gergely Orosz https://twitter.com/GergelyOrosz/status/1639590564835229698](/media/warpeace.png)
 
 Wartime VS Peacetime model by Gergely Orosz https://twitter.com/GergelyOrosz/status/1639590564835229698
 
