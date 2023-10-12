@@ -15,7 +15,8 @@ Han pasado diez meses [desde que publiqué algo](https://asiermarques.com/2022/u
 No he esperado al final de este año para hacer este repaso por dos motivos. En primer lugar, no me gusta escribir a nivel personal como si yo fuese una tarea programada que sí o sí debe escribir algo en una determinada fecha y hora porque es lo que se espera de algo programado para ello. 
 En segundo lugar, hoy es festivo, me he despertado con mucha hambre de escribir. Quizás este tipo de textos no sean los más exquisitos para saciar ese tipo de hambre pero hay momentos en los que el hambre se sacia a base de whoppers del BurgerKing. 
 
-Este año ha sido muy intenso, repleto de lecciones aprendidas y re-aprendidas. Un año que empezó a nivel personal con ilusiones intensas, de esas que te aceleran para luego pararte en seco contra un muro y que por el motivo de dicha parada tienes tanto cabreo que ni sientes el impacto. Un año de cambios, de movimiento, de re-encuentros.
+Este año ha sido muy intenso, repleto de lecciones aprendidas y re-aprendidas. Un año que empezó a nivel personal con ilusiones intensas, de esas que te aceleran para luego pararte en seco contra un muro y que por el motivo de dicha parada tienes tanto cabreo que ni sientes el impacto. Un año de cambios, de movimiento, de re-encuentros.  
+  
 Tengo mucho que contar; en esta entrada me limitaré a lo que pueda aportarnos a ambos. A ti, que por alguna razón estás leyendo esto, y a mí, que lo escribo a modo de retrospectiva, con el enfoque de condensar reflexiones y opiniones que tengo ahora mismo en la mente y con la motivación de poder tener conversaciones sobre ellas, si nos encontramos compartiendo un café o una cerveza.
 
 ## Cambio de mochila
@@ -26,16 +27,14 @@ Por contextualizar, este año ha sido protagonizado por la cantidad de despidos 
 
 Ha sido un año en el que se ha parado en seco un crecimiento continuado desde 2019 y en el que los primeros roles en peligro eran los que estaban en capas de middle management y que irónicamente, habían sido tendencia en los años anteriores. Quizás esta tendencia, junto al crecimiento desmesurado, provocó como resultado estructuras de equipos y departamentos demasiado complejas de mantener con un coste de comunicación muy elevado. 
 
-Las estructuras de equipos (me apasiona este tema) tienen un coste intrínseco. En ingeniería de software, este coste incluye licencias, gastos de cloud y aspectos de OPEX que tienen una relación directa en cómo los equipos se organizan y estructuran. Además, existe un coste de comunicación vertical, entre los diferentes niveles de la organización, y horizontal, implícito entre la necesaria colaboración entre equipos y áreas funcionales. 
+Las estructuras de equipos (me apasiona este tema) tienen un coste intrínseco. En ingeniería de software, este coste incluye licencias, gastos de cloud y aspectos de OPEX que tienen una relación directa en cómo los equipos se organizan y estructuran. Además, existe un coste de comunicación vertical, entre los diferentes niveles de la organización, y horizontal, implícito entre la necesaria colaboración entre equipos y áreas funcionales.  
 Cuando la estructura no se diseña de forma intencional, el coste accidental es muy alto. Por otro lado, cuando se fuerza una estructura plana en contextos donde se necesite escalar y crecer, se termina por crear una estructura oculta sustentada por el esfuerzo, resiliencia y heroísmo de determinadas personas.
 
 Este año se ha hablado mucho de estos temas. Algunas empresas y managers han aprovechado este caos para aprender y mejorar a nivel de estructura y formas de trabajo. 
 
 Modelos como el de Gergely Orosz que incluyo a continuación han sido muy populares para entender el caos que se estaba viviendo.
 
-![Wartime VS Peacetime model by Gergely Orosz https://twitter.com/GergelyOrosz/status/1639590564835229698](/media/warpeace.png)
-
-Wartime VS Peacetime model by Gergely Orosz https://twitter.com/GergelyOrosz/status/1639590564835229698
+[![Wartime VS Peacetime model by Gergely Orosz](/media/warpeace.png)](https://twitter.com/GergelyOrosz/status/1639590564835229698)
 
 Y es precisamente este año, cuando he decidido buscar un cambio. 
 
@@ -82,7 +81,7 @@ En algunas otras, más aburridas por definirlas de alguna forma, te pedían reso
 
 Hay empresas como Amazon que tienen procesos de selección famosos por contar con numerosos libros y cursos publicados sobre cómo prepararte para sus entrevistas. Algunas cosas en esos recursos son interesantes y pueden servirte a nivel general para transmitir tu experiencia, incluso aunque no sea de tu interés el aplicar a esta empresa.
 
-En cualquier caso, los procesos para ciertos perfiles conllevan tiempo, preparación y sobretodo no estar agotado mentalmente tras un día intenso de trabajo donde han tenido que invertir tu energía en diferentes focos.
+En cualquier caso, los procesos para ciertos perfiles conllevan tiempo, preparación y sobretodo no estar agotado mentalmente tras un día intenso de trabajo donde han tenido que invertir tu energía en diferentes focos. No todo el mundo puede permitirse parar para hacer entrevistas, pero si se puede, creo que es mejor hacerlo.
 
 **Otras cosas**
 
