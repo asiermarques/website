@@ -82,7 +82,7 @@ En algunas otras, más aburridas por definirlas de alguna forma, te pedían reso
 
 Hay empresas como Amazon que tienen procesos de selección famosos por contar con numerosos libros y cursos publicados sobre cómo prepararte para sus entrevistas. Algunas cosas en esos recursos son interesantes y pueden servirte a nivel general para transmitir tu experiencia, incluso aunque no sea de tu interés el aplicar a esta empresa.
 
-En cualquier caso, los procesos para ciertos perfiles conllevan tiempo, preparación y sobretodo no estar agotado mentalmente tras un día intenso de trabajo donde han tenido que invertir tu energía en diferentes focos. No todo el mundo puede permitirse parar para hacer entrevistas, pero si se puede, creo que es mejor hacerlo.
+En cualquier caso, los procesos para ciertos perfiles conllevan tiempo, preparación y sobretodo no estar agotado mentalmente tras un día intenso de trabajo donde has tenido que invertir tu energía en diferentes focos. No todo el mundo puede permitirse parar para hacer entrevistas, pero si se puede, creo que es mejor hacerlo.
 
 **Otras cosas**
 
