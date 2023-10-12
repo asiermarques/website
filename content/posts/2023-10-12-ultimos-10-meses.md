@@ -12,8 +12,8 @@ description: "Un resumen a modo de reflexión sobre mi último año, a falta de 
 
 Han pasado diez meses [desde que publiqué algo](https://asiermarques.com/2022/ultimos-cinco-anos/) por aquí. Entonces hacía un repaso de mis últimos cinco años y me temo que esta entrada no va a ser mucho más original. 
 
-No he esperado al final de este año para hacer este repaso por dos motivos. En primer lugar, no me gusta escribir a nivel personal como si yo fuese una tarea programada que sí o sí debe escribir algo en una determinada fecha y hora porque es lo que se espera de algo programado para ello. 
-En segundo lugar, hoy es festivo, me he despertado con mucha hambre de escribir. Quizás este tipo de textos no sean los más exquisitos para saciar ese tipo de hambre pero hay momentos en los que el hambre se sacia a base de whoppers del BurgerKing. 
+Aprovechando que hoy es festivo en España y me he despertado con mucha hambre de escribir, voy a aprovechar este apetito para reflexionar sobre algunas cosas que he vivido este año.  
+Quizás este tipo de textos no sean los más exquisitos para saciar ese tipo de hambre pero hay momentos en los que el hambre se sacia a base de whoppers del BurgerKing. 
 
 Este año ha sido muy intenso, repleto de lecciones aprendidas y re-aprendidas. Un año que empezó a nivel personal con ilusiones intensas, de esas que te aceleran para luego pararte en seco contra un muro y que por el motivo de dicha parada tienes tanto cabreo que ni sientes el impacto. Un año de cambios, de movimiento, de re-encuentros.  
   
