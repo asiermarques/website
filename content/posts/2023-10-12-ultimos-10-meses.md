@@ -102,7 +102,7 @@ Aproveché esos tres meses para formarme más en aspectos relacionados con gesti
 
 La decisión fue aceptar la oferta en BestSecret, un grupo alemán de venta privada de unos cien años de antigüedad con una plataforma online funcionando desde el 2007. Su cultura es muy afín a mis principios, trabajamos en remoto con oficinas en Granada, Munich y Grecia. (Y estamos contratando).
 
-Por cierto, como es habitual en mí, he cambiado de mochila. Ahora llevo una [Bopai ultraligera](https://bopai-backpack.com/collections/frontpage/products/bopai%E2%84%A2-slim-ultralight-15-6-inch-laptop-backpack).
+Por cierto, como es habitual en mí cuando cambio de etapa, he cambiado también de mochila. Ahora llevo una [Bopai ultraligera](https://bopai-backpack.com/collections/frontpage/products/bopai%E2%84%A2-slim-ultralight-15-6-inch-laptop-backpack).
 
 ## **El Inglés**
 
