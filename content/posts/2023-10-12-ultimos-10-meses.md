@@ -90,7 +90,9 @@ Tengo varias anécdotas curiosas que me han pasado durante estos procesos de sel
 
 También he tenido decepciones tremendas con algunas empresas que llevaba siguiendo desde hace años y en las que conozco a gente trabajando pero mi experiencia en el proceso fue nefasta a todos los niveles.
 
-Por otro lado hay todavía mucha oportunidad para agencias de reclutamiento que lleven a candidatos de roles de gestión. Mi experiencia como candidato en general con las que he probado ha sido bastante pobre con honradas y poco conocidas excepciones. 
+Por otro lado hay todavía mucha oportunidad para agencias de reclutamiento que lleven a candidatos de roles de gestión. Mi experiencia como candidato en general con las que he probado había bastante margen de mejora.  
+
+Pero no todas han sido malas experiencias, he tenido la oportunidad de conocer empresas de las que no conocía mucho acerca de su cultura, su forma de resolver problemas e implementar formas de trabajo. Se aprende mucho haciendo entrevistas.
 
 No ha sido el mejor contexto para cambiar de trabajo, afortunadamente el mercado no está tan mal como parece y he tenido la oportunidad de aprender bastante de esta experiencia.
 
@@ -117,8 +119,6 @@ Romper este complejo te hace competir con otros perfiles que hablan bien inglés
 Soy muy poco tolerante con personas que ridiculizan o critican de alguna forma el inglés del resto. Irónicamente, en mi experiencia he comprobado que los más críticos con el inglés de otros colegas españoles son precisamente, los españoles. Y creo que es algo sobre lo que creo que debemos reflexionar como comunidad tecnológica.
 
 No deberíamos permitir este tipo de ejemplos ni comportamientos, sean en entornos públicos o privados, ya que contribuyen a alimentar este complejo. 
-
-Llevo todo el año reflexionando sobre esto ya que en un evento que co-organizo todos los años en Enero, uno de los ponentes que invitamos no tuvo un buen comportamiento en este sentido cuando le trasladamos una de las preguntas que hicieron los asistentes. En ese momento no frené ese ejemplo por no perjudicar la experiencia de los asistentes del mismo, pero después pensé en el impacto que pudo haber tenido en personas más junior o que estén haciendo esfuerzos para atreverse a usar el inglés y creo que no fue buena aproximación el dejarlo pasar.
 
 Por terminar, me gustaría ver a más compañeros del sector perder el miedo a enfrentarse a procesos de selección en inglés. Me encanta ver cómo cada vez más personas que conoces de la comunidad se convierten en referencia en empresas internacionales. 
 
