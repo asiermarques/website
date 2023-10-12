@@ -17,7 +17,7 @@ Quizás este tipo de textos no sean los más exquisitos para saciar ese tipo de 
 
 Este año ha sido muy intenso, repleto de lecciones aprendidas y re-aprendidas. Un año que empezó a nivel personal con ilusiones intensas, de esas que te aceleran para luego pararte en seco contra un muro y que por el motivo de dicha parada tienes tanto cabreo que ni sientes el impacto. Un año de cambios, de movimiento, de re-encuentros.  
   
-Tengo mucho que contar; en esta entrada me limitaré a lo que pueda aportarnos a ambos. A ti, que por alguna razón estás leyendo esto, y a mí, que lo escribo a modo de retrospectiva, con el enfoque de condensar reflexiones y opiniones que tengo ahora mismo en la mente y con la motivación de poder tener conversaciones sobre ellas, si nos encontramos compartiendo un café o una cerveza.
+En esta entrada me limitaré a escribir sobre lo que pueda aportarnos a ambos. A ti, que por alguna razón estás leyendo esto, y a mí, que lo escribo a modo de retrospectiva, con el enfoque de condensar reflexiones y opiniones que tengo ahora mismo en la mente y con la motivación de poder tener conversaciones sobre ellas, si nos encontramos compartiendo un café o una cerveza.
 
 ## Cambio de mochila
 
