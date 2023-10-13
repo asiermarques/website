@@ -24,7 +24,7 @@ En esta entrada me limitaré a escribir sobre lo que pueda aportarnos a ambos. A
 Tras tres años como Senior Engineering Manager en Packlink Shipping y algo más de uno como Senior Director of Engineering en Auctane tras nuestra adquisición, llegó mi momento de cambio.   
 En un principio mi plan era parar durante medio año aprovechando la situación, pero soy muy malo aprovechando este tipo de situaciones y finalmente esta parada se limitó a unos tres meses, desde la segunda mitad de Abril hasta el 1 de Agosto.
 
-Por contextualizar, este año ha sido protagonizado por la cantidad de despidos (Layoffs) en empresas tecnológicas, líderes referentes en el sector tech tomando decisiones con respecto a limitar o eliminar el remoto, y empresas haciendo el ridículo (en mi opinión) a nivel de comunicación cuando seguían esta tendencia con argumentos no siempre acertados.
+Por contextualizar, este año ha sido protagonizado por la cantidad de despidos (Layoffs) en empresas tecnológicas y líderes referentes en el sector tech tomando decisiones con respecto a limitar o eliminar el remoto.
 
 Ha sido un año en el que se ha parado en seco un crecimiento continuado desde 2019 y en el que los primeros roles en peligro eran los que estaban en capas de middle management y que irónicamente, habían sido tendencia en los años anteriores. Quizás esta tendencia, junto al crecimiento desmesurado, provocaron como resultado estructuras de equipos y departamentos demasiado complejas de mantener con un coste de comunicación muy elevado. 
 
