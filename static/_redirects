@@ -6,5 +6,7 @@
 /feed/rss /rss.xml
 /feed/ /rss.xml
 /feed /rss.xml
-https://asiermarques.com/* https://bitacora.asiermarques.com/:splat 301!
+https://asiermarques.com/rss.xml https://bitacora.asiermarques.com/rss.xml 301!
+https://asiermarques.com/20* https://bitacora.asiermarques.com/20:splat 301!
+https://asiermarques.com/es/* https://bitacora.asiermarques.com/es/:splat 301!
 https://asiermarques.com https://asier.start.page 302!
