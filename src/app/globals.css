@@ -1,0 +1,22 @@
+header.main-head{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.professional section{
+    margin-bottom: 4rem;
+}
+.professional .introduction{
+    font-size: 1.8rem;
+}
+.professional article{
+    margin-bottom: 2rem;
+}
+.professional article a{
+    text-decoration: none;
+}
+.professional article a h4{
+    text-decoration: underline;
+}
+.professional article a > span, p{
+   color: #666;
+}
