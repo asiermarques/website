@@ -1,5 +1,5 @@
 import Link from "next/link";
-import {articles} from "@/data";
+import {articles, findMyOn} from "@/data";
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -11,11 +11,21 @@ export default function Home() {
   return <>
         <div className="container">
             <section className="professional">
-                    <section className="introduction row ">
-                        <div className="col-12">
+                    <section className="introduction">
+                        <div>
                             <p>I&apos;m a results-oriented professional <strong>building and leading high-performance software engineering teams</strong>, including international, distributed, remote, and outsourced members.</p>
-                            <p>My main passion is contributing to people&apos;s growth by <strong>coaching and mentoring engineers, leaders, and managers</strong>.</p>
-                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-lg btn-outline-secondary">More on Linkedin</Link>
+                            <p>My ultimate goal is to contribute to people&apos;s growth by <strong>coaching and mentoring engineers, leaders, and managers</strong>.</p>
+                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-lg btn-outline-secondary">Find me on Linkedin</Link>
+                        </div>
+                    </section>
+                    <section className="follow-me">
+                        <p className={"d-none d-sm-block"}>You can also find me on {findMyOn.map(platform => <><Link key={platform.link} href={platform.link}>{platform.name}</Link>{","} </>) }
+                            or book <Link href={"https://calendly.com/asiermarques"}>a virtual coffee</Link>&nbsp;☕ with me.</p>
+                        <p className={"d-block d-sm-none"}>You can also find me on<br/>
+                            {findMyOn.map(platform => <><Link className={""} key={platform.link} href={platform.link}>{platform.name}</Link>{","} </>) }
+                            or book <Link href={"https://calendly.com/asiermarques"}>a virtual coffee</Link>&nbsp;☕.</p>
+                        <div className="separation">
+                            * * *
                         </div>
                     </section>
                     <section className={"writings"}>
@@ -24,7 +34,7 @@ export default function Home() {
                             <Link href={article.link}>
                                 <span>{article.date}</span>
                                 <h4>{article.title}</h4>
-                                <p><span className={"badge text-bg-secondary"}>{article.type}</span> published on {article.platform}</p>
+                                <p>Published on {article.platform}</p>
                             </Link>
                         </article>)}
                     </section>

@@ -41,4 +41,16 @@ export const articles = [
         type: "article",
         platform: "Packlink Tech"
     },
+];
+
+export const findMyOn = [
+    {
+        name: "Twitter X",
+        link: "https://x.com/asiermarques"
+    },
+    {
+        name: "Instagram",
+        link: "https://instagram.com/asiermarques"
+    },
+
 ]

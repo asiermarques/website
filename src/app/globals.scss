@@ -38,24 +38,52 @@ $font-size-lg:                $font-size-base * 1.25;
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
+$highlight_font_size: $font-size-base * 1.4;
+
 header.main-head{
-    margin-top: 1.4rem;
-    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1.4rem;
 }
 .professional{
     .introduction{
-        font-size: $font-size-base * 1.4;
+        font-size: $highlight_font_size;
     }
     article{
+        margin-top: 1.2rem;
         margin-bottom: 2rem;
         a{
             text-decoration: none;
         }
         a h4{
             text-decoration: underline;
+            color: $black;
         }
-        a > span, p{
-            color: #666;
+        a > span{
+            color: $gray-600;
+        }
+        a > p{
+            color: $gray-800;
+        }
+    }
+}
+.separation {
+    font-size: $highlight_font_size;
+    color: $gray-400;
+    text-align: center;
+}
+.follow-me {
+    p{
+        font-size: $highlight_font_size;
+        padding: 2rem 0;
+        text-align: center;
+        color: $gray-700;
+        a{
+            display: inline-block;
+            color: $black;
+        }
+        a.block{
+            display: block;
+            margin: 2rem 0;
         }
     }
 }
