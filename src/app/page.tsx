@@ -15,7 +15,7 @@ export default function Home() {
                         <div>
                             <p>I&apos;m a results-oriented professional <strong>building and leading high-performance software engineering teams</strong><span className={"d-none d-sm-inline"}>, including international, distributed, remote, and outsourced members</span>.</p>
                             <p>My ultimate goal is to contribute to people&apos;s growth by <strong>coaching and mentoring engineers, leaders, and managers</strong>.</p>
-                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-lg btn-outline-secondary">Find me on Linkedin</Link>
+                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-lg btn-outline-primary">Find me on Linked<span className="badge linkedin">in</span></Link>
                         </div>
                     </section>
                     <section className="follow-me">
@@ -30,7 +30,7 @@ export default function Home() {
                         </div>
                     </section>
                     <section className={"writings"}>
-                        <h3>Writings</h3>
+                        <h3>📝 Writings</h3>
                         {articles.map(article => <article key={article.link}>
                             <Link title={article.title} href={article.link}>
                                 <span>{article.date}</span>

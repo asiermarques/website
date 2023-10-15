@@ -10,7 +10,7 @@ $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
 
-$blue:    #0d6efd;
+$blue:    #0a66c2;
 $indigo:  #6610f2;
 $purple:  #6f42c1;
 $pink:    #d63384;
@@ -50,6 +50,14 @@ header.main-head{
     .introduction{
         font-size: $highlight_font_size;
         color: $gray-700;
+        a span.badge.linkedin{
+            background-color: $blue;
+            padding: $badge-padding-y $badge-padding-y;
+            margin-left: .2rem;
+        }
+        a:hover span.badge.linkedin{
+            background-color: $blue-600;
+        }
     }
     article{
         margin-top: 1.2rem;
