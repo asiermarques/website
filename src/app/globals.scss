@@ -99,7 +99,7 @@ header.main-head{
     background-color: tint-color($blue-100, 40%);
     p{
         font-size: $highlight_font_size;
-        padding: 2rem 0;
+        padding: 2rem 0 0 0;
         text-align: center;
         color: $gray-700;
         a{
@@ -113,6 +113,7 @@ header.main-head{
     }
     .separation {
         color: $blue-200;
+        margin: 1rem 0 1.4rem 0;
     }
 }
 section{
