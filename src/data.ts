@@ -49,6 +49,10 @@ export const findMyOn = [
         link: "https://x.com/asiermarques"
     },
     {
+        name: "Medium",
+        link: "https://asiermarques.medium.com"
+    },
+    {
         name: "Instagram",
         link: "https://instagram.com/asiermarques"
     },
