@@ -19,11 +19,10 @@ export default function Home() {
                         </div>
                     </section>
                     <section className="follow-me">
-                        <p className={"d-none d-sm-block"}>You can also find me on {findMyOn.map(platform => <><Link key={platform.link} href={platform.link}>{platform.name}</Link>{","} </>) }
+                        <p>You can also find me on <br className={"d-block d-sm-none"}/>
+                            {findMyOn.map((platform, index) =>
+                            <><Link key={platform.link} href={platform.link}>{platform.name}</Link>{findMyOn.length > 1 && index === findMyOn.length-2 ? ", and" : ","} </>) }
                             or book <Link href={"https://calendly.com/asiermarques"}>a virtual coffee</Link>&nbsp;☕ with me.</p>
-                        <p className={"d-block d-sm-none"}>You can also find me on<br/>
-                            {findMyOn.map(platform => <><Link className={""} key={platform.link} href={platform.link}>{platform.name}</Link>{","} </>) }
-                            or book <Link href={"https://calendly.com/asiermarques"}>a virtual coffee</Link>&nbsp;☕.</p>
                         <div className="separation">
                             * * *
                         </div>
