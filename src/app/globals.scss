@@ -21,6 +21,7 @@ $green:   #198754;
 $teal:    #20c997;
 $cyan:    #0dcaf0;
 
+
 $primary:       $blue;
 $secondary:     $gray-600;
 $success:       $green;
@@ -37,6 +38,7 @@ $font-size-sm:                $font-size-base * .875;
 $font-size-lg:                $font-size-base * 1.25;
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
 
 $highlight_font_size: $font-size-base * 1.4;
 
@@ -73,6 +75,7 @@ header.main-head{
     text-align: center;
 }
 .follow-me {
+    background-color: tint-color($blue-100, 40%);
     p{
         font-size: $highlight_font_size;
         padding: 2rem 0;
@@ -86,6 +89,9 @@ header.main-head{
             display: block;
             margin: 2rem 0;
         }
+    }
+    .separation {
+        color: $blue-200;
     }
 }
 section{
