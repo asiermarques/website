@@ -13,9 +13,9 @@ export default function Home() {
             <section className="professional">
                     <section className="introduction row ">
                         <div className="col-12">
-                            <p>I&apos;m a results-oriented professional with <strong>two decades of experience building and leading high-performance software engineering teams</strong>, including international, distributed, remote, and outsourced members.</p>
-                            <p>My main passion is contributing to people&apos;s growth, <strong>coaching and mentoring engineers, leaders, and managers</strong>.</p>
-                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-outline-secondary">More on Linkedin</Link>
+                            <p>I&apos;m a results-oriented professional <strong>building and leading high-performance software engineering teams</strong>, including international, distributed, remote, and outsourced members.</p>
+                            <p>My main passion is contributing to people&apos;s growth by <strong>coaching and mentoring engineers, leaders, and managers</strong>.</p>
+                            <Link href={"https://linkedin.com/in/asier"} className="btn btn-lg btn-outline-secondary">More on Linkedin</Link>
                         </div>
                     </section>
                     <section className={"writings"}>

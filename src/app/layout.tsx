@@ -1,9 +1,8 @@
-import 'bootstrap/dist/css/bootstrap.css'
-import './globals.css'
+import './globals.scss'
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Roboto_Flex } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Roboto_Flex({ subsets: ['latin'], display: 'swap',})
 
 export const metadata: Metadata = {
   title: 'Asier Marqués',
