@@ -3,7 +3,7 @@ title: "Breve reflexión de fin de año"
 date: "2023-12-31 19:00:01+00:00"
 template: "post"
 draft: false
-slug: "/2023/breve-reflexion-de-fin-de-ano.md/"
+slug: "/2023/breve-reflexion-de-fin-de-ano/"
 category: "Diario"
 tags:
   - "Diario"
