@@ -21,7 +21,7 @@ Actualmente estoy trabajando en el equipo de gestión de ingeniería de [BestSec
 
 Es una empresa que existe desde hace más de cien años como una comunidad privada de venta de artículos de moda, principalmente ropa.
 
-En este tiempo he sido testigo de la madurez de sus equipos de ingeniería y de producto y estoy contento con el cambio. 
+En este tiempo he sido testigo de la madurez de sus equipos de ingeniería y de producto y estoy muy contento en esta etapa. 
 
 Me gusta la sensación de volver a vivir ciertas cosas otra vez pero en un contexto muy distinto. Trabajamos totalmente en remoto y esto me permite trabajar con personas de diferentes nacionalidades ubicadas en Alemania, Suiza, Grecia y España principalmente y de las que puedo aprender muchísimo; esto cada día me gusta más.
 
