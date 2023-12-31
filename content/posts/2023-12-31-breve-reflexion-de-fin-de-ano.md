@@ -10,8 +10,8 @@ tags:
 description: "Un resumen a modo de reflexión sobre lo vivido y aprendido este 2023."
 ---
 
-He sacado un rato esta tarde para reflexionar sobre las cosas que he hecho y aprendido durante este año que termina; 
-esta será una breve entrada con lo más relevante que venga a mi mente durante mientras la escribo.
+He sacado un rato para reflexionar sobre las cosas que he hecho y aprendido durante este año que termina; 
+esta será una breve entrada con lo más relevante que venga a mi mente mientras la escribo.
 
 ### Cambio de mochila
 
