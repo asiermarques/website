@@ -9,6 +9,4 @@
 https://asiermarques.com/rss.xml https://blog.asiermarques.com/rss.xml 301!
 https://asiermarques.com/20* https://blog.asiermarques.com/20:splat 301!
 https://asiermarques.com/es/* https://blog.asiermarques.com/es/:splat 301!
-https://bitacora.asiermarques.com/* https://blog.asiermarques.com/:splat 301!
-https://bitacora.asiermarques.com https://blog.asiermarques.com
-https://asiermarques.com https://lnk.bio/asier
+https://asiermarques.com/ https://lnk.bio/asier 302!
