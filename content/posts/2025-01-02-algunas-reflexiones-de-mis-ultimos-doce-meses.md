@@ -38,14 +38,19 @@ En Septiembre dejé de usar X de forma definitiva, tras 17 años usando Twitter.
 
 ## Deporte como inversión y un apunte sobre la constancia
 
-En los últimos años, he estado muy preocupado por la consistencia de mi rutina de entrenamiento. Al compararla con la de personas cercanas, sentía que no era lo 'suficientemente buena'. Incluso cuando varios entrenadores me aconsejaban 'perdonarme' por 'fallar', no podía evitar sentir una sensación de fracaso y falta de consistencia.  
+En los últimos años, he estado muy preocupado por la consistencia de mi rutina de entrenamiento.   
+Al compararla con la de personas cercanas, sentía que no era lo 'suficientemente buena'.  
+Incluso cuando varios entrenadores me aconsejaban 'perdonarme' por 'fallar', no podía evitar sentir una sensación de fracaso y falta de consistencia.  
 
-Esta sensación, sumada a otros hábitos inconscientes que alimentaban un ciclo poco favorable para la resiliencia de mi rutina, afectaba directamente mi motivación. Por ejemplo, cenar ciertos alimentos o mi consumo de alcohol (aunque fuera meramente social) perjudicaban tanto mi descanso como mi capacidad para gestionar el estrés.  
+Esta sensación y otros hábitos inconscientes de mi estilo de vida, afectaban directamente a mi motivación y consistencia.  
+Por ejemplo, pedir determinada cena o mi consumo de alcohol (aunque fuera meramente social) perjudicaban tanto mi descanso como mi capacidad para gestionar el estrés.  
 
-Por lo tanto, además de gestionar esos hábitos y entender mejor qué tipo de consistencia necesito en mi rutina, me he tomado en serio mi descanso. Ha sido interesante comenzar a medir la calidad de mi sueño para identificar qué aspectos de mi estilo de vida la afectan y reflexionar sobre si realmente merecen la pena. 
-Este año también leí el libro Dormir de Nick Littlehales, que me aportó una perspectiva valiosa.  
+Además de hacer conscientes y gestionar esos hábitos y entender mejor qué tipo de consistencia necesito en mi rutina, empecé a tomarme muy en serio mi descanso.  
+Ha sido interesante comenzar a medir la calidad de mi sueño para identificar de forma más clara qué aspectos de mi estilo de vida la afectan y reflexionar sobre si realmente merecen la pena. 
 
-Además, comencé a seguir las recomendaciones de predisposición a entrenar que me sugiere mi reloj Garmin, alineando mi entrenamiento con estas indicaciones, y no sólo con meras sensaciones.  
+Este año también leí el libro [Dormir de Nick Littlehales](https://www.goodreads.com/book/show/35448888-dormir), que me aportó una perspectiva valiosa.  
+
+Además, comencé a seguir las recomendaciones de predisposición a entrenar que me sugiere mi reloj Garmin, alineando mis entrenamientos con estas indicaciones, y no sólo con meras sensaciones.  
 
 Estoy bastante contento con mi rutina de deporte actual. Durante la primera mitad del año pude completar una maratón y otras dos medias de remo indoor.  
 Para remo indoor uso [la app de remo virtual EXR](https://exrgame.com/). Para correr, gestiono mi entrenamiento con la app [Runna](https://www.runna.com/).  
@@ -57,8 +62,7 @@ Cada año estoy más convencido de que el deporte es la mejor inversión para af
 ## La revolución de la IA generativa
 
 > The immediate results of the print revolution included witch hunts and religious wars alongside scientific discoveries, while newspapers and radio were exploited by totalitarian regimes as well as by democracies. As for the Industrial Revolution, adapting to it involved catastrophic experiments such as imperialism and Nazism.  
-
-> If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?
+> If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?  
 > **Yuval Noah Harari, [Nexus](https://www.goodreads.com/work/quotes/211894394)**
 >
 
