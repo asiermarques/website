@@ -7,9 +7,9 @@ slug: "/2025/algunas-reflexiones-de-mis-ultimos-doce-meses"
 category: "Diario"
 tags:
   - "Diario" 
-description: "Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas."
+description: "Estos días he estado reflexionando sobre algunos de los temas que ocuparon mi mente a lo largo del 2024, y me gustaría compartir algunas de esas cosas por aquí."
 ---
-Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas.
+Estos días he estado reflexionando sobre algunos de los temas que ocuparon mi mente a lo largo del 2024, y me gustaría compartir algunas de esas cosas por aquí.  
 
 El pasado año fue muy duro a nivel personal, drenando mi energía y motivación en varios momentos, especialmente durante la primera mitad del mismo. Prefiero no profundizar en esto, no sólo porque es algo muy personal, sino también porque, sinceramente, sé que no soy el único que podría calificarlo como un 'año de mierda'. Sin embargo, considero importante dejar constancia de este punto, aunque sea como una nota contextual desde la que escribo las siguientes líneas.
 
@@ -17,46 +17,48 @@ El pasado año fue muy duro a nivel personal, drenando mi energía y motivación
 
 > As William James observed, we must reflect that, when we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default. We are at risk, without quite fully realizing it, of living lives that are less our own than we imagine.  
 > **Tim Wu**, [The Attention Merchants](https://www.goodreads.com/book/show/28503628-the-attention-merchants)
-> 
+>
 
-Durante los últimos años, a lo que antes llamábamos redes sociales se han ido transformando en redes de atención. En mi caso, las redes las usaba para publicar y leer publicaciones de personas cercanas con las que quiero mantener cierto contacto, para sentirme conectado a una red profesional o de algún ámbito de mi interés, para compartir reflexiones o contenido de algún otro tipo.
+Durante los últimos años, los servicios a los que antes llamábamos redes sociales se han transformado en redes de atención. Poco a poco, han ido ajustando sus productos para mantenernos atentos y activos en ellas. Personalmente, solía utilizarlas para descubrir y compartir contenido con personas cercanas y colegas profesionales, así como para debatir sobre temas de interés con ellos.  
 
-Desde hace años, somos plenamente conscientes de que [patrones de scroll como TikTok crean adicción](https://www.socialfixation.com.au/post/why-its-hard-to-stop-scrolling-psychology-behind-tiktok-scroll) pero cada vez más aplicaciones a las que aún llamamos “sociales” los están adoptando.
+Hace años aprendimos que [patrones de scroll como TikTok crean adicción](https://www.socialfixation.com.au/post/why-its-hard-to-stop-scrolling-psychology-behind-tiktok-scroll) pero cada vez más aplicaciones a las que aún llamamos “sociales” los continúan adoptando.
 
-No estamos hablando únicamente de aplicaciones como X o Instagram. En un contexto social en el que las personas cada vez se sienten más solas, aplicaciones de citas están impactando las pautas de conexión social y la intimidad. La adicción en este contexto provoca un tipo de fatiga en el que es muy fácil perderse y olvidar el sentido de conectar con las personas.Las personas atrapadas en este tipo de redes corren el peligro de cultivar una visión de túnel narcisista [por necesidad de validación](https://www.vogue.es/articulos/aplicaciones-citas-autoestima-psicologos-recomendaciones), en el que las conexiones se den de forma impulsiva por [miedo al FOMO](https://mashable.com/article/online-dating-fomo) en un mercado de usar y tirar.
+No estamos hablando únicamente de aplicaciones como X o Instagram. En un contexto social en el que las personas cada vez se sienten más solas, aplicaciones de citas están impactando las pautas de conexión social y la intimidad. La adicción en este contexto provoca un tipo de fatiga en el que es muy fácil perderse y olvidar el sentido de conectar con las personas.  
+Las personas atrapadas en este tipo de redes corren el peligro de cultivar una visión de túnel narcisista [por necesidad de validación](https://www.vogue.es/articulos/aplicaciones-citas-autoestima-psicologos-recomendaciones), en el que las conexiones se den de forma impulsiva por [miedo al FOMO](https://mashable.com/article/online-dating-fomo) en un mercado de usar y tirar.
 
-Incluso aplicaciones profesionales como Linkedin se empiezan a usar del mismo modo. Sin conocer el contexto interno de la empresa, me aventuro a pensar que las métricas de usuarios activos y objetivos ligados a ellas pueden haber pervertido la visión de producto para llevarles a tomar este tipo de decisiones.
+Incluso aplicaciones profesionales como Linkedin se empiezan a enfocar del mismo modo. Sin conocer el contexto interno de la empresa, me aventuro a pensar que las métricas de usuarios activos y objetivos ligados a ellas pueden haber pervertido la visión de producto para llevarles a tomar este tipo de decisiones.
 
-Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están creando también adicciones e impactando a la sociedad a niveles muy preocupantes. Y todos estamos intoxicados en mayor o menor medida.
+Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están alimentando adicciones similares e impactando silenciosamente a la sociedad a una escala masiva. De una forma u otra, todos estamos intoxicados en mayor o menor medida.  
 
-La sensación de no tener tiempo para nada se acentúa cuando quedamos atrapados en las redes de atención. Los hábitos nos transforman y definen nuestro mundo. En este sentido, gestionar nuestros hábitos de atención creo que literalmente nos da no sólo más tiempo de vida, sino también una claridad distinta a la hora de vivirla. Me encantaron las campañas de [Siroko](https://bsky.app/profile/asiermarques.com/post/3l52nebxzqr2i) y [Opal](https://bsky.app/profile/asiermarques.com/post/3l52o3lrkyo2w) muy relacionadas con esto que comento.
+La sensación de no tener tiempo para nada se intensifica cuando quedamos atrapados en las redes de atención. Nuestros hábitos nos transforman y moldean nuestro mundo, ya sea para bien o para mal.  
+En este contexto, gestionar nuestros hábitos de atención no sólo nos garantiza literalmente más tiempo de vida, sino también una mayor claridad a la hora de vivirla.  
+Me encantaron las campañas de Siroko y Opal, que están muy relacionadas con esto que menciono.  
 
-Por mi parte, tras 17 años usando Twitter, en septiembre dejé de usar X de forma definitiva. [BlueSky](https://bsky.app/profile/asiermarques.com) está demostrando ser una opción más sana, y la verdad es que me gustaría que empecemos a contar con más servicios, alternativas a Instagram o LinkedIn, implementados sobre [su protocolo](https://atproto.com/). El protocolo AT está diseñado bajo un enfoque que respeta mucho más la interoperabilidad y los estándares abiertos que potenciaron la web como herramienta de conexión.
-
-Al hacer este cambio y limitar mi uso de Instagram, he notado un incremento sustancial de foco y mucho más tiempo disponible para otras cosas, como formarme, leer o hacer deporte.
+En Septiembre dejé de usar X de forma definitiva, tras 17 años usando Twitter. [BlueSky](https://bsky.app/profile/asiermarques.com) está demostrando ser una opción más sana, y la verdad es que me gustaría que empecemos a contar con más servicios, alternativas a Instagram o LinkedIn, implementados sobre [su protocolo](https://atproto.com/). El protocolo AT está diseñado bajo un enfoque que respeta mucho más la interoperabilidad y los estándares abiertos que potenciaron la web como herramienta de conexión hace casi veinte años.  
 
 ## Deporte como inversión y un apunte sobre la constancia
 
-En los últimos años, he estado muy preocupado por la constancia de mis entrenamientos. Comparada con la de otras personas cercanas, mi constancia parecía no ser lo 'suficientemente buena'. Incluso cuando varios entrenadores me decían que 'me perdonase' por 'fallar', mi sensación era la de un fracaso absoluto.
+En los últimos años, he estado muy preocupado por la consistencia de mi rutina de entrenamiento. Al compararla con la de personas cercanas, sentía que no era lo 'suficientemente buena'. Incluso cuando varios entrenadores me aconsejaban 'perdonarme' por 'fallar', no podía evitar sentir una sensación de fracaso y falta de consistencia.  
 
-Esta sensación, junto a otros hábitos que retroalimentaban un ciclo poco favorable para garantizar la resiliencia de la rutina, perjudicaban directamente mi motivación. Por ejemplo, cenar cierto tipo de alimentos o mi hábito de consumo de alcohol (aunque este fuera meramente social) perjudicaban mi descanso y mi tolerancia a gestionar el estrés.
+Esta sensación, sumada a otros hábitos inconscientes que alimentaban un ciclo poco favorable para la resiliencia de mi rutina, afectaba directamente mi motivación. Por ejemplo, cenar ciertos alimentos o mi consumo de alcohol (aunque fuera meramente social) perjudicaban tanto mi descanso como mi capacidad para gestionar el estrés.  
 
-Este año he podido darle una vuelta a ese ciclo y he podido comprobar que al hacerlo, tuve mejoras en diferentes aspectos, incluso a nivel financiero y de ahorro. Pero esto es otro tema que da para cervezas 0,0, a las cuales me he acostumbrado y es de lo mejor que me ha pasado este año.
+Por lo tanto, además de gestionar esos hábitos y entender mejor qué tipo de consistencia necesito en mi rutina, me he tomado en serio mi descanso. Ha sido interesante comenzar a medir la calidad de mi sueño para identificar qué aspectos de mi estilo de vida la afectan y reflexionar sobre si realmente merecen la pena. 
+Este año también leí el libro Dormir de Nick Littlehales, que me aportó una perspectiva valiosa.  
 
-*Nota: si no tienes nada de contexto sobre sistemas de ciclos de retroalimentación y eres una persona analítica, te recomiendo que empieces a leer sobre pensamiento sistémico. Te puede ayudar en tus planes, no sólo relacionados con tu sistema de hábitos, sino también a entender otros sistemas a diferentes niveles. El punto de entrada es el ya clásico [Pensando en sistemas: Una introducción](https://www.goodreads.com/book/show/213697851-pensando-en-sistemas-ensayo).*
+Además, comencé a seguir las recomendaciones de predisposición a entrenar que me sugiere mi reloj Garmin, alineando mi entrenamiento con estas indicaciones, y no sólo con meras sensaciones.  
 
-Volviendo al tema de la constancia. Este año he sido más consciente de qué constancia funciona para mí, en lugar de fijarme en la constancia de otros. Y esto ha sido diferencial para mejorarla.
+Estoy bastante contento con mi rutina de deporte actual. Durante la primera mitad del año pude completar una maratón y otras dos medias de remo indoor.  
+Para remo indoor uso [la app de remo virtual EXR](https://exrgame.com/). Para correr, gestiono mi entrenamiento con la app [Runna](https://www.runna.com/).  
+Estos dos servicios son un claro ejemplo del buen nivel de aplicaciones con el que podemos contar hoy en día para gestionar de forma seria nuestros entrenamientos.  
 
-Además de cambiar hábitos para gestionar esos ciclos de retroalimentación y de hacer más consciente mi constancia y aceptarla, me ha ayudado el tomarme en serio mi descanso y empezar a medir mi calidad de sueño. Este año también leí el libro [Dormir de Nick Littlehales](https://www.goodreads.com/book/show/35448888-dormir), que me dio bastante perspectiva. También empecé a hacer caso a las recomendaciones de predisposición a entrenar, y mis días de entreno están alineados con las mismas, además de mis propias sensaciones. Esto es algo que he contrastado con personas de mi círculo que entrenan muchísimo más duro que yo, por motivos y objetivos distintos.
-
-Estoy bastante contento con mi rutina de deporte actual. Durante la primera mitad del año pude completar una maratón y otras dos medias de remo indoor.Para remo indoor uso [la app de remo virtual EXR](https://exrgame.com/). Para correr, gestiono mi entrenamiento con la app [Runna](https://www.runna.com/). Estos dos servicios son un claro ejemplo del buen nivel de aplicaciones con el que podemos contar hoy en día para gestionar de forma seria nuestros entrenamientos.
-
-Aunque tengo cierta rutina de fuerza, uno de mis objetivos para el año que viene es mejorar en este sentido. Cada año estoy más convencido de que el deporte es la mejor inversión para afrontar un futuro que, cada vez, parece más exigente para nuestra generación y las que vienen detrás de nosotros.
+Aunque tengo cierta rutina de fuerza, uno de mis objetivos para este 2025 es mejorar en este sentido.  
+Cada año estoy más convencido de que el deporte es la mejor inversión para afrontar un futuro que parece será muy exigente para nuestra generación y las que vienen detrás de la nuestra.
 
 ## La revolución de la IA generativa
 
 > The immediate results of the print revolution included witch hunts and religious wars alongside scientific discoveries, while newspapers and radio were exploited by totalitarian regimes as well as by democracies. As for the Industrial Revolution, adapting to it involved catastrophic experiments such as imperialism and Nazism.  
-> If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?  
+
+> If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?
 > **Yuval Noah Harari, [Nexus](https://www.goodreads.com/work/quotes/211894394)**
 >
 
