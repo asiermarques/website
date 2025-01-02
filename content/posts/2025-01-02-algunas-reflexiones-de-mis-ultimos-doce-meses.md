@@ -32,7 +32,7 @@ Hace años pensaba que las apuestas eran la heroína de este siglo, pero las red
 
 La sensación de no tener tiempo para nada se intensifica cuando quedamos atrapados en las redes de atención. Nuestros hábitos nos transforman y moldean nuestro mundo, ya sea para bien o para mal.  
 En este contexto, gestionar nuestros hábitos de atención no sólo nos garantiza literalmente más tiempo de vida, sino también una mayor claridad a la hora de vivirla.  
-Me encantaron las campañas de Siroko y Opal, que están muy relacionadas con esto que menciono.  
+Me encantaron las campañas de [Siroko](https://bsky.app/profile/asiermarques.com/post/3l52nebxzqr2i) y [Opal](https://bsky.app/profile/asiermarques.com/post/3l52o3lrkyo2w), que están muy relacionadas con esto que menciono.  
 
 En Septiembre dejé de usar X de forma definitiva, tras 17 años usando Twitter. [BlueSky](https://bsky.app/profile/asiermarques.com) está demostrando ser una opción más sana, y la verdad es que me gustaría que empecemos a contar con más servicios, alternativas a Instagram o LinkedIn, implementados sobre [su protocolo](https://atproto.com/). El protocolo AT está diseñado bajo un enfoque que respeta mucho más la interoperabilidad y los estándares abiertos que potenciaron la web como herramienta de conexión hace casi veinte años.  
 
