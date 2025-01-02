@@ -76,8 +76,8 @@ En el mundo del desarrollo de software, en el momento en que escribo estas líne
 Sin embargo, a pesar de lo increíble que puedan parecer estas herramientas y de cómo nos invitan a imaginar el futuro de nuestro sector, creo que estamos en un periodo de transición. Estas herramientas están diseñadas para abordar problemas desde una perspectiva que llevamos utilizando durante más de cuarenta años.   
 
 Pero, si desde hace décadas ya no necesitamos programar en ensamblador para resolver el 90% de los problemas, me pregunto cuál será el papel y el sentido de 'escribir código' tal y como lo conocemos hoy en día en un futuro muy cercano.  
-
-Al fin y al cabo, el código es algo que escribimos para que otro ser humano entienda la intención de nuestra implementación. Sin embargo, con la incorporación de actores no humanos y un mayor nivel de abstracción, las reglas del juego están cambiando.
+Al fin y al cabo, el código es algo que escribimos para que otro ser humano entienda la intención de nuestra implementación.  
+Con la incorporación de actores no humanos y un mayor nivel de abstracción, las reglas del juego están cambiando.
 
 En este contexto, también creo que enfoques como el Product Engineering y áreas transversales como seguridad, auditorías y calidad adquirirán una relevancia aún mayor.
 
