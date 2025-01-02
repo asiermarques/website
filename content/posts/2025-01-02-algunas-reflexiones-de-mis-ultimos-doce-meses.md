@@ -77,9 +77,9 @@ Sin embargo, a pesar de lo increíble que puedan parecer estas herramientas y de
 
 Pero, si desde hace décadas ya no necesitamos programar en ensamblador para resolver el 90% de los problemas, me pregunto cuál será el papel y el sentido de 'escribir código' tal y como lo conocemos hoy en día en un futuro muy cercano.  
 Al fin y al cabo, el código es algo que escribimos para que otro ser humano entienda la intención de nuestra implementación.  
-Con la incorporación de actores no humanos y un mayor nivel de abstracción, las reglas del juego están cambiando.
+Con la incorporación de actores no humanos y un mayor nivel de abstracción, las reglas del juego están cambiando.  
 
-En este contexto, también creo que enfoques como el Product Engineering y áreas transversales como seguridad, auditorías y calidad adquirirán una relevancia aún mayor.
+Creo que tendencias como la de ingeniería de producto aplicada al software y áreas transversales como seguridad, auditorías y calidad adquirirán una relevancia aún mayor.
 
 Fuera del desarrollo de software, la utilidad de estas herramientas resulta indiscutible. Considero fundamental desarrollar buena soltura al crear e iterar prompts, y, como ingenieros, mantenernos atentos a los avances y conceptos que sustentan las plataformas y soluciones de IA disponibles.
 
