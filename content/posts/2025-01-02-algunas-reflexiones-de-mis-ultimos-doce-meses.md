@@ -6,7 +6,7 @@ draft: false
 slug: "/2025/algunas-reflexiones-de-mis-ultimos-doce-meses"
 category: "Diario"
 tags:
-  - "Diario"
+  - "Diario" 
 description: "Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas."
 ---
 Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas.
@@ -15,9 +15,9 @@ El pasado año fue muy duro a nivel personal, drenando mi energía y motivación
 
 ## Escapar de las redes de atención
 
-> As William James observed, we must reflect that, when we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default. We are at risk, without quite fully realizing it, of living lives that are less our own than we imagine.
-**Tim Wu**, [The Attention Merchants](https://www.goodreads.com/book/show/28503628-the-attention-merchants)
->
+> As William James observed, we must reflect that, when we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default. We are at risk, without quite fully realizing it, of living lives that are less our own than we imagine.  
+> **Tim Wu**, [The Attention Merchants](https://www.goodreads.com/book/show/28503628-the-attention-merchants)
+> 
 
 Durante los últimos años, a lo que antes llamábamos redes sociales se han ido transformando en redes de atención. En mi caso, las redes las usaba para publicar y leer publicaciones de personas cercanas con las que quiero mantener cierto contacto, para sentirme conectado a una red profesional o de algún ámbito de mi interés, para compartir reflexiones o contenido de algún otro tipo.
 
@@ -30,8 +30,6 @@ Incluso aplicaciones profesionales como Linkedin se empiezan a usar del mismo mo
 Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están creando adicciones e impactando a la sociedad en niveles mucho más preocupantes. Y todos estamos intoxicados en mayor o menor medida.
 
 La sensación de no tener tiempo para nada se acentúa cuando quedamos atrapados en las redes de atención. Los hábitos nos transforman y definen nuestro mundo. En este sentido, gestionar nuestros hábitos de atención creo que literalmente nos da no sólo más tiempo de vida, sino también una claridad distinta a la hora de vivirla. Me encantaron las campañas de [Siroko](https://bsky.app/profile/asiermarques.com/post/3l52nebxzqr2i) y [Opal](https://bsky.app/profile/asiermarques.com/post/3l52o3lrkyo2w) muy relacionadas con esto que comento.
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:amhkoeg2bycshhu3fvfgzm7p/app.bsky.feed.post/3l52o3lrkyo2w" data-bluesky-cid="bafyreicbpo4l4rp5ng4aeiq2b75cq6m7nqefhhmw6r3wmlvmmnnthzkxdq"><p lang="es">Otro ejemplo<br><br><a href="https://bsky.app/profile/did:plc:amhkoeg2bycshhu3fvfgzm7p/post/3l52o3lrkyo2w?ref_src=embed">[image or embed]</a></p>&mdash; Asier Marqués  (<a href="https://bsky.app/profile/did:plc:amhkoeg2bycshhu3fvfgzm7p?ref_src=embed">@asiermarques.com</a>) <a href="https://bsky.app/profile/did:plc:amhkoeg2bycshhu3fvfgzm7p/post/3l52o3lrkyo2w?ref_src=embed">26 de septiembre de 2024, 14:38</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 Por mi parte, tras 17 años usando Twitter, en septiembre dejé de usar X de forma definitiva. [BlueSky](https://bsky.app/profile/asiermarques.com) está demostrando ser una opción más sana, y la verdad es que me gustaría que empecemos a contar con más servicios, alternativas a Instagram o LinkedIn, implementados sobre [su protocolo](https://atproto.com/). El protocolo AT está diseñado bajo un enfoque que respeta mucho más la interoperabilidad y los estándares abiertos que potenciaron la web como herramienta de conexión.
 
@@ -57,9 +55,9 @@ Aunque tengo cierta rutina de fuerza, uno de mis objetivos para el año que vien
 
 ## La revolución de la IA generativa
 
-> The immediate results of the print revolution included witch hunts and religious wars alongside scientific discoveries, while newspapers and radio were exploited by totalitarian regimes as well as by democracies. As for the Industrial Revolution, adapting to it involved catastrophic experiments such as imperialism and Nazism.
-If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?
-**Yuval Noah Harari, [Nexus](https://www.goodreads.com/work/quotes/211894394)**
+> The immediate results of the print revolution included witch hunts and religious wars alongside scientific discoveries, while newspapers and radio were exploited by totalitarian regimes as well as by democracies. As for the Industrial Revolution, adapting to it involved catastrophic experiments such as imperialism and Nazism.  
+> If the AI revolution leads us to similar kinds of experiments, can we really be certain we will muddle through again?  
+> **Yuval Noah Harari, [Nexus](https://www.goodreads.com/work/quotes/211894394)**
 >
 
 Estoy entusiasmado con los avances que estamos viendo de IA en general y GenAI en particular en los últimos dos años.
