@@ -27,7 +27,7 @@ No estamos hablando únicamente de aplicaciones como X o Instagram. En un contex
 
 Incluso aplicaciones profesionales como Linkedin se empiezan a usar del mismo modo. Sin conocer el contexto interno de la empresa, me aventuro a pensar que las métricas de usuarios activos y objetivos ligados a ellas pueden haber pervertido la visión de producto para llevarles a tomar este tipo de decisiones.
 
-Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están creando adicciones e impactando a la sociedad en niveles mucho más preocupantes. Y todos estamos intoxicados en mayor o menor medida.
+Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están creando también adicciones e impactando a la sociedad a niveles muy preocupantes. Y todos estamos intoxicados en mayor o menor medida.
 
 La sensación de no tener tiempo para nada se acentúa cuando quedamos atrapados en las redes de atención. Los hábitos nos transforman y definen nuestro mundo. En este sentido, gestionar nuestros hábitos de atención creo que literalmente nos da no sólo más tiempo de vida, sino también una claridad distinta a la hora de vivirla. Me encantaron las campañas de [Siroko](https://bsky.app/profile/asiermarques.com/post/3l52nebxzqr2i) y [Opal](https://bsky.app/profile/asiermarques.com/post/3l52o3lrkyo2w) muy relacionadas con esto que comento.
 
