@@ -7,7 +7,7 @@ slug: "/2025/algunas-reflexiones-de-mis-ultimos-doce-meses"
 category: "Diario"
 tags:
   - "Diario"
-description: "Un resumen a modo de reflexión sobre lo vivido y aprendido este 2023."
+description: "Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas."
 ---
 Estos días he estado reflexionando sobre diferentes temas que han ocupado mi mente durante el 2024 y quería compartir por escrito algunas de ellas.
 
