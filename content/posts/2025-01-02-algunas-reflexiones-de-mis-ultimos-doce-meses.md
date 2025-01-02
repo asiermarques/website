@@ -64,37 +64,41 @@ Cada año estoy más convencido de que el deporte es la mejor inversión para af
 
 Estoy entusiasmado con los avances que estamos viendo de IA en general y GenAI en particular en los últimos dos años.
 
-Aunque hay mucho ruido alrededor de la IA, creo que los avances que estamos viendo nos están llevando a un cambio de paradigma, a niveles parecidos a los que se experimentaron como sociedad cuando se introdujeron el ordenador personal e, posteriormente, internet. Sin embargo, creo que dichos cambios sucedieron de una forma más progresiva. Actualmente contamos con muchas herramientas que se benefician directamente e incluso de forma transparente de los avances que estamos viendo, por lo que la barrera de adopción es mucho menor, al igual que lo es la ventana de adaptación.
+Aunque hay mucho ruido en torno a la IA, considero que los avances que estamos presenciando nos están llevando a un cambio de paradigma, comparable al que vivimos como sociedad con la llegada del ordenador personal y, posteriormente, de internet.  
+Sin embargo, creo que aquellos cambios se produjeron de forma más gradual.  
+Herramientas que usamos en el día a día ya se benefician directamente, e incluso de manera transparente, de estos avances. Esto ha reducido significativamente la barrera de adopción, pero también ha acortado el tiempo disponible para adaptarnos.  
 
-[OpenAI surgió como un proyecto Manhattan](https://www.techemails.com/p/elon-musk-and-openai) para obtener avances de la IA nunca antes vistos en un tiempo récord. Herramientas como Copilot ya están integradas en herramientas de ofimática, y ChatGPT ya está 'en las calles', al igual que lo estuvo WhatsApp. Está revolucionando la forma en la que nos comunicamos.
+En el mundo del desarrollo de software, en el momento en que escribo estas líneas, estamos presenciando una clara competencia entre GitHub Copilot y Cursor. 
+Sin embargo, a pesar de lo increíble que puedan parecer estas herramientas y de cómo nos invitan a imaginar el futuro de nuestro sector, creo que estamos en un periodo de transición. Estas herramientas están diseñadas para abordar problemas desde una perspectiva que llevamos utilizando durante más de cuarenta años.   
 
-En el mundo del desarrollo de software, en el momento que escribo estas líneas, estamos viendo una guerra clara entre los GitHub Copilot y Cursor. Sin embargo, a pesar de lo increíble que nos parezcan estas herramientas y nos hagan pensar en el futuro de nuestro sector, creo que estamos en un periodo de transición. Estas herramientas están diseñadas para solventar problemas desde la perspectiva que tenemos desde hace más de cuarenta años para solventar problemas. Si desde hace décadas ya no tenemos necesidad de programar en ensamblador para el 90% de los problemas que debemos solucionar, me pregunto el papel y sentido que tendrá en unos pocos años 'escribir código' tal y cómo lo conocemos actualmente.
-Al fin y al cabo, el código es algo que escribimos para que otro ser humano entienda la intención de nuestra implementación. Tras involucrar actores no humanos y una abstracción mayor, las reglas del juego están cambiado.
+Pero, si desde hace décadas ya no necesitamos programar en ensamblador para resolver el 90% de los problemas, me pregunto cuál será el papel y el sentido de 'escribir código' tal y como lo conocemos hoy en día en un futuro muy cercano.  
 
-En este contexto, también creo que aproximaciones como Product Engineering y áreas transversales como seguridad, auditorías y calidad, van a adquirir mucha más importancia.
+Al fin y al cabo, el código es algo que escribimos para que otro ser humano entienda la intención de nuestra implementación. Sin embargo, con la incorporación de actores no humanos y un mayor nivel de abstracción, las reglas del juego están cambiando.
 
-Fuera del desarrollo de software, la utilidad de estas herramientas es indiscutible. Me parece fundamental asegurar que tenemos buena práctica creando e iterando prompts y, como ingenieros, estar atentos a los avances y conceptos detrás de las plataformas y soluciones disponibles.
+En este contexto, también creo que enfoques como el Product Engineering y áreas transversales como seguridad, auditorías y calidad adquirirán una relevancia aún mayor.
+
+Fuera del desarrollo de software, la utilidad de estas herramientas resulta indiscutible. Considero fundamental desarrollar buena soltura al crear e iterar prompts, y, como ingenieros, mantenernos atentos a los avances y conceptos que sustentan las plataformas y soluciones de IA disponibles.
 
 Hay barreras que no están aún claras y que incluso pueden encerrar debates complejos. Por ejemplo, en 2013 un estudio [mostró que ChatGPT era capaz de dar respuestas percibidas como más empáticas](https://www.forbes.com/sites/robertpearl/2023/08/07/doctors-vs-chatgpt-which-is-more-empathetic/) por un grupo de pacientes que las de humanos profesionales en el campo de la medicina, en más de un 40% a favor de GPT-4.
 
-Actualmente estoy adoptando GPT y evaluando Cursor a nivel personal. Uso ChatGPT diariamente para autodebate, revisión de textos y crear mis planes de autoaprendizaje junto a ejercicios de autoevaluación, entre otras cosas.
+Actualmente, estoy adoptando GPT y evaluando Cursor a nivel personal. Uso ChatGPT a diario para debatir ideas conmigo mismo, revisar mis textos y elaborar planes de aprendizaje con ejercicios que me ayuden a consolidar conocimientos, entre otras cosas.
 
 ## Los presupuestos de formación
 
-Una de mis motivaciones principales para elegir un entorno de trabajo es la capacidad para aprender y crecer en él. Los presupuestos de formación no son la única herramienta para conseguir esto, pero sí soy un defensor de estos como beneficio en las empresas, especialmente, aunque no exclusivamente, para el área de ingeniería.
+Soy un firme defensor de los presupuestos de formación como un beneficio valioso que las empresas pueden ofrecer para retener talento técnico y fomentar una sólida cultura de aprendizaje.  
 
-Hay contextos en los que la empresa no ofrece este beneficio. En mi actual empresa, por ejemplo, no contamos con presupuesto de formación, aunque sí existen suscripciones a alguna plataforma de aprendizaje y dedicamos un viernes al mes a formación. En contextos como este, suelo gestionarlo por mi cuenta, pero soy plenamente consciente de que cada situación personal es distinta y no todo el mundo puede tener la capacidad económica para disponer de un presupuesto personal para formación, independientemente de su salario.
+Hay empresas que aún no ofrecen este beneficio. En mi caso, por ejemplo, mi empresa actual no cuenta con un presupuesto de formación, aunque sí ofrece otros beneficios valiosos, como suscripciones a plataformas de aprendizaje y la dedicación de un viernes al mes a formación.  
+En estos contextos, suelo reservar un presupuesto anual propio para formación, aunque soy plenamente consciente de que las circunstancias personales varían y no todo el mundo tiene la capacidad económica para destinar recursos a su desarrollo profesional, independientemente de su salario.  
 
-En contextos en los que sí he contado con este o incluso he tenido la oportunidad de gestionar o influir en el proceso, en alguna ocasión me ha sorprendido cómo las métricas de uso arrojaban un porcentaje bastante bajo de uso a nivel general. Los managers solíamos orientar a las personas para que hicieran uso de este, guiados a veces por planes de crecimiento o incluso planteando formaciones alineadas con nuestra estrategia de ingeniería.
+En contextos donde sí he contado con este beneficio, e incluso he tenido la oportunidad de influir en su proceso de gestión, me ha sorprendido cómo las métricas reflejaban un porcentaje de uso bastante bajo a nivel general. Los managers solíamos orientar a las personas para que lo aprovecharan, a veces basándonos en planes de crecimiento particulares o proponiendo formaciones alineadas con nuestra estrategia de ingeniería.  
 
-Creo que disponer de un presupuesto de formación tiene un impacto en la retención y en la propia cultura de aprendizaje de la empresa.
+Quizás la popularización de estos beneficios y la falta de una adecuada gestión de los mismos hayan motivado la aparición de actores que considero oportunistas, quienes promueven el uso de estos presupuestos para cubrir costes de entradas a eventos o talleres que serían inaccesibles sin una ayuda económica de este tipo por parte de la empresa.    
 
-Sin embargo, creo que la popularización de estos beneficios ha dado lugar a otros actores a los que considero oportunistas, que animan a usar el presupuesto para cubrir los costes de entradas a eventos o talleres que se cobran a precios no accesibles para todo el mundo.
+No tengo nada en contra de que se cobre el precio que se considere adecuado para una formación o evento, pero me genera bastantes dudas que desde estos eventos o talleres se fomente explícitamente el uso del presupuesto de formación para cubrirlos. Esto me genera desconfianza y me lleva a pensar que sus precios están diseñados en función de la cobertura económica ofrecida por algunas empresas, dejando fuera a profesionales que no cuentan con este tipo de ayudas.  
 
-No tengo nada en contra de cobrar el precio que se considere para una formación o evento, pero me genera bastantes dudas que desde estos eventos o talleres se anime explícitamente a usar el presupuesto de formación para esto. Me genera desconfianza y me hace pensar en que la estrategia de precios pueda estar alineada con los beneficios que hemos tenido hasta ahora en las empresas, dejando fuera a profesionales que no gocen de los mismos.
-
-Creo que, como profesionales, debemos hacernos cargo, y tanto si gestionamos nuestro propio presupuesto como si no, deberíamos seleccionar muy bien qué newsletter nos ofrece suficiente valor por los cien o doscientos euros anuales que nos pide al suscribirnos, qué coste de entrada es razonable al seleccionar un evento, y si tiene sentido que ese curso online que ha estado costando 1000 € durante todo el año de repente pase a costar 200 € en la semana de Black Friday.
-Como consumidores, nosotros marcamos el ritmo, y usar el presupuesto con responsabilidad tiene un impacto mayor del que creemos.
+Creo que, como profesionales, es importante ser responsables en cómo utilizamos nuestros presupuestos de formación.  
+Tanto si gestionamos un presupuesto propio como si contamos con uno ofrecido por nuestra empresa, podemos evaluar si una newsletter realmente aporta valor por los cien o doscientos euros anuales que cueste, si el precio de una entrada de un evento resulta razonable y si tiene sentido que un curso online, que durante todo el año ha costado 1000 €, baje a unos 200 € durante la semana del Black Friday.  
+Como consumidores, tenemos el poder de marcar el ritmo. Usar el presupuesto con responsabilidad puede generar un impacto mucho mayor del que imaginamos.  
 
 ---
 Esto es todo por ahora. Quizás durante el año comparta alguna otra cosa por aquí en lugar de esperar otros doce meses, pero quién sabe :)
