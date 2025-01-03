@@ -28,6 +28,8 @@ Las personas atrapadas en este tipo de redes corren el peligro de cultivar una v
 
 Incluso aplicaciones profesionales como Linkedin se empiezan a enfocar del mismo modo. Sin conocer el contexto interno de la empresa, me aventuro a pensar que las métricas de usuarios activos y objetivos ligados a ellas pueden haber pervertido la visión de producto para llevarles a tomar este tipo de decisiones.
 
+Otras aplicaciones de aprendizaje, como Duolingo, utilizan patrones que van más allá de la persuasión y se acercan [peligrosamente a la manipulación](https://designbuddy.substack.com/p/is-duolingo-unethical). Aunque puedan tener una buena intención al implementar ciertos patrones en su diseño, me pregunto si el fin justifica los medios.
+
 Hace años pensaba que las apuestas eran la heroína de este siglo, pero las redes de atención están alimentando adicciones similares e impactando silenciosamente a la sociedad a una escala masiva. De una forma u otra, todos estamos intoxicados en mayor o menor medida.  
 
 La sensación de no tener tiempo para nada se intensifica cuando quedamos atrapados en las redes de atención. Nuestros hábitos nos transforman y moldean nuestro mundo, ya sea para bien o para mal.  
