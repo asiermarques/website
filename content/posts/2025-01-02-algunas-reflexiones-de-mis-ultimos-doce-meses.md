@@ -104,6 +104,7 @@ No tengo nada en contra de que se cobre el precio que se considere adecuado para
 
 Creo que, como profesionales, es importante ser responsables en cómo utilizamos nuestros presupuestos de formación.  
 Tanto si gestionamos un presupuesto propio como si contamos con uno ofrecido por nuestra empresa, podemos evaluar si una newsletter realmente aporta valor por los cien o doscientos euros anuales que cueste, si el precio de una entrada de un evento resulta razonable y si tiene sentido que un curso online, que durante todo el año ha costado 1000 €, baje a unos 200 € durante la semana del Black Friday.  
+El valor, obviamente, es relativo, pero mi punto es que, al menos, evitemos actuar en piloto automático sólo porque parezca que ese dinero, "no es nuestro".   
 Como consumidores, tenemos el poder de marcar el ritmo. Usar el presupuesto con responsabilidad puede generar un impacto mucho mayor del que imaginamos.  
 
 ---
