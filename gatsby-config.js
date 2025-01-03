@@ -13,7 +13,7 @@ module.exports = {
                   bio: "Asier ha trabajado dirigiendo y gestionado equipos en diferentes empresas del sector tecnológico. Actualmente forma parte del equipo de gestión de ingeniería de BestSecret Group",
                   url: "https://asiermarques.com",
                   links: {
-                      twitter: "https://twitter.com/asiermarques",
+                      twitter: "https://bsky.app/profile/asiermarques.com",
                       linkedin: "https://es.linkedin.com/in/asier",
                       github: "https://github.com/asiermarques",
                       instagram: "https://instagram.com/asiermarques",
