@@ -7,6 +7,7 @@ theme = 'serenity-hugo-theme'
 
 [params]
   description = 'Blog personal y reflexiones sobre gestión de ingeniería de software.'
+  author = 'Asier Marqués'
 
 [menu]
   [[menu.main]]
