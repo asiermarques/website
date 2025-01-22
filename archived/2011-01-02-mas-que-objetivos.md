@@ -3,7 +3,7 @@ date: 2011-01-02 01:14:23+00:00
 layout: post
 slug: /2011/mas-que-objetivos/
 title: Más que objetivos
-template: post
+type: post
 tags:
   - Diario
   - Personal

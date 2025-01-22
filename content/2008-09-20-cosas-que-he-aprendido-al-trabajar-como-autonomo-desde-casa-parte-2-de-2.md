@@ -3,11 +3,11 @@ date: 2008-09-20 00:10:14+00:00
 layout: post
 slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-2-de-2/
 title: Cosas que he aprendido trabajando como autónomo desde casa (parte 2 de 2)
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""
@@ -17,10 +17,9 @@ Esta es la continuación de algo que empecé escribiendo a modo de reflexión pe
 
 [En la primera parte](/2008/09/12/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/) analicé una serie de puntos que he aprendido al trabajar desde casa, en esta segunda parte analizaré cosas que he aprendido trabajando como autónomo.
 
+### \*\*\*\*Trabajar como autónomo
 
-### ****Trabajar como autónomo
-****
-
+---
 
 Antes de nada hay que ser consciente de que, al menos en el campo informático, si quieres ser autónomo para ganar más dinero vas por el peor camino que podías escoger.
 
@@ -61,7 +60,7 @@ Si necesitas oficina, no la compres.. **alquila**. Y si puedes alquilarla con ot
 **Define tus servicios y elige a tus clientes
 **
 
-**Debes fijar desde un principio los servicios que ofreces y los servicios que ****NO ofreces**.
+**Debes fijar desde un principio los servicios que ofreces y los servicios que \*\***NO ofreces\*\*.
 
 Aprender a [decir que no](http://snwop.com/2007/11/23/aprender-a-decir-no/), es algo fundamental y requisito imprescindible para poder ofrecer un servicio de calidad.
 
@@ -75,10 +74,7 @@ Ese tipo de clientes puede acaparar todo tu tiempo sin aportar beneficios, evita
 
 **Si quieres ofrecer servicios en los que no crees que eres tan bueno, tardas demasiado tiempo o no te motivan, externalízalos y trabaja con gente a la que si le resulten interesantes y les motiven.**
 
-
 ![screen-capture-21](https://farm4.static.flickr.com/3082/2871615392_2316a18cb2.jpg)
-
-
 
 **Elige clientes y proyectos que te gusten y apasionen**. Vamos a estar mucho más involucrados y motivados en proyectos con clientes con los que estemos agusto y proyectos que nos resulten interesantes. Quizá ganemos algo menos de dinero, pero si tenemos la oportunidad de investigar y estar más desahogados / cómodos, nos va a merecer la pena.
 

@@ -3,12 +3,12 @@ date: 2008-06-26 00:15:59+00:00
 layout: post
 slug: /2008/gracias-por-estar-cerca/
 title: Gracias por estar cerca
-template: post
+type: post
 tags:
   - Diario
   - Escrituras aleatorias
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Diario
 draft: false
 description: ""

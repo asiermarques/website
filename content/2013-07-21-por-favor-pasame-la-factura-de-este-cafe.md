@@ -1,7 +1,7 @@
 ---
 title: Por favor, pásame la factura de este café
 date: "2013-07-21 12:02:12+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2013/por-favor-pasame-la-factura-de-este-cafe"
 category: "Negocios"

@@ -3,10 +3,10 @@ date: 2011-05-27 23:14:11+00:00
 layout: post
 slug: /2011/la-comodidad-de-no-ser-creativo/
 title: La comodidad de no ser creativo
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""

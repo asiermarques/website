@@ -3,11 +3,11 @@ date: 2009-08-01 14:34:21+00:00
 layout: post
 slug: /2009/sobre-la-incertidumbre/
 title: Sobre la incertidumbre
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""

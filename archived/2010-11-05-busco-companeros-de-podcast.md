@@ -3,7 +3,7 @@ date: 2010-11-05 23:06:23+00:00
 layout: post
 slug: /2010/busco-companeros-de-podcast/
 title: Busco compañeros de podcast
-template: post
+type: post
 tags:
   - Mis Proyectos
   - Personal

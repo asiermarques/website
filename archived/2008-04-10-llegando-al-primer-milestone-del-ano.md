@@ -4,7 +4,7 @@ layout: post
 slug: >
   /2008/llegando-al-primer-milestone-del-ano/
 title: Llegando al primer milestone del año
-template: post
+type: post
 tags:
   - Diario
   - Personal

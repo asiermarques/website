@@ -3,11 +3,11 @@ date: 2012-10-28 16:55:23+00:00
 layout: post
 slug: /2012/socios-tecnologicos/
 title: Socios tecnológicos
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""
@@ -21,9 +21,7 @@ En lo que sí estoy de acuerdo de ese artículo es en lo de aprender y experimen
 
 Al margen de todo esto creo que hay bastante confusión sobre lo que es o no un socio tecnológico y por qué es necesario.
 
-
 ### Si tienes una empresa tecnológica, tu core es la tecnología.
-
 
 Una panadería no necesita un socio con perfil tecnológico, una empresa que se basa en una plataforma cloud sí.
 
@@ -31,9 +29,7 @@ En Internet la competencía es rápida, tremendamente vanguardista, busca llegar
 
 Volviendo al ejemplo de la panadería, podríamos decir que el socio tecnológico para una panadería sería el que dijese qué horno hay que comprar, conoce y tiene relaciones con fabricantes de hornos de confianza que le hacen buen precio, tiene pensadas y preparadas soluciones para cuando el horno fallase o se quedase pequeño o incluso si hubiese que diseñar un horno desde cero, sabría cómo hacerlo y tendría la experiencia para tener en cuenta el coste de mantenimiento del mismo y las posibilidades de escalarlo para que no se quedase pequeño en un futuro. En algunas empresas, el socio tecnológico también se encargaría de la problemática del transporte del pan.
 
-
 ### Un socio tecnológico no es un programador ni un CTO.
-
 
 Normalmente cuando se llega a un acuerdo con un socio tecnológico, sobre todo al comienzo de la actividad comercial de la empresa, este socio (o socios) adquieren la labor de CTO, es decir, Director Técnico.
 
@@ -45,43 +41,18 @@ Y soy algo severo con estos perfiles al llamarlos mediocres, porque si tuvieran 
 
 En empresas pequeñas es cierto que el socio tecnológico debe hacer varias funciones, la mayor parte labores que se asocian al cargo de director técnico, entre las cuales normalmente se encuentran:
 
-
-
-	
-  * Conocer las necesidades tecnológicas concretas en cada momento y a largo plazo de la empresa.
-
-	
-  * Tomar decisiones y negociar partidas de presupuestos en su área.
-
-	
-  * Buscar y seleccionar personal.
-
-	
-  * Buscar, seleccionar proveedores, y negociar con los mismos, en base a los recursos y necesidades de la empresa.
-
-	
-  * Comunicación, organización y seguimiento del trabajo de los proveedores.
-
-	
-  * Reducción de conflictos y problemas que tenga el equipo de desarrollo de la empresa.
-
-	
-  * Organizar junto al gestor de proyectos y el director de producto el trabajo a realizar por el equipo de desarrollo.
-
-	
-  * En caso de problemas, coordinar el trabajo entre proveedores y equipo de desarrollo.
-
-	
-  * Realizar los documentos que los proveedores tecnológicos requieran para evitar pérdida de tiempo y posibles conflictos.
-
-	
-  * Comunicarse de forma frecuente con el director general, el director financiero y el director de operaciones para que la información, el tiempo y el dinero se inviertan adecuadamente en los recursos que hacen que la empresa produzca y se eviten problemas en caso de fallo.
-
-
-
+- Conocer las necesidades tecnológicas concretas en cada momento y a largo plazo de la empresa.
+- Tomar decisiones y negociar partidas de presupuestos en su área.
+- Buscar y seleccionar personal.
+- Buscar, seleccionar proveedores, y negociar con los mismos, en base a los recursos y necesidades de la empresa.
+- Comunicación, organización y seguimiento del trabajo de los proveedores.
+- Reducción de conflictos y problemas que tenga el equipo de desarrollo de la empresa.
+- Organizar junto al gestor de proyectos y el director de producto el trabajo a realizar por el equipo de desarrollo.
+- En caso de problemas, coordinar el trabajo entre proveedores y equipo de desarrollo.
+- Realizar los documentos que los proveedores tecnológicos requieran para evitar pérdida de tiempo y posibles conflictos.
+- Comunicarse de forma frecuente con el director general, el director financiero y el director de operaciones para que la información, el tiempo y el dinero se inviertan adecuadamente en los recursos que hacen que la empresa produzca y se eviten problemas en caso de fallo.
 
 ### En algunos casos un socio tecnológico es necesario incluso teniendo equipo técnico.
-
 
 Hay determinadas situaciones en las que una empresa cuenta con un equipo de desarrollo e incluso un director técnico, pero necesitan un socio tecnológico.
 
@@ -93,9 +64,7 @@ Otras ocasiones la empresa no dispone de equipo tecnológico y no se asocia con 
 
 Yo es el modelo que más defiendo y en el cual tengo experiencia.
 
-
 ### Que un socio tenga perfil tecnológico no significa que sólo tenga experiencia en tecnología.
-
 
 Muchas personas son escépticas a creer que alguien de otro campo profesional o que no tenga cierta formación oficial, pueda saber más que ellos en el campo que ellos aseguran dominar.
 
@@ -103,5 +72,4 @@ Hay empresas o personas, que tienen mucha experiencia en desarrollo de software 
 
 Aprovechar la experiencia de alguien que haya hecho negocios reales y encima sepa tomar decisiones técnicas o ejecutarlas, para mí es crítico para una empresa de Internet.
 
-
-### 
+###

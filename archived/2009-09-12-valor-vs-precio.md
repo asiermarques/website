@@ -3,7 +3,7 @@ date: 2009-09-12 01:18:12+00:00
 layout: post
 slug: /2009/valor-vs-precio/
 title: Valor vs Precio
-template: post
+type: post
 tags:
   - Emprendedores
 category: Negocio

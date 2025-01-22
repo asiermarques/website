@@ -3,12 +3,12 @@ date: 2009-12-08 00:30:03+00:00
 layout: post
 slug: /2009/tu-tu-propio-usuario/
 title: Tú, tu propio usuario
-template: post
+type: post
 tags:
   - Desarrollo Web
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Desarrollo Web
 draft: false
 description: ""

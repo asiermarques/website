@@ -1,7 +1,7 @@
 ---
 title: Cómo he migrado este blog de WordPress a Gatsby
 date: "2019-03-31 14:30:01+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2019/de-wordpress-a-gatsby/"
 category: "Desarrollo"
@@ -28,7 +28,7 @@ Actualmente [tengo el contenido almacenado en GItHub](https://github.com/asierma
 
 ### Qué herramientas estuve barajando
 
-#### Wordpress.com 
+#### Wordpress.com
 
 Inicialmente pensé en no complicarme y exporté todo mi contenido a un archivo xml de WordPress con la intención de importarlo después en el servicio en la nube de WordPress.com.  
 De esta forma me olvidaba de mantener yo el blog en mi hosting y todo lo que esto conlleva. Pero no me convencía que el formato siguiese sin ser Markdown.
@@ -48,15 +48,19 @@ Gatsby se basa en React por lo que también tiene muy buena base y una sólida a
 
 Para migrar, me basé en este genial artículo de [Tania Rascia](https://www.taniarascia.com/migrating-from-wordpress-to-gatsby/) en el que describe su experiencia de migración.  
 Mis pasos fueron los siguientes:
+
 #### 1. Descargar el archivo de exportación de WordPress
+
 Es un xml que puedes descargar desde cualquier WordPress.
 
 #### 2. Correr la utilidad exitwp
+
 [Es un pequeño script escrito en python](https://github.com/thomasf/exitwp) que lee el archivo xml de WordPress y te genera los archivos MarkDown en un directorio de cada post.
 
-La utilidad me encontró algún error de formato de xml a la hora de validar el archivo y tuve que corregirlos a mano.  
+La utilidad me encontró algún error de formato de xml a la hora de validar el archivo y tuve que corregirlos a mano.
 
 #### 3. Limpiar los meta de cada archivo Markdown
+
 Me hice un pequeño script en php que lo que hacía es transformar la meta información que exitwp te genera en cada archivo Markdown.  
 Básicamente era añadir o cambiar campos YAML para que quedase una estructura similar a esta para que Gatsby fuese capaz de indexar cada artículo:
 
@@ -64,7 +68,7 @@ Básicamente era añadir o cambiar campos YAML para que quedase una estructura s
 ---
 title: Cómo he migrado este blog de WordPress a Gatsby
 date: "2019-03-31 14:30:01+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2019/de-wordpress-a-gatsby/"
 category: "Desarrollo"
@@ -76,18 +80,18 @@ description: "Este fin de semana he terminado de migrar este blog a Gatsby desde
 ```
 
 El script era muy sencillo, básicamente lo que hacía era recuperar todos los archivos Markdown generados y por cada uno de ellos:
-* Obtener la meta información en YAML y transformarla de formato YAML a un array de php
-* Modificar los campos necesarios
-* Generar de nuevo el texto YAML en base al nuevo array y sustituir el YAML antiguo por el nuevo
 
+- Obtener la meta información en YAML y transformarla de formato YAML a un array de php
+- Modificar los campos necesarios
+- Generar de nuevo el texto YAML en base al nuevo array y sustituir el YAML antiguo por el nuevo
 
 #### 4. Sustituir las rutas de wp-content/uploads por /media/ en las imágenes
 
 Me negaba a bajarme todo el wp-content/uploads, por lo que me hice otro script en php que por cada archivo:
-* Con una expresión regular obtuviese todas las rutas de imágenes alojadas en wp-content/uploads
-* Se bajaba la imagen y la guardaba en el directorio /static/media de Gatsby
-* Sustituía la ruta de wp-content/[...]/imagen.jpg por /media/imagen.jpg
 
+- Con una expresión regular obtuviese todas las rutas de imágenes alojadas en wp-content/uploads
+- Se bajaba la imagen y la guardaba en el directorio /static/media de Gatsby
+- Sustituía la ruta de wp-content/[...]/imagen.jpg por /media/imagen.jpg
 
 #### 5. Elegir un tema de Gatsby y personalizarlo
 

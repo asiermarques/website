@@ -3,7 +3,7 @@ date: 2009-01-19 00:17:33+00:00
 layout: post
 slug: /2009/semanas-moviditas/
 title: Semanas moviditas
-template: post
+type: post
 tags:
   - Diario
   - Emprendedores

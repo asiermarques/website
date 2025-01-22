@@ -3,11 +3,11 @@ date: 2008-03-14 17:26:30+00:00
 layout: post
 slug: /2008/hacer-un-buen-brainstorming/
 title: Hacer un buen brainstorming
-template: post
+type: post
 tags:
   - Innovación
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Innovación
 draft: false
 description: ""
@@ -30,6 +30,5 @@ Hay algunas técnicas que pueden dar un excelente resultado, cómo la propuesta 
 Por otro lado, en algunas empresas [como Dell](http://ideastorm.com/), se considera el **[crowdsourcing](http://es.wikipedia.org/wiki/Crowdsourcing)** como estrategia **clave para obtener una fuente de ideas**, que posteriormente pueden transformarse en características muy interesantes en sus productos, que el usuario valora y **que dichas empresas nunca podrían haber detectado** con tanta precisión por ellas mismas.
 
 [Alexei Kapterev](http://www.kapterev.com), director de [Real Time Strategy](http://www.realtimestrategy.ru/), hizo una [genial presentación](http://www.slideshare.net/thecroaker/brainstorming-for-fund-and-profit/) a modo de guía en la que se dan una serie de magistrales consejos, para lograr hacer un buen Brainstroming de una forma amena y productiva.
-
 
 [slideshare id=196111&doc=brainstorming-for-fund-and-profit-1197076310239179-4&w=425]

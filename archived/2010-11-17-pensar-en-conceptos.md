@@ -3,10 +3,10 @@ date: 2010-11-17 04:51:16+00:00
 layout: post
 slug: /2010/pensar-en-conceptos/
 title: Pensar en conceptos
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""

@@ -3,11 +3,11 @@ date: 2011-08-03 03:09:53+00:00
 layout: post
 slug: /2011/la-experiencia-starbucks/
 title: La experiencia Starbucks
-template: post
+type: post
 tags:
   - Marketing
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Marketing
 draft: false
 description: ""

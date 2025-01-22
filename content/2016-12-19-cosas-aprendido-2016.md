@@ -1,7 +1,7 @@
 ---
 title: Cosas que he aprendido en 2016
 date: "2016-12-19 14:50:33+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2016/cosas-aprendido-2016/"
 category: "Personal"

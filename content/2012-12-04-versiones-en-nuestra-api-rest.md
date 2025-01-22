@@ -1,7 +1,7 @@
 ---
 title: Versiones en nuestra API REST
 date: "2012-12-04 14:57:51+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2012/versiones-en-nuestra-api-rest/"
 category: "Desarrollo"
@@ -18,9 +18,7 @@ La solución consiste en dar compatibilidad a las versiones anteriores y de algu
 
 Las opciones más habituales para hacer esto serían:
 
-
 #### **Indicar la versión de la API en la URL del recurso.**
-
 
 **https://api.dominio.com/v1/recurso/**
 
@@ -28,9 +26,7 @@ Este sería un ejemplo de URL en la que se indica la versión de la API en la mi
 
 Esta es la opción más aconsejada pero la que a mí personalmente menos me convence ya que los clientes que quisieran estar actualizados a la última versión, deberían modificar las rutas de sus llamadas al servicio constantemente.
 
-
 #### **Indicar como parámetro la versión de la API**
-
 
 **https://api.dominio.com/recurso/?v=1**
 
@@ -38,9 +34,7 @@ Este tipo de opción se usa por ejemplo en la API de YouTube.
 
 Yo personalmente prefiero indicar como parámetros opciones para filtrar o tratar la información del recurso solicitado. Por ejemplo, paginaciones, órdenes, búsquedas, especificar información parcial etc.
 
-
 #### **Indicar como header la versión de la API**
-
 
 **https://api.dominio.com/recurso/ **
 **"API version": 1**

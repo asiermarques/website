@@ -3,7 +3,7 @@ date: 2008-07-24 00:44:04+00:00
 layout: post
 slug: /2008/por-que-me-gusta-escribir-en-mi-sitio-web/
 title: Por qué me gusta escribir en mi sitio web
-template: post
+type: post
 tags:
   - Memes
   - Personal

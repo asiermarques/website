@@ -3,7 +3,7 @@ date: 2012-06-20 23:48:32+00:00
 layout: post
 slug: /2012/historia-de-dos-charlas/
 title: Historia de dos charlas
-template: post
+type: post
 tags:
   - Personal
 category: Personal
@@ -37,25 +37,11 @@ Para los que no lo conocéis, deSymfony es una comunidad que está compuesta por
 
 Sin embargo, esa presentación no fue mal e incluso a la gente le gustó. Hablaré más en detalle del deSymfony en otro post, pero antes quería hacer una reflexión sobre los puntos que voy a respetar para mis siguientes charlas a partir de ahora:
 
-
-
-	
-  * **Dormir**. En BilboStack no dormí la noche anterior. Este fue creo el principal motivo que me llevo a hacerlo tan mal.
-
-	
-  * **No tomar café antes de la charla.** Yo soy muy nervioso y a pesar de ello, me gusta el café. Aunque ahora tomo menos que antes, me encanta y lo necesito para currar, pero tomarlo antes de una charla no fue buena idea. Además cuando tengo sueño acumulado, mi memoria a corto plazo se ve afectada si lo tomo.
-
-	
-  * **Ensayar en voz alta.** Este fallo lo he cometido en más ponencias. Repasar las slides mentalmente no sirve para nada. Cuando realmente te das cuenta de las trabas que tienes al comunicar lo que tienes en la cabeza es al hablar, aunque no haya nadie escuchándote. Esto es clave y cuanto más lo hagas más seguridad transmites independientemente de cuanta gente esté escuchando o los fallos técnicos que ocurran.
-
-	
-  * **Ensayar con publico antes de la charla.** Días antes de mi charla, dí una parecida en webdevbilbao. Eso me ayudó a recoger feedback y ver qué partes de mi charla eran más interesantes.
-
-	
-  * **No meterte en demasiadas cosas.** Como dueño de un negocio y socio en otro, la semana que dí la charla de BilboStack estaba hasta arriba de trabajo y tenía un montón de preocupaciones y cosas pendientes en la cabeza. Es inevitable, hasta cierto punto.
-
-	
-  * **Ser breve. **Las mejores historias están en los comentarios de la gente al escucharlas.
-
+- **Dormir**. En BilboStack no dormí la noche anterior. Este fue creo el principal motivo que me llevo a hacerlo tan mal.
+- **No tomar café antes de la charla.** Yo soy muy nervioso y a pesar de ello, me gusta el café. Aunque ahora tomo menos que antes, me encanta y lo necesito para currar, pero tomarlo antes de una charla no fue buena idea. Además cuando tengo sueño acumulado, mi memoria a corto plazo se ve afectada si lo tomo.
+- **Ensayar en voz alta.** Este fallo lo he cometido en más ponencias. Repasar las slides mentalmente no sirve para nada. Cuando realmente te das cuenta de las trabas que tienes al comunicar lo que tienes en la cabeza es al hablar, aunque no haya nadie escuchándote. Esto es clave y cuanto más lo hagas más seguridad transmites independientemente de cuanta gente esté escuchando o los fallos técnicos que ocurran.
+- **Ensayar con publico antes de la charla.** Días antes de mi charla, dí una parecida en webdevbilbao. Eso me ayudó a recoger feedback y ver qué partes de mi charla eran más interesantes.
+- **No meterte en demasiadas cosas.** Como dueño de un negocio y socio en otro, la semana que dí la charla de BilboStack estaba hasta arriba de trabajo y tenía un montón de preocupaciones y cosas pendientes en la cabeza. Es inevitable, hasta cierto punto.
+- **Ser breve. **Las mejores historias están en los comentarios de la gente al escucharlas.
 
 Muchas gracias si estuviste en alguna de las dos ponencias, espero que esos minutos que estuviste escuchando fuesen de valor para ti.

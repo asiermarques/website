@@ -2,7 +2,7 @@
 
 title: "Culturas de ingeniería: madurez de nuestra cultura"
 date: "2019-12-05 19:07:01+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2019/culturas-ingenieria-3/"
 category: "Gestión"
@@ -17,11 +17,12 @@ Es interesante saber reconocerlos y poner los medios para ir creciendo todos jun
 ---
 
 Esta es la tercera entrada de una serie de artículos sobre culturas de ingeniería.
-* [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
-* [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
-* **3. Madurez de nuestra cultura**
-* [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
-* [5. Comunicación y documentación](/2020/culturas-ingenieria-5/)
+
+- [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
+- [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
+- **3. Madurez de nuestra cultura**
+- [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
+- [5. Comunicación y documentación](/2020/culturas-ingenieria-5/)
 
 En este artículo vamos a ver diferentes estados de madurez en los que puede estar una cultura de tecnología.
 
@@ -36,7 +37,7 @@ El peor escenario posible es una cultura de supervivencia. Cuando trabajamos en 
 
 ![](/media/fine.gif)
 
-En este tipo de entornos la rotación de personal suele ser muy alta y la ausencia de documentación unida a la presión de fechas, hace que surjan ciertos perfiles que hagan el papel de héroes, los llamados desarrolladores 10x o [el perfil paracetamol del que ya escribí por aquí](https://asiermarques.com/2018/el-perfil-paracetamol/).   
+En este tipo de entornos la rotación de personal suele ser muy alta y la ausencia de documentación unida a la presión de fechas, hace que surjan ciertos perfiles que hagan el papel de héroes, los llamados desarrolladores 10x o [el perfil paracetamol del que ya escribí por aquí](https://asiermarques.com/2018/el-perfil-paracetamol/).  
 El mentoring básicamente se basa en un "quita que ya lo hago yo".
 
 Suele ser habitual que los equipos tengan cambios constantes de foco. Los proyectos se retrasan pero no se frena la nueva entrada de trabajo. La presión se hace muy fuerte y la sensación que los equipos perciben es la de estar en un constante periodo en el que todas las entregas sufren retrasos.
@@ -55,7 +56,7 @@ Todo este panorama unido al estrés al que todas las personas del equipo están 
 Si esta persona no soluciona el problema de forma urgente, se la apartará con toda seguridad para que el paracetamol o héroe de turno solucione la papeleta sin tener tiempo de explicar o documentar lo que ha hecho para arreglar el problema.  
 Esto hará que la persona no tenga la oportunidad de aprender de sus errores y simplemente cargue con la culpa sin que nadie aprenda nada valioso en el proceso.
 
-En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero. 
+En un contexto así, nadie quiere arriesgarse a cometer un error o liderar un cambio que le pueda "enmarronar" a él o a un compañero.
 
 En algunas empresas tienen muy interiorizada esta forma de trabajar y normalmente acabaremos cansados de escuchar la siguiente frase para rechazar cualquier tipo de cambio:
 
@@ -66,7 +67,7 @@ En algunas empresas tienen muy interiorizada esta forma de trabajar y normalment
 ### Cómo salir de esta situación
 
 Esta es sin duda la peor situación de partida. El esfuerzo de cambiar una cultura de este tipo puede llegar a ser titánico y probablemente no dependa únicamente de nosotros solos.  
-Aquí hay un requisito importante: la dirección de la empresa debe estar alineada con el cambio y asumir ciertas inversiones que hacen falta para poder cambiar las cosas.  
+Aquí hay un requisito importante: la dirección de la empresa debe estar alineada con el cambio y asumir ciertas inversiones que hacen falta para poder cambiar las cosas.
 
 Los siguientes puntos son temas por los que empezar a trabajar. No pretendo que esto sirva de lección ya que cada contexto es un mundo muy particular.  
 Este estado es el peor en el que puedes trabajar como manager y cualquiera que haya pasado por este tipo de cambio debería contar con nuestro más profundo respeto.
@@ -74,9 +75,9 @@ Este estado es el peor en el que puedes trabajar como manager y cualquiera que h
 **Introducir control y métricas**  
 Si existe un contexto en el que tenga sentido la micro-gestión, es este. La introducción de decisiones y control del estado/progreso es fundamental pero tenemos que tener claro que esto es una medida a corto plazo mientras introducimos procesos que nos vayan permitiendo delegar ese control.
 
-En estas situaciones suele ser increible la cantidad de cosas que no funcionan bien sólo porque nadie se atreve a tomar una decisión, por muy obvio que sea el camino. 
+En estas situaciones suele ser increible la cantidad de cosas que no funcionan bien sólo porque nadie se atreve a tomar una decisión, por muy obvio que sea el camino.
 
-Además de control, es clave introducir métricas. Si no tenemos métricas no sabremos realmente si los cambios que hacemos tienen un impacto positivo o negativo y guiaremos nuestras decisiones mediante meras sensaciones. 
+Además de control, es clave introducir métricas. Si no tenemos métricas no sabremos realmente si los cambios que hacemos tienen un impacto positivo o negativo y guiaremos nuestras decisiones mediante meras sensaciones.
 
 **Priorizar**  
 Tenemos que renunciar a ejecutar cosas de forma inmediata y sin criterio, a aprender a jugar bien con el tiempo. Si todo es urgente nada lo es.  
@@ -103,7 +104,7 @@ Cuanto más tiempo ganemos y lo invirtamos en que los equipos se formen y automa
 Debemos velar por que ese tiempo se dedique a aprendizaje y no a asumir más tareas de clientes o relacionadas con milestones de proyectos. Esto es de vital importancia. Por ello, esta estrategia debe ir acompañada de una buena priorización, mencionada en el punto anterior.
 
 **Evitar los silos de conocimiento**  
-En este escenario, los silos de conocimiento son muy habituales y nos impactan mucho. Cuando personas que han adquirido el conocimiento a través de trabajar en ciertos proyectos o resolviendo problemas relacionados con deuda técnica sin documentar se van de la empresa, tenemos un problema.  
+En este escenario, los silos de conocimiento son muy habituales y nos impactan mucho. Cuando personas que han adquirido el conocimiento a través de trabajar en ciertos proyectos o resolviendo problemas relacionados con deuda técnica sin documentar se van de la empresa, tenemos un problema.
 
 En este contexto, lo ideal es detectar quiénes son los que tienen el conocimiento y establecer dinámicas para que distribuyan su conocimiento al resto de equipos.  
 Una técnica importante y que podemos establecer de forma inmediata es introducir Pair-Programming en los proyectos.
@@ -129,13 +130,13 @@ Junto a la **contratación de los perfiles correctos y alineados con este estado
 
 Poco a poco los manager empiezan a delegar la toma de ciertas decisiones en el equipo. Si se viene de un estado de supervivencia, los miembros de los equipos estarán esperando que les digas exactamente qué deben hacer, cómo y en qué orden.
 
-Aunque probablemente siga siendo necesario un rol que priorice el trabajo, los equipos empiezan a tomar la responsabilidad de organizarse. Dependiendo de los perfiles con los que cuentan los equipos, este cambio no va a ser de la noche a la mañana y es responsabilidad del manager guiar y hacer un seguimiento pero sin estar tan encima con en una cultura de supervivencia. 
+Aunque probablemente siga siendo necesario un rol que priorice el trabajo, los equipos empiezan a tomar la responsabilidad de organizarse. Dependiendo de los perfiles con los que cuentan los equipos, este cambio no va a ser de la noche a la mañana y es responsabilidad del manager guiar y hacer un seguimiento pero sin estar tan encima con en una cultura de supervivencia.
 
 El objetivo es reducir la dependencia para que los equipos vayan auto-organizándose por sí mismos.
 
 ### Cultura blameless y error-friendly
 
-En este punto los equipos empiezan a asumir riesgos controlados y no se centran en echar la culpa al responsable cuando dicha persona ha cometido un error. 
+En este punto los equipos empiezan a asumir riesgos controlados y no se centran en echar la culpa al responsable cuando dicha persona ha cometido un error.
 
 Cuando nos centramos en culpar, simplificamos en exceso y esto nos impide ver el origen real de un problema o un error lo que terminará por hacer que, con toda seguridad, se vuelva a repetir.
 
@@ -147,13 +148,13 @@ Técnicas como postmortems, retrospectivas y otras formas de analizar el origen 
 
 Los equipos y no sólo los manager hablan con un lenguaje de compromiso, es decir, en lugar de comunicar un mensaje como "necesitaríamos hacer esto antes del año que viene" el mensaje suena más a un plan "nuestro objetivo es tener esto para principios de Diciembre".
 
-Pero no se llega al otro extremo tampoco. Por ejemplo, en lugar de decir que algo se subirá a producción el 6 de Diciembre a las 12:00, se dirá que se subirá a principios de Diciembre. 
+Pero no se llega al otro extremo tampoco. Por ejemplo, en lugar de decir que algo se subirá a producción el 6 de Diciembre a las 12:00, se dirá que se subirá a principios de Diciembre.
 
 En lugar de deadlines se habla de milestones y de retos.
 
 Siempre hay excepciones en las que se requiera un nivel alto de precisión, pero deberíamos cuestionarnos si la necesidad de esta no está fundada por otro tipo de problemas más profundos a nivel de comunicación y de organización.
 
-El objetivo es que el equipo piense en adquirir compromisos por ellos mismos, sin miedo a errar en la precisión ni en comunicar una fecha que puede no gustar a stakeholders que no tengan en  cuenta la dificultad o recursos a la hora de haber creado una estimación o expectativa errónea.
+El objetivo es que el equipo piense en adquirir compromisos por ellos mismos, sin miedo a errar en la precisión ni en comunicar una fecha que puede no gustar a stakeholders que no tengan en cuenta la dificultad o recursos a la hora de haber creado una estimación o expectativa errónea.
 
 ### Los equipos disponen de capacidad para solucionar sus problemas
 
@@ -161,7 +162,7 @@ En este estado los manager facilitan las herramientas para que los equipos empie
 
 Esta fase es un reto para aquellos manager que han estado en modo supervivencia muchos años y al igual que otros miembros del equipos, seguramente requieran de cierto mentoring para adaptarse.
 
-Idealmente, cuando los equipos aprender a auto-organizarse, es interesante dar la capacidad de establecer retos en los 1:1 que puedan cumplirse en un tiempo dedicado a ello, fuera de los objetivos del día a día, para que las personas refuercen esas capacidades en un espacio seguro en el que el fallo no impacte en otros.  
+Idealmente, cuando los equipos aprender a auto-organizarse, es interesante dar la capacidad de establecer retos en los 1:1 que puedan cumplirse en un tiempo dedicado a ello, fuera de los objetivos del día a día, para que las personas refuercen esas capacidades en un espacio seguro en el que el fallo no impacte en otros.
 
 Este tipo de iniciativas son importantes para llegar al estado óptimo en una cultura, que es una auto-organización real de los equipos.
 
@@ -177,7 +178,7 @@ El estado de los proyectos es visible de forma centralizada y todo el mundo tien
 
 También se conoce lo que va a llegar con suficiente antelación para haber madurado soluciones y detectado problemas antes de empezar.
 
-El trabajo de los managers se centra en aportar herramientas para que los equipos cada vez sean más independientes, haya procesos claros en los que el trabajo se reparta óptimamente, las personas crezcan en la empresa y dispongan de todo lo necesario para entregar trabajo de la forma más eficiente y saludable. 
+El trabajo de los managers se centra en aportar herramientas para que los equipos cada vez sean más independientes, haya procesos claros en los que el trabajo se reparta óptimamente, las personas crezcan en la empresa y dispongan de todo lo necesario para entregar trabajo de la forma más eficiente y saludable.
 
 Sigue habiendo retos y problemas a solucionar —nunca se llega a la perfección— pero la mejora continua es el pilar central en este estado.
 

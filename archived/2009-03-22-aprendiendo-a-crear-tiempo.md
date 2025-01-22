@@ -3,11 +3,11 @@ date: 2009-03-22 21:07:40+00:00
 layout: post
 slug: /2009/aprendiendo-a-crear-tiempo/
 title: Aprendiendo a crear tiempo
-template: post
+type: post
 tags:
   - Diario
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Diario
 draft: false
 description: ""

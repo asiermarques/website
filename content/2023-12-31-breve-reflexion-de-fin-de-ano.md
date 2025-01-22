@@ -1,16 +1,13 @@
 ---
 title: "Breve reflexión de fin de año"
 date: "2023-12-31 19:00:01+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2023/breve-reflexion-de-fin-de-ano/"
-category: "Diario"
-tags:
-  - "Diario"
 description: "Un resumen a modo de reflexión sobre lo vivido y aprendido este 2023."
 ---
 
-He sacado un rato para reflexionar sobre las cosas que he hecho y aprendido durante este año que termina; 
+He sacado un rato para reflexionar sobre las cosas que he hecho y aprendido durante este año que termina;
 esta será una breve entrada con lo más relevante que venga a mi mente mientras la escribo.
 
 ### Cambio de mochila
@@ -21,19 +18,19 @@ Actualmente estoy trabajando en el equipo de gestión de ingeniería de [BestSec
 
 Es una empresa que existe desde hace más de cien años como una comunidad privada de venta de artículos de moda, principalmente ropa.
 
-En este tiempo he sido testigo de la madurez de sus equipos de ingeniería y de producto y estoy muy contento en esta etapa. 
+En este tiempo he sido testigo de la madurez de sus equipos de ingeniería y de producto y estoy muy contento en esta etapa.
 
 Me gusta la sensación de volver a vivir ciertas cosas otra vez pero en un contexto muy distinto. Trabajamos totalmente en remoto y esto me permite trabajar con personas de diferentes nacionalidades ubicadas en Alemania, Suiza, Grecia y España principalmente y de las que puedo aprender muchísimo; esto cada día me gusta más.
 
 ### Un descanso de tres meses
 
-Entre la salida de Auctane y el onboarding en BestSecret me tomé tres meses. Afortunadamente tenía la capacidad de tomarme medio año o incluso un año entero, pero creo que para mi es imposible estar inactivo tanto tiempo.  
+Entre la salida de Auctane y el onboarding en BestSecret me tomé tres meses. Afortunadamente tenía la capacidad de tomarme medio año o incluso un año entero, pero creo que para mi es imposible estar inactivo tanto tiempo.
 
 De hecho, mientras hacía entrevistas durante el primer mes y medio, obtuve la certificación de Sr. Product Manager en Product School y me hice el curso de product analytics avanzado en Escuela Escribano.
 
 ### Escribir y escribir un libro
 
-Uno de los objetivos que llevo arrastrando desde el 2020 es escribir un libro y no lo he logrado. Siempre he deseado la oportunidad de disponer de un mes libre para escribir un libro. He dispuesto de tres y no lo he conseguido. 
+Uno de los objetivos que llevo arrastrando desde el 2020 es escribir un libro y no lo he logrado. Siempre he deseado la oportunidad de disponer de un mes libre para escribir un libro. He dispuesto de tres y no lo he conseguido.
 
 Al igual que ocurre con otras cosas, creo que escribir funciona bien cuando es un hábito. Yo no he tenido éxito en conseguir afianzar un hábito de escritura y creo que es una de las razones por las que mi cadencia de escritura ha bajado notablemente en los últimos años con respecto a años anteriores.
 
@@ -62,6 +59,6 @@ He aprendido algunas cosas. Algunas las resumo en estos puntos con cierto desord
 - Sé consciente de lo que te quita tiempo y por qué. Sé consciente de las recompensas que buscas sin pensar.
 - No confundas personas que te aportan con personas que te validan.
 
-*** 
+---
 
 Esto es todo por ahora, feliz año nuevo; nos leemos pronto.

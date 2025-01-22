@@ -3,7 +3,7 @@ date: 2011-01-23 19:45:29+00:00
 layout: post
 slug: /2011/el-pornografo-emprendedor/
 title: El pornógrafo emprendedor
-template: post
+type: post
 tags:
   - Emprendedores
   - Libros

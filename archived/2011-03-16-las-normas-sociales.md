@@ -3,7 +3,7 @@ date: 2011-03-16 13:55:29+00:00
 layout: post
 slug: /2011/las-normas-sociales/
 title: Las normas sociales
-template: post
+type: post
 tags:
   - Internet
   - Marketing

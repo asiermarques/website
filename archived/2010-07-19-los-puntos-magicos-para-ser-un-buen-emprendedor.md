@@ -3,11 +3,11 @@ date: 2010-07-19 23:32:22+00:00
 layout: post
 slug: /2010/los-puntos-magicos-para-ser-un-buen-emprendedor/
 title: Los puntos mágicos para ser un buen emprendedor
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""
@@ -23,7 +23,7 @@ Y llega el momento de empezar si realmente vamos en serio con el proyecto. Es ah
 
 **Olvídate de medias tintas **
 
-Esta frase es genial como consejo sino fuera porque es una de las cosas más peligrosas que le puedes decir a alguien que está empezando. 
+Esta frase es genial como consejo sino fuera porque es una de las cosas más peligrosas que le puedes decir a alguien que está empezando.
 
 En ese momento esa persona, si es la primera vez que toma la iniciativa, no sabe a qué va a enfrentarse y no sabe los recursos económicos o alianzas que necesita para aguantar durante los primeros meses (o años) de su aventura.
 
@@ -86,6 +86,3 @@ Nadie va a pagar a una persona por verle meter horas en una oficina, le pagarán
 Si es divertido, pero muy duro (en serio, muy muy duro). Nunca me he sentido tan vivo como en los dos últimos años pero, hay que tener mucho cuidado para no perder el norte y saber en todo momento lo que quieres y lo que no, para quien quieres trabajar y para quién no, en lo que quieres o puedes trabajar y en lo que no y con quién quieres trabajar y con quién no.
 
 No esperes un mundo de oficinas llenas de puffs donde todo es alegría y buen rollo, simplemente porque emprender mola. Buen rollo lo hay (y puffs también en algunos casos), pero depende mucho de quién lidere el proyecto y de su capacidad para soportar los palos manteniendo su serenidad y haciendo que ese buen rollo sea, ante todo, el principal objetivo de la empresa junto a la prosperidad económica de la misma.
-
-
-

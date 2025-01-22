@@ -3,7 +3,7 @@ date: 2009-12-24 16:03:05+00:00
 layout: post
 slug: /2009/mis-objetivos-para-este-2010/
 title: Mis objetivos para este 2010
-template: post
+type: post
 tags:
   - Diario
   - Personal

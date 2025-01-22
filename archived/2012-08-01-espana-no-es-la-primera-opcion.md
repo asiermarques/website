@@ -3,10 +3,10 @@ date: 2012-08-01 23:05:44+00:00
 layout: post
 slug: /2012/espana-no-es-la-primera-opcion/
 title: España no es la primera opción
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""

@@ -1,9 +1,9 @@
 ---
 date: 2010-11-09 01:41:01+00:00
 layout: post
-slug:  /2010/wifi-en-amilo-m7440-con-ubuntu10-10/
+slug: /2010/wifi-en-amilo-m7440-con-ubuntu10-10/
 title: Wifi en Amilo M7440 con Ubuntu10.10
-template: post
+type: post
 tags:
   - Sistemas
   - Trucos

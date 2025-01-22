@@ -1,7 +1,7 @@
 ---
 title: Simettric
 date: "2011-11-21 20:06:45+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2011/simettric/"
 category: "Personal"

@@ -1,7 +1,7 @@
 ---
 title: Cierra los ojos
 date: "2011-03-05 00:45:52+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2011/cierra-los-ojos/"
 category: "Personal"

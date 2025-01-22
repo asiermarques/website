@@ -3,10 +3,10 @@ date: 2011-04-22 18:23:02+00:00
 layout: post
 slug: /2011/tecnologia-corporativa/
 title: Tecnología corporativa
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""

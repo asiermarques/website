@@ -1,7 +1,7 @@
 ---
 title: Cambio de mochila
 date: "2018-04-22 16:08:31+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2018/cambio-de-mochila/"
 category: "Personal"
@@ -37,20 +37,6 @@ Sin embargo también veo más postureo de buenrollismo y charlas orientadas a cu
 
 Y en este sentido, esperamos también aportar desde [elComité](http://elcomite.net) nuestro granito de arena. Desde hace un año estamos trabajando en este sentido y nos gusta también hacerlo en compañía de otras comunidades, fuera incluso de Euskadi.
 
-De momento, esto es todo. Llevaba tiempo sin escribir en el blog, en parte por la duda de si este tipo de entradas aportan valor. 
+De momento, esto es todo. Llevaba tiempo sin escribir en el blog, en parte por la duda de si este tipo de entradas aportan valor.
 
 Todo feedback es bienvenido :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -3,11 +3,11 @@ date: 2010-12-22 01:37:46+00:00
 layout: post
 slug: /2010/el-lado-no-tecnico/
 title: El lado no técnico
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""

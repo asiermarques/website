@@ -1,7 +1,7 @@
 ---
 title: "Sobre mí"
 template: "page"
-slug: /es/sobre-mi/
+slug: /sobre-mi/
 ---
 
 Mi nombre es **Asier**, soy de [Barakaldo](http://maps.google.es/maps?q=Barakaldo&hl=es&ie=UTF8&ll=43.2932,-2.988281&spn=11.992083,15.578613&t=h&z=6&iwloc=addr&om=1) (País Vasco, España), y resido de forma habitual en Madrid.
@@ -19,22 +19,20 @@ En Octubre de 2011 fundo **[Simettric](http://simettric.com)**, una agencia de 
 
 En Febrero de 2012 me uno al equipo de dirección de 4Visions Gestió de Projectes, SL, empresa en la que desarrollamos soluciones de software online para freelances y agencias del sector de la traducción, [4visionshq.com](http://4visionshq.com).
 
-En 2018 trabajé como responsable en el área de arquitectura de software en el [Grupo Versia](https://www.versia.com/). 
+En 2018 trabajé como responsable en el área de arquitectura de software en el [Grupo Versia](https://www.versia.com/).
 
-Me apasiona también la música, además de buscar continuamente grupos, artistas y temas, [practico el arte de la mezcla](https://www.mixcloud.com/asiermarques) de música electrónica desde 1997. 
+Me apasiona también la música, además de buscar continuamente grupos, artistas y temas, [practico el arte de la mezcla](https://www.mixcloud.com/asiermarques) de música electrónica desde 1997.
 
 Puedes leer [mi currículum en este enlace](https://es.linkedin.com/in/asier).
 
 Y puedes encontrarme por:
- 	
-  1. Email: asiermarques@gmail.com
-  
-  2. Twitter: [twitter.com/asiermarques](https://twitter.com/asiermarques)
-  
-  3. Linkedin: [linkedin.com/in/asier](https://www.linkedin.com/in/asier)
 
-  4. Instagram: [instagram.com/asiermarques](https://instagram.com/asiermarques)
+1. Email: asiermarques@gmail.com
 
-  5. Artículos en inglés en Medium: [asiermarques.medium.com](https://asiermarques.medium.com)
+2. Twitter: [twitter.com/asiermarques](https://twitter.com/asiermarques)
 
+3. Linkedin: [linkedin.com/in/asier](https://www.linkedin.com/in/asier)
 
+4. Instagram: [instagram.com/asiermarques](https://instagram.com/asiermarques)
+
+5. Artículos en inglés en Medium: [asiermarques.medium.com](https://asiermarques.medium.com)

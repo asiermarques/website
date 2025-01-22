@@ -3,10 +3,10 @@ date: 2010-07-19 16:39:42+00:00
 layout: post
 slug: /2010/el-miedo-a-perder/
 title: El miedo a perder
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""
@@ -14,7 +14,6 @@ description: ""
 
 <blockquote>No hace falta conocer el peligro para tener miedo; de hecho, los peligros desconocidos son los que inspiran más temor.
 [Alejandro Dumas](http://es.wikipedia.org/wiki/Alexandre_Dumas_(padre))</blockquote>
-
 
 Nos encontramos diariamente con personas que temen a cosas de todo tipo pero que, en algunos casos, son increíblemente valientes dando consejos.
 

@@ -1,7 +1,7 @@
 ---
 title: La importancia del copy, más allá del SEO
 date: "2012-03-21 03:15:24+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2012/la-importancia-del-copy-mas-alla-del-seo/"
 category: "Producto"
@@ -19,7 +19,7 @@ Sin embargo en los sitios web, especialmente en los sitios web de venta de produ
 
 Todo esto que parece obvio, encierra todo un mundo de posibilidades que influyen directamente en el diseño del sitio web y sobre todo la base de su organización: [la arquitectura de la información](http://es.wikipedia.org/wiki/Arquitectura_de_la_informaci%C3%B3n).
 
-Un diseñador web a quién respeto un montón, [Goio](http://es.linkedin.com/in/goiotelletxea) de [La Personnalité](http://lapersonnalite.com/), señalaba en el blog de esa agencia [una reflexión](http://lapersonnalite.com/el-copy-como-dise%c3%b1ador/) que defendía cómo y por qué a un diseñador se le debe facilitar un buen trabajo de contenido y de **[copy](http://en.wikipedia.org/wiki/Copy_(written)) **para que pueda realizar su trabajo de forma óptima.
+Un diseñador web a quién respeto un montón, [Goio](http://es.linkedin.com/in/goiotelletxea) de [La Personnalité](http://lapersonnalite.com/), señalaba en el blog de esa agencia [una reflexión](http://lapersonnalite.com/el-copy-como-dise%c3%b1ador/) que defendía cómo y por qué a un diseñador se le debe facilitar un buen trabajo de contenido y de **[copy](<http://en.wikipedia.org/wiki/Copy_(written)>) **para que pueda realizar su trabajo de forma óptima.
 
 Hay muy buenos profesionales copy en España, pero sinceramente creo que el hacer tú los textos y pensar en cómo enfocarlos, sobre todo en algo tan crítico hoy en día como es el sitio web de tu negocio (o tu sitio web personal), es un ejercicio muy didáctico acerca del propio producto que vendes, la forma en la que lo vendes y en general la estrategia de comunicación que vas a seguir con respecto a todo esto.
 

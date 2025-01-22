@@ -3,7 +3,7 @@ date: 2007-09-09 23:46:06+00:00
 layout: post
 slug: /2007/diario-10-de-septiembre/
 title: Diario, 10 de Septiembre del 2007
-template: post
+type: post
 tags:
   - Diario
   - Personal
@@ -20,17 +20,14 @@ También ando barajando (aunque prácticamente está ya decidido) la idea de irm
 
 Los que me conocen saben que continuamente ando investigando y desarrollando proyectos para internet o relacionados con el tema. Hace algo así como dos años, unos cuantos compañeros y yo nos embarcamos en una iniciativa llamada dreamsOnline, y que no acabó en muy buen puerto. A pesar del resultado, aprendimos <strike>mucho</strike> bastante acerca de lo que significa intentar montar un negocio y a algunos, se nos quedó la espina clavada de terminar el trabajo empezado.
 
-Es precisamente esa espina la que me está motivando para desarrollar, con apoyo de gente con la que es un placer trabajar y disponen de valiosa experiencia en éstos temas,  un par de proyectos muy interesantes que espero que vean la luz muy pronto.
+Es precisamente esa espina la que me está motivando para desarrollar, con apoyo de gente con la que es un placer trabajar y disponen de valiosa experiencia en éstos temas, un par de proyectos muy interesantes que espero que vean la luz muy pronto.
 
 He decidido también, volcarme en mis estudios (sobre todo en los referentes a mi carrera) y pausar de momento la preparación del último examen que me falta para obtener el [MCSA de Microsoft](http://www.microsoft.com/spain/formacion/mcp/mcsa/default.mspx). El motivo es mi intención de ampliar mi formación fuera del área exclusivamente técnica, que desde mi punto de vista me estaba limitando y encerrando en una dinámica que no acababa de ver adecuada para la carrera profesional que deseo seguir.
 
 Con respecto a mis lecturas, tras acabar de leer los libros [Diario de una ninfómana](http://casadellibro.com/fichas/fichabiblio/0,,2900000967939,00.html?codigo=2900000967939&nombre=DIARIO%20DE%20UNA%20NINFOMANA) (he de decir que el título le va muy bien) y [El arte de la guerra](http://www.amazon.com/El-Arte-Guerra-Samuel-Griffith/dp/3822856525/ref=pd_bbs_2/002-7135026-8451205?ie=UTF8&s=books&qid=1189381011&sr=8-2) de [Sun Tzu](http://es.wikipedia.org/wiki/Sun_Tzu)... tengo encargados, dos libros de [Anthony Blake](http://www.anthonyblake.com/) ([Tu poder mental](http://casadellibro.com/fichas/fichabiblio/0,,2900001027306,00.html?codigo=2900001027306&nombre=TU%20PODER%20MENTAL) y [Tu poder intuitivo](http://casadellibro.com/fichas/fichabiblio/0,,2900000766169,00.html?codigo=2900000766169&nombre=TU%20PODER%20INTUITIVO%3A%20TECNICAS%20Y%20EJERCICIOS%20PARA%20DESPERTAR%20TU%20SEXTO%20SENTIDO)), un mentalista que me encanta y alucino con sus trucos que siempre termina con la frase....
 
-
 #### Recuerden: Todo lo que han visto ha sido producto de su imaginación...
-no le den más vueltas, no tiene sentido. 
 
-
-
+no le den más vueltas, no tiene sentido.
 
 [youtube ldV08WOYU-c]

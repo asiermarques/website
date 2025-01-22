@@ -3,11 +3,11 @@ date: 2008-12-11 21:38:28+00:00
 layout: post
 slug: /2008/hosting-10-para-la-web-20/
 title: Hosting 1.0 para la web 2.0
-template: post
+type: post
 tags:
   - Desarrollo Web
   - Internet
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Desarrollo Web
 draft: false
 description: ""

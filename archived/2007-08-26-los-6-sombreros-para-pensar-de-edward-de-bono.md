@@ -6,11 +6,11 @@ slug: >
 title: >
   Los 6 sombreros para pensar de Edward de
   Bono
-template: post
+type: post
 tags:
   - Diario
   - Libros
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Diario
 draft: false
 description: ""

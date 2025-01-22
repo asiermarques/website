@@ -1,7 +1,7 @@
 ---
 title: No contar tus metas
 date: "2013-07-14 20:39:30+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2013/no-contar-tus-metas/"
 category: "Personal"
@@ -22,5 +22,3 @@ En mi caso puede que no termine de ejecutar algo por los siguientes motivos: me 
 La ejecución de una idea no se percibe bien cuando no se ejecuta a corto plazo, aún cuando sea imposible ejecutarla de forma adecuada en un periodo corto de tiempo. Psicológicamente y a nivel de negocio, también es un problema no ejecutar rápido, de ahí la importancia de planear buenos [MVP](http://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo).
 
 Hasta ahora, sólo le había dado importancia al guardar en secreto los proyectos de mis clientes y no me preocupaba exponer abiertamente los míos a pesar de que alguien pudiese criticarme por no terminarlos. Sin embargo, la siguiente charla me ha roto un poco los esquemas y he estado pensando en que puede ser buena idea aceptar el consejo.
-
-

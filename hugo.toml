@@ -1,26 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Asier Marqués'
 
 # Theme configuration
 theme = 'serenity-hugo-theme'
 
-# Theme-specific configuration
 [params]
-  description = "My personal website"
-  header_title = "My New Hugo Site"
-  header_subtitle = "Welcome to my website"
-  footer_text = "Built with Hugo and Serenity theme"
-
+  description = 'Blog personal y reflexiones sobre gestión de ingeniería de software.'
 
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "Artículos"
     url = "/"
     weight = 1
   [[menu.main]]
     identifier = "about"
-    name = "About"
-    url = "/pages/about/"
+    name = "Sobre mí"
+    url = "/info/sobre-mi/"
     weight = 2
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 3

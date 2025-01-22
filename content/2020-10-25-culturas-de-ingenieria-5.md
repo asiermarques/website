@@ -2,7 +2,7 @@
 
 title: "Culturas de ingeniería: comunicación y documentación"
 date: "2020-10-25 16:07:01+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2020/culturas-ingenieria-5/"
 category: "Gestión"
@@ -22,13 +22,14 @@ Una buena comunicación tiene un impacto directo en la cultura de nuestra organi
 ---
 
 Esta es la quinta y última entrada de una serie de artículos sobre culturas de ingeniería.
-* [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
-* [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
-* [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
-* [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
-* **5. Comunicación y documentación**
 
-***
+- [1. De qué hablamos cuando hablamos de cultura](https://asiermarques.com/2019/culturas-ingenieria-1/)
+- [2. Por dónde empezar](/2019/culturas-ingenieria-2/)
+- [3. Madurez de nuestra cultura](/2019/culturas-ingenieria-3/)
+- [4. Cultura de feedback](/2020/culturas-ingenieria-4/)
+- **5. Comunicación y documentación**
+
+---
 
 Cuando pensamos en las cualidades que debe tener un rol o cualquier persona para considerarse un buen profesional, la comunicación seguro que está entre las primeras.
 
@@ -40,19 +41,19 @@ En este artículo voy a repasar con vosotros aquellos aspectos que me parecen cr
 
 Un aspecto fundamental que a menudo viene a nuestras mentes cuando pensamos en qué es comunicar bien es la oratoria. Cuidar el tono, ser elocuente y tener la capacidad de improvisar mensajes complejos con un ritmo y emoción adecuados.
 
-La oratoria es una gran aptitud que a menudo se confunde con buena comunicación. 
+La oratoria es una gran aptitud que a menudo se confunde con buena comunicación.
 
 La oratoria brinda muchas oportunidades a la hora de influenciar a las personas ya que es un arma muy poderosa para convencer, sobre todo durante las primeras interacciones con otros.  
-Las personas que cuentan con una buena oratoria y buena comunicación tienen un impacto increíble en una organización y en la cultura. 
+Las personas que cuentan con una buena oratoria y buena comunicación tienen un impacto increíble en una organización y en la cultura.
 
 Sin embargo, gozar de buena oratoria sin pulir otros aspectos comunicativos puede tener un impacto negativo en la confianza a medio y largo plazo.  
 En cuanto aparezcan de forma frecuente los problemas derivados de la falta de buenas prácticas en cuanto a comunicación se refiere, empezaremos a notar que las cosas no van bien.  
 Hablaremos de algunas de estas prácticas a lo largo de este artículo.
 
 > "Candor is the key to collaborating effectively. Lack of candor leads to dysfunctional environments."  
-—Edwin Catmull
+> —Edwin Catmull
 
-La transparencia y claridad son otros aspectos que nos vienen a la mente cuando pensamos en una buena comunicación. 
+La transparencia y claridad son otros aspectos que nos vienen a la mente cuando pensamos en una buena comunicación.
 
 Estos son aún más importantes cuando necesitamos comunicar en una situación complicada o solucionar problemas importantes dentro de nuestra organización: conflictos en los equipos, un problema de rendimiento de una persona, necesidades para que una persona crezca o transmitir feedback sobre aspectos que dificultan nuestro trabajo o que nos acarreen frustraciones que puedan derivar en plantearnos dejar la empresa por motivos que podrían haber sido fácilmente solucionables.
 
@@ -70,7 +71,7 @@ Especialmente en roles relacionados con la gestión de personas y equipos, escuc
 Incluso cuando la persona que nos hable no tenga razón o esté desencaminada totalmente en lo que dice, es importante escuchar todo lo que necesita decirnos porque puede darnos pistas de problemas que ni siquiera puedan estar relacionados a priori con lo que se está hablando.
 
 > "Sometimes creating a culture of listening is simply a matter of managing meetings the right way."  
-—Kim Scott. [Radical Candor](https://www.amazon.es/Radical-Candor-Kickass-Without-Humanity/dp/1250103509)
+> —Kim Scott. [Radical Candor](https://www.amazon.es/Radical-Candor-Kickass-Without-Humanity/dp/1250103509)
 
 Una cultura sana tiene mucho de buena comunicación y sobre todo, escuchar todo lo que cada persona de la empresa tiene que decir.  
 Al final, hemos contratado profesionales también para escuchar sus aportaciones ¿no?
@@ -102,7 +103,7 @@ Las consecuencias de fallar en una comunicación de este tipo son muy graves, en
 - Crear o hacer más patente una cultura de "ellos contra nosotros", provocando conflictos entre departamentos o equipos.
 
 Aunque es importante el disagree and commit, cada uno de nosotros debemos valorar si las decisiones empiezan a traspasar barreras éticas o que entran en conflicto con nuestros valores e integridad.  
-En este punto, antes de provocar problemas como los que hemos visto, debemos plantearnos si es sano continuar en una cultura o empresa en la que no encajamos a esos niveles. 
+En este punto, antes de provocar problemas como los que hemos visto, debemos plantearnos si es sano continuar en una cultura o empresa en la que no encajamos a esos niveles.
 
 Hay mucho sobre lo que leer sobre este tema, os recomiendo especialmente [este artículo de Cedric Chin sobre el tema](https://managementforstartups.com/articles/the-hard-thing-about-disagree-and-commit/).
 
@@ -110,7 +111,7 @@ Hay mucho sobre lo que leer sobre este tema, os recomiendo especialmente [este a
 
 Normalmente cuando necesitamos comunicar algo que afecta a varias personas o equipos, el mensaje sufre un periodo de maduración durante el cual puede sufrir cambios.
 
-Dependiendo del contexto, naturaleza del mensaje o los propios receptores, comunicar un mensaje que está a medias o no totalmente hablado por todas las personas a las que les afecta, puede generar conflictos, desconfianza o decisiones precipitadas. 
+Dependiendo del contexto, naturaleza del mensaje o los propios receptores, comunicar un mensaje que está a medias o no totalmente hablado por todas las personas a las que les afecta, puede generar conflictos, desconfianza o decisiones precipitadas.
 
 Es muy frecuente escuchar cosas como "se ha escuchado X en una conversación de pasillo", "estamos trabajando en esta propuesta pero parece que Y ya ha tomado una decisión".  
 Este tipo de rumores ocasionados por comunicaciones inexactas o no coordinadas son un problema grave que impacta en la cultura y en muchos contextos se asumen como algo "normal".
@@ -126,7 +127,7 @@ Este es un aspecto clave y hay [herramientas que nos pueden ayudar a planificar 
 Algo muy peligroso a la hora de gestionar la comunicación es asumir que hay cosas que no son necesarias de comunicar, porque son de sentido común.  
 Y una de las cosas en las que podemos fallar muy fácilmente es en la comunicación de las expectativas.
 
-Comunicar las expectativas que tenemos con las personas que entran en nuestro equipo y también con los roles que van a interactuar no sólo con equipos sino con otros departamentos es clave para asegurar un buen rendimiento y la autonomía, aspectos claves para tener una buena cultura.  
+Comunicar las expectativas que tenemos con las personas que entran en nuestro equipo y también con los roles que van a interactuar no sólo con equipos sino con otros departamentos es clave para asegurar un buen rendimiento y la autonomía, aspectos claves para tener una buena cultura.
 
 A veces nos puede ocurrir que esperamos cosas muy concretas de una persona o un rol y no terminamos de comunicarlas de forma clara, esto puede generar sesgos muy fácilmente cuando la otra parte ni siguiera ha tenido la oportunidad para demostrar que es capaz de hacer lo que se le pide porque simplemente no es consciente de que lo que se le está pidiendo.
 
@@ -140,39 +141,39 @@ Si hay algo en lo que no debemos relajarnos a la hora de asegurar una buena comu
 En su libro [Domain-Driven design: tackling the complexity in the hearth of software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215), Eric Evans escribió:
 
 > On a project without a common language, developers have to translate for domain experts.  
-Domain experts translate between developers and still other domain experts.  
+> Domain experts translate between developers and still other domain experts.
 
->Developers even translate for each other.  
-Translation muddles model concepts, which leads to destructive refactoring of code.  
+> Developers even translate for each other.  
+> Translation muddles model concepts, which leads to destructive refactoring of code.
 
->The indirectness of communication conceals the formation of schisms —different team members use terms differently but don’t realize it.  
-This leads to unreliable software that doesn’t fit together.  
+> The indirectness of communication conceals the formation of schisms —different team members use terms differently but don’t realize it.  
+> This leads to unreliable software that doesn’t fit together.
 
->**The effort of translation prevents the interplay of knowledge and ideas that lead to deep model insights.**
+> **The effort of translation prevents the interplay of knowledge and ideas that lead to deep model insights.**
 
 DDD nos ha mostrado una parte estratégica que podemos utilizar no sólo para construir software de una forma más efectiva, sino también para detectar formas de distribuir el trabajo reduciendo los problemas de comunicación y la carga cognitiva que pueden sufrir los ingenieros de software al lidiar con la complejidad.
 
 Uno de los principales orígenes de esa complejidad suele darse a la hora de entender los diferentes conceptos críticos en nuestro negocio. Y como la ley de Conway bien expresa, estos problemas de comunicación se unen a otros que impactan directamente en la arquitectura de nuestros sistemas y plataformas:
 
 > "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."  
-—Melvin E. Conway
+> —Melvin E. Conway
 
 Como parte de la gestión de la comunicación y la organización de nuestros equipos para evitar problemas de alineamiento entre ellos, un glosario común es una herramienta fundamental cara a entender los conceptos de la misma forma.
 
-Cuanto más común sea el ejercicio de aclarar estos conceptos y modelar basándonos en ellos, más problemas de comunicación nos ahorraremos en el día a día contribuyan a aumentar la complejidad en nuestros sistemas. 
+Cuanto más común sea el ejercicio de aclarar estos conceptos y modelar basándonos en ellos, más problemas de comunicación nos ahorraremos en el día a día contribuyan a aumentar la complejidad en nuestros sistemas.
 
-En esta línea, es importante también asegurar que las definiciones y entendimiento de conceptos que usamos en nuestro día a día estén alineados con el entendimiento de la comunidad fuera de nuestra empresa.   
+En esta línea, es importante también asegurar que las definiciones y entendimiento de conceptos que usamos en nuestro día a día estén alineados con el entendimiento de la comunidad fuera de nuestra empresa.  
 Por ejemplo, si empleamos el término "retrospectiva" como una dinámica que nada tiene que ver con cómo se conoce fuera de nuestra empresa estamos dificultando a que nuevos miembros que se incorporen a nuestros equipos conozcan nuestro contexto y por otro lado, vamos a tener problemas de gestión de expectativas en los equipos.
 
 Un último punto que quería añadir tiene su origen en una conversación que tuve hace tiempo con un amigo. Comentábamos sobre la típica frase que solemos utilizar, generalmente con la intención de dejar claro que en nuestros equipos no queremos héroes: "en nuestros equipos nadie puede ser imprescindible".  
-Generalmente todos conocemos el contexto y el por qué de comentar esto, pero debemos plantearnos cómo puede llegar a entenderse por alguien que no venga de una cultura similar a la nuestra: "¿significa eso que entonces todos somos prescindibles? Y si soy prescindible, ¿realmente les importo algo al resto de los compañeros que repiten ese mantra?".  
+Generalmente todos conocemos el contexto y el por qué de comentar esto, pero debemos plantearnos cómo puede llegar a entenderse por alguien que no venga de una cultura similar a la nuestra: "¿significa eso que entonces todos somos prescindibles? Y si soy prescindible, ¿realmente les importo algo al resto de los compañeros que repiten ese mantra?".
 
 Aunque nuestra intención sea buena, a veces debemos plantearnos si estamos dejando claro qué queremos conseguir con un concepto y si todo el mundo lo entiende de la misma forma.
 
 ## Cultura de documentación
 
 > “If it is not written down, it does not exist.”  
-—Philippe Kruchten
+> —Philippe Kruchten
 
 Cuando pensamos en documentación asumimos que nos estamos refiriendo a una parte concreta en un proceso dedicada a reflejar aspectos que consideramos importantes para otros compañeros.
 
@@ -186,7 +187,7 @@ Una buena cultura de documentación persigue estos beneficios:
 
 Normalmente el primer remedio que nos encontramos cuando pensamos en cómo poder encontrar fácilmente (findability) la información que hemos ido registrando a lo largo de los años es una herramienta que conocemos bastante bien: el buscador.
 
-Los buscadores suelen ser la bala de plata en la que confiamos para asegurar que la información va a encontrarse cuando alguien la busca. 
+Los buscadores suelen ser la bala de plata en la que confiamos para asegurar que la información va a encontrarse cuando alguien la busca.
 
 Sin embargo, para encontrar algo, la persona debe saber qué debe buscar y también utilizar correctamente los patrones semánticos que le permitan tener un mayor éxito en su búsqueda.
 

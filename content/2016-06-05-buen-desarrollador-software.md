@@ -1,7 +1,7 @@
 ---
 title: El buen desarrollador de software
 date: "2016-06-05 21:56:19+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2016/buen-desarrollador-software/"
 category: "Desarrollo"
@@ -22,9 +22,7 @@ Por otro lado debo decir que, algunas de las cosas "malas" que destaco en este t
 
 Por lo tanto es una visión muy personal de nuestro mundo y no pretendo tener la razón absoluta. Los comentarios siempre se agradecen.
 
-
 #### No tener una actitud de gilipollas
-
 
 Somos unos privilegiados al dedicarnos a desarrollar software en estos momentos. Podemos asegurar que no hay paro en nuestro sector y que siendo inquietos, actualizándonos y currándonoslo un poco podemos trabajar desde prácticamente cualquier sitio del planeta (siempre que tengamos visado y conexión a Internet).
 
@@ -34,9 +32,7 @@ Pero este privilegio no nos da derecho a comportarnos como cretinos. Chantajeand
 
 Dominar el framework javascript de moda no te da derecho a ir por la vida con la actitud de un [House](http://www.imdb.com/title/tt0412142/) desarrollador de software. House era un payaso pero al menos salvaba vidas (en la ficción).
 
-
 #### Mejor un trabajador responsable que un ninja
-
 
 Puedes cambiar el término "ninja" por lo que desees, incluidas siglas de certificaciones oficiales.
 
@@ -50,9 +46,7 @@ Al final lo que se desea es tener en tu equipo gente con la que puedas contar. P
 
 Lo que sí hace falta son profesionales responsables que acaben el trabajo de forma correcta y sin tonterías.
 
-
 #### Comunicación
-
 
 La comunicación es otro valor clave.
 
@@ -74,9 +68,7 @@ Creo que tanto si eres el que argumenta estando o no equivocado como si eres el 
 
 Y aunque en ese momento no lo veamos, sin duda quedará en nuestra mente y será un recurso muy valioso cuando toque darse cuenta de nuestro error.
 
-
 #### Pragmatismo VS curriculum oriented development
-
 
 No es "sexy" (y madre mía con lo de "sexy" para hablar de frameworks y lenguajes...) desarrollar una API REST en php y mysql, teniendo Go, lenguajes como Erlang y OTP que existen desde los 80 pero que las hemos descubierto hace cuatro años o bases de datos como MongoDB que "escalan", "son rápidas" (porque sí y ya está) y que las usan en esa empresa que tiene un "CEOfounder" de 24 años.
 
@@ -94,14 +86,9 @@ No necesitamos añadir coste al cliente de mantenimiento de sistemas o coste ext
 
 Y por último: el pasar de frameworks, ORMs y complicar el mantenimiento por trucos de rendimiento cuando no tienes este tipo de problemas, personalmente me parece condenar al proyecto a tener que reescribirse en un futuro por la cantidad de esfuerzo que puede suponer hacer cambios mínimos y el terror también de subirlos a producción.
 
-
 #### Trabajando por cuenta ajena y las ofertas de trabajo
 
-
-
-
 <blockquote>_"El águila con talento esconde sus garras"_</blockquote>
-
 
 Muchas veces me quedo atónito al escuchar las experiencias que han tenido empresarios con su equipo técnico en ciudades como Madrid, Londres o San Francisco.
 
@@ -125,9 +112,7 @@ Al mundo real le dan igual las pataletas y la gente realmente competente habla p
 
 Los programadores que realmente pueden elegir dónde trabajar lo hacen sin montar espectáculos. Si no les interesa lo que se oferta, se van a otro sitio sin montar un drama.
 
-
 #### Todo lo demás
-
 
 Y en último lugar es importante todo lo demás. Escribir buen software, mejorar como desarrollador día a día, mejorar nuestro nivel de inglés para comunicarnos y aprender de otros desarrolladores, aplicar calidad y entrega continua, autoformarnos en nuevas herramientas para que con criterio, las podamos utilizar cuando sea el momento y contexto adecuado.
 

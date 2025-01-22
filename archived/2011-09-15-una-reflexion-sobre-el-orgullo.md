@@ -3,11 +3,11 @@ date: 2011-09-15 21:50:35+00:00
 layout: post
 slug: /2011/una-reflexion-sobre-el-orgullo/
 title: Una reflexión sobre el orgullo
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""

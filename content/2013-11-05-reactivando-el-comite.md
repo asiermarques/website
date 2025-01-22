@@ -1,7 +1,7 @@
 ---
 title: Reactivando El Comité para mejorar el mercado de Internet en Bilbao
 date: "2013-11-05 20:10:19+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2013/reactivando-el-comite"
 category: "Eventos"
@@ -63,9 +63,7 @@ Para eventos puntuales también hemos recibido la ayuda de la Universidad de De
 
 Parece que es muy difícil para el ayuntamiento Bilbao facilitar sitio para este tipo de iniciativas sin pasar por caja de 19:00 a 22:00 entre semana o los sábados de 9:00 a 15:00.
 
-
 ### Viraje
-
 
 Los problemas anteriores resultaron ser a veces muy cansinos, se sumaban a otros problemas con los que tenia que lidiar día a día más prioritarios de aquellos que tienen un negocio o un trabajo en una empresa que trabaja para clientes en varias zonas horarias.
 
@@ -97,9 +95,7 @@ Funcionan mejor los eventos surgidos de forma puntual y natural, sin crearlos s�
 
 Irónicamente, gracias a todas las iniciativas que hacemos conseguimos más oferta y variada que la que ofreceríamos con un único evento mensual.
 
-
 ### Iniciativas activas que hemos creado
-
 
 [Bilbostack](http://bilbostack.com)
 Evento anual de una mañana de sábado en Bilbao que reúne las temáticas más punteras y a los programadores de más alto nivel en torno al desarrollo para Internet en Bilbao. Lo hacemos en la universidad de Deusto, con un aforo limitado normalmente a 250 personas, normalmente acuden sobre 200.
@@ -119,9 +115,7 @@ Hemos hecho una edición en Febrero y estamos intentando cerrar otra este mes.
 [#Beermité](https://twitter.com/search?q=%23beermite)
 Eventos esporádicos que se organizan vía Twitter para pasar tardes haciendo networking o charlando sobre tecnología acompañados de unas buenas cervezas. Podemos quedar dos o veinte como nos ha pasado en alguna ocasión y siempre resultan interesantes.
 
-
 ### Conclusiones
-
 
 Mi conclusión siempre es positiva, aunque finalmente sólo acudamos cuatro personas a estos eventos siempre sirven para algo si la gente que va es interesante y realmente lo es.
 

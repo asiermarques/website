@@ -3,12 +3,12 @@ date: 2010-08-04 04:22:18+00:00
 layout: post
 slug: /2010/soluciones-a-corto-plazo/
 title: Soluciones a corto plazo
-template: post
+type: post
 tags:
   - Emprendedores
   - Negocios
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Emprendedores
 draft: false
 description: ""
@@ -16,7 +16,6 @@ description: ""
 
 <blockquote>"Siempre hay un plan"
 Hannibal Smith ([El equipo A](http://es.partigi.com/peliculas/el-equipo-a), 2010)</blockquote>
-
 
 Cuando nos enfrentamos a la incertidumbre, tomar soluciones a corto plazo de forma precipitada puede hacer que olvidemos el resto de estrategias a plazos algo más largos que teníamos pensadas y que en algunas ocasiones teníamos bastante avanzadas, por un intento más rápido de obtener la tranquilidad de tener todo asegurado.
 

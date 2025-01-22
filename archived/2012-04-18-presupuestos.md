@@ -3,7 +3,7 @@ date: 2012-04-18 19:35:56+00:00
 layout: post
 slug: /2012/presupuestos/
 title: Presupuestos
-template: post
+type: post
 tags:
   - Marketing
   - Personal
@@ -37,7 +37,6 @@ Me ha llamado la atención este update en twitter de [Marcos Labad](http://www.l
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="es" dir="ltr">&quot;Quiero para ya un presupuesto para hacer edificio, que sea alto&quot;. Cada vez veo más peticiones así aplicadas a software, en pleno sXXI</p>&mdash; Marcos Labad (@esmiz) <a href="https://twitter.com/esmiz/status/192561969461604352?ref_src=twsrc%5Etfw">18 April 2012</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 Esta es la razón por la que he empezado a ofrecer mi servicio de diseño de producto en [Simettric](http://simettric.com). Presupuestar o desarrollar un sitio web o un software sin tener claro al detalle qué es lo que se quiere, priorizado y detallado está abocado al fracaso.
 

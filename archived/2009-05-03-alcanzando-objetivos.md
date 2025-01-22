@@ -3,7 +3,7 @@ date: 2009-05-03 19:05:10+00:00
 layout: post
 slug: /2009/alcanzando-objetivos/
 title: Alcanzando objetivos
-template: post
+type: post
 tags:
   - Diario
   - Personal

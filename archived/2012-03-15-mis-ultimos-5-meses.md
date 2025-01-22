@@ -3,7 +3,7 @@ date: 2012-03-15 13:53:54+00:00
 layout: post
 slug: /2012/mis-ultimos-5-meses/
 title: Mis últimos 5 meses
-template: post
+type: post
 tags:
   - Diario
   - Personal
@@ -14,9 +14,7 @@ description: ""
 
 Como sabéis los que me conocéis o leéis este blog, en Octubre dí [el paso de tomar un camino distinto](/2011/11/21/simettric/) que necesitaba tomar tanto a nivel personal como profesional.
 
-
 ![](/media//rioja-e1331819571641.jpeg)
-
 
 Mi idea era crear un negocio acorde con mi visión personal de cómo tenía que ser una agencia de desarrollo, partía de cero y a contrareloj ya que los costes mensuales, y trimestrales, en España de ser autónomo ahora mismo ahogan a alguien que crea una empresa desde cero exactamente igual que a alguien que ya lleva años funcionando.
 

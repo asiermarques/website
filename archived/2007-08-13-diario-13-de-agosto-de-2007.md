@@ -3,7 +3,7 @@ date: 2007-08-13 23:35:50+00:00
 layout: post
 slug: /2007/diario-13-de-agosto-de-2007/
 title: Diario 13 de Agosto de 2007
-template: post
+type: post
 tags:
   - Diario
   - Personal
@@ -28,17 +28,14 @@ Y precisamente ese sentimiento de vuelta al cole!!! "volver a la rutina" me ha h
 
 La primera de ellas y que me propongo hacer con frecuencia, es ir a correr a la playa todos los días (que pueda). Es algo que me encanta y que últimamente lo dejaba aparcado para programar o hacer algo de frikismo extremo.
 
-
 ![](https://lh6.google.com/asiermarques/Rer-kJy3DJI/AAAAAAAAAHc/yjphZ4nPl2s/s400/x1prBCtpy9yqToT8Ens17fqhnxYWI9I2uZNId3lYEswZuLJ95nCzdTKEeXvfvwluqj9GpQ7kd1GalnDtNQz0mpRrY3SqgMai9Fd9nRT7iXyTnUT9nY3vvjM8g.jpeg)
-
-
 
 El resultado de haberme decidido hoy a ir (de 20:30 a 22:00) ha sido muy positivo ya que ha roto con la rutina de Lunes que me esperaba aquí, motivándome para llegar a casa y seguir con las demás cosas y proyectos que tenía aparcados.
 
 Otro factor que me ha hecho decidirme a implementar realizar estos ajustes en mi vida, es un cambio que ha tenido lugar en mi trabajo. No puedo dar más detalles, entre otras cosas porque hasta el 1 de Septiembre no los sabré ni yo, pero solo puedo decir que es lo suficientemente fuerte y, desde mi punto de vista positivo, que ha hecho que pueda demostrarme a mí mismo que las cosas pueden tener otros colores y otras formas.
 
 Otro ajuste que he realizado en mi rutina es empezar a leer en mis ratos libres (normalmente cuando [uso el metro](http://www.metrobilbao.net/cas/home.jsp) o necesito separarme físicamente del monitor) acerca de unos de mis temas favoritos y que más me apasionan, [el sexo](http://es.wikipedia.org/wiki/Relaciones_sexuales).
-Normalmente en el metro suelo leer algún libro relacionado con marketing, [literatura para emprendedores](http://richdadclubes.wikispaces.com/Literatura+Emprendedora) o similares... (en otro post  - para no extenderme demasiado en éste - explicaré el por qué me interesan esos temas), ahora he tomado la decisión de ampliar mis temas de lectura a **Frikismo Técnico / Negocios / Sexo** (el orden **no** es prioritario, aunque para alguno seguro que si lo es xD)
+Normalmente en el metro suelo leer algún libro relacionado con marketing, [literatura para emprendedores](http://richdadclubes.wikispaces.com/Literatura+Emprendedora) o similares... (en otro post - para no extenderme demasiado en éste - explicaré el por qué me interesan esos temas), ahora he tomado la decisión de ampliar mis temas de lectura a **Frikismo Técnico / Negocios / Sexo** (el orden **no** es prioritario, aunque para alguno seguro que si lo es xD)
 
 Para empezar he comprado esta mañana el primer libro de [Valérie Tasso](http://es.wikipedia.org/wiki/Valerie_Tasso), "Diario de una Ninfómana". Tiene la pegatina de [best seller](http://es.wikipedia.org/wiki/Superventas) en la portada, ya comentaré que me ha parecido. Mi primo me recomendó el libro "El otro lado del sexo" también de esa autora, pero he decidido no hacerle ni caso (:P) y empezar por el primero de [sus libros](http://www.valerietasso.com/obra/index.php).
 

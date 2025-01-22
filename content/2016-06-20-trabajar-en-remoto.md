@@ -1,7 +1,7 @@
 ---
 title: Trabajar en remoto
 date: "2016-06-20 00:28:16+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2016/trabajar-en-remoto/"
 category: "Proyectos"
@@ -36,9 +36,7 @@ Pero la realidad es que lejos de trabajar solos, tenemos un ecosistema virtual 
 
 Voy a centrarme en explicar mi punto de vista sobre algunas de las cosas que más me suelen preguntar sobre este tema y después os presentaré un proyecto en el que hemos estado trabajando [Diego Rodriguez](http://twitter.com/arketipo) y yo en las últimas semanas con el objetivo de que si quieres, puedas **trabajar en una ciudad distinta cada día**.
 
-
 ### Herramientas
-
 
 Creo que nunca hemos tenido tantas opciones y herramientas que faciliten la comunicación entre los miembros de un equipo. Tenemos Slack, Trello, Evernote, Basecamp, Telegram y un largo etcétera de opciones con app móvil multiplataforma y mensajería IM. Incluso tenemos teléfono.
 
@@ -46,9 +44,7 @@ Pero el problema no está en la herramienta, sino en la comunicación. Existiend
 
 Dicho esto, personalmente prefiero Evernote o Slack junto a Skype o appear.in, pero hay miles de opciones más.
 
-
 ### Comunicación
-
 
 Es clave que la gente con la que trabajes sepa comunicar bien, tanto por escrito como por audio. Esto también incluye clientes y proveedores.
 
@@ -56,31 +52,14 @@ La comunicación es algo caro en dinero, en tiempo y a veces, también en salud.
 
 Para mí comunicar bien se puede resumir en lo siguientes:
 
-
-
- 	
-  * No mentir
-
- 	
-  * Si hay algún problema, necesitas ayuda o hay algo que no sabes hacer, decirlo cuanto antes.
-
- 	
-  * Si utilizas la ironía o eres "gracioso", tener en cuenta la cultura del receptor, que puede no estar acostumbrado a tus bromas. Especialmente si no le estás viendo la cara.
-
- 	
-  * Si no se entiende algo, preguntar, aunque sea quinientas veces.
-
- 	
-  * No divagar e ir al grano cuando se está discutiendo algo en concreto.
-
- 	
-  * Y lo más importante, no guardar silencio durante días por verse saturado.
-
-
-
+- No mentir
+- Si hay algún problema, necesitas ayuda o hay algo que no sabes hacer, decirlo cuanto antes.
+- Si utilizas la ironía o eres "gracioso", tener en cuenta la cultura del receptor, que puede no estar acostumbrado a tus bromas. Especialmente si no le estás viendo la cara.
+- Si no se entiende algo, preguntar, aunque sea quinientas veces.
+- No divagar e ir al grano cuando se está discutiendo algo en concreto.
+- Y lo más importante, no guardar silencio durante días por verse saturado.
 
 ### Sensación de avance
-
 
 Este es el punto en el que más insisto cuando trabajo con más gente en remoto, y va muy unido al tema de la comunicación.
 
@@ -94,9 +73,7 @@ En algunas ocasiones, no es posible reunirse cada día, pero sí que veo crític
 
 Aunque trabajemos en remoto, también es importante verse en persona cada cierto tiempo. Por muy acostumbrado que estés trabajando solo, nada te carga más las pilas y te da la sensación de estar realmente en un equipo que el ver físicamente a las personas con las que trabajas día a día. No solo para firmar en una notaría cosas o discutir sobre cómo implementar una funcionalidad, sino también para recordar batallitas compartiendo unas cervezas.
 
-
 ### Horarios
-
 
 Realmente esto es lo que menos me preocupa cuando trabajo con más gente en remoto.
 
@@ -106,9 +83,7 @@ Como nota personal y aunque sea tentador, si que recomiendo no trabajar de noche
 
 Cuando tengo que realizar labores que me exijan foco o creatividad como por ejemplo programar o diseñar, he aprendido que es mejor tener horarios para responder mensajes de email, llamadas o de mensajería y respetarlos rigurosamente antes que quedarse toda una noche programando.
 
-
 ### Lugares y personas
-
 
 Yo no soy nómada. Aunque me suelo mover bastante, por lo general suelo estar trabajando y viviendo de continuo en una ciudad determinada y luego cambio al cabo de un par de años. Me gusta esta libertad y seguramente en algún punto de mi vida decida quedarme en una ciudad ya "para siempre".
 
@@ -122,9 +97,7 @@ Personalmente este cambio de contexto me carga mucho las pilas, ya que no solo c
 
 Esta experiencia es un tipo de [workation](http://www.urbandictionary.com/define.php?term=Workation) forzada y fiel a la definición del término, suele ser muy productiva tanto a nivel de trabajo como a nivel personal.
 
-
 ### Por qué hemos creado [rentmydesk.com](http://rentmydesk.com/)
-
 
 Tanto Diego como yo creemos que herramientas tipo linkedin cojean en la parte de conectar realmente a las personas en el mundo real y esto es algo muy importante en RentMyDesk.
 

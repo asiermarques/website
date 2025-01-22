@@ -3,7 +3,7 @@ date: 2008-09-12 17:07:14+00:00
 layout: post
 slug: /2008/cosas-que-he-aprendido-al-trabajar-como-autonomo-desde-casa-parte-1-de-2/
 title: Cosas que he aprendido trabajando como autónomo desde casa (parte 1 de 2)
-template: post
+type: post
 tags:
   - Emprendedores
 category: Emprendedores
@@ -19,15 +19,11 @@ En la segunda parte hablaré de las cosas que he aprendido estando como autónom
 
 Los consejos que doy, están dirigidos para mí mismo el primero.
 
-
 ### **Trabajar desde casa**
-
 
 Para empezar hay que ser consciente de que **trabajar en casa no es ningún chollo** y dependiendo de cómo seas, pueden ser mayores los inconvenientes que las ventajas que conlleva.
 
-
 ![home freelance](https://farm4.static.flickr.com/3296/2851367470_bcc4a6b96a.jpg)
-
 
 **Es bueno disponer de un espacio acondicionado para trabajar **
 
@@ -83,8 +79,8 @@ Quita bots de servicios tipo twitter, pownce, jaiku y demás. Estos servicios di
 
 Desconéctate de MSN/Live en horario de trabajo. MSN/Live de Microsoft es la red de mensajería instantánea que tiene más usuarios conectados en todo momento,y la mayoría no son profesionales. Por el contrario, servicios como GTalk de Google, tienen un número de usuarios más bajo que lo usan, y en la mayoría de casos son usuarios más avanzados que disponen menos tiempo para perderlo.
 
-Recuerda que tus amigos y familiares tienen tu teléfono, si es algo urgente te van a llamar.**
-**
+Recuerda que tus amigos y familiares tienen tu teléfono, si es algo urgente te van a llamar.\*\*
+\*\*
 
 **Haz ejercicio, no pierdas relación con la gente que te importa, conoce a gente nueva relacionada con tu trabajo, practica sexo (si puedes) y sal de casa**
 

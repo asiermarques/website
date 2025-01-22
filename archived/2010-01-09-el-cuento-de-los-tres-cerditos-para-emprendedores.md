@@ -2,7 +2,7 @@
 date: 2010-01-09 22:00:34+00:00
 slug: /2010/el-cuento-de-los-tres-cerditos-para-emprendedores/
 title: El cuento de los tres cerditos para emprendedores
-template: post
+type: post
 tags:
   - Negocio
   - Personal
@@ -13,9 +13,7 @@ description: ""
 
 Voy a intentar explicar una cosa que llevo reflexionando durante las últimas semanas, mediante un guiño al famoso cuento de los [Hermanos Grimm](http://es.wikipedia.org/wiki/Hermanos_Grimm).
 
-
 ![87188-les maisons des 3 petits cochons_l](/media/87188-les-maisons-des-3-petits-cochons_l-300x145.jpg)
-
 
 Había una vez una aldea llamada España en el planeta Internet, en la que vivían un montón de cerditos. Todo era felicidad a rebosar sin ningún tipo de preocupación.
 

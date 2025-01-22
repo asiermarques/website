@@ -3,12 +3,12 @@ date: 2007-10-08 20:14:28+00:00
 layout: post
 slug: /2007/mi-experiencia-con-la-sgae/
 title: Mi experiencia con la SGAE
-template: post
+type: post
 tags:
   - Negocios
   - Off Topic
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Negocios
 draft: false
 description: ""
@@ -78,41 +78,27 @@ Un saludo y gracias por tu tiempo._
 
 _--_
 
-_Hola Asier:
+\_Hola Asier:
 
-En principio para poner obras musicales en formato streaming para que las personas que aceden a la página pueden escucharlas es necesario obtener una licencia de música a la carta sin descarga tal como le contestaron desde nuestro servicio de consultas. El modelo de licencia podrá consultar en el link proporcionado. Da igual que sean canciones de autores extranjeras o no ya que tenemos acuerdos con las sociedades de autor de otros paises y les representamos en España._
+En principio para poner obras musicales en formato streaming para que las personas que aceden a la página pueden escucharlas es necesario obtener una licencia de música a la carta sin descarga tal como le contestaron desde nuestro servicio de consultas. El modelo de licencia podrá consultar en el link proporcionado. Da igual que sean canciones de autores extranjeras o no ya que tenemos acuerdos con las sociedades de autor de otros paises y les representamos en España.\_
 
-__
+\_\_
 
 La verdad es que leyendo lo leído, no me siento motivado a seguir con mi idea, al menos como la tenia pensada en un principio. De intentarlo de forma legal y sólo permitiendo la reproducción en streaming de los trozos de las canciones (es decir no permitiendo las descargas de las mismas), las cuentas quedarían más o menos así:
 
 **Si el blog no tiene publicidad** (ya que el **tener publicidad es considerado como web comercial por la SGAE**):
 Tendría que pagar a la SGAE para no cometer ningún delito:
 
+- 53,25 euros/mes hasta 25.000 visitas mensuales.
+- 106,50 euros/mes entre 25.001 y 100.000 visitas mensuales.
+- 266,25 euros/mes más de 100.000 visitas mensuales.
 
-
-	
-  * 53,25 euros/mes hasta 25.000 visitas mensuales.
-
-	
-  * 106,50 euros/mes entre 25.001 y 100.000 visitas mensuales.
-
-	
-  * 266,25 euros/mes más de 100.000 visitas mensuales.
-
-
-A esto si le sumamos gasto de hosting, transferencia (una cancion entera de 10Mb * 25.000 sería un mínimo de 250Gb/mes -sin contar que el usuario reproduzca varias veces la canción-), dominio etc. **¿No creéis que es demasiado gasto para una persona que escribe un blog sin ningún tipo de beneficio económico, por afición y sin ánimo de lucrarse?** De hecho, lo que está haciendo en realidad **es dar promoción** a esas canciones, ¿no deberían ser por ello los autores los que le paguen a él, en lugar de lo contrario?
+A esto si le sumamos gasto de hosting, transferencia (una cancion entera de 10Mb \* 25.000 sería un mínimo de 250Gb/mes -sin contar que el usuario reproduzca varias veces la canción-), dominio etc. **¿No creéis que es demasiado gasto para una persona que escribe un blog sin ningún tipo de beneficio económico, por afición y sin ánimo de lucrarse?** De hecho, lo que está haciendo en realidad **es dar promoción** a esas canciones, ¿no deberían ser por ello los autores los que le paguen a él, en lugar de lo contrario?
 
 **Si el blog tiene publicidad**, los precios se disparan.
 
-
-
-	
-  * **266,25 euros/mes** hasta 100.000 visitas mensuales.
-
-	
-  * **426,00 euros/mes** más de 100.000 visitas mensuales.
-
+- **266,25 euros/mes** hasta 100.000 visitas mensuales.
+- **426,00 euros/mes** más de 100.000 visitas mensuales.
 
 ¿No os parece increíble que **una persona que reciba 1 visita al mes pague lo mismo que una que reciba 100.000**?
 

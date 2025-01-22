@@ -3,7 +3,7 @@ date: 2008-01-02 00:41:21+00:00
 layout: post
 slug: /2008/comienza-un-ano-nuevo/
 title: Comienza un nuevo año
-template: post
+type: post
 tags:
   - Diario
   - Personal

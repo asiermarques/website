@@ -3,7 +3,7 @@ date: 2009-01-04 23:03:47+00:00
 layout: post
 slug: /2009/comienzo-un-nuevo-ano-y-un-nuevo-proyecto/
 title: Comienzo un nuevo año y un nuevo proyecto
-template: post
+type: post
 tags:
   - Diario
   - Mis Proyectos

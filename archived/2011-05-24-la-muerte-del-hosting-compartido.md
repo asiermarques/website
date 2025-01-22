@@ -3,10 +3,10 @@ date: 2011-05-24 21:03:10+00:00
 layout: post
 slug: /2011/la-muerte-del-hosting-compartido/
 title: La muerte del hosting compartido
-template: post
+type: post
 tags:
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""
@@ -26,9 +26,9 @@ Pero.. y el soporte?! dirán algunos. Cierto, y la LOPD y mil cosas más podría
 
 **¿De verdad creéis que en el 2012 algún profesional del sector va a contratar un plan email en un servicio de hosting? **
 
-Tienen servicios SAAS y PAAS de correo electrónico, estos disponen de equipos de profesionales técnicos y de marketing brillantes, apasionados en su trabajo dedicados por lo menos 8 horas al día y pendientes de un teléfono 24*7 sólo para dar **un servicio concreto**, no decenas de ellos.
+Tienen servicios SAAS y PAAS de correo electrónico, estos disponen de equipos de profesionales técnicos y de marketing brillantes, apasionados en su trabajo dedicados por lo menos 8 horas al día y pendientes de un teléfono 24\*7 sólo para dar **un servicio concreto**, no decenas de ellos.
 
-Hoy en día funcionan GMail, BlueTie, Zoho Mail, atMail Cloud, Microsoft Exchange Online, LotusLive, MailChip, Symantec.cloud_.._
+Hoy en día funcionan GMail, BlueTie, Zoho Mail, atMail Cloud, Microsoft Exchange Online, LotusLive, MailChip, Symantec.cloud*..*
 
 En el desarrollo web hace años que se usan opciones de este tipo, para tener un mejor sistema de control de versiones, gestionar proyectos, automatizar la facturación.. todos estos servicios no se han ofrecido nunca por un proveedor de hosting tradicional y ha contribuido a generar confianza y afianzarla desde las nuevas opciones en la nube hacia el cliente.
 

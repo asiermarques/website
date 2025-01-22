@@ -1,7 +1,7 @@
 ---
 title: Principios SOLID
 date: "2018-04-29 15:49:13+00:00"
-template: "post"
+type: post
 draft: false
 slug: "/2018/principios-solid/"
 category: "Desarrollo"
@@ -22,9 +22,7 @@ Algunos están ya bastante asumidos por la comunidad de desarrollo, otros no tan
 
 En este artículo explicaré cada uno de estos principios con simples ejemplos que representan escenarios típicos de nuestro día a día.
 
-
 ### Single responsability
-
 
 Una clase debería tener una única responsabilidad.
 
@@ -81,9 +79,7 @@ En muchas ocasiones, el aplicar estas modificaciones a las clases para poder man
 
 Por ejemplo si seguimos la estrategia de mantener responsabilidades en la clase Mensaje, esta podría también ser susceptible de implementar el método "save", para guardar el mensaje en base de datos. O el método "print" para imprimirlo. Sin embargo, el otorgar de estas responsabilidades a la clase Message, conllevaría saltarse este patrón corriendo el peligro de limitar la flexibilidad, propiciar la aparición de código redundante a futuro (por ejemplo: necesidad de implementar métodos "save" o "send" en diferentes clases que no tienen ninguna base común entre ellas, utilizando la herencia de forma incorrecta con clases abstractas) y aumentar el coste de mantenimiento de nuestro software.
 
-
 ### Open-close
-
 
 El principio abierto-cerrado es para mí una de las lecciones más importantes que he aprendido como desarrollador de software.
 
@@ -97,7 +93,7 @@ class SenderFactory {
 
   public function createFromProtocol( $protocol ) {
 
-    switch ( $protocol ) { 
+    switch ( $protocol ) {
 
       case 'sms':
 
@@ -124,7 +120,7 @@ En esta típica clase de Factoría, tenemos un Switch/Case para crear cada uno d
 
 Para conseguir respetar el principio Abierto-Cerrado, deberíamos seguir los siguientes pasos:
 
-1) Crear una interfaz para los objeto Sender
+1. Crear una interfaz para los objeto Sender
 
 ```php
 interface SenderInterface {
@@ -135,7 +131,7 @@ interface SenderInterface {
 
 ```
 
-2) Crear un sistema para poder añadir de forma externa las diferentes implementaciones de Senders en la factoría. Un ejemplo simplificado (no utilizar en producción):
+2. Crear un sistema para poder añadir de forma externa las diferentes implementaciones de Senders en la factoría. Un ejemplo simplificado (no utilizar en producción):
 
 ```php
 
@@ -153,7 +149,7 @@ class SenderFactory {
 
   }
 
-  public function addSender( $protocol, 
+  public function addSender( $protocol,
                              $senderClass ) {
 
     $this->_senders[ $protocol ] = $sender;
@@ -180,17 +176,11 @@ $sender->send( $message );
 
 ```
 
-
-
 ### Liscov sustitution
-
-
-
 
 <blockquote>"Sea ϕ(x) una propiedad comprobable acerca de los objetos x de tipo T. Entonces ϕ(y) debe ser verdad para los objetos y del tipo S donde S, es un subtipo de T."
 
 Bárbara Liskov</blockquote>
-
 
 El principio de sustitución de Liscov es uno de los que más frecuentemente se suelen saltar.
 
@@ -200,17 +190,9 @@ Esto también relativo a las interfaces. Si una clase que implementa una interfa
 
 Esto conlleva varias cosas:
 
-
-
- 	
-  * Los métodos públicos de la clase hija y padre deberían ser exactamente los mismos
-
- 	
-  * Los métodos deberían devolver los mismos tipos de datos
-
- 	
-  * Lo que se exprese en un método abstracto o no, en la clase padre o la interfaz, debería ser lo que este método realice, sin sorpresas extrañas.
-
+- Los métodos públicos de la clase hija y padre deberían ser exactamente los mismos
+- Los métodos deberían devolver los mismos tipos de datos
+- Lo que se exprese en un método abstracto o no, en la clase padre o la interfaz, debería ser lo que este método realice, sin sorpresas extrañas.
 
 Un ejemplo sobre este último punto: si tenemos esta interfaz
 
@@ -220,7 +202,7 @@ interface SenderFactoryInterface {
 
   public function createFromProtocol( $protocol );
 
-  public function addSender( $protocol, 
+  public function addSender( $protocol,
                              SenderInterface $sender );
 
 }
@@ -235,7 +217,7 @@ class SenderFactory implements SenderFactoryInterface {
 
   public function createFromProtocol( $protocol ) {
 
-    if ( !$this->checkIfMeetsSomeCondition( $protocol ) ) 
+    if ( !$this->checkIfMeetsSomeCondition( $protocol ) )
 
       thrown new Exception ( 'Protocol not supported' );
     ....
@@ -250,16 +232,11 @@ En este ejemplo vemos que hay una condición interna en el método createFromPro
 
 La idea como conclusión es que debe respetarse lo que define una interfaz o una clase padre, sin añadir ni exponer funcionalidad adicional que esté fuera esa definición.
 
-
 ### Interface segregation
-
-
-
 
 <blockquote>"Clients should not be forced to depend on methods they do not use."
 
 Robert Martin</blockquote>
-
 
 Al seguir el principio de Segregación de interfaces debemos asegurarnos de que una dependencia que inyectemos en una clase no muestre métodos que no se necesiten o no tengan sentido para lo que pretendemos hacer.
 
@@ -283,8 +260,8 @@ Y tenemos una clase que necesite leer datos de ese sistema para imprimirlos:
 
 class PrintService {
 
-  public function printLines( StorageManagerInterface $storage ) { }  
- 
+  public function printLines( StorageManagerInterface $storage ) { }
+
 }
 
 ```
@@ -298,8 +275,8 @@ Nuestro PrintService ahora ya tiene únicamente los métodos que necesita como v
 ```php
 
 interface StorageReaderInterface {
-  
-  public function getItems();  
+
+  public function getItems();
 
 }
 
@@ -314,26 +291,23 @@ interface StorageManagerInterface
 
 class PrintService {
 
- public function printLines( StorageReaderInterface $storage ) { } 
- 
+ public function printLines( StorageReaderInterface $storage ) { }
+
 }
 ```
 
-
-
 ### Dependency inversion
-
 
 La idea de la inversión de dependencias es que nuestro código dependa siempre de abstracciones, no de clases concretas.
 
 ```php
 
 // incorrecto
-class NotificationService { 
-  
-  public function __construct( EmailSender $sender ) { 
-    ... 
-  } 
+class NotificationService {
+
+  public function __construct( EmailSender $sender ) {
+    ...
+  }
 
 }
 
@@ -356,9 +330,9 @@ Esto nos genera una dependencia con el framework, lo cual puede ser un problema 
 
 ```php
 
-class LoggerService { 
+class LoggerService {
 
-  public function __construct( Framework\EventDispatcherInterface $dispatcher ) {} 
+  public function __construct( Framework\EventDispatcherInterface $dispatcher ) {}
 
 }
 
@@ -368,7 +342,7 @@ Lo ideal sería crear nuestra propia interfaz e implementarla en una clase que h
 
 ```php
 
-class FrameworkEventDispatcher 
+class FrameworkEventDispatcher
              implements EventDispatcherInterface {
 
   public function __construct(Framework\EventDispatcherInterface $dispatcher) {}
@@ -377,17 +351,14 @@ class FrameworkEventDispatcher
 class LoggerService {
 
  public function __construct( EventDispatcherInterface $dispatcher ) {}
- 
+
 }
 
 $logger = new LoggerService( new FrameworkEventDispatcher() );
 
 ```
 
-
-
 ### Conclusión
-
 
 Los principios SOLID nos permiten diseñar nuestro software para que después de evolucionarlo y mantenerlo durante años no se convierta en una mala partida de Tetris.
 

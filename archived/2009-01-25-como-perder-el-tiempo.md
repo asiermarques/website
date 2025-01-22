@@ -3,11 +3,11 @@ date: 2009-01-25 17:03:54+00:00
 layout: post
 slug: /2009/como-perder-el-tiempo/
 title: Cómo perder el tiempo
-template: post
+type: post
 tags:
   - Emprendedores
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""
@@ -39,7 +39,7 @@ Intenta divagar lo máximo posible, buscando analogías que os lleven a hablar s
 
 **10 - Decir a todo que sí. **Esto es algo tremendamente fácil de hacer (sobre todo si necesitamos liquidez) y que  nos puede hacer perder tiempo e incluso alejarnos del foco de nuestro trabajo por cosas que no son importantes ni para el propio cliente o proyecto. Nos puede parecer que nos va reportar algún beneficio a muy corto plazo,pero lo que si va a hacer es consumir nuestro tiempo a una velocidad sorprendente.
 
-**11 - Acudir a todos los eventos que existan.** Da igual donde sean o la temática, lo importante es ir. Si se habla de "emprender", "web *.0", "seo", "innovación" o "cloud computing" hay que ir. En muchos de esos eventos te encontrarás a cantidad de gente que no sabe cómo funcionan técnicamente las cosas sobra las que habla, en su vida va a perder una hora de sueño apostando en sus proyectos e ideas, ni van a dejar su cómodo puesto de trabajo, pero será una oportunidad genial para hablar con ellos sobre internet, blogs, el iphone, apple o lo que sea en lugar de estar sacando tu negocio adelante.
+**11 - Acudir a todos los eventos que existan.** Da igual donde sean o la temática, lo importante es ir. Si se habla de "emprender", "web \*.0", "seo", "innovación" o "cloud computing" hay que ir. En muchos de esos eventos te encontrarás a cantidad de gente que no sabe cómo funcionan técnicamente las cosas sobra las que habla, en su vida va a perder una hora de sueño apostando en sus proyectos e ideas, ni van a dejar su cómodo puesto de trabajo, pero será una oportunidad genial para hablar con ellos sobre internet, blogs, el iphone, apple o lo que sea en lugar de estar sacando tu negocio adelante.
 
 Por otro lado hay eventos en los que puedes encontrar a gente como tú, conseguir contactos que incluso pueden ayudarte, colaborar contigo en algún proyecto o proporcionarte recursos y experiencia. Trata de evitar estos eventos ya que a la larga pueden optimizar tu tiempo o evitar que lo pierdas en cosas que no son útiles.
 

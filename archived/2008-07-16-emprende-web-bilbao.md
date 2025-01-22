@@ -3,7 +3,7 @@ date: 2008-07-16 09:50:40+00:00
 layout: post
 slug: /2008/emprende-web-bilbao/
 title: Emprende Web Bilbao
-template: post
+type: post
 tags:
   - Desarrollo Web
   - Emprendedores
@@ -27,9 +27,6 @@ El problema fue que el mismo tema del evento limitaba a los asistentes y no atra
 
 De momento **[el próximo Jueves 24](http://emprendeweb.org/2008/07/16/primera-quedada-emprende-web-en-bilbao/) a las 19:30**, **os esperamos en el [Pub Dubliners](http://11870.com/pro/35554)**. Nos vemos en el [Emprende Web](http://emprendeweb.org/) ;)
 
-
 [![emprendeweb.org](https://farm4.static.flickr.com/3102/2673213725_42b4a60f6b.jpg)](http://emprendeweb.org)
-
-
 
 Más información:[ Primera quedada Emprende Web en Bilbao](http://emprendeweb.org/2008/07/16/primera-quedada-emprende-web-en-bilbao/)

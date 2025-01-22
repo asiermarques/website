@@ -3,7 +3,7 @@ date: 2011-12-11 21:58:12+00:00
 layout: post
 slug: /2011/responsables-de-producto-y-su-dominio/
 title: Responsables de producto y su dominio
-template: post
+type: post
 tags:
   - Citas
   - Marketing

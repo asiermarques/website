@@ -1,13 +1,13 @@
 ---
 date: 2009-06-30 01:43:07+00:00
 layout: post
-slug:  /2009/conocimientos-tecnicos-hasta-donde-merece-la-pena-llegar/
+slug: /2009/conocimientos-tecnicos-hasta-donde-merece-la-pena-llegar/
 title: Conocimientos técnicos, ¿hasta dónde merece la pena llegar?
-template: post
+type: post
 tags:
   - Diario
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Diario
 draft: false
 description: ""

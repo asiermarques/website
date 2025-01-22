@@ -3,7 +3,7 @@ date: 2012-12-09 14:40:08+00:00
 layout: post
 slug: /2012/mi-ultimo-ano-y-un-mes/
 title: Mi último año y un mes
-template: post
+type: post
 tags:
   - Diario
   - Personal
@@ -14,9 +14,7 @@ description: ""
 
 Hacía algún tiempo que no hacía una [recapitulación escrita](/2012/03/15/mis-ultimos-5-meses/) de lo que he hecho en los últimos meses a pesar de que os puedo asegurar que ha sido el año más intenso que recuerdo, de hecho, estos dos últimos años han sido los años que más cosas he aprendido de mí mismo y los últimos cuatro, además de ser en los que más he aprendido en general, han sido en los que más vivo me he sentido con diferencia.
 
-
 ![](/media//cihuri.jpg)
-
 
 Arranqué en Octubre del año pasado con una decisión bastante dura, que fue abandonar mi anterior empresa [Blackslot](http://blackslot.com), de la cual soy cliente, en la que hicimos cosas tan interesantes como [Artesanio](http://artesanio.com), para crear una **agencia de desarrollo de proyectos para Internet** llamada [**Simettric**](http://simettric.com).
 
@@ -54,7 +52,7 @@ Otra iniciativa de este tipo con la que seguimos es [**ElComité**](http://elcom
 
 Intentamos aprovechar el cambio de nombre para organizar charlas más de negocio o iniciativas menos ligadas a la programación, pero no salió bien por lo que nos centraremos en el terreno técnico eso sí, no sólo en la temática puramente ligado a la programación.
 
-De hecho, este martes nos reunimos de forma especial para organizar algo que llevaba tiempo deseando ver en Bilbao: **[alquilaremos una casa rural ****](http://elcomite.org/elcomite_hacking_edition/)**[en Febrero](http://elcomite.org/elcomite_hacking_edition/)** en la que varios equipos desarrollarán en un fin de semana un proyecto real y utilizable en Internet**. No habrá premio, el premio será su proyecto online y la experiencia vivida ese fin de semana, además claro está, de la visibilidad que tendrán los proyectos.
+De hecho, este martes nos reunimos de forma especial para organizar algo que llevaba tiempo deseando ver en Bilbao: **[alquilaremos una casa rural \*\***](http://elcomite.org/elcomite_hacking_edition/)**[en Febrero](http://elcomite.org/elcomite_hacking_edition/)** en la que varios equipos desarrollarán en un fin de semana un proyecto real y utilizable en Internet**. No habrá premio, el premio será su proyecto online y la experiencia vivida ese fin de semana, además claro está, de la visibilidad que tendrán los proyectos.
 
 En esta reunión los equipos que tengan preparado su proyecto, lo presentarán y si hay gente que se anime a unirse a la iniciativa será buen momento para comentarlo. Los equipos podrán ser de una persona y el número total de asistentes para esta edición será de diez.
 

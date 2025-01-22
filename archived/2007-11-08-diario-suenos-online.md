@@ -2,12 +2,12 @@
 date: 2007-11-08 02:40:56+00:00
 layout: post
 slug: /2007/diario-suenos-online/
-title: 'Diario: Sueños Online'
-template: post
+title: "Diario: Sueños Online"
+type: post
 tags:
   - Diario
   - Personal
-  - '[Pe]n[sa]n[do]'
+  - "[Pe]n[sa]n[do]"
 category: Personal
 draft: false
 description: ""
