@@ -7,5 +7,6 @@
 /feed/ /index.xml
 /feed /index.xml
 /es/* /info/:splat
+/rss.xml /index.xml
 https://bitacora.asiermarques.com/* https://blog.asiermarques.com/:splat 301!
 https://bitacora.asiermarques.com https://blog.asiermarques.com
