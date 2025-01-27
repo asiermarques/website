@@ -6,7 +6,7 @@ type: post
 draft: false
 slug: "/2019/culturas-ingenieria-2/"
 category: "Gestión"
-coverImage: "/media/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg"
+coverImage: "/img/tim-arterbury-VkwRmha1_tI-unsplash-af469470-1403-4af8-b3e3-44de5e7d2c8e.jpg"
 tags:
   - "Desarrollo de software"
   - "Entrevistas"

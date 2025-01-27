@@ -4,7 +4,7 @@ date: "2018-06-20 11:37:01+00:00"
 type: post
 draft: false
 slug: "/2018/el-perfil-paracetamol/"
-coverImage: "/media/Paracetamol-skeletal.png"
+coverImage: "/img/Paracetamol-skeletal.png"
 category: "Gestión"
 tags:
   - "Desarrollo de software"

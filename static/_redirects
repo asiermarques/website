@@ -1,13 +1,11 @@
 /en-que-ando-metido/ /info/en-que-ando-metido/
 /curriculum-vitae/ /info/cv/
-/feed/rss2/ /rss.xml
-/feed/rss2 /rss.xml
-/feed/rss/ /rss.xml
-/feed/rss /rss.xml
-/feed/ /rss.xml
-/feed /rss.xml
-https://asiermarques.com/rss.xml https://blog.asiermarques.com/rss.xml 301!
-https://asiermarques.com/20* https://blog.asiermarques.com/20:splat 301!
-https://asiermarques.com/es/* https://blog.asiermarques.com/es/:splat 301!
+/feed/rss2/ /index.xml
+/feed/rss2 /index.xml
+/feed/rss/ /index.xml
+/feed/rss /index.xml
+/feed/ /index.xml
+/feed /index.xml
+/es/* /info/:splat
 https://bitacora.asiermarques.com/* https://blog.asiermarques.com/:splat 301!
 https://bitacora.asiermarques.com https://blog.asiermarques.com

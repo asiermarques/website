@@ -9,6 +9,14 @@ theme = 'serenity-hugo-theme'
   description = 'Blog personal y reflexiones sobre gestión de ingeniería de software.'
   author = 'Asier Marqués'
 
+  [params.social]
+  github = 'https://github.com/asiermarques'
+  linkedin = 'https://www.linkedin.com/in/asier-marques/'
+  instagram = 'https://www.instagram.com/asiermarques/'
+  mail = 'mailto:asiermarques@gmail.com'
+  bluesky = 'https://bsky.app/profile/asiermarques.com'
+  
+
 [menu]
   [[menu.main]]
     identifier = "home"

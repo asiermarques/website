@@ -6,7 +6,7 @@ type: post
 draft: false
 slug: "/2019/culturas-ingenieria-1/"
 category: "Gestión"
-coverImage: "/media/vitaliy-lyubezhanin-gfVofr15ICc-unsplash.jpg"
+coverImage: "/img/vitaliy-lyubezhanin-gfVofr15ICc-unsplash.jpg"
 tags:
   - "Desarrollo de software"
   - "Gestión"

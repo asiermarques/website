@@ -8,7 +8,7 @@ slug: "/2020/culturas-ingenieria-5/"
 category: "Gestión"
 
 coverImageCaption: Foto por <a href="https://unsplash.com/photos/71CjSSB83Wo">Pavan Trikutam</a>
-coverImage: "/media/pavan-trikutam-71CjSSB83Wo-unsplash.jpg" 
+coverImage: "/img/pavan-trikutam-71CjSSB83Wo-unsplash.jpg" 
 
 tags:
   - "Desarrollo de software"
