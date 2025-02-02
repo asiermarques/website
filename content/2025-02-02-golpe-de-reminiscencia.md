@@ -2,7 +2,7 @@
 title: "Golpe de reminiscencia"
 date: "2025-02-02 21:30:01+00:00"
 type: post
-draft: falg
+draft: false
 slug: "/2025/golpe-de-reminiscencia"
 category: "Diario"
 tags:
