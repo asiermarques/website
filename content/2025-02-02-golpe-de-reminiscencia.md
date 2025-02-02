@@ -1,13 +1,13 @@
 ---
 title: "Golpe de reminiscencia"
-date: "2025-02-02 21:30:01+00:00"
+date: "2025-02-02 20:30:01+00:00"
 type: post
 draft: false
 slug: "/2025/golpe-de-reminiscencia"
 category: "Diario"
 tags:
   - "Diario"
-description: "Vivir en modo automático puede llevarnos a percibir que nuestra vida es más corta de lo que realmente es; además, los momentos “especiales” no siempre lo son si forman parte de un guion predefinido."
+description: "Vivir en modo automático puede llevarnos a percibir que nuestra vida es más corta de lo que realmente es; además, los momentos especiales no siempre lo son si forman parte de un guion predefinido."
 ---
 
 En Enero me terminé el libro [Momentos mágicos (**The Power of Moments: Why Certain Experiences Have Extraordinary Impact**)](https://heathbrothers.com/the-power-of-moments/).
