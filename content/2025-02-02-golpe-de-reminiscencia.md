@@ -12,7 +12,7 @@ description: "Vivir en modo automático puede llevarnos a percibir que nuestra v
 
 En Enero leí el libro [Momentos mágicos (The Power of Moments: Why Certain Experiences Have Extraordinary Impact)](https://heathbrothers.com/the-power-of-moments/).  
 En este libro los hermanos Heath nos invitan a ser estratégicos y tomar más control de nuestras experiencias y los momentos que vivimos.  
-Además, presentan varios conceptos interesantes, entre ellos, el **Golpe de reminiscencia.**
+Además, presentan varios conceptos interesantes, entre ellos, el **golpe de reminiscencia.**
 
 Estos tres extractos del libro me parecieron clave para reflexionar sobre este concepto:
 
