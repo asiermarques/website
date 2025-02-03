@@ -11,7 +11,7 @@ theme = 'serenity-hugo-theme'
 
   [params.social]
   github = 'https://github.com/asiermarques'
-  linkedin = 'https://www.linkedin.com/in/asier-marques/'
+  linkedin = 'https://www.linkedin.com/in/asier/'
   instagram = 'https://www.instagram.com/asiermarques/'
   mail = 'mailto:asiermarques@gmail.com'
   bluesky = 'https://bsky.app/profile/asiermarques.com'
