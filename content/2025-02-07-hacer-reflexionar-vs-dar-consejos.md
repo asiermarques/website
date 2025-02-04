@@ -8,7 +8,7 @@ category: "Management"
 tags:
   - "Management"
   - "Liderazgo"
-draft: true
+draft: false
 ---
 
 En mi anterior entrada, [_Choque de reminiscencia_](/2025/choque-de-reminiscencia), podría haber añadido "consejos" o "posibles aproximaciones" para aplicar ese concepto en nuestras vidas y equipos, pero tuve una reflexión mientras lo escribía: quizá era más valioso reflexionar sobre el propio concepto y la necesidad de "detectar guiones" que seguimos en nuestras vidas, que presentar acciones concretas para romperlos.  
