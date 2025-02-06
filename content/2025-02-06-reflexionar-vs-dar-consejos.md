@@ -1,8 +1,8 @@
 ---
-title: "Hacer reflexionar vs. dar consejos"
+title: "Reflexionar vs. dar consejos"
 date: "2025-02-06 16:30:01+00:00"
 type: post
-slug: "/2025/hacer-reflexionar-vs-dar-consejos"
+slug: "/2025/reflexionar-vs-dar-consejos"
 description: "La diferencia entre guiar a alguien hacia sus propias conclusiones y simplemente dar consejos directos"
 category: "Management"
 tags:
