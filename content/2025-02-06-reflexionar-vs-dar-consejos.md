@@ -3,7 +3,7 @@ title: "Reflexionar vs. dar consejos"
 date: "2025-02-06 16:30:01+00:00"
 type: post
 slug: "/2025/reflexionar-vs-dar-consejos"
-description: "La diferencia entre guiar a alguien hacia sus propias conclusiones y simplemente dar consejos directos"
+description: "La mayoría de las personas que conozco, yo mismo incluido, tenemos un impulso de dar nuestra visión o incluso sugerir lo que “nosotros haríamos”, sin que nadie nos lo pida, con el mero objetivo de ayudar. Y esto a veces no sólo no ayuda, sino que puede no aportar tanto valor como pensamos..."
 category: "Management"
 tags:
   - "Management"
