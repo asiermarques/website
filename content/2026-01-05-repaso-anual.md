@@ -21,7 +21,7 @@ Ahora que tengo el café preparado, hay cuatro cosas que me gustaría comentar p
   
 Este año me he quitado de encima el bloqueo que arrastraba desde hace mucho tiempo. No he puesto exclamaciones, emojis ni mayúsculas en esta frase, pero me siento eufórico. No sabes lo complicado que ha sido y lo mucho que he intentado recuperar esa parte de mi. Casi ni recordaba ya la sensación de tener la necesidad de escribir, esa que no te deja dormir por las noches hasta que sueltas, en unos cuantos párrafos, eso que tienes dentro.  
   
-A principio de año me apunté a un curso de microrrelato en una escuela de escritura en pleno Barrio de las Letras en Madrid. Escuela a la que ya soy asiduo. Este taller significó un reencuentro con un yo que tenía dormido y ha ido despertando durante el año. He ido dejando relatos cortos que he escrito en [explicitud.com](http://explicitud.com), iré publicando más de tanto en tanto, me sirven como entrenamiento y para jugar practicando técnicas que voy descubriendo.  
+Al comenzar el año me apunté a un curso de microrrelato en una escuela de escritura en pleno Barrio de las Letras en Madrid. Escuela a la que ya soy asiduo. Este taller significó un reencuentro con un yo que tenía dormido y ha ido despertando durante el año. He ido dejando relatos cortos que he escrito en [explicitud.com](http://explicitud.com), iré publicando más de tanto en tanto, me sirven como entrenamiento y para jugar practicando técnicas que voy descubriendo.  
   
 Tras estos talleres, me apunté a un curso de escritura creativa y en verano a un intensivo de Cuento. Pasado el verano, me apunté a un taller de novela corta al que voy cada semana. Comparto aula con compañeras y compañeros que ya han publicado varias novelas. Aprendo mucho de ellos.  
   
