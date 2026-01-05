@@ -47,7 +47,7 @@ Por otra parte, en el curso de novela, me encuentro escribiendo una novela corta
   
 ## Sobre las redes ~~sociales~~ de atención
   
-El año pasado comentaba sobre mi preocupación con las redes de atención y los patrones que éstas usan para atraparla, como el scroll infinito. Cada vez estoy más convencido de que son la heroína de este siglo. Pero sus efectos no son tan evidentes como otro tipo de drogas y por ello, a nivel social, lo raro es no estar enganchado a ellas.  
+[El año pasado](https://blog.asiermarques.com/2025/algunas-reflexiones-de-mis-ultimos-doce-meses/) comentaba sobre mi preocupación con las redes de atención y los patrones que éstas usan para atraparla, como el scroll infinito. Cada vez estoy más convencido de que son la heroína de este siglo. Pero sus efectos no son tan evidentes como otro tipo de drogas y por ello, a nivel social, lo raro es no estar enganchado a ellas.  
   
 Ya hace un año y medio que no uso X de forma activa. Algunos patrones de comportamiento que no me gustan nada los estoy empezando a ver también en Bluesky, pero al menos este no me bombardea con anuncios y contenido que no me interesa de gente que no sigo. Estoy planteándome compartir cosas puntuales por allí, como este post o artículos que publique fuera de lo personal. Pero la plataforma me echa mucho para atrás.  
   
