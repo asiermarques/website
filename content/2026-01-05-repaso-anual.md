@@ -25,10 +25,13 @@ A principio de año me apunté a un curso de microrrelato en una escuela de escr
   
 Tras estos talleres, me apunté a un curso de escritura creativa y en verano a un intensivo de Cuento. Pasado el verano, me apunté a un taller de novela corta al que voy cada semana. Comparto aula con compañeras y compañeros que ya han publicado varias novelas. Aprendo mucho de ellos.  
   
-La escritura me ha hecho recuperar la lectura de libros de ficción, algo que tenía abandonado desde que era muy pequeño. Todo lo que había leído en las últimas décadas era prácticamente no ficción: libros de historia, de gestión, libros técnicos, libros de psicología, filosofía y otros temas, pero casi nunca novela. Sí que leía mucho cuento o relato corto o novelas o textos de personas de mi círculo que escriben y publican, pero eran excepciones muy esporádicas.  
+La escritura me ha hecho recuperar la lectura de libros de ficción, algo que tenía abandonado desde que era muy pequeño.  
+Todo lo que había leído en las últimas décadas era prácticamente no ficción: libros de historia, de gestión, libros técnicos, libros de psicología, filosofía y otros temas, pero casi nunca novela. Sí que leía mucho cuento o relato corto o novelas o textos de personas de mi círculo que escriben y publican, pero eran excepciones muy esporádicas.  
   
-Creo que leer o escuchar audiolibros, cada vez es más importante. Por eso me han llamado especialmente la atención este año ciertos debates surgidos por comentarios de gente “importante” o directamente de noticias de algún medio que iban “en contra” de la lectura. La primera hacía referencia a que se había incrementado el postureo en la lectura. Que muchas personas iban a sitios con libros gordos y/o conocidos con el objetivo de mostrarse como grandes lectores. Y que luego no los leían. En otras se criticaba a las personas que hacían gala de leer doscientos mil libros al año. Y la última, más conocida, sobre la famosa frase de que “leer no nos hace mejores personas”.
-Aunque se den casos en los que las personas intenten hacerse ver como grandes lectores (o lo que sea), creo que esto beneficia a la lectura. Puede que inspiren a otros a leer más aunque ellos no lo hagan. Y necesitamos que más gente adquiera el hábito de leer. Urgentemente.  
+Creo que leer o escuchar audiolibros, cada vez es más importante. Por eso me han llamado especialmente la atención este año ciertos debates surgidos por comentarios de gente “importante” o directamente de noticias de algún medio que iban “en contra” de la lectura. La primera hacía referencia a que se había incrementado el postureo en la lectura. Que muchas personas iban a sitios con libros gordos y/o conocidos con el objetivo de mostrarse como grandes lectores. Y que luego no los leían. En otras se criticaba a las personas que hacían gala de leer doscientos mil libros al año. Y la última, más conocida, sobre la famosa frase de que “leer no nos hace mejores personas”.  
+Aunque se den casos en los que las personas intenten hacerse ver como grandes lectores (o lo que sea), creo que esto beneficia a la lectura. Puede que inspiren a otros a leer más aunque ellos no lo hagan. Y necesitamos que más gente adquiera el hábito de leer.  
+Urgentemente.  
+
   
 Leer, en estos tiempos que estamos viviendo de atención totalmente rota y enferma, es un acto de rebeldía. Me da igual a quién leas ni qué leas. Dedicar tiempo a leer requiere más esfuerzo de concentración (al principio) que ver decenas de vídeos repetidos mil veces de mil formas distintas con trazas desesperadas de captar la atención. Ese esfuerzo es entrenamiento, un entrenamiento muy potente que mejora nuestra atención. Si además lees en papel, reduces el tiempo que pasas frente a una pantalla, por lo que mejoras tu salud visual.  
   
@@ -37,9 +40,10 @@ En los próximos meses y años, gozar de una buena capacidad de atención será 
 Siguiendo con el tema de la escritura, en 2025 me embarqué en dos proyectos de escritura que remataré este año.  
   
 Estoy escribiendo un libro sobre gestión y liderazgo de equipos de alto rendimiento, voy añadiendo detalles y recursos sobre este proyecto por aquí [gestionarequipos.com](http://gestionarequipos.com). Ni la portada ni el título son definitivos, probablemente los cambie cuando tenga ya el borrador listo.  
-Lo tengo bastante avanzado. Hace un mes tuve un retiro de escritura para organizar el trabajo que me falta, [hablé de ello por aquí](https://encomite.substack.com/p/122025-retiro-de-escritura). La conclusión de esta aventura está siendo que la escritura hay que tomársela como un hábito. Un entrenamiento diario. Aunque escribas un mísero párrafo.  
+Lo tengo bastante avanzado. Hace un mes tuve un retiro de escritura para organizar el trabajo que me falta, [hablé de ello por aquí](https://encomite.substack.com/p/122025-retiro-de-escritura). La conclusión de esta aventura está siendo que la escritura hay que tomársela como un hábito. Un entrenamiento diario.  
+Aunque escribas un mísero párrafo al día.  
   
-Por otra parte, en el curso de novela, estoy escribiendo una novela corta de ciencia ficción. Voy con mucha calma y no espero terminarla este año, pero quién sabe.  
+Por otra parte, en el curso de novela, me encuentro escribiendo una novela corta de ciencia ficción. Voy con mucha calma y no espero terminarla este año, pero quién sabe.  
   
 ## Sobre las redes ~~sociales~~ de atención
   
