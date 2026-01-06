@@ -67,7 +67,7 @@ Echo de menos más eventos de comunidad presenciales. En los que tomar un café 
   
 Desde la pandemia, los pequeños meetups han ido desapareciendo y sus correspondientes cañas posteventos. Creo que la degradación de sitios como Twitter junto al cambio en el mercado de contratación en los últimos años, han influido en esto.  
   
-Soy optimista y creo que hay bastantes cosas en nuestro control. La principal es ir a los eventos que ya se hacen. Esto es algo en lo que yo he fallado y pienso corregir durante este 2026.  
+Soy optimista y creo que hay bastantes cosas en nuestro control para darle la vuelta a la situación. La principal es ir a los eventos que ya se hacen. Esto es algo en lo que yo he fallado y pienso corregir durante este 2026.  
   
 También me estoy animando a convocar eventos, ya sean en abierto o en privado con gente de confianza con la que quiero compartir conversaciones y cafés.  
   
