@@ -1,6 +1,6 @@
 ---
 title: "Reflexiones sobre aprender en un mundo de IA"
-date: "2026-03-29 00:00:01+00:00"
+date: "2026-03-28 23:00:01+00:00"
 type: post
 draft: false
 slug: "/2026/reflexiones-aprender-mundo-ia"
