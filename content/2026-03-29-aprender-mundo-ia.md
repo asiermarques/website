@@ -72,7 +72,7 @@ No creernos lo primero que nos dice algo o alguien es la base para no ser manipu
 
 ## Orientarse más allá de lo que no sabes
 
-> “Es probable que ninguno de los dos sepa nada valioso; pero él cree saber algo, aunque no sabe, mientras que yo, como no sé, tampoco creo saber.”
+> “Es probable que ninguno de los dos sepa nada valioso; pero él cree saber algo, aunque no sabe, mientras que yo, como no sé, tampoco creo saber.”  
 —Sócrates
 >
 
