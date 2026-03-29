@@ -82,18 +82,17 @@ Actualmente, asistentes como ChatGPT o Claude nos ayudan a entender y buscar sol
 Pero lo interesante (y difícil) es descubrir lo que no sabes que no sabes. La IA nos puede dar respuestas que se queden muy en la superficie. Sin un pensamiento crítico, podemos “fliparnos” y asumir rápidamente que ya lo sabemos todo sobre cualquier tema.
 
 Sin embargo, hay formas de hacer que la IA nos ayude a ver más allá.
-Veamos unos ejemplos de preguntas (prompts) que podemos hacerle a nuestros asistentes para que nos ayuden en este sentido:
+Veamos unos ejemplos de instrucciones (prompts) que podemos hacerle a nuestros asistentes para que nos ayuden en este sentido:
 
-### Quieres resolver un problema
+### Para resolver un problema
 
-❌ Pregunta superficial
-
+❌ Instrucción superficial  
 ```markdown
 ¿Cómo soluciono esto?
 ```
-
+  
+  
 ✅ Versión mejorada
-
 ```markdown
 Estoy intentando resolver este problema: [problema].
 
@@ -107,14 +106,13 @@ No propongas soluciones todavía. Actúa como alguien que quiere mejorar mi comp
 
 ### Quieres detectar conocimientos que deberías repasar antes de aprender sobre un tema
 
-❌ Pregunta superficial
-
+❌ Instrucción superficial  
 ```markdown
 Explícame esto: [tema]
 ```
-
+  
+  
 ✅ Versión mejorada
-
 ```markdown
 Quiero aprender [tema].
 
@@ -129,14 +127,13 @@ No me lo expliques todavía. Antes:
 
 ### Quieres descubrir aspectos fuera de lo básico
 
-❌ Pregunta superficial
-
+❌ Instrucción superficial  
 ```markdown
 Hazme un plan de aprendizaje para aprender a programar con IA.
 ```
 
-✅ Versión mejorada
 
+✅ Versión mejorada  
 ```markdown
 Quiero aprender [tema].
 
@@ -150,8 +147,8 @@ No me lo expliques todavía. Primero ayúdame a descubrir lo que no sé que no s
 7. Después, propón una ruta de estudio con fases.
 ```
 
-Estos son sólo ejemplos, pero lo realmente importante es aprender a crear nuestras propias preguntas que nos ayuden a descubrir nuestros puntos ciegos.  
-Si no estamos acostumbrados a hacerlo podemos pedir a los propios asistentes de IA que generen este tipo de preguntas y lanzárselas luego para obtener respuestas mucho más profundas.  
+Estos son sólo ejemplos, pero lo realmente importante es aprender a crear nuestras propias instrucciones que nos ayuden a descubrir nuestros puntos ciegos.  
+Si no estamos acostumbrados a hacerlo podemos pedir a los propios asistentes de IA que generen este tipo de instrucciones y lanzárselas luego para obtener respuestas mucho más profundas.  
 
 ***
 
