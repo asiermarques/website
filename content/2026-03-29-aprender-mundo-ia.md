@@ -24,15 +24,16 @@ Estamos ante un momento histórico. Nunca una tecnología se ha adoptado por tan
 
 La IA nos ofrece respuestas inmediatas y nos ayuda a resolver problemas de todo tipo sin necesidad de ser expertos en la materia. La utilizamos como un autoservicio de “conocimiento infinito”, aunque en realidad lo que hace es generar respuestas lo más cercanas posible a las preguntas que le hacemos. Este es un matiz que a menudo no nos parece importante, pero lo es. Y bastante.
 
-A menudo estas respuestas se acercan tanto a lo que buscamos que las damos por buenas. En otras ocasiones, no son del todo correctas. O ni remotamente acertadas. Casi del “mismo” modo que cuando preguntamos a una persona que no conocemos. Sus respuestas pueden ser correctas, no del todo acertadas o totalmente incorrectas, independientemente de la intención que esta tenga al darlas.
+A menudo, estas respuestas se acercan tan bien a lo que buscamos que las damos por buenas. En otras ocasiones, no son del todo correctas. O ni remotamente acertadas. Casi del “mismo” modo que cuando preguntamos a una persona que no conocemos. Sus respuestas pueden ser correctas, no del todo acertadas o totalmente incorrectas, independientemente de la intención que esta tenga al darlas.
 
 Pero imaginemos que la IA nunca se equivocase en sus respuestas. Es más, pensemos en un escenario tan simple en el que sólo exista una única verdad. ¿Qué supondría eso para nuestro aprendizaje? ¿Cómo de cómodos nos volveríamos si tuviéramos la posibilidad de obtener rápidamente la respuesta a cada problema? ¿Cómo nos afectaría a nivel cognitivo? ¿Cómo afectaría a nuestra motivación si ya no hubiera un reto que no pudiéramos resolver de forma instantánea? ¿Dónde quedaría la creatividad si todos “resolviéramos” los problemas de la misma forma?
 
-Es cierto, he pedido imaginar demasiado. El problema es que ya hay un riesgo de que asumamos que la IA nunca se equivoca en sus respuestas y que tiene siempre la verdad. La única verdad.
+Es cierto, he pedido imaginar demasiado. El problema es que ya hay un riesgo de que asumamos que la IA nunca se equivoca y que tiene siempre la verdad. La única verdad.
 
-Y es que la mayoría de las veces, los asistentes de IA sí nos ayudan a solucionar problemas. A menudo, incluso mejor de cómo los hubiéramos resuelto por nuestra cuenta. Y cuando alguien nos da varias respuestas correctas de forma consecutiva, es muy fácil asumir que su siguiente respuesta también será la correcta.
+Y es que los asistentes de IA sí que nos ayudan a solucionar problemas. A menudo, los resuelven incluso mejor de cómo los hubiéramos resuelto por nuestra cuenta. Y cuando alguien nos da varias respuestas correctas de forma consecutiva, es muy fácil asumir que su siguiente respuesta también será la correcta.
 
-Sin embargo, no creo que estos problemas sean nuevos. Lo que sí es nuevo es el potencial para volvernos cómodos y el riesgo de pensar que somos nosotros, y no la IA, los que estamos resolviendo los problemas, sin autocrítica ni una responsabilidad en nuestro propio aprendizaje.
+Pero no creo que estos problemas sean nuevos. Lo que sí es nuevo es el potencial para volvernos mucho más cómodos y el riesgo de pensar que somos nosotros los que estamos resolviendo los problemas cuando han sido resueltos por una IA en realidad.  
+Podemos dejarnos llevar sin autocrítica ni una responsabilidad en nuestro propio aprendizaje.
 
 Las herramientas nos pueden impactar para bien o para mal. La diferencia es que, con la IA, ese impacto será mucho mayor.
 
@@ -42,7 +43,7 @@ En ocasiones, cuando se nos presenta un problema o un objetivo, lo que realmente
 
 Por ejemplo, no es lo mismo ponernos el objetivo de conseguir la certificación (o un título) al completar un curso, que el de obtener conocimiento y experiencia en el ámbito del mismo. A veces, esos objetivos van de la mano, y la certificación puede ser una estrategia perfectamente válida para adquirir conocimientos.
 
-En este contexto, si optamos por ser resolutivos, la IA puede facilitarnos superar las pruebas rápidamente e incluso proporcionarnos las respuestas de los exámenes, por sofisticados que sean, permitiéndonos conseguir el título sin el esfuerzo que conlleva realmente aprender e interiorizar los conceptos.
+Si optamos por ser resolutivos, la IA puede facilitarnos superar las pruebas rápidamente e incluso proporcionarnos las respuestas de los exámenes, por sofisticados que sean, permitiéndonos conseguir el título sin el esfuerzo que conlleva realmente aprender e interiorizar los conceptos.
 
 Sin embargo, si optamos por ganar conocimiento, la IA puede ayudarnos a complementar el temario, diseñar pruebas adicionales para autoevaluarnos, proponer dinámicas de role-play para practicar con ella y ofrecernos múltiples recursos que refuercen la formación.
 Pero esto exige hacernos dueños de nuestro propio aprendizaje.
@@ -51,13 +52,13 @@ Pero esto exige hacernos dueños de nuestro propio aprendizaje.
 
 Para mí esto es la clave a la hora de aprender en un mundo en el que vamos a usar la IA para todo. Hacernos dueños de las cosas exige mucha madurez y honestidad con nosotros mismos. Y en un mundo de la IA, va a ser muy difícil echar balones fuera. Especialmente a la hora de aprender. Y también de enseñar a otros.
 
-Yo no veo un mundo en el que no existan referencias humanas. Pero sí empiezo a ver un mundo en el que habrá una gran diferencia entre las personas que sepan buscarse la vida para aprender algo de forma rápida, sepan evaluarse a ellas mismas y sepan pedir ayuda o referencia a un humano cuando lo necesiten, con respecto a las que simplemente se dejen llevar y se conformen con un temario diseñado por otros que se pueda adaptar, o no, a su caso concreto.
+Yo no veo un mundo en el que no existan humanos en un camino de aprendizaje. Pero sí empiezo a ver un mundo en el que habrá una gran diferencia entre las personas que sepan buscarse la vida para aprender algo de forma rápida, sepan evaluarse a ellas mismas y sepan pedir ayuda o referencia a un humano cuando lo necesiten, con respecto a las que simplemente se dejen llevar y se conformen con un temario diseñado por otros que se pueda adaptar, o no, a su caso concreto.
 
 Creo que las primeras aprovecharán muchísimo más el apoyo de alguien que quiera ayudarles y estarán también más preparadas para saber orientarse en diferentes situaciones en las que el camino no esté del todo claro o, incluso, exista el riesgo de ser manipuladas.
 
 Esto requiere un esfuerzo e interés genuino por aprender y entiendo que la mayor preocupación sea si las nuevas generaciones optarán por este camino frente a la alternativa más cómoda.
 
-Quizás esté sesgado, pero no me gusta subestimar a las nuevas generaciones. Es evidente que muchos optarán por la vía rápida porque, sinceramente, también creo que el sistema educativo la ha fomentado por diseño. Pero soy optimista al pensar que muchos jóvenes van a entender la necesidad de ser propietarios de su educación, probablemente más de lo que lo hemos hecho nosotros.  
+Quizás esté sesgado, pero no me gusta subestimar a las nuevas generaciones. Es evidente que muchos optarán por la vía rápida. Sobre todo si el sistems educatuvo actual no cambia. Pero soy optimista y pienso que muchos jóvenes van a entender la necesidad de hacerse dueños de su propia formación, probablemente más de lo que lo hemos hecho nosotros.  
 De hecho, últimamente estoy entrevistando a perfiles junior de ingeniería de software, y al hacerles la pregunta sobre cómo usan la IA, muchas de sus respuestas están alineadas con esta forma de entender el aprendizaje.
 
 Si queremos realmente aprender algo, contamos con una herramienta poderosa que puede ayudarnos a evaluarnos de forma muy crítica y a diseñar nuestros propios caminos de aprendizaje. Pero sólo funcionará de esa forma si nosotros también pensamos de forma crítica.
@@ -65,7 +66,7 @@ Si queremos realmente aprender algo, contamos con una herramienta poderosa que p
 ## Desarrollar un punto de vista crítico
 
 La IA no tiene la verdad absoluta. De hecho, es bastante frecuente que se equivoque, que se quede en la superficie o que “alucine” con información completamente distinta a la que necesitamos. Exactamente igual que una persona muy venida arriba.  
-Todos hemos tenido profesores que nos han dejado anécdotas para recordar. Hemos leído artículos escritos por alguien que no tenía ni idea de lo que hablaba. Y también hemos visto servicios que parecían maravillosos, pero que, al revisar el contrato, escondían mucha letra pequeña.
+Todos hemos tenido malos profesores. Hemos leído artículos escritos por alguien que no tenía ni idea de lo que hablaba. Y también hemos visto servicios que parecían maravillosos, pero que, al revisar el contrato, escondían mucha letra pequeña.
 
 La necesidad de desarrollar un pensamiento crítico no es nueva. Pero ahora es especialmente crítica gracias a la IA. Afortunadamente.
 
@@ -77,12 +78,12 @@ No creernos lo primero que nos dice algo o alguien es la base para no ser manipu
 Sócrates
 >
 
-Actualmente, asistentes como ChatGPT o Claude nos ayudan a entender y buscar soluciones sobre lo que no sabemos. Al hacer uso de nuestro criterio, podemos contrastar las respuestas y determinar si lo que nos dicen es útil.
+Los asistentes como ChatGPT o Claude nos ayudan a entender y buscar soluciones sobre lo que no sabemos. Al hacer uso de nuestro criterio, podemos contrastar las respuestas y determinar si lo que nos dicen es útil.
 
 Pero lo interesante (y difícil) es descubrir lo que no sabes que no sabes. La IA nos puede dar respuestas que se queden muy en la superficie. Sin un pensamiento crítico, podemos “fliparnos” y asumir rápidamente que ya lo sabemos todo sobre cualquier tema.
 
-Sin embargo, hay formas de hacer que la IA nos ayude a ver más allá.
-Veamos unos ejemplos de instrucciones (prompts) que podemos hacerle a nuestros asistentes para que nos ayuden en este sentido:
+Hoy formas de hacer que la IA nos ayude a ver más allá.
+Veamos unos ejemplos de instrucciones (prompts) que podemos darles a nuestros asistentes para que nos ayuden en este sentido:
 
 ### Para resolver un problema
 
