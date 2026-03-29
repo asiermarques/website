@@ -10,7 +10,7 @@ tags:
 description: "Unas reflexiones sobre aprender en un mundo en el que la IA está cada vez más presente en nuestra vida."
 ---
 El pasado fin de semana asistí por primera vez al StartUp Open Space de Zaragoza (el [SOSZ](https://sosz.cachirulovalley.com/)).  
-Como ocurre en este tipo de encuentros, no hay agenda predeterminada, en el que cada asistente puede proponer y votar los temas que se tratarán durante el día.
+Como ocurre en este tipo de encuentros, no hay agenda predeterminada, y cada asistente puede proponer y votar los temas que se tratarán durante el día.
 
 Uno de los temas fue cómo aprender en un mundo de IA. Como me interesa especialmente, decidí asistir al debate. Tras el mismo, me quedé dándole vueltas a varias ideas y me apetecía compartir aquí algunas reflexiones rápidas. Y de paso, quitarle las telarañas al blog, que llevaba tiempo queriendo hacerlo.
 
