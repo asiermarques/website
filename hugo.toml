@@ -36,5 +36,5 @@ theme = 'serenity-hugo-theme'
 
 [markup]
     [markup.highlight]
-        noClasses = true
+        noClasses = false
         style = "github"
