@@ -88,9 +88,9 @@ Veamos unos ejemplos de preguntas (prompts) que podemos hacerle a nuestros asist
 
 ❌ Pregunta superficial
 
-{{< highlight markdown >}}
+```markdown
 ¿Cómo soluciono esto?
-{{< /highlight >}}
+```
 
 ✅ Versión mejorada
 

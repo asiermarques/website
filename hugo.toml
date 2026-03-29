@@ -33,3 +33,7 @@ theme = 'serenity-hugo-theme'
     name = "RSS"
     url = "/index.xml"
     weight = 3
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
