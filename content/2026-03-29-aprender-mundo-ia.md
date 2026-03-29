@@ -58,7 +58,7 @@ Creo que las primeras aprovecharán muchísimo más el apoyo de alguien que quie
 
 Esto requiere un esfuerzo e interés genuino por aprender y entiendo que la mayor preocupación sea si las nuevas generaciones optarán por este camino frente a la alternativa más cómoda.
 
-Quizás esté sesgado, pero no me gusta subestimar a las nuevas generaciones. Es evidente que muchos optarán por la vía rápida. Sobre todo si el sistems educatuvo actual no cambia. Pero soy optimista y pienso que muchos jóvenes van a entender la necesidad de hacerse dueños de su propia formación, probablemente más de lo que lo hemos hecho nosotros.  
+Quizás esté sesgado, pero no me gusta subestimar a las nuevas generaciones. Es evidente que muchos optarán por la vía rápida. Sobre todo si el sistems educativo actual no cambia. Pero soy optimista y pienso que muchos jóvenes van a entender la necesidad de hacerse dueños de su propia formación, probablemente más de lo que lo hemos hecho nosotros.  
 De hecho, últimamente estoy entrevistando a perfiles junior de ingeniería de software, y al hacerles la pregunta sobre cómo usan la IA, muchas de sus respuestas están alineadas con esta forma de entender el aprendizaje.
 
 Si queremos realmente aprender algo, contamos con una herramienta poderosa que puede ayudarnos a evaluarnos de forma muy crítica y a diseñar nuestros propios caminos de aprendizaje. Pero sólo funcionará de esa forma si nosotros también pensamos de forma crítica.
