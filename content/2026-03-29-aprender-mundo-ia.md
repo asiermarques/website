@@ -74,7 +74,7 @@ No creernos lo primero que nos dice algo o alguien es la base para no ser manipu
 ## Orientarse más allá de lo que no sabes
 
 > “Es probable que ninguno de los dos sepa nada valioso; pero él cree saber algo, aunque no sabe, mientras que yo, como no sé, tampoco creo saber.”  
-—Sócrates
+Sócrates
 >
 
 Actualmente, asistentes como ChatGPT o Claude nos ayudan a entender y buscar soluciones sobre lo que no sabemos. Al hacer uso de nuestro criterio, podemos contrastar las respuestas y determinar si lo que nos dicen es útil.
