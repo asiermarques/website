@@ -20,7 +20,7 @@ Esa faceta no me ha abandonado. Es una de las que he tenido durante toda mi vida
 
 Me he dado cuenta de que a lo largo de mi vida no he sabido separar lo que era una faceta de lo que era una identidad. Y cuando asociaba algo que me gustaba hacer a mi propia identidad, no era capaz de quedarme en la superficie. Necesitaba adquirir una maestría que estuviera a la altura de mis expectativas, mucho más lejos de la media. Y eso es agotador cuando te gusta hacer muchas cosas. Y sobre todo, cuando esas cosas han formado parte de tu vida tantos años y has sido tan feliz mientras las hacías.
 
-He de reconocer que para mí, hacer algo simplemente como “un hobby” es aún algo que no termino de apreciar como debería y que por ello, me cuesta no meterme demasiado en algo que me llame la atención. Estoy aprendiendo aún en este sentido, pero encontrarás trazas de esto en este texto.
+He de reconocer que para mí, hacer algo simplemente como “un hobby” es aún algo que no termino de apreciar como debería y que por ello, no puedo evitar meterme demasiado en algo que me llame la atención. Estoy aprendiendo aún en este sentido, pero encontrarás trazas de esto en este texto.
 
 Epícteto dijo que te conviertes en aquello a lo que prestas atención. En mi caso, esta faceta había llegado a ser tan fuerte para mí que se adueñó de parte de mi identidad. Era una forma de representarme, de responder a la pregunta “¿quién soy?”. Pero aunque la de deejay es una faceta que tengo y de la que me siento muy agradecido, por lo que me ha aportado en otras áreas, ya no ocupa tanto tiempo de mi atención.
 
