@@ -3,7 +3,7 @@ title: De identidades, facetas y hobbies.
 date: "2026-04-16 00:00:00+00:00"
 type: post
 draft: false
-slug: "/2011/identidades-facetas-y-hobbies/"
+slug: "/2026/identidades-facetas-y-hobbies/"
 category: "Personal"
 tags:
   - "Diario"
