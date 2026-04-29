@@ -8,6 +8,7 @@ theme = 'serenity-hugo-theme'
 [params]
   description = 'Blog personal y reflexiones sobre gestión de ingeniería de software.'
   author = 'Asier Marqués'
+  rssFull = true
 
   [params.social]
   github = 'https://github.com/asiermarques'
@@ -38,3 +39,9 @@ theme = 'serenity-hugo-theme'
     [markup.highlight]
         noClasses = false
         style = "github"
+
+[outputs]
+home = ['html', 'rss']
+section = ['html']
+taxonomy = ['html']
+term = ['html']
