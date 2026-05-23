@@ -1,0 +1,28 @@
+# Asier Marqués
+
+> Software engineering management. Personal links hub for Asier Marqués, with profiles, writing, and the tech communities he helps organize.
+
+## Profiles
+
+- [GitHub](https://github.com/asiermarques)
+- [LinkedIn](https://www.linkedin.com/in/asier)
+- [Bluesky](https://bsky.app/profile/asiermarques.com)
+- [Medium](https://medium.com/@asiermarques)
+- [Instagram](https://www.instagram.com/asiermarques)
+- [Email](mailto:asiermarques@gmail.com)
+
+## Writing
+
+- [Articles](https://asiermarques.medium.com)
+- [LinkedIn CV](https://www.linkedin.com/in/asier)
+
+## En Español
+
+- [Blog personal](https://blog.asiermarques.com/)
+- [Libro y newsletter sobre gestionar equipos](https://gestionarequipos.com)
+- [Ficción y microrrelatos](https://explicitud.com)
+
+## Conferences & communities I help to organize
+
+- [Madrid AI Engineering community](https://madai.es/en)
+- [Bilbostack Tech Conference](https://bilbostack.com/en)

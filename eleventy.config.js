@@ -3,6 +3,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/asier.jpg");
   eleventyConfig.addPassthroughCopy("src/og-image.png");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/llms.txt");
 
   eleventyConfig.addFilter("isoDate", () => new Date().toISOString().slice(0, 10));
 
