@@ -1,0 +1,29 @@
+{
+  "name": "Asier Marqués",
+  "tagline": "Software engineering management",
+  "description": "Links and profiles for Asier Marqués.",
+  "url": "https://asiermarques.com/",
+  "ogImage": "https://asiermarques.com/og-image.png",
+  "socials": {
+    "github": "https://github.com/asiermarques",
+    "linkedin": "https://www.linkedin.com/in/asier",
+    "bluesky": "https://bsky.app/profile/asiermarques.com",
+    "medium": "https://medium.com/@asiermarques",
+    "instagram": "https://www.instagram.com/asiermarques",
+    "email": "asiermarques@gmail.com"
+  },
+  "links": [
+    { "label": "Articles", "url": "https://asiermarques.medium.com" },
+    { "label": "LinkedIn CV", "url": "https://www.linkedin.com/in/asier" }
+  
+  ],
+  "espanol": [
+    { "label": "Blog personal", "url": "https://blog.asiermarques.com/" },
+    { "label": "Libro y newsletter sobre gestionar equipos", "url": "https://gestionarequipos.com" },
+    { "label": "Ficción y microrrelatos", "url": "https://explicitud.com" }
+  ],
+  "conferences": [
+    { "label": "Madrid AI Engineering community", "url": "https://madai.es/en" },
+    { "label": "Bilbostack Tech Conference", "url": "https://bilbostack.com/en" }
+  ]
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include "head.njk" %}
+</head>
+<body>
+  {% from "linksection.njk" import linkSection %}
+  <main class="card">
+    {% include "header.njk" %}
+    {% include "socials.njk" %}
+    {{ linkSection(site.links) }}
+    {{ linkSection(site.espanol, "En Español", "es") }}
+    {{ linkSection(site.conferences, "Active conferences & communities I help to organize") }}
+  </main>
+</body>
+</html>

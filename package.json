@@ -1,0 +1,14 @@
+{
+  "name": "asiermarques-bio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted link-in-bio page",
+  "type": "module",
+  "scripts": {
+    "dev": "eleventy --serve --port=3000",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
