@@ -9,7 +9,6 @@
   --maxw: 440px;
   --serif: "Fraunces", Georgia, "Times New Roman", serif;
   --sans: "Hanken Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
 *,
@@ -44,26 +43,6 @@ body {
   max-width: var(--maxw);
   display: flex;
   flex-direction: column;
-}
-
-/* Single quiet load reveal */
-.card > * {
-  opacity: 0;
-  transform: translateY(8px);
-  animation: rise 0.6s var(--ease) forwards;
-}
-
-.card > *:nth-child(1) { animation-delay: 0.04s; }
-.card > *:nth-child(2) { animation-delay: 0.1s; }
-.card > *:nth-child(3) { animation-delay: 0.16s; }
-.card > *:nth-child(4) { animation-delay: 0.22s; }
-.card > *:nth-child(5) { animation-delay: 0.28s; }
-
-@keyframes rise {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 /* Profile — centered, quiet */
@@ -120,16 +99,10 @@ body {
   height: 38px;
   color: var(--faint);
   text-decoration: none;
-  transition: color 0.22s var(--ease), transform 0.22s var(--ease);
 }
 
 .social:hover {
   color: var(--ink);
-  transform: translateY(-2px);
-}
-
-.social:active {
-  transform: translateY(0);
 }
 
 /* Link groups — contained blocks */
@@ -166,7 +139,6 @@ body {
   border-bottom: 1px solid var(--line);
   color: var(--ink);
   text-decoration: none;
-  transition: background-color 0.2s var(--ease);
 }
 
 .link:last-child {
@@ -185,25 +157,17 @@ body {
   font-optical-sizing: auto;
   letter-spacing: -0.005em;
   line-height: 1.3;
-  transition: transform 0.28s var(--ease);
-}
-
-.link:hover .link__label {
-  transform: translateX(4px);
 }
 
 .link__arrow {
   flex: none;
   color: var(--faint);
-  transform: translateX(-4px);
   opacity: 0;
-  transition: transform 0.28s var(--ease), opacity 0.28s var(--ease), color 0.22s var(--ease);
 }
 
 .link:hover .link__arrow {
   color: var(--ink);
   opacity: 1;
-  transform: translateX(0);
 }
 
 .visually-hidden {
@@ -229,18 +193,4 @@ body {
 
 .link:focus-visible .link__arrow {
   opacity: 1;
-  transform: translateX(0);
-}
-
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    transition: none !important;
-    animation: none !important;
-  }
-  .card > * {
-    opacity: 1;
-    transform: none;
-  }
 }
